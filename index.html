@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Puerto Rican Migration: Economic Drivers & Trends</title>
+    <title>Puerto Rican Migration: A Data-Driven Narrative</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -17,14 +17,17 @@
         header {
             background-color: #2c3e50;
             color: white;
-            padding: 40px 20px;
+            padding: 50px 20px;
             text-align: center;
             margin-bottom: 40px;
             border-radius: 8px;
         }
         h1 { margin: 0; font-size: 2.5em; }
-        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; margin-top: 40px; }
+        .subtitle { font-size: 1.2em; opacity: 0.9; margin-top: 10px; }
+        
+        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; margin-top: 50px; }
         h3 { color: #34495e; margin-top: 30px; }
+        
         .section {
             background: white;
             padding: 30px;
@@ -32,36 +35,60 @@
             border-radius: 8px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
+        
         .graph-container {
-            margin: 20px 0;
+            margin: 30px 0;
             border: 1px solid #eee;
-            padding: 15px;
+            padding: 20px;
             background: #fff;
-            border-radius: 4px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
         }
+        
         .key-stat {
             background-color: #e8f4f8;
             border-left: 4px solid #3498db;
-            padding: 15px;
-            margin: 15px 0;
-            font-style: italic;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 0 4px 4px 0;
         }
+        .key-stat strong { color: #2980b9; font-size: 1.1em; }
+        
+        .literary-connect {
+            background-color: #fdf2e9;
+            border-left: 4px solid #e67e22;
+            padding: 20px;
+            margin: 20px 0;
+            font-style: italic;
+            border-radius: 0 4px 4px 0;
+        }
+        .literary-connect::before {
+            content: "📖 Literary Connection: ";
+            font-weight: bold;
+            font-style: normal;
+            color: #d35400;
+        }
+
         table {
             width: 100%;
             border-collapse: collapse;
             margin: 20px 0;
+            font-size: 0.95em;
         }
         th, td {
             padding: 12px;
             border-bottom: 1px solid #ddd;
             text-align: left;
         }
-        th { background-color: #f2f2f2; }
+        th { background-color: #f2f2f2; color: #2c3e50; }
+        tr:hover { background-color: #f5f5f5; }
+        
         .footer {
             text-align: center;
-            padding: 20px;
+            padding: 40px 20px;
             color: #7f8c8d;
-            font-size: 0.9em;
+            border-top: 1px solid #eee;
+            margin-top: 40px;
         }
     </style>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
@@ -69,13 +96,13 @@
 <body>
 
 <header>
-    <h1>Economic Drivers of Puerto Rican Migration (1950–2024)</h1>
-    <p>A Data-Driven Analysis of "The Revolving Door"</p>
+    <h1>Puerto Rican Migration: Economic Drivers & Trends</h1>
+    <div class="subtitle">A Data-Driven Analysis of "The Revolving Door" & <em>Down These Mean Streets</em></div>
 </header>
 
 <div class="section">
     <h2>Executive Summary</h2>
-    <p>Puerto Rican migration is distinct from other Latino groups because it is a <strong>citizenship-based movement</strong>, allowing for rapid, circular mobility ("The Revolving Door") in response to economic shifts. The migration history divides into three clear economic eras:</p>
+    <p>Puerto Rican migration is distinct from other Latino groups because it is a <strong>citizenship-based movement</strong>, allowing for rapid, circular mobility ("The Revolving Door") in response to economic shifts. Our analysis divides this history into three clear economic eras:</p>
     <ol>
         <li><strong>The Great Migration (1950s–1970s):</strong> Driven by industrialization (<em>Operation Bootstrap</em>) and concentrated in NYC.</li>
         <li><strong>The Dispersion (1980s–2000s):</strong> A shift away from New York and the rise of a U.S.-born majority.</li>
@@ -84,67 +111,79 @@
 </div>
 
 <div class="section">
-    <h2>1. Population Trends & The Great Migration</h2>
-    <p>The first major wave, known as "The Great Migration," was driven by <em>Operation Bootstrap</em>. The shift from agriculture to manufacturing on the island displaced thousands, while the government actively encouraged migration to the U.S. mainland as a "safety valve."</p>
+    <h2>Phase I: The "Push" & The Great Migration (1950–1970)</h2>
+    <p>The first major wave was driven by <strong>Operation Bootstrap</strong>. In the late 1940s, the U.S. and P.R. governments shifted the island’s economy from agriculture to manufacturing. While factories opened, they couldn't hire fast enough to replace the lost agricultural jobs, leading the government to encourage migration as a "safety valve."</p>
     
     <div class="key-stat">
-        In the 1950s alone, <strong>470,000 migrants</strong> left the island. This massive wave built the "Barrio" communities in New York.
+        <strong>Data Insight:</strong> In the 1950s alone, <strong>470,000 migrants</strong> left the island. By 1960, agricultural employment in Puerto Rico had plummeted from 45% to roughly 23%.
+    </div>
+
+    <div class="literary-connect">
+        This is the era of Piri Thomas’s <em>Down These Mean Streets</em>. The "Barrio" (Spanish Harlem) was created not just by migration, but by <strong>displacement</strong>. Urban Renewal projects pushed thousands of families into overcrowded tenements, creating the suffocating environment Thomas describes.
     </div>
 
     <div class="graph-container">
-        <!-- Graph 1 Placeholder -->
-        <div id="graph1"></div>
+        <h3>Total Population Trend (Weighted)</h3>
         <iframe src="graph1_pop_trend.html" width="100%" height="500" frameborder="0"></iframe>
     </div>
-    
-    <p>By 1960, agricultural employment in Puerto Rico had plummeted from 45% to roughly 23%, driving the workforce to look elsewhere.</p>
 </div>
 
 <div class="section">
-    <h2>2. The Puerto Rican Diaspora</h2>
-    <p>As the community established itself, the population of Puerto Ricans living on the mainland grew steadily. The "Nuyorican" shift occurred by 1970, when ~50% of Puerto Ricans in the U.S. were born on the mainland.</p>
+    <h2>Phase II: The "Revolving Door" & Dispersion (1980–2008)</h2>
+    <p>By 1970, the lines crossed: ~50% of Puerto Ricans in the U.S. were born on the mainland. This marked the "Nuyorican" shift. Migration became circular—a "revolving door" where families moved back and forth, often unable to fully reintegrate into the island's economy.</p>
 
-    <div class="graph-container">
-        <iframe src="graph2_pr_pop.html" width="100%" height="500" frameborder="0"></iframe>
+    <div class="literary-connect">
+        Thomas touches on this when he visits Puerto Rico and is rejected as a "Yankee," realizing he belongs to a new group: the <strong>Nuyorican</strong>. The data confirms this limbo; return migration was high, but often met with economic struggle.
     </div>
 
-    <p>The modern wave (2010–2020) rivals the 1950s in volume. Between 2010 and 2013 alone, more people left the island than in the entire 1980s and 90s combined, driven by economic depression and natural disasters like Hurricane Maria.</p>
+    <div class="graph-container">
+        <h3>Puerto Rico Born Population in US Mainland</h3>
+        <iframe src="graph2_pr_pop.html" width="100%" height="500" frameborder="0"></iframe>
+    </div>
 </div>
 
 <div class="section">
-    <h2>3. Socio-Economic Indicators</h2>
+    <h2>Phase III: The Modern Exodus (2010–Present)</h2>
+    <p>A new crisis—driven by the phase-out of tax breaks, debt, and natural disasters like Hurricane Maria (2017)—has driven a migration wave larger than the 1950s. However, the destination has flipped.</p>
     
-    <h3>Income Disparity</h3>
-    <p>Comparing the median personal income of Puerto Rico-born individuals against the total U.S. population reveals persistent gaps, though trends show growth over time.</p>
+    <div class="key-stat">
+        <strong>The Florida Shift:</strong> Unlike the NYC-centric 1950s, recent migrants are heading South. Florida, Pennsylvania, and Texas are seeing massive gains, while NY/NJ are seeing net outflows.
+    </div>
+
     <div class="graph-container">
+        <h3>Modern Demographics: Age Distribution</h3>
+        <iframe src="graph4_age_dist.html" width="100%" height="500" frameborder="0"></iframe>
+        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+            <em>Note: The age distribution reflects both the aging of the established diaspora and the diverse profile of new migrants.</em>
+        </p>
+    </div>
+</div>
+
+<div class="section">
+    <h2>Socio-Economic Reality: The "Hustle" vs. Data</h2>
+    
+    <h3>Income & Employment</h3>
+    <p>Piri Thomas describes a lack of legitimate work options, forcing many into the "hustle." The data supports this "economic timing mismatch"—Puerto Ricans arrived in NYC just as manufacturing jobs began to leave.</p>
+
+    <div class="graph-container">
+        <h3>Median Personal Income Comparison</h3>
         <iframe src="graph3_income.html" width="100%" height="500" frameborder="0"></iframe>
     </div>
 
-    <h3>Employment Status</h3>
-    <p>Employment trends highlight the economic vulnerability of the population. During economic downturns on the mainland (like 2008), migration often slows or reverses, demonstrating the "stabilizer" effect of circular migration.</p>
     <div class="graph-container">
+        <h3>Employment Status Trends</h3>
         <iframe src="graph5_employment.html" width="100%" height="500" frameborder="0"></iframe>
     </div>
-</div>
 
-<div class="section">
-    <h2>4. Demographic Shifts: Age & Education</h2>
-    
-    <h3>The "Brain Drain" vs. Working Class</h3>
-    <p>Unlike the agricultural workers of the 1950s, the modern exodus includes a diverse mix of professionals and working-class individuals. Education levels have risen significantly over the decades.</p>
+    <h3>Education: The "Brain Drain"</h3>
+    <p>Contrary to the stereotype of only unskilled labor migration, the modern wave includes a significant "Brain Drain" of professionals. Education levels have risen consistently.</p>
     <div class="graph-container">
         <iframe src="graph6_education.html" width="100%" height="500" frameborder="0"></iframe>
     </div>
-
-    <h3>Age Distribution</h3>
-    <p>Comparing age distributions over time reflects both the aging of the established diaspora and the profile of new migrants.</p>
-    <div class="graph-container">
-        <iframe src="graph4_age_dist.html" width="100%" height="500" frameborder="0"></iframe>
-    </div>
 </div>
 
 <div class="section">
-    <h2>Summary Comparison</h2>
+    <h2>Summary: 1950s vs. Today</h2>
     <table>
         <tr>
             <th>Feature</th>
@@ -159,12 +198,12 @@
         <tr>
             <td><strong>Primary Destination</strong></td>
             <td>New York City (88% concentration)</td>
-            <td>Florida & The South</td>
+            <td>Florida & The South (Central FL, TX)</td>
         </tr>
         <tr>
             <td><strong>Migrant Profile</strong></td>
-            <td>Agricultural workers</td>
-            <td>Diverse: Professionals & working class</td>
+            <td>Agricultural workers seeking factory jobs</td>
+            <td>Diverse: Professionals ("Brain Drain") & working class</td>
         </tr>
         <tr>
             <td><strong>Net Flow</strong></td>
@@ -180,4 +219,3 @@
 
 </body>
 </html>
-
