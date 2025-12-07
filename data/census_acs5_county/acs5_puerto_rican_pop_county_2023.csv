@@ -1,0 +1,3223 @@
+NAME,B03001_005E,state,county,year
+"Autauga County, Alabama",595,01,001,2023
+"Baldwin County, Alabama",932,01,003,2023
+"Barbour County, Alabama",15,01,005,2023
+"Bibb County, Alabama",134,01,007,2023
+"Blount County, Alabama",43,01,009,2023
+"Bullock County, Alabama",0,01,011,2023
+"Butler County, Alabama",6,01,013,2023
+"Calhoun County, Alabama",753,01,015,2023
+"Chambers County, Alabama",68,01,017,2023
+"Cherokee County, Alabama",6,01,019,2023
+"Chilton County, Alabama",62,01,021,2023
+"Choctaw County, Alabama",21,01,023,2023
+"Clarke County, Alabama",16,01,025,2023
+"Clay County, Alabama",0,01,027,2023
+"Cleburne County, Alabama",7,01,029,2023
+"Coffee County, Alabama",1102,01,031,2023
+"Colbert County, Alabama",78,01,033,2023
+"Conecuh County, Alabama",39,01,035,2023
+"Coosa County, Alabama",195,01,037,2023
+"Covington County, Alabama",127,01,039,2023
+"Crenshaw County, Alabama",3,01,041,2023
+"Cullman County, Alabama",179,01,043,2023
+"Dale County, Alabama",952,01,045,2023
+"Dallas County, Alabama",155,01,047,2023
+"DeKalb County, Alabama",564,01,049,2023
+"Elmore County, Alabama",116,01,051,2023
+"Escambia County, Alabama",178,01,053,2023
+"Etowah County, Alabama",534,01,055,2023
+"Fayette County, Alabama",2,01,057,2023
+"Franklin County, Alabama",132,01,059,2023
+"Geneva County, Alabama",148,01,061,2023
+"Greene County, Alabama",0,01,063,2023
+"Hale County, Alabama",0,01,065,2023
+"Henry County, Alabama",105,01,067,2023
+"Houston County, Alabama",588,01,069,2023
+"Jackson County, Alabama",214,01,071,2023
+"Jefferson County, Alabama",2150,01,073,2023
+"Lamar County, Alabama",107,01,075,2023
+"Lauderdale County, Alabama",61,01,077,2023
+"Lawrence County, Alabama",115,01,079,2023
+"Lee County, Alabama",913,01,081,2023
+"Limestone County, Alabama",718,01,083,2023
+"Lowndes County, Alabama",0,01,085,2023
+"Macon County, Alabama",91,01,087,2023
+"Madison County, Alabama",3915,01,089,2023
+"Marengo County, Alabama",44,01,091,2023
+"Marion County, Alabama",14,01,093,2023
+"Marshall County, Alabama",620,01,095,2023
+"Mobile County, Alabama",1683,01,097,2023
+"Monroe County, Alabama",0,01,099,2023
+"Montgomery County, Alabama",843,01,101,2023
+"Morgan County, Alabama",637,01,103,2023
+"Perry County, Alabama",0,01,105,2023
+"Pickens County, Alabama",13,01,107,2023
+"Pike County, Alabama",65,01,109,2023
+"Randolph County, Alabama",40,01,111,2023
+"Russell County, Alabama",1128,01,113,2023
+"St. Clair County, Alabama",534,01,115,2023
+"Shelby County, Alabama",1406,01,117,2023
+"Sumter County, Alabama",9,01,119,2023
+"Talladega County, Alabama",34,01,121,2023
+"Tallapoosa County, Alabama",15,01,123,2023
+"Tuscaloosa County, Alabama",1272,01,125,2023
+"Walker County, Alabama",68,01,127,2023
+"Washington County, Alabama",1,01,129,2023
+"Wilcox County, Alabama",10,01,131,2023
+"Winston County, Alabama",17,01,133,2023
+"Aleutians East Borough, Alaska",17,02,013,2023
+"Aleutians West Census Area, Alaska",2,02,016,2023
+"Anchorage Municipality, Alaska",4114,02,020,2023
+"Bethel Census Area, Alaska",4,02,050,2023
+"Bristol Bay Borough, Alaska",37,02,060,2023
+"Chugach Census Area, Alaska",5,02,063,2023
+"Copper River Census Area, Alaska",0,02,066,2023
+"Denali Borough, Alaska",8,02,068,2023
+"Dillingham Census Area, Alaska",15,02,070,2023
+"Fairbanks North Star Borough, Alaska",1160,02,090,2023
+"Haines Borough, Alaska",0,02,100,2023
+"Hoonah-Angoon Census Area, Alaska",32,02,105,2023
+"Juneau City and Borough, Alaska",134,02,110,2023
+"Kenai Peninsula Borough, Alaska",126,02,122,2023
+"Ketchikan Gateway Borough, Alaska",66,02,130,2023
+"Kodiak Island Borough, Alaska",48,02,150,2023
+"Kusilvak Census Area, Alaska",0,02,158,2023
+"Lake and Peninsula Borough, Alaska",2,02,164,2023
+"Matanuska-Susitna Borough, Alaska",803,02,170,2023
+"Nome Census Area, Alaska",5,02,180,2023
+"North Slope Borough, Alaska",173,02,185,2023
+"Northwest Arctic Borough, Alaska",22,02,188,2023
+"Petersburg Borough, Alaska",20,02,195,2023
+"Prince of Wales-Hyder Census Area, Alaska",1,02,198,2023
+"Sitka City and Borough, Alaska",47,02,220,2023
+"Skagway Municipality, Alaska",0,02,230,2023
+"Southeast Fairbanks Census Area, Alaska",177,02,240,2023
+"Wrangell City and Borough, Alaska",9,02,275,2023
+"Yakutat City and Borough, Alaska",0,02,282,2023
+"Yukon-Koyukuk Census Area, Alaska",23,02,290,2023
+"Apache County, Arizona",142,04,001,2023
+"Cochise County, Arizona",1513,04,003,2023
+"Coconino County, Arizona",448,04,005,2023
+"Gila County, Arizona",71,04,007,2023
+"Graham County, Arizona",166,04,009,2023
+"Greenlee County, Arizona",40,04,011,2023
+"La Paz County, Arizona",16,04,012,2023
+"Maricopa County, Arizona",31173,04,013,2023
+"Mohave County, Arizona",1152,04,015,2023
+"Navajo County, Arizona",293,04,017,2023
+"Pima County, Arizona",9194,04,019,2023
+"Pinal County, Arizona",2639,04,021,2023
+"Santa Cruz County, Arizona",176,04,023,2023
+"Yavapai County, Arizona",1097,04,025,2023
+"Yuma County, Arizona",894,04,027,2023
+"Arkansas County, Arkansas",126,05,001,2023
+"Ashley County, Arkansas",0,05,003,2023
+"Baxter County, Arkansas",181,05,005,2023
+"Benton County, Arkansas",1580,05,007,2023
+"Boone County, Arkansas",43,05,009,2023
+"Bradley County, Arkansas",0,05,011,2023
+"Calhoun County, Arkansas",0,05,013,2023
+"Carroll County, Arkansas",88,05,015,2023
+"Chicot County, Arkansas",34,05,017,2023
+"Clark County, Arkansas",6,05,019,2023
+"Clay County, Arkansas",0,05,021,2023
+"Cleburne County, Arkansas",87,05,023,2023
+"Cleveland County, Arkansas",5,05,025,2023
+"Columbia County, Arkansas",15,05,027,2023
+"Conway County, Arkansas",0,05,029,2023
+"Craighead County, Arkansas",354,05,031,2023
+"Crawford County, Arkansas",47,05,033,2023
+"Crittenden County, Arkansas",32,05,035,2023
+"Cross County, Arkansas",0,05,037,2023
+"Dallas County, Arkansas",0,05,039,2023
+"Desha County, Arkansas",45,05,041,2023
+"Drew County, Arkansas",0,05,043,2023
+"Faulkner County, Arkansas",432,05,045,2023
+"Franklin County, Arkansas",6,05,047,2023
+"Fulton County, Arkansas",26,05,049,2023
+"Garland County, Arkansas",257,05,051,2023
+"Grant County, Arkansas",192,05,053,2023
+"Greene County, Arkansas",159,05,055,2023
+"Hempstead County, Arkansas",85,05,057,2023
+"Hot Spring County, Arkansas",13,05,059,2023
+"Howard County, Arkansas",0,05,061,2023
+"Independence County, Arkansas",1,05,063,2023
+"Izard County, Arkansas",97,05,065,2023
+"Jackson County, Arkansas",34,05,067,2023
+"Jefferson County, Arkansas",5,05,069,2023
+"Johnson County, Arkansas",200,05,071,2023
+"Lafayette County, Arkansas",0,05,073,2023
+"Lawrence County, Arkansas",70,05,075,2023
+"Lee County, Arkansas",7,05,077,2023
+"Lincoln County, Arkansas",7,05,079,2023
+"Little River County, Arkansas",31,05,081,2023
+"Logan County, Arkansas",12,05,083,2023
+"Lonoke County, Arkansas",230,05,085,2023
+"Madison County, Arkansas",0,05,087,2023
+"Marion County, Arkansas",111,05,089,2023
+"Miller County, Arkansas",134,05,091,2023
+"Mississippi County, Arkansas",5,05,093,2023
+"Monroe County, Arkansas",142,05,095,2023
+"Montgomery County, Arkansas",9,05,097,2023
+"Nevada County, Arkansas",0,05,099,2023
+"Newton County, Arkansas",0,05,101,2023
+"Ouachita County, Arkansas",0,05,103,2023
+"Perry County, Arkansas",0,05,105,2023
+"Phillips County, Arkansas",43,05,107,2023
+"Pike County, Arkansas",9,05,109,2023
+"Poinsett County, Arkansas",130,05,111,2023
+"Polk County, Arkansas",9,05,113,2023
+"Pope County, Arkansas",452,05,115,2023
+"Prairie County, Arkansas",0,05,117,2023
+"Pulaski County, Arkansas",856,05,119,2023
+"Randolph County, Arkansas",0,05,121,2023
+"St. Francis County, Arkansas",43,05,123,2023
+"Saline County, Arkansas",229,05,125,2023
+"Scott County, Arkansas",10,05,127,2023
+"Searcy County, Arkansas",0,05,129,2023
+"Sebastian County, Arkansas",483,05,131,2023
+"Sevier County, Arkansas",0,05,133,2023
+"Sharp County, Arkansas",4,05,135,2023
+"Stone County, Arkansas",3,05,137,2023
+"Union County, Arkansas",0,05,139,2023
+"Van Buren County, Arkansas",6,05,141,2023
+"Washington County, Arkansas",1040,05,143,2023
+"White County, Arkansas",221,05,145,2023
+"Woodruff County, Arkansas",3,05,147,2023
+"Yell County, Arkansas",453,05,149,2023
+"Alameda County, California",12475,06,001,2023
+"Alpine County, California",0,06,003,2023
+"Amador County, California",110,06,005,2023
+"Butte County, California",1078,06,007,2023
+"Calaveras County, California",277,06,009,2023
+"Colusa County, California",0,06,011,2023
+"Contra Costa County, California",8759,06,013,2023
+"Del Norte County, California",125,06,015,2023
+"El Dorado County, California",849,06,017,2023
+"Fresno County, California",4321,06,019,2023
+"Glenn County, California",5,06,021,2023
+"Humboldt County, California",649,06,023,2023
+"Imperial County, California",453,06,025,2023
+"Inyo County, California",147,06,027,2023
+"Kern County, California",5603,06,029,2023
+"Kings County, California",1189,06,031,2023
+"Lake County, California",174,06,033,2023
+"Lassen County, California",107,06,035,2023
+"Los Angeles County, California",46639,06,037,2023
+"Madera County, California",442,06,039,2023
+"Marin County, California",1320,06,041,2023
+"Mariposa County, California",69,06,043,2023
+"Mendocino County, California",348,06,045,2023
+"Merced County, California",645,06,047,2023
+"Modoc County, California",0,06,049,2023
+"Mono County, California",0,06,051,2023
+"Monterey County, California",2547,06,053,2023
+"Napa County, California",552,06,055,2023
+"Nevada County, California",525,06,057,2023
+"Orange County, California",12867,06,059,2023
+"Placer County, California",3206,06,061,2023
+"Plumas County, California",134,06,063,2023
+"Riverside County, California",16761,06,065,2023
+"Sacramento County, California",11581,06,067,2023
+"San Benito County, California",803,06,069,2023
+"San Bernardino County, California",14388,06,071,2023
+"San Diego County, California",27644,06,073,2023
+"San Francisco County, California",5678,06,075,2023
+"San Joaquin County, California",5666,06,077,2023
+"San Luis Obispo County, California",1450,06,079,2023
+"San Mateo County, California",3894,06,081,2023
+"Santa Barbara County, California",1950,06,083,2023
+"Santa Clara County, California",7969,06,085,2023
+"Santa Cruz County, California",1099,06,087,2023
+"Shasta County, California",838,06,089,2023
+"Sierra County, California",0,06,091,2023
+"Siskiyou County, California",182,06,093,2023
+"Solano County, California",4343,06,095,2023
+"Sonoma County, California",2132,06,097,2023
+"Stanislaus County, California",3487,06,099,2023
+"Sutter County, California",813,06,101,2023
+"Tehama County, California",394,06,103,2023
+"Trinity County, California",0,06,105,2023
+"Tulare County, California",1319,06,107,2023
+"Tuolumne County, California",440,06,109,2023
+"Ventura County, California",4519,06,111,2023
+"Yolo County, California",742,06,113,2023
+"Yuba County, California",837,06,115,2023
+"Adams County, Colorado",3732,08,001,2023
+"Alamosa County, Colorado",108,08,003,2023
+"Arapahoe County, Colorado",5559,08,005,2023
+"Archuleta County, Colorado",16,08,007,2023
+"Baca County, Colorado",0,08,009,2023
+"Bent County, Colorado",11,08,011,2023
+"Boulder County, Colorado",1793,08,013,2023
+"Broomfield County, Colorado",425,08,014,2023
+"Chaffee County, Colorado",58,08,015,2023
+"Cheyenne County, Colorado",5,08,017,2023
+"Clear Creek County, Colorado",103,08,019,2023
+"Conejos County, Colorado",48,08,021,2023
+"Costilla County, Colorado",17,08,023,2023
+"Crowley County, Colorado",17,08,025,2023
+"Custer County, Colorado",0,08,027,2023
+"Delta County, Colorado",48,08,029,2023
+"Denver County, Colorado",4727,08,031,2023
+"Dolores County, Colorado",0,08,033,2023
+"Douglas County, Colorado",2285,08,035,2023
+"Eagle County, Colorado",10,08,037,2023
+"Elbert County, Colorado",91,08,039,2023
+"El Paso County, Colorado",11539,08,041,2023
+"Fremont County, Colorado",223,08,043,2023
+"Garfield County, Colorado",321,08,045,2023
+"Gilpin County, Colorado",27,08,047,2023
+"Grand County, Colorado",145,08,049,2023
+"Gunnison County, Colorado",51,08,051,2023
+"Hinsdale County, Colorado",0,08,053,2023
+"Huerfano County, Colorado",6,08,055,2023
+"Jackson County, Colorado",0,08,057,2023
+"Jefferson County, Colorado",2517,08,059,2023
+"Kiowa County, Colorado",0,08,061,2023
+"Kit Carson County, Colorado",9,08,063,2023
+"Lake County, Colorado",70,08,065,2023
+"La Plata County, Colorado",74,08,067,2023
+"Larimer County, Colorado",1996,08,069,2023
+"Las Animas County, Colorado",51,08,071,2023
+"Lincoln County, Colorado",0,08,073,2023
+"Logan County, Colorado",68,08,075,2023
+"Mesa County, Colorado",686,08,077,2023
+"Mineral County, Colorado",0,08,079,2023
+"Moffat County, Colorado",24,08,081,2023
+"Montezuma County, Colorado",21,08,083,2023
+"Montrose County, Colorado",94,08,085,2023
+"Morgan County, Colorado",87,08,087,2023
+"Otero County, Colorado",0,08,089,2023
+"Ouray County, Colorado",0,08,091,2023
+"Park County, Colorado",139,08,093,2023
+"Phillips County, Colorado",0,08,095,2023
+"Pitkin County, Colorado",28,08,097,2023
+"Prowers County, Colorado",0,08,099,2023
+"Pueblo County, Colorado",1511,08,101,2023
+"Rio Blanco County, Colorado",20,08,103,2023
+"Rio Grande County, Colorado",33,08,105,2023
+"Routt County, Colorado",365,08,107,2023
+"Saguache County, Colorado",0,08,109,2023
+"San Juan County, Colorado",0,08,111,2023
+"San Miguel County, Colorado",0,08,113,2023
+"Sedgwick County, Colorado",14,08,115,2023
+"Summit County, Colorado",124,08,117,2023
+"Teller County, Colorado",93,08,119,2023
+"Washington County, Colorado",0,08,121,2023
+"Weld County, Colorado",1693,08,123,2023
+"Yuma County, Colorado",38,08,125,2023
+"Capitol Planning Region, Connecticut",106018,09,110,2023
+"Greater Bridgeport Planning Region, Connecticut",35037,09,120,2023
+"Lower Connecticut River Valley Planning Region, Connecticut",6447,09,130,2023
+"Naugatuck Valley Planning Region, Connecticut",50125,09,140,2023
+"Northeastern Connecticut Planning Region, Connecticut",2674,09,150,2023
+"Northwest Hills Planning Region, Connecticut",2727,09,160,2023
+"South Central Connecticut Planning Region, Connecticut",54201,09,170,2023
+"Southeastern Connecticut Planning Region, Connecticut",21141,09,180,2023
+"Western Connecticut Planning Region, Connecticut",16443,09,190,2023
+"Kent County, Delaware",7019,10,001,2023
+"New Castle County, Delaware",20757,10,003,2023
+"Sussex County, Delaware",3244,10,005,2023
+"District of Columbia, District of Columbia",5480,11,001,2023
+"Alachua County, Florida",8029,12,001,2023
+"Baker County, Florida",282,12,003,2023
+"Bay County, Florida",3929,12,005,2023
+"Bradford County, Florida",801,12,007,2023
+"Brevard County, Florida",26377,12,009,2023
+"Broward County, Florida",88998,12,011,2023
+"Calhoun County, Florida",304,12,013,2023
+"Charlotte County, Florida",4140,12,015,2023
+"Citrus County, Florida",3977,12,017,2023
+"Clay County, Florida",8972,12,019,2023
+"Collier County, Florida",7240,12,021,2023
+"Columbia County, Florida",1880,12,023,2023
+"DeSoto County, Florida",541,12,027,2023
+"Dixie County, Florida",90,12,029,2023
+"Duval County, Florida",37959,12,031,2023
+"Escambia County, Florida",3634,12,033,2023
+"Flagler County, Florida",4576,12,035,2023
+"Franklin County, Florida",276,12,037,2023
+"Gadsden County, Florida",400,12,039,2023
+"Gilchrist County, Florida",312,12,041,2023
+"Glades County, Florida",76,12,043,2023
+"Gulf County, Florida",145,12,045,2023
+"Hamilton County, Florida",251,12,047,2023
+"Hardee County, Florida",1349,12,049,2023
+"Hendry County, Florida",1360,12,051,2023
+"Hernando County, Florida",16674,12,053,2023
+"Highlands County, Florida",7201,12,055,2023
+"Hillsborough County, Florida",116221,12,057,2023
+"Holmes County, Florida",82,12,059,2023
+"Indian River County, Florida",4273,12,061,2023
+"Jackson County, Florida",530,12,063,2023
+"Jefferson County, Florida",140,12,065,2023
+"Lafayette County, Florida",60,12,067,2023
+"Lake County, Florida",31611,12,069,2023
+"Lee County, Florida",35334,12,071,2023
+"Leon County, Florida",3320,12,073,2023
+"Levy County, Florida",1235,12,075,2023
+"Liberty County, Florida",62,12,077,2023
+"Madison County, Florida",179,12,079,2023
+"Manatee County, Florida",13183,12,081,2023
+"Marion County, Florida",28421,12,083,2023
+"Martin County, Florida",3663,12,085,2023
+"Miami-Dade County, Florida",86363,12,086,2023
+"Monroe County, Florida",1242,12,087,2023
+"Nassau County, Florida",872,12,089,2023
+"Okaloosa County, Florida",3939,12,091,2023
+"Okeechobee County, Florida",576,12,093,2023
+"Orange County, Florida",200575,12,095,2023
+"Osceola County, Florida",112999,12,097,2023
+"Palm Beach County, Florida",52777,12,099,2023
+"Pasco County, Florida",36433,12,101,2023
+"Pinellas County, Florida",26499,12,103,2023
+"Polk County, Florida",89215,12,105,2023
+"Putnam County, Florida",2075,12,107,2023
+"St. Johns County, Florida",6372,12,109,2023
+"St. Lucie County, Florida",19468,12,111,2023
+"Santa Rosa County, Florida",2658,12,113,2023
+"Sarasota County, Florida",8116,12,115,2023
+"Seminole County, Florida",44945,12,117,2023
+"Sumter County, Florida",1665,12,119,2023
+"Suwannee County, Florida",599,12,121,2023
+"Taylor County, Florida",213,12,123,2023
+"Union County, Florida",321,12,125,2023
+"Volusia County, Florida",41061,12,127,2023
+"Wakulla County, Florida",423,12,129,2023
+"Walton County, Florida",805,12,131,2023
+"Washington County, Florida",151,12,133,2023
+"Appling County, Georgia",52,13,001,2023
+"Atkinson County, Georgia",232,13,003,2023
+"Bacon County, Georgia",53,13,005,2023
+"Baker County, Georgia",8,13,007,2023
+"Baldwin County, Georgia",180,13,009,2023
+"Banks County, Georgia",19,13,011,2023
+"Barrow County, Georgia",2243,13,013,2023
+"Bartow County, Georgia",1203,13,015,2023
+"Ben Hill County, Georgia",69,13,017,2023
+"Berrien County, Georgia",92,13,019,2023
+"Bibb County, Georgia",1088,13,021,2023
+"Bleckley County, Georgia",95,13,023,2023
+"Brantley County, Georgia",2,13,025,2023
+"Brooks County, Georgia",238,13,027,2023
+"Bryan County, Georgia",1822,13,029,2023
+"Bulloch County, Georgia",899,13,031,2023
+"Burke County, Georgia",130,13,033,2023
+"Butts County, Georgia",31,13,035,2023
+"Calhoun County, Georgia",5,13,037,2023
+"Camden County, Georgia",1564,13,039,2023
+"Candler County, Georgia",62,13,043,2023
+"Carroll County, Georgia",930,13,045,2023
+"Catoosa County, Georgia",302,13,047,2023
+"Charlton County, Georgia",114,13,049,2023
+"Chatham County, Georgia",5079,13,051,2023
+"Chattahoochee County, Georgia",193,13,053,2023
+"Chattooga County, Georgia",84,13,055,2023
+"Cherokee County, Georgia",2804,13,057,2023
+"Clarke County, Georgia",594,13,059,2023
+"Clay County, Georgia",0,13,061,2023
+"Clayton County, Georgia",2730,13,063,2023
+"Clinch County, Georgia",58,13,065,2023
+"Cobb County, Georgia",11971,13,067,2023
+"Coffee County, Georgia",41,13,069,2023
+"Colquitt County, Georgia",399,13,071,2023
+"Columbia County, Georgia",3012,13,073,2023
+"Cook County, Georgia",471,13,075,2023
+"Coweta County, Georgia",2175,13,077,2023
+"Crawford County, Georgia",0,13,079,2023
+"Crisp County, Georgia",14,13,081,2023
+"Dade County, Georgia",88,13,083,2023
+"Dawson County, Georgia",88,13,085,2023
+"Decatur County, Georgia",168,13,087,2023
+"DeKalb County, Georgia",5093,13,089,2023
+"Dodge County, Georgia",23,13,091,2023
+"Dooly County, Georgia",48,13,093,2023
+"Dougherty County, Georgia",469,13,095,2023
+"Douglas County, Georgia",1869,13,097,2023
+"Early County, Georgia",0,13,099,2023
+"Echols County, Georgia",51,13,101,2023
+"Effingham County, Georgia",873,13,103,2023
+"Elbert County, Georgia",80,13,105,2023
+"Emanuel County, Georgia",107,13,107,2023
+"Evans County, Georgia",146,13,109,2023
+"Fannin County, Georgia",73,13,111,2023
+"Fayette County, Georgia",1515,13,113,2023
+"Floyd County, Georgia",402,13,115,2023
+"Forsyth County, Georgia",3113,13,117,2023
+"Franklin County, Georgia",54,13,119,2023
+"Fulton County, Georgia",9693,13,121,2023
+"Gilmer County, Georgia",171,13,123,2023
+"Glascock County, Georgia",0,13,125,2023
+"Glynn County, Georgia",322,13,127,2023
+"Gordon County, Georgia",1002,13,129,2023
+"Grady County, Georgia",178,13,131,2023
+"Greene County, Georgia",210,13,133,2023
+"Gwinnett County, Georgia",18554,13,135,2023
+"Habersham County, Georgia",608,13,137,2023
+"Hall County, Georgia",1874,13,139,2023
+"Hancock County, Georgia",0,13,141,2023
+"Haralson County, Georgia",334,13,143,2023
+"Harris County, Georgia",501,13,145,2023
+"Hart County, Georgia",63,13,147,2023
+"Heard County, Georgia",42,13,149,2023
+"Henry County, Georgia",4332,13,151,2023
+"Houston County, Georgia",1308,13,153,2023
+"Irwin County, Georgia",14,13,155,2023
+"Jackson County, Georgia",1030,13,157,2023
+"Jasper County, Georgia",116,13,159,2023
+"Jeff Davis County, Georgia",147,13,161,2023
+"Jefferson County, Georgia",1,13,163,2023
+"Jenkins County, Georgia",81,13,165,2023
+"Johnson County, Georgia",54,13,167,2023
+"Jones County, Georgia",91,13,169,2023
+"Lamar County, Georgia",12,13,171,2023
+"Lanier County, Georgia",166,13,173,2023
+"Laurens County, Georgia",153,13,175,2023
+"Lee County, Georgia",118,13,177,2023
+"Liberty County, Georgia",3449,13,179,2023
+"Lincoln County, Georgia",12,13,181,2023
+"Long County, Georgia",938,13,183,2023
+"Lowndes County, Georgia",2043,13,185,2023
+"Lumpkin County, Georgia",381,13,187,2023
+"McDuffie County, Georgia",146,13,189,2023
+"McIntosh County, Georgia",89,13,191,2023
+"Macon County, Georgia",14,13,193,2023
+"Madison County, Georgia",122,13,195,2023
+"Marion County, Georgia",68,13,197,2023
+"Meriwether County, Georgia",142,13,199,2023
+"Miller County, Georgia",0,13,201,2023
+"Mitchell County, Georgia",356,13,205,2023
+"Monroe County, Georgia",54,13,207,2023
+"Montgomery County, Georgia",131,13,209,2023
+"Morgan County, Georgia",151,13,211,2023
+"Murray County, Georgia",112,13,213,2023
+"Muscogee County, Georgia",4724,13,215,2023
+"Newton County, Georgia",815,13,217,2023
+"Oconee County, Georgia",118,13,219,2023
+"Oglethorpe County, Georgia",109,13,221,2023
+"Paulding County, Georgia",2389,13,223,2023
+"Peach County, Georgia",247,13,225,2023
+"Pickens County, Georgia",168,13,227,2023
+"Pierce County, Georgia",97,13,229,2023
+"Pike County, Georgia",8,13,231,2023
+"Polk County, Georgia",473,13,233,2023
+"Pulaski County, Georgia",38,13,235,2023
+"Putnam County, Georgia",0,13,237,2023
+"Quitman County, Georgia",14,13,239,2023
+"Rabun County, Georgia",55,13,241,2023
+"Randolph County, Georgia",10,13,243,2023
+"Richmond County, Georgia",3476,13,245,2023
+"Rockdale County, Georgia",732,13,247,2023
+"Schley County, Georgia",0,13,249,2023
+"Screven County, Georgia",187,13,251,2023
+"Seminole County, Georgia",11,13,253,2023
+"Spalding County, Georgia",454,13,255,2023
+"Stephens County, Georgia",0,13,257,2023
+"Stewart County, Georgia",10,13,259,2023
+"Sumter County, Georgia",0,13,261,2023
+"Talbot County, Georgia",4,13,263,2023
+"Taliaferro County, Georgia",27,13,265,2023
+"Tattnall County, Georgia",79,13,267,2023
+"Taylor County, Georgia",3,13,269,2023
+"Telfair County, Georgia",164,13,271,2023
+"Terrell County, Georgia",26,13,273,2023
+"Thomas County, Georgia",152,13,275,2023
+"Tift County, Georgia",171,13,277,2023
+"Toombs County, Georgia",184,13,279,2023
+"Towns County, Georgia",106,13,281,2023
+"Treutlen County, Georgia",3,13,283,2023
+"Troup County, Georgia",206,13,285,2023
+"Turner County, Georgia",0,13,287,2023
+"Twiggs County, Georgia",0,13,289,2023
+"Union County, Georgia",173,13,291,2023
+"Upson County, Georgia",70,13,293,2023
+"Walker County, Georgia",660,13,295,2023
+"Walton County, Georgia",1426,13,297,2023
+"Ware County, Georgia",129,13,299,2023
+"Warren County, Georgia",21,13,301,2023
+"Washington County, Georgia",15,13,303,2023
+"Wayne County, Georgia",229,13,305,2023
+"Webster County, Georgia",0,13,307,2023
+"Wheeler County, Georgia",21,13,309,2023
+"White County, Georgia",109,13,311,2023
+"Whitfield County, Georgia",750,13,313,2023
+"Wilcox County, Georgia",6,13,315,2023
+"Wilkes County, Georgia",102,13,317,2023
+"Wilkinson County, Georgia",62,13,319,2023
+"Worth County, Georgia",15,13,321,2023
+"Hawaii County, Hawaii",9856,15,001,2023
+"Honolulu County, Hawaii",30955,15,003,2023
+"Kalawao County, Hawaii",2,15,005,2023
+"Kauai County, Hawaii",2415,15,007,2023
+"Maui County, Hawaii",4885,15,009,2023
+"Ada County, Idaho",1958,16,001,2023
+"Adams County, Idaho",0,16,003,2023
+"Bannock County, Idaho",419,16,005,2023
+"Bear Lake County, Idaho",9,16,007,2023
+"Benewah County, Idaho",6,16,009,2023
+"Bingham County, Idaho",23,16,011,2023
+"Blaine County, Idaho",116,16,013,2023
+"Boise County, Idaho",0,16,015,2023
+"Bonner County, Idaho",80,16,017,2023
+"Bonneville County, Idaho",670,16,019,2023
+"Boundary County, Idaho",8,16,021,2023
+"Butte County, Idaho",0,16,023,2023
+"Camas County, Idaho",0,16,025,2023
+"Canyon County, Idaho",1219,16,027,2023
+"Caribou County, Idaho",0,16,029,2023
+"Cassia County, Idaho",90,16,031,2023
+"Clark County, Idaho",0,16,033,2023
+"Clearwater County, Idaho",0,16,035,2023
+"Custer County, Idaho",0,16,037,2023
+"Elmore County, Idaho",291,16,039,2023
+"Franklin County, Idaho",0,16,041,2023
+"Fremont County, Idaho",77,16,043,2023
+"Gem County, Idaho",0,16,045,2023
+"Gooding County, Idaho",0,16,047,2023
+"Idaho County, Idaho",0,16,049,2023
+"Jefferson County, Idaho",50,16,051,2023
+"Jerome County, Idaho",19,16,053,2023
+"Kootenai County, Idaho",636,16,055,2023
+"Latah County, Idaho",35,16,057,2023
+"Lemhi County, Idaho",0,16,059,2023
+"Lewis County, Idaho",2,16,061,2023
+"Lincoln County, Idaho",10,16,063,2023
+"Madison County, Idaho",230,16,065,2023
+"Minidoka County, Idaho",74,16,067,2023
+"Nez Perce County, Idaho",151,16,069,2023
+"Oneida County, Idaho",0,16,071,2023
+"Owyhee County, Idaho",83,16,073,2023
+"Payette County, Idaho",13,16,075,2023
+"Power County, Idaho",4,16,077,2023
+"Shoshone County, Idaho",0,16,079,2023
+"Teton County, Idaho",76,16,081,2023
+"Twin Falls County, Idaho",57,16,083,2023
+"Valley County, Idaho",291,16,085,2023
+"Washington County, Idaho",22,16,087,2023
+"Adams County, Illinois",58,17,001,2023
+"Alexander County, Illinois",36,17,003,2023
+"Bond County, Illinois",13,17,005,2023
+"Boone County, Illinois",805,17,007,2023
+"Brown County, Illinois",70,17,009,2023
+"Bureau County, Illinois",116,17,011,2023
+"Calhoun County, Illinois",34,17,013,2023
+"Carroll County, Illinois",26,17,015,2023
+"Cass County, Illinois",261,17,017,2023
+"Champaign County, Illinois",2017,17,019,2023
+"Christian County, Illinois",87,17,021,2023
+"Clark County, Illinois",0,17,023,2023
+"Clay County, Illinois",27,17,025,2023
+"Clinton County, Illinois",107,17,027,2023
+"Coles County, Illinois",99,17,029,2023
+"Cook County, Illinois",140334,17,031,2023
+"Crawford County, Illinois",66,17,033,2023
+"Cumberland County, Illinois",1,17,035,2023
+"DeKalb County, Illinois",1330,17,037,2023
+"De Witt County, Illinois",101,17,039,2023
+"Douglas County, Illinois",30,17,041,2023
+"DuPage County, Illinois",11445,17,043,2023
+"Edgar County, Illinois",58,17,045,2023
+"Edwards County, Illinois",17,17,047,2023
+"Effingham County, Illinois",106,17,049,2023
+"Fayette County, Illinois",17,17,051,2023
+"Ford County, Illinois",39,17,053,2023
+"Franklin County, Illinois",41,17,055,2023
+"Fulton County, Illinois",52,17,057,2023
+"Gallatin County, Illinois",0,17,059,2023
+"Greene County, Illinois",16,17,061,2023
+"Grundy County, Illinois",1130,17,063,2023
+"Hamilton County, Illinois",53,17,065,2023
+"Hancock County, Illinois",7,17,067,2023
+"Hardin County, Illinois",0,17,069,2023
+"Henderson County, Illinois",11,17,071,2023
+"Henry County, Illinois",250,17,073,2023
+"Iroquois County, Illinois",64,17,075,2023
+"Jackson County, Illinois",397,17,077,2023
+"Jasper County, Illinois",3,17,079,2023
+"Jefferson County, Illinois",365,17,081,2023
+"Jersey County, Illinois",3,17,083,2023
+"Jo Daviess County, Illinois",17,17,085,2023
+"Johnson County, Illinois",77,17,087,2023
+"Kane County, Illinois",10718,17,089,2023
+"Kankakee County, Illinois",433,17,091,2023
+"Kendall County, Illinois",2562,17,093,2023
+"Knox County, Illinois",291,17,095,2023
+"Lake County, Illinois",13399,17,097,2023
+"LaSalle County, Illinois",647,17,099,2023
+"Lawrence County, Illinois",51,17,101,2023
+"Lee County, Illinois",259,17,103,2023
+"Livingston County, Illinois",223,17,105,2023
+"Logan County, Illinois",106,17,107,2023
+"McDonough County, Illinois",94,17,109,2023
+"McHenry County, Illinois",3824,17,111,2023
+"McLean County, Illinois",705,17,113,2023
+"Macon County, Illinois",293,17,115,2023
+"Macoupin County, Illinois",31,17,117,2023
+"Madison County, Illinois",487,17,119,2023
+"Marion County, Illinois",130,17,121,2023
+"Marshall County, Illinois",7,17,123,2023
+"Mason County, Illinois",8,17,125,2023
+"Massac County, Illinois",23,17,127,2023
+"Menard County, Illinois",28,17,129,2023
+"Mercer County, Illinois",17,17,131,2023
+"Monroe County, Illinois",83,17,133,2023
+"Montgomery County, Illinois",78,17,135,2023
+"Morgan County, Illinois",64,17,137,2023
+"Moultrie County, Illinois",35,17,139,2023
+"Ogle County, Illinois",412,17,141,2023
+"Peoria County, Illinois",458,17,143,2023
+"Perry County, Illinois",10,17,145,2023
+"Piatt County, Illinois",11,17,147,2023
+"Pike County, Illinois",10,17,149,2023
+"Pope County, Illinois",0,17,151,2023
+"Pulaski County, Illinois",1,17,153,2023
+"Putnam County, Illinois",15,17,155,2023
+"Randolph County, Illinois",122,17,157,2023
+"Richland County, Illinois",49,17,159,2023
+"Rock Island County, Illinois",611,17,161,2023
+"St. Clair County, Illinois",1607,17,163,2023
+"Saline County, Illinois",105,17,165,2023
+"Sangamon County, Illinois",941,17,167,2023
+"Schuyler County, Illinois",4,17,169,2023
+"Scott County, Illinois",0,17,171,2023
+"Shelby County, Illinois",38,17,173,2023
+"Stark County, Illinois",12,17,175,2023
+"Stephenson County, Illinois",382,17,177,2023
+"Tazewell County, Illinois",385,17,179,2023
+"Union County, Illinois",3,17,181,2023
+"Vermilion County, Illinois",255,17,183,2023
+"Wabash County, Illinois",47,17,185,2023
+"Warren County, Illinois",118,17,187,2023
+"Washington County, Illinois",10,17,189,2023
+"Wayne County, Illinois",27,17,191,2023
+"White County, Illinois",1,17,193,2023
+"Whiteside County, Illinois",764,17,195,2023
+"Will County, Illinois",8123,17,197,2023
+"Williamson County, Illinois",356,17,199,2023
+"Winnebago County, Illinois",2887,17,201,2023
+"Woodford County, Illinois",24,17,203,2023
+"Adams County, Indiana",12,18,001,2023
+"Allen County, Indiana",2306,18,003,2023
+"Bartholomew County, Indiana",894,18,005,2023
+"Benton County, Indiana",14,18,007,2023
+"Blackford County, Indiana",109,18,009,2023
+"Boone County, Indiana",196,18,011,2023
+"Brown County, Indiana",0,18,013,2023
+"Carroll County, Indiana",34,18,015,2023
+"Cass County, Indiana",308,18,017,2023
+"Clark County, Indiana",1034,18,019,2023
+"Clay County, Indiana",40,18,021,2023
+"Clinton County, Indiana",43,18,023,2023
+"Crawford County, Indiana",0,18,025,2023
+"Daviess County, Indiana",80,18,027,2023
+"Dearborn County, Indiana",20,18,029,2023
+"Decatur County, Indiana",49,18,031,2023
+"DeKalb County, Indiana",119,18,033,2023
+"Delaware County, Indiana",227,18,035,2023
+"Dubois County, Indiana",342,18,037,2023
+"Elkhart County, Indiana",3453,18,039,2023
+"Fayette County, Indiana",4,18,041,2023
+"Floyd County, Indiana",425,18,043,2023
+"Fountain County, Indiana",79,18,045,2023
+"Franklin County, Indiana",0,18,047,2023
+"Fulton County, Indiana",11,18,049,2023
+"Gibson County, Indiana",68,18,051,2023
+"Grant County, Indiana",309,18,053,2023
+"Greene County, Indiana",60,18,055,2023
+"Hamilton County, Indiana",1749,18,057,2023
+"Hancock County, Indiana",270,18,059,2023
+"Harrison County, Indiana",122,18,061,2023
+"Hendricks County, Indiana",531,18,063,2023
+"Henry County, Indiana",127,18,065,2023
+"Howard County, Indiana",348,18,067,2023
+"Huntington County, Indiana",172,18,069,2023
+"Jackson County, Indiana",819,18,071,2023
+"Jasper County, Indiana",331,18,073,2023
+"Jay County, Indiana",22,18,075,2023
+"Jefferson County, Indiana",112,18,077,2023
+"Jennings County, Indiana",8,18,079,2023
+"Johnson County, Indiana",1249,18,081,2023
+"Knox County, Indiana",183,18,083,2023
+"Kosciusko County, Indiana",1160,18,085,2023
+"LaGrange County, Indiana",78,18,087,2023
+"Lake County, Indiana",14949,18,089,2023
+"LaPorte County, Indiana",1040,18,091,2023
+"Lawrence County, Indiana",59,18,093,2023
+"Madison County, Indiana",1011,18,095,2023
+"Marion County, Indiana",8030,18,097,2023
+"Marshall County, Indiana",41,18,099,2023
+"Martin County, Indiana",0,18,101,2023
+"Miami County, Indiana",104,18,103,2023
+"Monroe County, Indiana",855,18,105,2023
+"Montgomery County, Indiana",475,18,107,2023
+"Morgan County, Indiana",357,18,109,2023
+"Newton County, Indiana",32,18,111,2023
+"Noble County, Indiana",264,18,113,2023
+"Ohio County, Indiana",0,18,115,2023
+"Orange County, Indiana",98,18,117,2023
+"Owen County, Indiana",33,18,119,2023
+"Parke County, Indiana",59,18,121,2023
+"Perry County, Indiana",5,18,123,2023
+"Pike County, Indiana",1,18,125,2023
+"Porter County, Indiana",3283,18,127,2023
+"Posey County, Indiana",121,18,129,2023
+"Pulaski County, Indiana",57,18,131,2023
+"Putnam County, Indiana",44,18,133,2023
+"Randolph County, Indiana",58,18,135,2023
+"Ripley County, Indiana",51,18,137,2023
+"Rush County, Indiana",0,18,139,2023
+"St. Joseph County, Indiana",1873,18,141,2023
+"Scott County, Indiana",95,18,143,2023
+"Shelby County, Indiana",71,18,145,2023
+"Spencer County, Indiana",8,18,147,2023
+"Starke County, Indiana",123,18,149,2023
+"Steuben County, Indiana",81,18,151,2023
+"Sullivan County, Indiana",21,18,153,2023
+"Switzerland County, Indiana",0,18,155,2023
+"Tippecanoe County, Indiana",961,18,157,2023
+"Tipton County, Indiana",42,18,159,2023
+"Union County, Indiana",57,18,161,2023
+"Vanderburgh County, Indiana",331,18,163,2023
+"Vermillion County, Indiana",16,18,165,2023
+"Vigo County, Indiana",382,18,167,2023
+"Wabash County, Indiana",222,18,169,2023
+"Warren County, Indiana",2,18,171,2023
+"Warrick County, Indiana",19,18,173,2023
+"Washington County, Indiana",47,18,175,2023
+"Wayne County, Indiana",117,18,177,2023
+"Wells County, Indiana",87,18,179,2023
+"White County, Indiana",17,18,181,2023
+"Whitley County, Indiana",167,18,183,2023
+"Adair County, Iowa",3,19,001,2023
+"Adams County, Iowa",0,19,003,2023
+"Allamakee County, Iowa",92,19,005,2023
+"Appanoose County, Iowa",33,19,007,2023
+"Audubon County, Iowa",0,19,009,2023
+"Benton County, Iowa",37,19,011,2023
+"Black Hawk County, Iowa",580,19,013,2023
+"Boone County, Iowa",28,19,015,2023
+"Bremer County, Iowa",106,19,017,2023
+"Buchanan County, Iowa",2,19,019,2023
+"Buena Vista County, Iowa",25,19,021,2023
+"Butler County, Iowa",0,19,023,2023
+"Calhoun County, Iowa",11,19,025,2023
+"Carroll County, Iowa",37,19,027,2023
+"Cass County, Iowa",2,19,029,2023
+"Cedar County, Iowa",0,19,031,2023
+"Cerro Gordo County, Iowa",190,19,033,2023
+"Cherokee County, Iowa",8,19,035,2023
+"Chickasaw County, Iowa",8,19,037,2023
+"Clarke County, Iowa",7,19,039,2023
+"Clay County, Iowa",46,19,041,2023
+"Clayton County, Iowa",11,19,043,2023
+"Clinton County, Iowa",292,19,045,2023
+"Crawford County, Iowa",0,19,047,2023
+"Dallas County, Iowa",208,19,049,2023
+"Davis County, Iowa",0,19,051,2023
+"Decatur County, Iowa",16,19,053,2023
+"Delaware County, Iowa",23,19,055,2023
+"Des Moines County, Iowa",98,19,057,2023
+"Dickinson County, Iowa",24,19,059,2023
+"Dubuque County, Iowa",407,19,061,2023
+"Emmet County, Iowa",19,19,063,2023
+"Fayette County, Iowa",23,19,065,2023
+"Floyd County, Iowa",14,19,067,2023
+"Franklin County, Iowa",3,19,069,2023
+"Fremont County, Iowa",26,19,071,2023
+"Greene County, Iowa",49,19,073,2023
+"Grundy County, Iowa",43,19,075,2023
+"Guthrie County, Iowa",8,19,077,2023
+"Hamilton County, Iowa",45,19,079,2023
+"Hancock County, Iowa",0,19,081,2023
+"Hardin County, Iowa",74,19,083,2023
+"Harrison County, Iowa",6,19,085,2023
+"Henry County, Iowa",207,19,087,2023
+"Howard County, Iowa",0,19,089,2023
+"Humboldt County, Iowa",0,19,091,2023
+"Ida County, Iowa",2,19,093,2023
+"Iowa County, Iowa",0,19,095,2023
+"Jackson County, Iowa",4,19,097,2023
+"Jasper County, Iowa",103,19,099,2023
+"Jefferson County, Iowa",95,19,101,2023
+"Johnson County, Iowa",965,19,103,2023
+"Jones County, Iowa",26,19,105,2023
+"Keokuk County, Iowa",6,19,107,2023
+"Kossuth County, Iowa",19,19,109,2023
+"Lee County, Iowa",28,19,111,2023
+"Linn County, Iowa",538,19,113,2023
+"Louisa County, Iowa",11,19,115,2023
+"Lucas County, Iowa",0,19,117,2023
+"Lyon County, Iowa",6,19,119,2023
+"Madison County, Iowa",80,19,121,2023
+"Mahaska County, Iowa",41,19,123,2023
+"Marion County, Iowa",39,19,125,2023
+"Marshall County, Iowa",309,19,127,2023
+"Mills County, Iowa",28,19,129,2023
+"Mitchell County, Iowa",91,19,131,2023
+"Monona County, Iowa",8,19,133,2023
+"Monroe County, Iowa",0,19,135,2023
+"Montgomery County, Iowa",0,19,137,2023
+"Muscatine County, Iowa",120,19,139,2023
+"O'Brien County, Iowa",119,19,141,2023
+"Osceola County, Iowa",2,19,143,2023
+"Page County, Iowa",10,19,145,2023
+"Palo Alto County, Iowa",2,19,147,2023
+"Plymouth County, Iowa",45,19,149,2023
+"Pocahontas County, Iowa",33,19,151,2023
+"Polk County, Iowa",2264,19,153,2023
+"Pottawattamie County, Iowa",140,19,155,2023
+"Poweshiek County, Iowa",48,19,157,2023
+"Ringgold County, Iowa",33,19,159,2023
+"Sac County, Iowa",10,19,161,2023
+"Scott County, Iowa",530,19,163,2023
+"Shelby County, Iowa",116,19,165,2023
+"Sioux County, Iowa",15,19,167,2023
+"Story County, Iowa",240,19,169,2023
+"Tama County, Iowa",88,19,171,2023
+"Taylor County, Iowa",0,19,173,2023
+"Union County, Iowa",2,19,175,2023
+"Van Buren County, Iowa",0,19,177,2023
+"Wapello County, Iowa",83,19,179,2023
+"Warren County, Iowa",47,19,181,2023
+"Washington County, Iowa",25,19,183,2023
+"Wayne County, Iowa",16,19,185,2023
+"Webster County, Iowa",122,19,187,2023
+"Winnebago County, Iowa",77,19,189,2023
+"Winneshiek County, Iowa",0,19,191,2023
+"Woodbury County, Iowa",449,19,193,2023
+"Worth County, Iowa",20,19,195,2023
+"Wright County, Iowa",28,19,197,2023
+"Allen County, Kansas",6,20,001,2023
+"Anderson County, Kansas",0,20,003,2023
+"Atchison County, Kansas",11,20,005,2023
+"Barber County, Kansas",0,20,007,2023
+"Barton County, Kansas",40,20,009,2023
+"Bourbon County, Kansas",11,20,011,2023
+"Brown County, Kansas",28,20,013,2023
+"Butler County, Kansas",171,20,015,2023
+"Chase County, Kansas",0,20,017,2023
+"Chautauqua County, Kansas",0,20,019,2023
+"Cherokee County, Kansas",0,20,021,2023
+"Cheyenne County, Kansas",12,20,023,2023
+"Clark County, Kansas",0,20,025,2023
+"Clay County, Kansas",62,20,027,2023
+"Cloud County, Kansas",2,20,029,2023
+"Coffey County, Kansas",6,20,031,2023
+"Comanche County, Kansas",0,20,033,2023
+"Cowley County, Kansas",166,20,035,2023
+"Crawford County, Kansas",153,20,037,2023
+"Decatur County, Kansas",0,20,039,2023
+"Dickinson County, Kansas",142,20,041,2023
+"Doniphan County, Kansas",24,20,043,2023
+"Douglas County, Kansas",842,20,045,2023
+"Edwards County, Kansas",5,20,047,2023
+"Elk County, Kansas",0,20,049,2023
+"Ellis County, Kansas",21,20,051,2023
+"Ellsworth County, Kansas",76,20,053,2023
+"Finney County, Kansas",227,20,055,2023
+"Ford County, Kansas",506,20,057,2023
+"Franklin County, Kansas",99,20,059,2023
+"Geary County, Kansas",1416,20,061,2023
+"Gove County, Kansas",21,20,063,2023
+"Graham County, Kansas",3,20,065,2023
+"Grant County, Kansas",0,20,067,2023
+"Gray County, Kansas",0,20,069,2023
+"Greeley County, Kansas",0,20,071,2023
+"Greenwood County, Kansas",10,20,073,2023
+"Hamilton County, Kansas",0,20,075,2023
+"Harper County, Kansas",0,20,077,2023
+"Harvey County, Kansas",144,20,079,2023
+"Haskell County, Kansas",0,20,081,2023
+"Hodgeman County, Kansas",33,20,083,2023
+"Jackson County, Kansas",0,20,085,2023
+"Jefferson County, Kansas",6,20,087,2023
+"Jewell County, Kansas",0,20,089,2023
+"Johnson County, Kansas",2807,20,091,2023
+"Kearny County, Kansas",7,20,093,2023
+"Kingman County, Kansas",57,20,095,2023
+"Kiowa County, Kansas",5,20,097,2023
+"Labette County, Kansas",186,20,099,2023
+"Lane County, Kansas",0,20,101,2023
+"Leavenworth County, Kansas",905,20,103,2023
+"Lincoln County, Kansas",8,20,105,2023
+"Linn County, Kansas",25,20,107,2023
+"Logan County, Kansas",0,20,109,2023
+"Lyon County, Kansas",58,20,111,2023
+"McPherson County, Kansas",84,20,113,2023
+"Marion County, Kansas",8,20,115,2023
+"Marshall County, Kansas",25,20,117,2023
+"Meade County, Kansas",0,20,119,2023
+"Miami County, Kansas",48,20,121,2023
+"Mitchell County, Kansas",0,20,123,2023
+"Montgomery County, Kansas",166,20,125,2023
+"Morris County, Kansas",8,20,127,2023
+"Morton County, Kansas",0,20,129,2023
+"Nemaha County, Kansas",2,20,131,2023
+"Neosho County, Kansas",7,20,133,2023
+"Ness County, Kansas",0,20,135,2023
+"Norton County, Kansas",0,20,137,2023
+"Osage County, Kansas",0,20,139,2023
+"Osborne County, Kansas",0,20,141,2023
+"Ottawa County, Kansas",19,20,143,2023
+"Pawnee County, Kansas",12,20,145,2023
+"Phillips County, Kansas",26,20,147,2023
+"Pottawatomie County, Kansas",39,20,149,2023
+"Pratt County, Kansas",15,20,151,2023
+"Rawlins County, Kansas",36,20,153,2023
+"Reno County, Kansas",127,20,155,2023
+"Republic County, Kansas",6,20,157,2023
+"Rice County, Kansas",62,20,159,2023
+"Riley County, Kansas",468,20,161,2023
+"Rooks County, Kansas",0,20,163,2023
+"Rush County, Kansas",2,20,165,2023
+"Russell County, Kansas",37,20,167,2023
+"Saline County, Kansas",448,20,169,2023
+"Scott County, Kansas",0,20,171,2023
+"Sedgwick County, Kansas",3421,20,173,2023
+"Seward County, Kansas",119,20,175,2023
+"Shawnee County, Kansas",1720,20,177,2023
+"Sheridan County, Kansas",0,20,179,2023
+"Sherman County, Kansas",0,20,181,2023
+"Smith County, Kansas",2,20,183,2023
+"Stafford County, Kansas",0,20,185,2023
+"Stanton County, Kansas",0,20,187,2023
+"Stevens County, Kansas",0,20,189,2023
+"Sumner County, Kansas",60,20,191,2023
+"Thomas County, Kansas",0,20,193,2023
+"Trego County, Kansas",0,20,195,2023
+"Wabaunsee County, Kansas",41,20,197,2023
+"Wallace County, Kansas",13,20,199,2023
+"Washington County, Kansas",6,20,201,2023
+"Wichita County, Kansas",0,20,203,2023
+"Wilson County, Kansas",13,20,205,2023
+"Woodson County, Kansas",0,20,207,2023
+"Wyandotte County, Kansas",1394,20,209,2023
+"Adair County, Kentucky",0,21,001,2023
+"Allen County, Kentucky",35,21,003,2023
+"Anderson County, Kentucky",24,21,005,2023
+"Ballard County, Kentucky",0,21,007,2023
+"Barren County, Kentucky",179,21,009,2023
+"Bath County, Kentucky",0,21,011,2023
+"Bell County, Kentucky",0,21,013,2023
+"Boone County, Kentucky",926,21,015,2023
+"Bourbon County, Kentucky",34,21,017,2023
+"Boyd County, Kentucky",44,21,019,2023
+"Boyle County, Kentucky",210,21,021,2023
+"Bracken County, Kentucky",45,21,023,2023
+"Breathitt County, Kentucky",9,21,025,2023
+"Breckinridge County, Kentucky",13,21,027,2023
+"Bullitt County, Kentucky",443,21,029,2023
+"Butler County, Kentucky",8,21,031,2023
+"Caldwell County, Kentucky",0,21,033,2023
+"Calloway County, Kentucky",213,21,035,2023
+"Campbell County, Kentucky",255,21,037,2023
+"Carlisle County, Kentucky",0,21,039,2023
+"Carroll County, Kentucky",0,21,041,2023
+"Carter County, Kentucky",40,21,043,2023
+"Casey County, Kentucky",39,21,045,2023
+"Christian County, Kentucky",1136,21,047,2023
+"Clark County, Kentucky",208,21,049,2023
+"Clay County, Kentucky",3,21,051,2023
+"Clinton County, Kentucky",10,21,053,2023
+"Crittenden County, Kentucky",0,21,055,2023
+"Cumberland County, Kentucky",9,21,057,2023
+"Daviess County, Kentucky",445,21,059,2023
+"Edmonson County, Kentucky",0,21,061,2023
+"Elliott County, Kentucky",74,21,063,2023
+"Estill County, Kentucky",0,21,065,2023
+"Fayette County, Kentucky",2119,21,067,2023
+"Fleming County, Kentucky",3,21,069,2023
+"Floyd County, Kentucky",25,21,071,2023
+"Franklin County, Kentucky",157,21,073,2023
+"Fulton County, Kentucky",19,21,075,2023
+"Gallatin County, Kentucky",0,21,077,2023
+"Garrard County, Kentucky",49,21,079,2023
+"Grant County, Kentucky",134,21,081,2023
+"Graves County, Kentucky",93,21,083,2023
+"Grayson County, Kentucky",3,21,085,2023
+"Green County, Kentucky",35,21,087,2023
+"Greenup County, Kentucky",7,21,089,2023
+"Hancock County, Kentucky",2,21,091,2023
+"Hardin County, Kentucky",2252,21,093,2023
+"Harlan County, Kentucky",3,21,095,2023
+"Harrison County, Kentucky",26,21,097,2023
+"Hart County, Kentucky",58,21,099,2023
+"Henderson County, Kentucky",73,21,101,2023
+"Henry County, Kentucky",29,21,103,2023
+"Hickman County, Kentucky",0,21,105,2023
+"Hopkins County, Kentucky",37,21,107,2023
+"Jackson County, Kentucky",6,21,109,2023
+"Jefferson County, Kentucky",3408,21,111,2023
+"Jessamine County, Kentucky",61,21,113,2023
+"Johnson County, Kentucky",13,21,115,2023
+"Kenton County, Kentucky",744,21,117,2023
+"Knott County, Kentucky",39,21,119,2023
+"Knox County, Kentucky",5,21,121,2023
+"Larue County, Kentucky",0,21,123,2023
+"Laurel County, Kentucky",236,21,125,2023
+"Lawrence County, Kentucky",0,21,127,2023
+"Lee County, Kentucky",0,21,129,2023
+"Leslie County, Kentucky",0,21,131,2023
+"Letcher County, Kentucky",117,21,133,2023
+"Lewis County, Kentucky",0,21,135,2023
+"Lincoln County, Kentucky",8,21,137,2023
+"Livingston County, Kentucky",72,21,139,2023
+"Logan County, Kentucky",58,21,141,2023
+"Lyon County, Kentucky",6,21,143,2023
+"McCracken County, Kentucky",309,21,145,2023
+"McCreary County, Kentucky",18,21,147,2023
+"McLean County, Kentucky",26,21,149,2023
+"Madison County, Kentucky",395,21,151,2023
+"Magoffin County, Kentucky",0,21,153,2023
+"Marion County, Kentucky",15,21,155,2023
+"Marshall County, Kentucky",53,21,157,2023
+"Martin County, Kentucky",20,21,159,2023
+"Mason County, Kentucky",105,21,161,2023
+"Meade County, Kentucky",329,21,163,2023
+"Menifee County, Kentucky",0,21,165,2023
+"Mercer County, Kentucky",14,21,167,2023
+"Metcalfe County, Kentucky",57,21,169,2023
+"Monroe County, Kentucky",0,21,171,2023
+"Montgomery County, Kentucky",4,21,173,2023
+"Morgan County, Kentucky",8,21,175,2023
+"Muhlenberg County, Kentucky",61,21,177,2023
+"Nelson County, Kentucky",163,21,179,2023
+"Nicholas County, Kentucky",0,21,181,2023
+"Ohio County, Kentucky",84,21,183,2023
+"Oldham County, Kentucky",324,21,185,2023
+"Owen County, Kentucky",30,21,187,2023
+"Owsley County, Kentucky",0,21,189,2023
+"Pendleton County, Kentucky",0,21,191,2023
+"Perry County, Kentucky",34,21,193,2023
+"Pike County, Kentucky",116,21,195,2023
+"Powell County, Kentucky",0,21,197,2023
+"Pulaski County, Kentucky",114,21,199,2023
+"Robertson County, Kentucky",5,21,201,2023
+"Rockcastle County, Kentucky",0,21,203,2023
+"Rowan County, Kentucky",108,21,205,2023
+"Russell County, Kentucky",4,21,207,2023
+"Scott County, Kentucky",288,21,209,2023
+"Shelby County, Kentucky",454,21,211,2023
+"Simpson County, Kentucky",30,21,213,2023
+"Spencer County, Kentucky",169,21,215,2023
+"Taylor County, Kentucky",256,21,217,2023
+"Todd County, Kentucky",82,21,219,2023
+"Trigg County, Kentucky",106,21,221,2023
+"Trimble County, Kentucky",123,21,223,2023
+"Union County, Kentucky",40,21,225,2023
+"Warren County, Kentucky",244,21,227,2023
+"Washington County, Kentucky",0,21,229,2023
+"Wayne County, Kentucky",234,21,231,2023
+"Webster County, Kentucky",0,21,233,2023
+"Whitley County, Kentucky",246,21,235,2023
+"Wolfe County, Kentucky",0,21,237,2023
+"Woodford County, Kentucky",44,21,239,2023
+"Acadia Parish, Louisiana",7,22,001,2023
+"Allen Parish, Louisiana",0,22,003,2023
+"Ascension Parish, Louisiana",267,22,005,2023
+"Assumption Parish, Louisiana",0,22,007,2023
+"Avoyelles Parish, Louisiana",38,22,009,2023
+"Beauregard Parish, Louisiana",273,22,011,2023
+"Bienville Parish, Louisiana",3,22,013,2023
+"Bossier Parish, Louisiana",373,22,015,2023
+"Caddo Parish, Louisiana",722,22,017,2023
+"Calcasieu Parish, Louisiana",682,22,019,2023
+"Caldwell Parish, Louisiana",0,22,021,2023
+"Cameron Parish, Louisiana",0,22,023,2023
+"Catahoula Parish, Louisiana",15,22,025,2023
+"Claiborne Parish, Louisiana",13,22,027,2023
+"Concordia Parish, Louisiana",13,22,029,2023
+"De Soto Parish, Louisiana",86,22,031,2023
+"East Baton Rouge Parish, Louisiana",1784,22,033,2023
+"East Carroll Parish, Louisiana",0,22,035,2023
+"East Feliciana Parish, Louisiana",0,22,037,2023
+"Evangeline Parish, Louisiana",1,22,039,2023
+"Franklin Parish, Louisiana",111,22,041,2023
+"Grant Parish, Louisiana",89,22,043,2023
+"Iberia Parish, Louisiana",395,22,045,2023
+"Iberville Parish, Louisiana",198,22,047,2023
+"Jackson Parish, Louisiana",92,22,049,2023
+"Jefferson Parish, Louisiana",3720,22,051,2023
+"Jefferson Davis Parish, Louisiana",0,22,053,2023
+"Lafayette Parish, Louisiana",767,22,055,2023
+"Lafourche Parish, Louisiana",74,22,057,2023
+"LaSalle Parish, Louisiana",133,22,059,2023
+"Lincoln Parish, Louisiana",51,22,061,2023
+"Livingston Parish, Louisiana",287,22,063,2023
+"Madison Parish, Louisiana",3,22,065,2023
+"Morehouse Parish, Louisiana",20,22,067,2023
+"Natchitoches Parish, Louisiana",107,22,069,2023
+"Orleans Parish, Louisiana",1617,22,071,2023
+"Ouachita Parish, Louisiana",269,22,073,2023
+"Plaquemines Parish, Louisiana",427,22,075,2023
+"Pointe Coupee Parish, Louisiana",0,22,077,2023
+"Rapides Parish, Louisiana",335,22,079,2023
+"Red River Parish, Louisiana",0,22,081,2023
+"Richland Parish, Louisiana",58,22,083,2023
+"Sabine Parish, Louisiana",24,22,085,2023
+"St. Bernard Parish, Louisiana",170,22,087,2023
+"St. Charles Parish, Louisiana",128,22,089,2023
+"St. Helena Parish, Louisiana",0,22,091,2023
+"St. James Parish, Louisiana",0,22,093,2023
+"St. John the Baptist Parish, Louisiana",496,22,095,2023
+"St. Landry Parish, Louisiana",29,22,097,2023
+"St. Martin Parish, Louisiana",42,22,099,2023
+"St. Mary Parish, Louisiana",127,22,101,2023
+"St. Tammany Parish, Louisiana",1408,22,103,2023
+"Tangipahoa Parish, Louisiana",336,22,105,2023
+"Tensas Parish, Louisiana",0,22,107,2023
+"Terrebonne Parish, Louisiana",718,22,109,2023
+"Union Parish, Louisiana",19,22,111,2023
+"Vermilion Parish, Louisiana",10,22,113,2023
+"Vernon Parish, Louisiana",1023,22,115,2023
+"Washington Parish, Louisiana",468,22,117,2023
+"Webster Parish, Louisiana",73,22,119,2023
+"West Baton Rouge Parish, Louisiana",41,22,121,2023
+"West Carroll Parish, Louisiana",0,22,123,2023
+"West Feliciana Parish, Louisiana",31,22,125,2023
+"Winn Parish, Louisiana",0,22,127,2023
+"Androscoggin County, Maine",685,23,001,2023
+"Aroostook County, Maine",215,23,003,2023
+"Cumberland County, Maine",1481,23,005,2023
+"Franklin County, Maine",113,23,007,2023
+"Hancock County, Maine",555,23,009,2023
+"Kennebec County, Maine",616,23,011,2023
+"Knox County, Maine",103,23,013,2023
+"Lincoln County, Maine",83,23,015,2023
+"Oxford County, Maine",240,23,017,2023
+"Penobscot County, Maine",587,23,019,2023
+"Piscataquis County, Maine",14,23,021,2023
+"Sagadahoc County, Maine",177,23,023,2023
+"Somerset County, Maine",212,23,025,2023
+"Waldo County, Maine",237,23,027,2023
+"Washington County, Maine",194,23,029,2023
+"York County, Maine",1308,23,031,2023
+"Allegany County, Maryland",159,24,001,2023
+"Anne Arundel County, Maryland",9785,24,003,2023
+"Baltimore County, Maryland",9599,24,005,2023
+"Calvert County, Maryland",1419,24,009,2023
+"Caroline County, Maryland",221,24,011,2023
+"Carroll County, Maryland",1242,24,013,2023
+"Cecil County, Maryland",1773,24,015,2023
+"Charles County, Maryland",2277,24,017,2023
+"Dorchester County, Maryland",686,24,019,2023
+"Frederick County, Maryland",3675,24,021,2023
+"Garrett County, Maryland",29,24,023,2023
+"Harford County, Maryland",3177,24,025,2023
+"Howard County, Maryland",3693,24,027,2023
+"Kent County, Maryland",59,24,029,2023
+"Montgomery County, Maryland",11389,24,031,2023
+"Prince George's County, Maryland",8370,24,033,2023
+"Queen Anne's County, Maryland",168,24,035,2023
+"St. Mary's County, Maryland",929,24,037,2023
+"Somerset County, Maryland",50,24,039,2023
+"Talbot County, Maryland",124,24,041,2023
+"Washington County, Maryland",2396,24,043,2023
+"Wicomico County, Maryland",703,24,045,2023
+"Worcester County, Maryland",197,24,047,2023
+"Baltimore city, Maryland",6022,24,510,2023
+"Barnstable County, Massachusetts",1895,25,001,2023
+"Berkshire County, Massachusetts",2322,25,003,2023
+"Bristol County, Massachusetts",28244,25,005,2023
+"Dukes County, Massachusetts",189,25,007,2023
+"Essex County, Massachusetts",37451,25,009,2023
+"Franklin County, Massachusetts",1475,25,011,2023
+"Hampden County, Massachusetts",99503,25,013,2023
+"Hampshire County, Massachusetts",5158,25,015,2023
+"Middlesex County, Massachusetts",37505,25,017,2023
+"Nantucket County, Massachusetts",38,25,019,2023
+"Norfolk County, Massachusetts",9590,25,021,2023
+"Plymouth County, Massachusetts",8973,25,023,2023
+"Suffolk County, Massachusetts",34396,25,025,2023
+"Worcester County, Massachusetts",61802,25,027,2023
+"Alcona County, Michigan",10,26,001,2023
+"Alger County, Michigan",10,26,003,2023
+"Allegan County, Michigan",489,26,005,2023
+"Alpena County, Michigan",116,26,007,2023
+"Antrim County, Michigan",36,26,009,2023
+"Arenac County, Michigan",12,26,011,2023
+"Baraga County, Michigan",41,26,013,2023
+"Barry County, Michigan",254,26,015,2023
+"Bay County, Michigan",78,26,017,2023
+"Benzie County, Michigan",79,26,019,2023
+"Berrien County, Michigan",780,26,021,2023
+"Branch County, Michigan",151,26,023,2023
+"Calhoun County, Michigan",636,26,025,2023
+"Cass County, Michigan",100,26,027,2023
+"Charlevoix County, Michigan",77,26,029,2023
+"Cheboygan County, Michigan",66,26,031,2023
+"Chippewa County, Michigan",72,26,033,2023
+"Clare County, Michigan",30,26,035,2023
+"Clinton County, Michigan",436,26,037,2023
+"Crawford County, Michigan",15,26,039,2023
+"Delta County, Michigan",82,26,041,2023
+"Dickinson County, Michigan",10,26,043,2023
+"Eaton County, Michigan",515,26,045,2023
+"Emmet County, Michigan",174,26,047,2023
+"Genesee County, Michigan",1139,26,049,2023
+"Gladwin County, Michigan",0,26,051,2023
+"Gogebic County, Michigan",35,26,053,2023
+"Grand Traverse County, Michigan",237,26,055,2023
+"Gratiot County, Michigan",226,26,057,2023
+"Hillsdale County, Michigan",96,26,059,2023
+"Houghton County, Michigan",50,26,061,2023
+"Huron County, Michigan",99,26,063,2023
+"Ingham County, Michigan",1406,26,065,2023
+"Ionia County, Michigan",299,26,067,2023
+"Iosco County, Michigan",81,26,069,2023
+"Iron County, Michigan",35,26,071,2023
+"Isabella County, Michigan",283,26,073,2023
+"Jackson County, Michigan",606,26,075,2023
+"Kalamazoo County, Michigan",1026,26,077,2023
+"Kalkaska County, Michigan",68,26,079,2023
+"Kent County, Michigan",7513,26,081,2023
+"Keweenaw County, Michigan",0,26,083,2023
+"Lake County, Michigan",292,26,085,2023
+"Lapeer County, Michigan",790,26,087,2023
+"Leelanau County, Michigan",10,26,089,2023
+"Lenawee County, Michigan",739,26,091,2023
+"Livingston County, Michigan",329,26,093,2023
+"Luce County, Michigan",5,26,095,2023
+"Mackinac County, Michigan",12,26,097,2023
+"Macomb County, Michigan",3107,26,099,2023
+"Manistee County, Michigan",44,26,101,2023
+"Marquette County, Michigan",115,26,103,2023
+"Mason County, Michigan",84,26,105,2023
+"Mecosta County, Michigan",126,26,107,2023
+"Menominee County, Michigan",26,26,109,2023
+"Midland County, Michigan",182,26,111,2023
+"Missaukee County, Michigan",16,26,113,2023
+"Monroe County, Michigan",516,26,115,2023
+"Montcalm County, Michigan",421,26,117,2023
+"Montmorency County, Michigan",20,26,119,2023
+"Muskegon County, Michigan",860,26,121,2023
+"Newaygo County, Michigan",162,26,123,2023
+"Oakland County, Michigan",7348,26,125,2023
+"Oceana County, Michigan",29,26,127,2023
+"Ogemaw County, Michigan",49,26,129,2023
+"Ontonagon County, Michigan",19,26,131,2023
+"Osceola County, Michigan",100,26,133,2023
+"Oscoda County, Michigan",40,26,135,2023
+"Otsego County, Michigan",14,26,137,2023
+"Ottawa County, Michigan",1763,26,139,2023
+"Presque Isle County, Michigan",10,26,141,2023
+"Roscommon County, Michigan",69,26,143,2023
+"Saginaw County, Michigan",948,26,145,2023
+"St. Clair County, Michigan",279,26,147,2023
+"St. Joseph County, Michigan",182,26,149,2023
+"Sanilac County, Michigan",77,26,151,2023
+"Schoolcraft County, Michigan",14,26,153,2023
+"Shiawassee County, Michigan",131,26,155,2023
+"Tuscola County, Michigan",50,26,157,2023
+"Van Buren County, Michigan",351,26,159,2023
+"Washtenaw County, Michigan",2239,26,161,2023
+"Wayne County, Michigan",13379,26,163,2023
+"Wexford County, Michigan",135,26,165,2023
+"Aitkin County, Minnesota",51,27,001,2023
+"Anoka County, Minnesota",1166,27,003,2023
+"Becker County, Minnesota",23,27,005,2023
+"Beltrami County, Minnesota",101,27,007,2023
+"Benton County, Minnesota",63,27,009,2023
+"Big Stone County, Minnesota",11,27,011,2023
+"Blue Earth County, Minnesota",97,27,013,2023
+"Brown County, Minnesota",64,27,015,2023
+"Carlton County, Minnesota",17,27,017,2023
+"Carver County, Minnesota",297,27,019,2023
+"Cass County, Minnesota",15,27,021,2023
+"Chippewa County, Minnesota",15,27,023,2023
+"Chisago County, Minnesota",207,27,025,2023
+"Clay County, Minnesota",280,27,027,2023
+"Clearwater County, Minnesota",1,27,029,2023
+"Cook County, Minnesota",38,27,031,2023
+"Cottonwood County, Minnesota",111,27,033,2023
+"Crow Wing County, Minnesota",31,27,035,2023
+"Dakota County, Minnesota",2195,27,037,2023
+"Dodge County, Minnesota",18,27,039,2023
+"Douglas County, Minnesota",29,27,041,2023
+"Faribault County, Minnesota",26,27,043,2023
+"Fillmore County, Minnesota",0,27,045,2023
+"Freeborn County, Minnesota",65,27,047,2023
+"Goodhue County, Minnesota",1,27,049,2023
+"Grant County, Minnesota",15,27,051,2023
+"Hennepin County, Minnesota",4439,27,053,2023
+"Houston County, Minnesota",0,27,055,2023
+"Hubbard County, Minnesota",27,27,057,2023
+"Isanti County, Minnesota",9,27,059,2023
+"Itasca County, Minnesota",75,27,061,2023
+"Jackson County, Minnesota",1,27,063,2023
+"Kanabec County, Minnesota",57,27,065,2023
+"Kandiyohi County, Minnesota",55,27,067,2023
+"Kittson County, Minnesota",35,27,069,2023
+"Koochiching County, Minnesota",13,27,071,2023
+"Lac qui Parle County, Minnesota",10,27,073,2023
+"Lake County, Minnesota",20,27,075,2023
+"Lake of the Woods County, Minnesota",0,27,077,2023
+"Le Sueur County, Minnesota",25,27,079,2023
+"Lincoln County, Minnesota",28,27,081,2023
+"Lyon County, Minnesota",53,27,083,2023
+"McLeod County, Minnesota",86,27,085,2023
+"Mahnomen County, Minnesota",18,27,087,2023
+"Marshall County, Minnesota",7,27,089,2023
+"Martin County, Minnesota",77,27,091,2023
+"Meeker County, Minnesota",6,27,093,2023
+"Mille Lacs County, Minnesota",6,27,095,2023
+"Morrison County, Minnesota",166,27,097,2023
+"Mower County, Minnesota",39,27,099,2023
+"Murray County, Minnesota",16,27,101,2023
+"Nicollet County, Minnesota",31,27,103,2023
+"Nobles County, Minnesota",213,27,105,2023
+"Norman County, Minnesota",32,27,107,2023
+"Olmsted County, Minnesota",629,27,109,2023
+"Otter Tail County, Minnesota",87,27,111,2023
+"Pennington County, Minnesota",10,27,113,2023
+"Pine County, Minnesota",21,27,115,2023
+"Pipestone County, Minnesota",91,27,117,2023
+"Polk County, Minnesota",63,27,119,2023
+"Pope County, Minnesota",36,27,121,2023
+"Ramsey County, Minnesota",2053,27,123,2023
+"Red Lake County, Minnesota",2,27,125,2023
+"Redwood County, Minnesota",13,27,127,2023
+"Renville County, Minnesota",0,27,129,2023
+"Rice County, Minnesota",58,27,131,2023
+"Rock County, Minnesota",22,27,133,2023
+"Roseau County, Minnesota",80,27,135,2023
+"St. Louis County, Minnesota",305,27,137,2023
+"Scott County, Minnesota",795,27,139,2023
+"Sherburne County, Minnesota",156,27,141,2023
+"Sibley County, Minnesota",93,27,143,2023
+"Stearns County, Minnesota",907,27,145,2023
+"Steele County, Minnesota",149,27,147,2023
+"Stevens County, Minnesota",32,27,149,2023
+"Swift County, Minnesota",34,27,151,2023
+"Todd County, Minnesota",333,27,153,2023
+"Traverse County, Minnesota",34,27,155,2023
+"Wabasha County, Minnesota",84,27,157,2023
+"Wadena County, Minnesota",31,27,159,2023
+"Waseca County, Minnesota",3,27,161,2023
+"Washington County, Minnesota",855,27,163,2023
+"Watonwan County, Minnesota",57,27,165,2023
+"Wilkin County, Minnesota",0,27,167,2023
+"Winona County, Minnesota",168,27,169,2023
+"Wright County, Minnesota",163,27,171,2023
+"Yellow Medicine County, Minnesota",24,27,173,2023
+"Adams County, Mississippi",24,28,001,2023
+"Alcorn County, Mississippi",20,28,003,2023
+"Amite County, Mississippi",0,28,005,2023
+"Attala County, Mississippi",16,28,007,2023
+"Benton County, Mississippi",1,28,009,2023
+"Bolivar County, Mississippi",49,28,011,2023
+"Calhoun County, Mississippi",52,28,013,2023
+"Carroll County, Mississippi",7,28,015,2023
+"Chickasaw County, Mississippi",125,28,017,2023
+"Choctaw County, Mississippi",13,28,019,2023
+"Claiborne County, Mississippi",15,28,021,2023
+"Clarke County, Mississippi",0,28,023,2023
+"Clay County, Mississippi",0,28,025,2023
+"Coahoma County, Mississippi",6,28,027,2023
+"Copiah County, Mississippi",0,28,029,2023
+"Covington County, Mississippi",34,28,031,2023
+"DeSoto County, Mississippi",663,28,033,2023
+"Forrest County, Mississippi",480,28,035,2023
+"Franklin County, Mississippi",0,28,037,2023
+"George County, Mississippi",62,28,039,2023
+"Greene County, Mississippi",5,28,041,2023
+"Grenada County, Mississippi",0,28,043,2023
+"Hancock County, Mississippi",70,28,045,2023
+"Harrison County, Mississippi",1664,28,047,2023
+"Hinds County, Mississippi",470,28,049,2023
+"Holmes County, Mississippi",0,28,051,2023
+"Humphreys County, Mississippi",0,28,053,2023
+"Issaquena County, Mississippi",14,28,055,2023
+"Itawamba County, Mississippi",1,28,057,2023
+"Jackson County, Mississippi",3716,28,059,2023
+"Jasper County, Mississippi",0,28,061,2023
+"Jefferson County, Mississippi",0,28,063,2023
+"Jefferson Davis County, Mississippi",0,28,065,2023
+"Jones County, Mississippi",50,28,067,2023
+"Kemper County, Mississippi",0,28,069,2023
+"Lafayette County, Mississippi",103,28,071,2023
+"Lamar County, Mississippi",658,28,073,2023
+"Lauderdale County, Mississippi",146,28,075,2023
+"Lawrence County, Mississippi",0,28,077,2023
+"Leake County, Mississippi",8,28,079,2023
+"Lee County, Mississippi",5,28,081,2023
+"Leflore County, Mississippi",0,28,083,2023
+"Lincoln County, Mississippi",0,28,085,2023
+"Lowndes County, Mississippi",6,28,087,2023
+"Madison County, Mississippi",36,28,089,2023
+"Marion County, Mississippi",101,28,091,2023
+"Marshall County, Mississippi",68,28,093,2023
+"Monroe County, Mississippi",9,28,095,2023
+"Montgomery County, Mississippi",9,28,097,2023
+"Neshoba County, Mississippi",38,28,099,2023
+"Newton County, Mississippi",40,28,101,2023
+"Noxubee County, Mississippi",0,28,103,2023
+"Oktibbeha County, Mississippi",22,28,105,2023
+"Panola County, Mississippi",32,28,107,2023
+"Pearl River County, Mississippi",183,28,109,2023
+"Perry County, Mississippi",0,28,111,2023
+"Pike County, Mississippi",44,28,113,2023
+"Pontotoc County, Mississippi",40,28,115,2023
+"Prentiss County, Mississippi",0,28,117,2023
+"Quitman County, Mississippi",11,28,119,2023
+"Rankin County, Mississippi",210,28,121,2023
+"Scott County, Mississippi",50,28,123,2023
+"Sharkey County, Mississippi",0,28,125,2023
+"Simpson County, Mississippi",24,28,127,2023
+"Smith County, Mississippi",0,28,129,2023
+"Stone County, Mississippi",79,28,131,2023
+"Sunflower County, Mississippi",88,28,133,2023
+"Tallahatchie County, Mississippi",34,28,135,2023
+"Tate County, Mississippi",0,28,137,2023
+"Tippah County, Mississippi",133,28,139,2023
+"Tishomingo County, Mississippi",6,28,141,2023
+"Tunica County, Mississippi",0,28,143,2023
+"Union County, Mississippi",0,28,145,2023
+"Walthall County, Mississippi",5,28,147,2023
+"Warren County, Mississippi",52,28,149,2023
+"Washington County, Mississippi",19,28,151,2023
+"Wayne County, Mississippi",0,28,153,2023
+"Webster County, Mississippi",3,28,155,2023
+"Wilkinson County, Mississippi",0,28,157,2023
+"Winston County, Mississippi",8,28,159,2023
+"Yalobusha County, Mississippi",12,28,161,2023
+"Yazoo County, Mississippi",56,28,163,2023
+"Adair County, Missouri",33,29,001,2023
+"Andrew County, Missouri",2,29,003,2023
+"Atchison County, Missouri",11,29,005,2023
+"Audrain County, Missouri",0,29,007,2023
+"Barry County, Missouri",228,29,009,2023
+"Barton County, Missouri",66,29,011,2023
+"Bates County, Missouri",15,29,013,2023
+"Benton County, Missouri",6,29,015,2023
+"Bollinger County, Missouri",13,29,017,2023
+"Boone County, Missouri",398,29,019,2023
+"Buchanan County, Missouri",486,29,021,2023
+"Butler County, Missouri",36,29,023,2023
+"Caldwell County, Missouri",36,29,025,2023
+"Callaway County, Missouri",61,29,027,2023
+"Camden County, Missouri",87,29,029,2023
+"Cape Girardeau County, Missouri",322,29,031,2023
+"Carroll County, Missouri",0,29,033,2023
+"Carter County, Missouri",0,29,035,2023
+"Cass County, Missouri",849,29,037,2023
+"Cedar County, Missouri",0,29,039,2023
+"Chariton County, Missouri",0,29,041,2023
+"Christian County, Missouri",200,29,043,2023
+"Clark County, Missouri",2,29,045,2023
+"Clay County, Missouri",1980,29,047,2023
+"Clinton County, Missouri",0,29,049,2023
+"Cole County, Missouri",217,29,051,2023
+"Cooper County, Missouri",23,29,053,2023
+"Crawford County, Missouri",0,29,055,2023
+"Dade County, Missouri",0,29,057,2023
+"Dallas County, Missouri",25,29,059,2023
+"Daviess County, Missouri",28,29,061,2023
+"DeKalb County, Missouri",15,29,063,2023
+"Dent County, Missouri",33,29,065,2023
+"Douglas County, Missouri",14,29,067,2023
+"Dunklin County, Missouri",0,29,069,2023
+"Franklin County, Missouri",251,29,071,2023
+"Gasconade County, Missouri",0,29,073,2023
+"Gentry County, Missouri",9,29,075,2023
+"Greene County, Missouri",2186,29,077,2023
+"Grundy County, Missouri",2,29,079,2023
+"Harrison County, Missouri",0,29,081,2023
+"Henry County, Missouri",42,29,083,2023
+"Hickory County, Missouri",83,29,085,2023
+"Holt County, Missouri",0,29,087,2023
+"Howard County, Missouri",7,29,089,2023
+"Howell County, Missouri",19,29,091,2023
+"Iron County, Missouri",38,29,093,2023
+"Jackson County, Missouri",2933,29,095,2023
+"Jasper County, Missouri",581,29,097,2023
+"Jefferson County, Missouri",558,29,099,2023
+"Johnson County, Missouri",433,29,101,2023
+"Knox County, Missouri",0,29,103,2023
+"Laclede County, Missouri",34,29,105,2023
+"Lafayette County, Missouri",117,29,107,2023
+"Lawrence County, Missouri",250,29,109,2023
+"Lewis County, Missouri",0,29,111,2023
+"Lincoln County, Missouri",141,29,113,2023
+"Linn County, Missouri",2,29,115,2023
+"Livingston County, Missouri",61,29,117,2023
+"McDonald County, Missouri",3,29,119,2023
+"Macon County, Missouri",6,29,121,2023
+"Madison County, Missouri",173,29,123,2023
+"Maries County, Missouri",21,29,125,2023
+"Marion County, Missouri",0,29,127,2023
+"Mercer County, Missouri",5,29,129,2023
+"Miller County, Missouri",12,29,131,2023
+"Mississippi County, Missouri",34,29,133,2023
+"Moniteau County, Missouri",65,29,135,2023
+"Monroe County, Missouri",0,29,137,2023
+"Montgomery County, Missouri",39,29,139,2023
+"Morgan County, Missouri",26,29,141,2023
+"New Madrid County, Missouri",18,29,143,2023
+"Newton County, Missouri",113,29,145,2023
+"Nodaway County, Missouri",89,29,147,2023
+"Oregon County, Missouri",0,29,149,2023
+"Osage County, Missouri",77,29,151,2023
+"Ozark County, Missouri",8,29,153,2023
+"Pemiscot County, Missouri",0,29,155,2023
+"Perry County, Missouri",0,29,157,2023
+"Pettis County, Missouri",184,29,159,2023
+"Phelps County, Missouri",77,29,161,2023
+"Pike County, Missouri",8,29,163,2023
+"Platte County, Missouri",677,29,165,2023
+"Polk County, Missouri",264,29,167,2023
+"Pulaski County, Missouri",1706,29,169,2023
+"Putnam County, Missouri",0,29,171,2023
+"Ralls County, Missouri",6,29,173,2023
+"Randolph County, Missouri",0,29,175,2023
+"Ray County, Missouri",72,29,177,2023
+"Reynolds County, Missouri",50,29,179,2023
+"Ripley County, Missouri",2,29,181,2023
+"St. Charles County, Missouri",1403,29,183,2023
+"St. Clair County, Missouri",0,29,185,2023
+"Ste. Genevieve County, Missouri",61,29,186,2023
+"St. Francois County, Missouri",190,29,187,2023
+"St. Louis County, Missouri",2087,29,189,2023
+"Saline County, Missouri",14,29,195,2023
+"Schuyler County, Missouri",0,29,197,2023
+"Scotland County, Missouri",0,29,199,2023
+"Scott County, Missouri",66,29,201,2023
+"Shannon County, Missouri",10,29,203,2023
+"Shelby County, Missouri",22,29,205,2023
+"Stoddard County, Missouri",18,29,207,2023
+"Stone County, Missouri",21,29,209,2023
+"Sullivan County, Missouri",104,29,211,2023
+"Taney County, Missouri",619,29,213,2023
+"Texas County, Missouri",85,29,215,2023
+"Vernon County, Missouri",38,29,217,2023
+"Warren County, Missouri",342,29,219,2023
+"Washington County, Missouri",2,29,221,2023
+"Wayne County, Missouri",0,29,223,2023
+"Webster County, Missouri",41,29,225,2023
+"Worth County, Missouri",0,29,227,2023
+"Wright County, Missouri",80,29,229,2023
+"St. Louis city, Missouri",911,29,510,2023
+"Beaverhead County, Montana",1,30,001,2023
+"Big Horn County, Montana",11,30,003,2023
+"Blaine County, Montana",29,30,005,2023
+"Broadwater County, Montana",0,30,007,2023
+"Carbon County, Montana",5,30,009,2023
+"Carter County, Montana",0,30,011,2023
+"Cascade County, Montana",581,30,013,2023
+"Chouteau County, Montana",0,30,015,2023
+"Custer County, Montana",15,30,017,2023
+"Daniels County, Montana",0,30,019,2023
+"Dawson County, Montana",0,30,021,2023
+"Deer Lodge County, Montana",4,30,023,2023
+"Fallon County, Montana",0,30,025,2023
+"Fergus County, Montana",1,30,027,2023
+"Flathead County, Montana",256,30,029,2023
+"Gallatin County, Montana",343,30,031,2023
+"Garfield County, Montana",0,30,033,2023
+"Glacier County, Montana",10,30,035,2023
+"Golden Valley County, Montana",0,30,037,2023
+"Granite County, Montana",5,30,039,2023
+"Hill County, Montana",13,30,041,2023
+"Jefferson County, Montana",8,30,043,2023
+"Judith Basin County, Montana",0,30,045,2023
+"Lake County, Montana",51,30,047,2023
+"Lewis and Clark County, Montana",297,30,049,2023
+"Liberty County, Montana",0,30,051,2023
+"Lincoln County, Montana",30,30,053,2023
+"McCone County, Montana",0,30,055,2023
+"Madison County, Montana",0,30,057,2023
+"Meagher County, Montana",3,30,059,2023
+"Mineral County, Montana",8,30,061,2023
+"Missoula County, Montana",236,30,063,2023
+"Musselshell County, Montana",43,30,065,2023
+"Park County, Montana",0,30,067,2023
+"Petroleum County, Montana",0,30,069,2023
+"Phillips County, Montana",0,30,071,2023
+"Pondera County, Montana",0,30,073,2023
+"Powder River County, Montana",0,30,075,2023
+"Powell County, Montana",0,30,077,2023
+"Prairie County, Montana",0,30,079,2023
+"Ravalli County, Montana",62,30,081,2023
+"Richland County, Montana",0,30,083,2023
+"Roosevelt County, Montana",0,30,085,2023
+"Rosebud County, Montana",15,30,087,2023
+"Sanders County, Montana",49,30,089,2023
+"Sheridan County, Montana",0,30,091,2023
+"Silver Bow County, Montana",31,30,093,2023
+"Stillwater County, Montana",57,30,095,2023
+"Sweet Grass County, Montana",0,30,097,2023
+"Teton County, Montana",58,30,099,2023
+"Toole County, Montana",6,30,101,2023
+"Treasure County, Montana",2,30,103,2023
+"Valley County, Montana",7,30,105,2023
+"Wheatland County, Montana",1,30,107,2023
+"Wibaux County, Montana",0,30,109,2023
+"Yellowstone County, Montana",395,30,111,2023
+"Adams County, Nebraska",113,31,001,2023
+"Antelope County, Nebraska",0,31,003,2023
+"Arthur County, Nebraska",0,31,005,2023
+"Banner County, Nebraska",0,31,007,2023
+"Blaine County, Nebraska",0,31,009,2023
+"Boone County, Nebraska",0,31,011,2023
+"Box Butte County, Nebraska",6,31,013,2023
+"Boyd County, Nebraska",1,31,015,2023
+"Brown County, Nebraska",0,31,017,2023
+"Buffalo County, Nebraska",49,31,019,2023
+"Burt County, Nebraska",0,31,021,2023
+"Butler County, Nebraska",0,31,023,2023
+"Cass County, Nebraska",58,31,025,2023
+"Cedar County, Nebraska",0,31,027,2023
+"Chase County, Nebraska",0,31,029,2023
+"Cherry County, Nebraska",0,31,031,2023
+"Cheyenne County, Nebraska",77,31,033,2023
+"Clay County, Nebraska",0,31,035,2023
+"Colfax County, Nebraska",0,31,037,2023
+"Cuming County, Nebraska",10,31,039,2023
+"Custer County, Nebraska",0,31,041,2023
+"Dakota County, Nebraska",158,31,043,2023
+"Dawes County, Nebraska",11,31,045,2023
+"Dawson County, Nebraska",7,31,047,2023
+"Deuel County, Nebraska",0,31,049,2023
+"Dixon County, Nebraska",42,31,051,2023
+"Dodge County, Nebraska",121,31,053,2023
+"Douglas County, Nebraska",2602,31,055,2023
+"Dundy County, Nebraska",0,31,057,2023
+"Fillmore County, Nebraska",18,31,059,2023
+"Franklin County, Nebraska",17,31,061,2023
+"Frontier County, Nebraska",0,31,063,2023
+"Furnas County, Nebraska",4,31,065,2023
+"Gage County, Nebraska",23,31,067,2023
+"Garden County, Nebraska",13,31,069,2023
+"Garfield County, Nebraska",0,31,071,2023
+"Gosper County, Nebraska",0,31,073,2023
+"Grant County, Nebraska",0,31,075,2023
+"Greeley County, Nebraska",0,31,077,2023
+"Hall County, Nebraska",157,31,079,2023
+"Hamilton County, Nebraska",0,31,081,2023
+"Harlan County, Nebraska",0,31,083,2023
+"Hayes County, Nebraska",0,31,085,2023
+"Hitchcock County, Nebraska",0,31,087,2023
+"Holt County, Nebraska",3,31,089,2023
+"Hooker County, Nebraska",0,31,091,2023
+"Howard County, Nebraska",0,31,093,2023
+"Jefferson County, Nebraska",0,31,095,2023
+"Johnson County, Nebraska",49,31,097,2023
+"Kearney County, Nebraska",0,31,099,2023
+"Keith County, Nebraska",0,31,101,2023
+"Keya Paha County, Nebraska",0,31,103,2023
+"Kimball County, Nebraska",0,31,105,2023
+"Knox County, Nebraska",6,31,107,2023
+"Lancaster County, Nebraska",1184,31,109,2023
+"Lincoln County, Nebraska",61,31,111,2023
+"Logan County, Nebraska",0,31,113,2023
+"Loup County, Nebraska",0,31,115,2023
+"McPherson County, Nebraska",0,31,117,2023
+"Madison County, Nebraska",73,31,119,2023
+"Merrick County, Nebraska",23,31,121,2023
+"Morrill County, Nebraska",0,31,123,2023
+"Nance County, Nebraska",15,31,125,2023
+"Nemaha County, Nebraska",8,31,127,2023
+"Nuckolls County, Nebraska",6,31,129,2023
+"Otoe County, Nebraska",2,31,131,2023
+"Pawnee County, Nebraska",0,31,133,2023
+"Perkins County, Nebraska",0,31,135,2023
+"Phelps County, Nebraska",4,31,137,2023
+"Pierce County, Nebraska",6,31,139,2023
+"Platte County, Nebraska",186,31,141,2023
+"Polk County, Nebraska",6,31,143,2023
+"Red Willow County, Nebraska",7,31,145,2023
+"Richardson County, Nebraska",0,31,147,2023
+"Rock County, Nebraska",0,31,149,2023
+"Saline County, Nebraska",23,31,151,2023
+"Sarpy County, Nebraska",1141,31,153,2023
+"Saunders County, Nebraska",1,31,155,2023
+"Scotts Bluff County, Nebraska",99,31,157,2023
+"Seward County, Nebraska",51,31,159,2023
+"Sheridan County, Nebraska",19,31,161,2023
+"Sherman County, Nebraska",13,31,163,2023
+"Sioux County, Nebraska",0,31,165,2023
+"Stanton County, Nebraska",17,31,167,2023
+"Thayer County, Nebraska",0,31,169,2023
+"Thomas County, Nebraska",0,31,171,2023
+"Thurston County, Nebraska",20,31,173,2023
+"Valley County, Nebraska",17,31,175,2023
+"Washington County, Nebraska",0,31,177,2023
+"Wayne County, Nebraska",16,31,179,2023
+"Webster County, Nebraska",10,31,181,2023
+"Wheeler County, Nebraska",0,31,183,2023
+"York County, Nebraska",128,31,185,2023
+"Churchill County, Nevada",166,32,001,2023
+"Clark County, Nevada",25335,32,003,2023
+"Douglas County, Nevada",286,32,005,2023
+"Elko County, Nevada",70,32,007,2023
+"Esmeralda County, Nevada",147,32,009,2023
+"Eureka County, Nevada",0,32,011,2023
+"Humboldt County, Nevada",32,32,013,2023
+"Lander County, Nevada",0,32,015,2023
+"Lincoln County, Nevada",0,32,017,2023
+"Lyon County, Nevada",269,32,019,2023
+"Mineral County, Nevada",33,32,021,2023
+"Nye County, Nevada",207,32,023,2023
+"Pershing County, Nevada",21,32,027,2023
+"Storey County, Nevada",26,32,029,2023
+"Washoe County, Nevada",3128,32,031,2023
+"White Pine County, Nevada",161,32,033,2023
+"Carson City, Nevada",110,32,510,2023
+"Belknap County, New Hampshire",638,33,001,2023
+"Carroll County, New Hampshire",358,33,003,2023
+"Cheshire County, New Hampshire",846,33,005,2023
+"Coos County, New Hampshire",106,33,007,2023
+"Grafton County, New Hampshire",1049,33,009,2023
+"Hillsborough County, New Hampshire",11210,33,011,2023
+"Merrimack County, New Hampshire",1423,33,013,2023
+"Rockingham County, New Hampshire",2891,33,015,2023
+"Strafford County, New Hampshire",1076,33,017,2023
+"Sullivan County, New Hampshire",612,33,019,2023
+"Atlantic County, New Jersey",18805,34,001,2023
+"Bergen County, New Jersey",31098,34,003,2023
+"Burlington County, New Jersey",18830,34,005,2023
+"Camden County, New Jersey",44718,34,007,2023
+"Cape May County, New Jersey",2690,34,009,2023
+"Cumberland County, New Jersey",25601,34,011,2023
+"Essex County, New Jersey",53358,34,013,2023
+"Gloucester County, New Jersey",12219,34,015,2023
+"Hudson County, New Jersey",52055,34,017,2023
+"Hunterdon County, New Jersey",2479,34,019,2023
+"Mercer County, New Jersey",19660,34,021,2023
+"Middlesex County, New Jersey",43804,34,023,2023
+"Monmouth County, New Jersey",23544,34,025,2023
+"Morris County, New Jersey",15429,34,027,2023
+"Ocean County, New Jersey",23796,34,029,2023
+"Passaic County, New Jersey",34567,34,031,2023
+"Salem County, New Jersey",4249,34,033,2023
+"Somerset County, New Jersey",9728,34,035,2023
+"Sussex County, New Jersey",5500,34,037,2023
+"Union County, New Jersey",28420,34,039,2023
+"Warren County, New Jersey",3992,34,041,2023
+"Bernalillo County, New Mexico",4457,35,001,2023
+"Catron County, New Mexico",0,35,003,2023
+"Chaves County, New Mexico",278,35,005,2023
+"Cibola County, New Mexico",31,35,006,2023
+"Colfax County, New Mexico",58,35,007,2023
+"Curry County, New Mexico",368,35,009,2023
+"De Baca County, New Mexico",0,35,011,2023
+"Doña Ana County, New Mexico",977,35,013,2023
+"Eddy County, New Mexico",101,35,015,2023
+"Grant County, New Mexico",118,35,017,2023
+"Guadalupe County, New Mexico",0,35,019,2023
+"Harding County, New Mexico",3,35,021,2023
+"Hidalgo County, New Mexico",20,35,023,2023
+"Lea County, New Mexico",168,35,025,2023
+"Lincoln County, New Mexico",39,35,027,2023
+"Los Alamos County, New Mexico",104,35,028,2023
+"Luna County, New Mexico",79,35,029,2023
+"McKinley County, New Mexico",28,35,031,2023
+"Mora County, New Mexico",18,35,033,2023
+"Otero County, New Mexico",462,35,035,2023
+"Quay County, New Mexico",74,35,037,2023
+"Rio Arriba County, New Mexico",260,35,039,2023
+"Roosevelt County, New Mexico",269,35,041,2023
+"Sandoval County, New Mexico",1748,35,043,2023
+"San Juan County, New Mexico",205,35,045,2023
+"San Miguel County, New Mexico",187,35,047,2023
+"Santa Fe County, New Mexico",700,35,049,2023
+"Sierra County, New Mexico",53,35,051,2023
+"Socorro County, New Mexico",29,35,053,2023
+"Taos County, New Mexico",31,35,055,2023
+"Torrance County, New Mexico",54,35,057,2023
+"Union County, New Mexico",0,35,059,2023
+"Valencia County, New Mexico",497,35,061,2023
+"Albany County, New York",8816,36,001,2023
+"Allegany County, New York",180,36,003,2023
+"Bronx County, New York",239909,36,005,2023
+"Broome County, New York",4414,36,007,2023
+"Cattaraugus County, New York",765,36,009,2023
+"Cayuga County, New York",1141,36,011,2023
+"Chautauqua County, New York",8679,36,013,2023
+"Chemung County, New York",1211,36,015,2023
+"Chenango County, New York",300,36,017,2023
+"Clinton County, New York",745,36,019,2023
+"Columbia County, New York",1151,36,021,2023
+"Cortland County, New York",582,36,023,2023
+"Delaware County, New York",403,36,025,2023
+"Dutchess County, New York",14267,36,027,2023
+"Erie County, New York",37257,36,029,2023
+"Essex County, New York",200,36,031,2023
+"Franklin County, New York",424,36,033,2023
+"Fulton County, New York",1318,36,035,2023
+"Genesee County, New York",737,36,037,2023
+"Greene County, New York",1469,36,039,2023
+"Hamilton County, New York",21,36,041,2023
+"Herkimer County, New York",880,36,043,2023
+"Jefferson County, New York",2828,36,045,2023
+"Kings County, New York",138711,36,047,2023
+"Lewis County, New York",231,36,049,2023
+"Livingston County, New York",1438,36,051,2023
+"Madison County, New York",475,36,053,2023
+"Monroe County, New York",50170,36,055,2023
+"Montgomery County, New York",5333,36,057,2023
+"Nassau County, New York",39882,36,059,2023
+"New York County, New York",85883,36,061,2023
+"Niagara County, New York",3761,36,063,2023
+"Oneida County, New York",7908,36,065,2023
+"Onondaga County, New York",12841,36,067,2023
+"Ontario County, New York",3468,36,069,2023
+"Orange County, New York",36729,36,071,2023
+"Orleans County, New York",540,36,073,2023
+"Oswego County, New York",1560,36,075,2023
+"Otsego County, New York",860,36,077,2023
+"Putnam County, New York",5358,36,079,2023
+"Queens County, New York",98568,36,081,2023
+"Rensselaer County, New York",5175,36,083,2023
+"Richmond County, New York",42155,36,085,2023
+"Rockland County, New York",14120,36,087,2023
+"St. Lawrence County, New York",974,36,089,2023
+"Saratoga County, New York",3410,36,091,2023
+"Schenectady County, New York",6363,36,093,2023
+"Schoharie County, New York",488,36,095,2023
+"Schuyler County, New York",148,36,097,2023
+"Seneca County, New York",514,36,099,2023
+"Steuben County, New York",730,36,101,2023
+"Suffolk County, New York",70941,36,103,2023
+"Sullivan County, New York",5792,36,105,2023
+"Tioga County, New York",485,36,107,2023
+"Tompkins County, New York",1406,36,109,2023
+"Ulster County, New York",7996,36,111,2023
+"Warren County, New York",431,36,113,2023
+"Washington County, New York",590,36,115,2023
+"Wayne County, New York",2325,36,117,2023
+"Westchester County, New York",53770,36,119,2023
+"Wyoming County, New York",459,36,121,2023
+"Yates County, New York",127,36,123,2023
+"Alamance County, North Carolina",1692,37,001,2023
+"Alexander County, North Carolina",174,37,003,2023
+"Alleghany County, North Carolina",20,37,005,2023
+"Anson County, North Carolina",139,37,007,2023
+"Ashe County, North Carolina",126,37,009,2023
+"Avery County, North Carolina",95,37,011,2023
+"Beaufort County, North Carolina",245,37,013,2023
+"Bertie County, North Carolina",34,37,015,2023
+"Bladen County, North Carolina",162,37,017,2023
+"Brunswick County, North Carolina",938,37,019,2023
+"Buncombe County, North Carolina",1455,37,021,2023
+"Burke County, North Carolina",614,37,023,2023
+"Cabarrus County, North Carolina",4406,37,025,2023
+"Caldwell County, North Carolina",598,37,027,2023
+"Camden County, North Carolina",204,37,029,2023
+"Carteret County, North Carolina",517,37,031,2023
+"Caswell County, North Carolina",43,37,033,2023
+"Catawba County, North Carolina",2172,37,035,2023
+"Chatham County, North Carolina",300,37,037,2023
+"Cherokee County, North Carolina",259,37,039,2023
+"Chowan County, North Carolina",51,37,041,2023
+"Clay County, North Carolina",10,37,043,2023
+"Cleveland County, North Carolina",444,37,045,2023
+"Columbus County, North Carolina",102,37,047,2023
+"Craven County, North Carolina",1375,37,049,2023
+"Cumberland County, North Carolina",14173,37,051,2023
+"Currituck County, North Carolina",228,37,053,2023
+"Dare County, North Carolina",285,37,055,2023
+"Davidson County, North Carolina",1263,37,057,2023
+"Davie County, North Carolina",247,37,059,2023
+"Duplin County, North Carolina",685,37,061,2023
+"Durham County, North Carolina",2720,37,063,2023
+"Edgecombe County, North Carolina",334,37,065,2023
+"Forsyth County, North Carolina",5718,37,067,2023
+"Franklin County, North Carolina",525,37,069,2023
+"Gaston County, North Carolina",3348,37,071,2023
+"Gates County, North Carolina",34,37,073,2023
+"Graham County, North Carolina",0,37,075,2023
+"Granville County, North Carolina",973,37,077,2023
+"Greene County, North Carolina",405,37,079,2023
+"Guilford County, North Carolina",7640,37,081,2023
+"Halifax County, North Carolina",213,37,083,2023
+"Harnett County, North Carolina",4252,37,085,2023
+"Haywood County, North Carolina",489,37,087,2023
+"Henderson County, North Carolina",1463,37,089,2023
+"Hertford County, North Carolina",65,37,091,2023
+"Hoke County, North Carolina",2103,37,093,2023
+"Hyde County, North Carolina",12,37,095,2023
+"Iredell County, North Carolina",1577,37,097,2023
+"Jackson County, North Carolina",188,37,099,2023
+"Johnston County, North Carolina",3414,37,101,2023
+"Jones County, North Carolina",64,37,103,2023
+"Lee County, North Carolina",1468,37,105,2023
+"Lenoir County, North Carolina",420,37,107,2023
+"Lincoln County, North Carolina",394,37,109,2023
+"McDowell County, North Carolina",181,37,111,2023
+"Macon County, North Carolina",274,37,113,2023
+"Madison County, North Carolina",128,37,115,2023
+"Martin County, North Carolina",42,37,117,2023
+"Mecklenburg County, North Carolina",12597,37,119,2023
+"Mitchell County, North Carolina",86,37,121,2023
+"Montgomery County, North Carolina",495,37,123,2023
+"Moore County, North Carolina",1176,37,125,2023
+"Nash County, North Carolina",848,37,127,2023
+"New Hanover County, North Carolina",2660,37,129,2023
+"Northampton County, North Carolina",136,37,131,2023
+"Onslow County, North Carolina",8263,37,133,2023
+"Orange County, North Carolina",1128,37,135,2023
+"Pamlico County, North Carolina",178,37,137,2023
+"Pasquotank County, North Carolina",740,37,139,2023
+"Pender County, North Carolina",398,37,141,2023
+"Perquimans County, North Carolina",61,37,143,2023
+"Person County, North Carolina",347,37,145,2023
+"Pitt County, North Carolina",1763,37,147,2023
+"Polk County, North Carolina",15,37,149,2023
+"Randolph County, North Carolina",1467,37,151,2023
+"Richmond County, North Carolina",372,37,153,2023
+"Robeson County, North Carolina",835,37,155,2023
+"Rockingham County, North Carolina",446,37,157,2023
+"Rowan County, North Carolina",1071,37,159,2023
+"Rutherford County, North Carolina",203,37,161,2023
+"Sampson County, North Carolina",186,37,163,2023
+"Scotland County, North Carolina",255,37,165,2023
+"Stanly County, North Carolina",198,37,167,2023
+"Stokes County, North Carolina",403,37,169,2023
+"Surry County, North Carolina",706,37,171,2023
+"Swain County, North Carolina",138,37,173,2023
+"Transylvania County, North Carolina",112,37,175,2023
+"Tyrrell County, North Carolina",7,37,177,2023
+"Union County, North Carolina",3145,37,179,2023
+"Vance County, North Carolina",629,37,181,2023
+"Wake County, North Carolina",15899,37,183,2023
+"Warren County, North Carolina",128,37,185,2023
+"Washington County, North Carolina",87,37,187,2023
+"Watauga County, North Carolina",361,37,189,2023
+"Wayne County, North Carolina",1077,37,191,2023
+"Wilkes County, North Carolina",435,37,193,2023
+"Wilson County, North Carolina",202,37,195,2023
+"Yadkin County, North Carolina",127,37,197,2023
+"Yancey County, North Carolina",12,37,199,2023
+"Adams County, North Dakota",3,38,001,2023
+"Barnes County, North Dakota",7,38,003,2023
+"Benson County, North Dakota",0,38,005,2023
+"Billings County, North Dakota",0,38,007,2023
+"Bottineau County, North Dakota",8,38,009,2023
+"Bowman County, North Dakota",9,38,011,2023
+"Burke County, North Dakota",0,38,013,2023
+"Burleigh County, North Dakota",431,38,015,2023
+"Cass County, North Dakota",856,38,017,2023
+"Cavalier County, North Dakota",0,38,019,2023
+"Dickey County, North Dakota",0,38,021,2023
+"Divide County, North Dakota",8,38,023,2023
+"Dunn County, North Dakota",14,38,025,2023
+"Eddy County, North Dakota",0,38,027,2023
+"Emmons County, North Dakota",4,38,029,2023
+"Foster County, North Dakota",0,38,031,2023
+"Golden Valley County, North Dakota",0,38,033,2023
+"Grand Forks County, North Dakota",467,38,035,2023
+"Grant County, North Dakota",0,38,037,2023
+"Griggs County, North Dakota",0,38,039,2023
+"Hettinger County, North Dakota",0,38,041,2023
+"Kidder County, North Dakota",8,38,043,2023
+"LaMoure County, North Dakota",0,38,045,2023
+"Logan County, North Dakota",0,38,047,2023
+"McHenry County, North Dakota",15,38,049,2023
+"McIntosh County, North Dakota",2,38,051,2023
+"McKenzie County, North Dakota",89,38,053,2023
+"McLean County, North Dakota",0,38,055,2023
+"Mercer County, North Dakota",2,38,057,2023
+"Morton County, North Dakota",900,38,059,2023
+"Mountrail County, North Dakota",32,38,061,2023
+"Nelson County, North Dakota",0,38,063,2023
+"Oliver County, North Dakota",0,38,065,2023
+"Pembina County, North Dakota",18,38,067,2023
+"Pierce County, North Dakota",0,38,069,2023
+"Ramsey County, North Dakota",27,38,071,2023
+"Ransom County, North Dakota",32,38,073,2023
+"Renville County, North Dakota",2,38,075,2023
+"Richland County, North Dakota",4,38,077,2023
+"Rolette County, North Dakota",0,38,079,2023
+"Sargent County, North Dakota",0,38,081,2023
+"Sheridan County, North Dakota",0,38,083,2023
+"Sioux County, North Dakota",0,38,085,2023
+"Slope County, North Dakota",0,38,087,2023
+"Stark County, North Dakota",215,38,089,2023
+"Steele County, North Dakota",9,38,091,2023
+"Stutsman County, North Dakota",91,38,093,2023
+"Towner County, North Dakota",4,38,095,2023
+"Traill County, North Dakota",19,38,097,2023
+"Walsh County, North Dakota",20,38,099,2023
+"Ward County, North Dakota",763,38,101,2023
+"Wells County, North Dakota",0,38,103,2023
+"Williams County, North Dakota",59,38,105,2023
+"Adams County, Ohio",3,39,001,2023
+"Allen County, Ohio",420,39,003,2023
+"Ashland County, Ohio",274,39,005,2023
+"Ashtabula County, Ohio",2635,39,007,2023
+"Athens County, Ohio",338,39,009,2023
+"Auglaize County, Ohio",57,39,011,2023
+"Belmont County, Ohio",142,39,013,2023
+"Brown County, Ohio",45,39,015,2023
+"Butler County, Ohio",1747,39,017,2023
+"Carroll County, Ohio",16,39,019,2023
+"Champaign County, Ohio",53,39,021,2023
+"Clark County, Ohio",837,39,023,2023
+"Clermont County, Ohio",1099,39,025,2023
+"Clinton County, Ohio",97,39,027,2023
+"Columbiana County, Ohio",127,39,029,2023
+"Coshocton County, Ohio",14,39,031,2023
+"Crawford County, Ohio",149,39,033,2023
+"Cuyahoga County, Ohio",48113,39,035,2023
+"Darke County, Ohio",90,39,037,2023
+"Defiance County, Ohio",292,39,039,2023
+"Delaware County, Ohio",1950,39,041,2023
+"Erie County, Ohio",891,39,043,2023
+"Fairfield County, Ohio",935,39,045,2023
+"Fayette County, Ohio",63,39,047,2023
+"Franklin County, Ohio",13060,39,049,2023
+"Fulton County, Ohio",473,39,051,2023
+"Gallia County, Ohio",10,39,053,2023
+"Geauga County, Ohio",193,39,055,2023
+"Greene County, Ohio",923,39,057,2023
+"Guernsey County, Ohio",22,39,059,2023
+"Hamilton County, Ohio",5273,39,061,2023
+"Hancock County, Ohio",291,39,063,2023
+"Hardin County, Ohio",26,39,065,2023
+"Harrison County, Ohio",56,39,067,2023
+"Henry County, Ohio",130,39,069,2023
+"Highland County, Ohio",128,39,071,2023
+"Hocking County, Ohio",24,39,073,2023
+"Holmes County, Ohio",44,39,075,2023
+"Huron County, Ohio",674,39,077,2023
+"Jackson County, Ohio",0,39,079,2023
+"Jefferson County, Ohio",200,39,081,2023
+"Knox County, Ohio",238,39,083,2023
+"Lake County, Ohio",3421,39,085,2023
+"Lawrence County, Ohio",86,39,087,2023
+"Licking County, Ohio",899,39,089,2023
+"Logan County, Ohio",262,39,091,2023
+"Lorain County, Ohio",21656,39,093,2023
+"Lucas County, Ohio",3229,39,095,2023
+"Madison County, Ohio",191,39,097,2023
+"Mahoning County, Ohio",9029,39,099,2023
+"Marion County, Ohio",411,39,101,2023
+"Medina County, Ohio",1723,39,103,2023
+"Meigs County, Ohio",93,39,105,2023
+"Mercer County, Ohio",74,39,107,2023
+"Miami County, Ohio",356,39,109,2023
+"Monroe County, Ohio",0,39,111,2023
+"Montgomery County, Ohio",3652,39,113,2023
+"Morgan County, Ohio",16,39,115,2023
+"Morrow County, Ohio",177,39,117,2023
+"Muskingum County, Ohio",149,39,119,2023
+"Noble County, Ohio",7,39,121,2023
+"Ottawa County, Ohio",253,39,123,2023
+"Paulding County, Ohio",91,39,125,2023
+"Perry County, Ohio",0,39,127,2023
+"Pickaway County, Ohio",178,39,129,2023
+"Pike County, Ohio",17,39,131,2023
+"Portage County, Ohio",677,39,133,2023
+"Preble County, Ohio",30,39,135,2023
+"Putnam County, Ohio",164,39,137,2023
+"Richland County, Ohio",674,39,139,2023
+"Ross County, Ohio",363,39,141,2023
+"Sandusky County, Ohio",293,39,143,2023
+"Scioto County, Ohio",307,39,145,2023
+"Seneca County, Ohio",186,39,147,2023
+"Shelby County, Ohio",138,39,149,2023
+"Stark County, Ohio",2649,39,151,2023
+"Summit County, Ohio",3109,39,153,2023
+"Trumbull County, Ohio",1833,39,155,2023
+"Tuscarawas County, Ohio",1512,39,157,2023
+"Union County, Ohio",489,39,159,2023
+"Van Wert County, Ohio",37,39,161,2023
+"Vinton County, Ohio",0,39,163,2023
+"Warren County, Ohio",898,39,165,2023
+"Washington County, Ohio",96,39,167,2023
+"Wayne County, Ohio",555,39,169,2023
+"Williams County, Ohio",263,39,171,2023
+"Wood County, Ohio",790,39,173,2023
+"Wyandot County, Ohio",47,39,175,2023
+"Adair County, Oklahoma",16,40,001,2023
+"Alfalfa County, Oklahoma",47,40,003,2023
+"Atoka County, Oklahoma",15,40,005,2023
+"Beaver County, Oklahoma",3,40,007,2023
+"Beckham County, Oklahoma",46,40,009,2023
+"Blaine County, Oklahoma",0,40,011,2023
+"Bryan County, Oklahoma",122,40,013,2023
+"Caddo County, Oklahoma",119,40,015,2023
+"Canadian County, Oklahoma",899,40,017,2023
+"Carter County, Oklahoma",120,40,019,2023
+"Cherokee County, Oklahoma",196,40,021,2023
+"Choctaw County, Oklahoma",11,40,023,2023
+"Cimarron County, Oklahoma",0,40,025,2023
+"Cleveland County, Oklahoma",1330,40,027,2023
+"Coal County, Oklahoma",17,40,029,2023
+"Comanche County, Oklahoma",3471,40,031,2023
+"Cotton County, Oklahoma",7,40,033,2023
+"Craig County, Oklahoma",9,40,035,2023
+"Creek County, Oklahoma",125,40,037,2023
+"Custer County, Oklahoma",47,40,039,2023
+"Delaware County, Oklahoma",78,40,041,2023
+"Dewey County, Oklahoma",5,40,043,2023
+"Ellis County, Oklahoma",15,40,045,2023
+"Garfield County, Oklahoma",299,40,047,2023
+"Garvin County, Oklahoma",19,40,049,2023
+"Grady County, Oklahoma",368,40,051,2023
+"Grant County, Oklahoma",0,40,053,2023
+"Greer County, Oklahoma",10,40,055,2023
+"Harmon County, Oklahoma",2,40,057,2023
+"Harper County, Oklahoma",0,40,059,2023
+"Haskell County, Oklahoma",34,40,061,2023
+"Hughes County, Oklahoma",14,40,063,2023
+"Jackson County, Oklahoma",279,40,065,2023
+"Jefferson County, Oklahoma",14,40,067,2023
+"Johnston County, Oklahoma",0,40,069,2023
+"Kay County, Oklahoma",181,40,071,2023
+"Kingfisher County, Oklahoma",9,40,073,2023
+"Kiowa County, Oklahoma",27,40,075,2023
+"Latimer County, Oklahoma",0,40,077,2023
+"Le Flore County, Oklahoma",65,40,079,2023
+"Lincoln County, Oklahoma",15,40,081,2023
+"Logan County, Oklahoma",125,40,083,2023
+"Love County, Oklahoma",78,40,085,2023
+"McClain County, Oklahoma",86,40,087,2023
+"McCurtain County, Oklahoma",89,40,089,2023
+"McIntosh County, Oklahoma",0,40,091,2023
+"Major County, Oklahoma",0,40,093,2023
+"Marshall County, Oklahoma",55,40,095,2023
+"Mayes County, Oklahoma",139,40,097,2023
+"Murray County, Oklahoma",56,40,099,2023
+"Muskogee County, Oklahoma",244,40,101,2023
+"Noble County, Oklahoma",1,40,103,2023
+"Nowata County, Oklahoma",13,40,105,2023
+"Okfuskee County, Oklahoma",23,40,107,2023
+"Oklahoma County, Oklahoma",4073,40,109,2023
+"Okmulgee County, Oklahoma",49,40,111,2023
+"Osage County, Oklahoma",118,40,113,2023
+"Ottawa County, Oklahoma",48,40,115,2023
+"Pawnee County, Oklahoma",32,40,117,2023
+"Payne County, Oklahoma",174,40,119,2023
+"Pittsburg County, Oklahoma",123,40,121,2023
+"Pontotoc County, Oklahoma",11,40,123,2023
+"Pottawatomie County, Oklahoma",111,40,125,2023
+"Pushmataha County, Oklahoma",21,40,127,2023
+"Roger Mills County, Oklahoma",1,40,129,2023
+"Rogers County, Oklahoma",275,40,131,2023
+"Seminole County, Oklahoma",26,40,133,2023
+"Sequoyah County, Oklahoma",52,40,135,2023
+"Stephens County, Oklahoma",138,40,137,2023
+"Texas County, Oklahoma",42,40,139,2023
+"Tillman County, Oklahoma",28,40,141,2023
+"Tulsa County, Oklahoma",4448,40,143,2023
+"Wagoner County, Oklahoma",322,40,145,2023
+"Washington County, Oklahoma",196,40,147,2023
+"Washita County, Oklahoma",4,40,149,2023
+"Woods County, Oklahoma",49,40,151,2023
+"Woodward County, Oklahoma",184,40,153,2023
+"Baker County, Oregon",13,41,001,2023
+"Benton County, Oregon",411,41,003,2023
+"Clackamas County, Oregon",1116,41,005,2023
+"Clatsop County, Oregon",175,41,007,2023
+"Columbia County, Oregon",254,41,009,2023
+"Coos County, Oregon",102,41,011,2023
+"Crook County, Oregon",30,41,013,2023
+"Curry County, Oregon",105,41,015,2023
+"Deschutes County, Oregon",383,41,017,2023
+"Douglas County, Oregon",491,41,019,2023
+"Gilliam County, Oregon",0,41,021,2023
+"Grant County, Oregon",6,41,023,2023
+"Harney County, Oregon",16,41,025,2023
+"Hood River County, Oregon",12,41,027,2023
+"Jackson County, Oregon",714,41,029,2023
+"Jefferson County, Oregon",31,41,031,2023
+"Josephine County, Oregon",256,41,033,2023
+"Klamath County, Oregon",118,41,035,2023
+"Lake County, Oregon",0,41,037,2023
+"Lane County, Oregon",1665,41,039,2023
+"Lincoln County, Oregon",104,41,041,2023
+"Linn County, Oregon",288,41,043,2023
+"Malheur County, Oregon",15,41,045,2023
+"Marion County, Oregon",1040,41,047,2023
+"Morrow County, Oregon",57,41,049,2023
+"Multnomah County, Oregon",4126,41,051,2023
+"Polk County, Oregon",290,41,053,2023
+"Sherman County, Oregon",0,41,055,2023
+"Tillamook County, Oregon",62,41,057,2023
+"Umatilla County, Oregon",116,41,059,2023
+"Union County, Oregon",102,41,061,2023
+"Wallowa County, Oregon",14,41,063,2023
+"Wasco County, Oregon",34,41,065,2023
+"Washington County, Oregon",2804,41,067,2023
+"Wheeler County, Oregon",0,41,069,2023
+"Yamhill County, Oregon",605,41,071,2023
+"Adams County, Pennsylvania",1914,42,001,2023
+"Allegheny County, Pennsylvania",7218,42,003,2023
+"Armstrong County, Pennsylvania",148,42,005,2023
+"Beaver County, Pennsylvania",1081,42,007,2023
+"Bedford County, Pennsylvania",59,42,009,2023
+"Berks County, Pennsylvania",48022,42,011,2023
+"Blair County, Pennsylvania",558,42,013,2023
+"Bradford County, Pennsylvania",397,42,015,2023
+"Bucks County, Pennsylvania",14036,42,017,2023
+"Butler County, Pennsylvania",668,42,019,2023
+"Cambria County, Pennsylvania",1098,42,021,2023
+"Cameron County, Pennsylvania",19,42,023,2023
+"Carbon County, Pennsylvania",1866,42,025,2023
+"Centre County, Pennsylvania",1588,42,027,2023
+"Chester County, Pennsylvania",12328,42,029,2023
+"Clarion County, Pennsylvania",89,42,031,2023
+"Clearfield County, Pennsylvania",802,42,033,2023
+"Clinton County, Pennsylvania",274,42,035,2023
+"Columbia County, Pennsylvania",473,42,037,2023
+"Crawford County, Pennsylvania",497,42,039,2023
+"Cumberland County, Pennsylvania",4773,42,041,2023
+"Dauphin County, Pennsylvania",17491,42,043,2023
+"Delaware County, Pennsylvania",8689,42,045,2023
+"Elk County, Pennsylvania",98,42,047,2023
+"Erie County, Pennsylvania",7149,42,049,2023
+"Fayette County, Pennsylvania",606,42,051,2023
+"Forest County, Pennsylvania",176,42,053,2023
+"Franklin County, Pennsylvania",2467,42,055,2023
+"Fulton County, Pennsylvania",79,42,057,2023
+"Greene County, Pennsylvania",163,42,059,2023
+"Huntingdon County, Pennsylvania",411,42,061,2023
+"Indiana County, Pennsylvania",268,42,063,2023
+"Jefferson County, Pennsylvania",126,42,065,2023
+"Juniata County, Pennsylvania",263,42,067,2023
+"Lackawanna County, Pennsylvania",9600,42,069,2023
+"Lancaster County, Pennsylvania",39029,42,071,2023
+"Lawrence County, Pennsylvania",778,42,073,2023
+"Lebanon County, Pennsylvania",13834,42,075,2023
+"Lehigh County, Pennsylvania",49540,42,077,2023
+"Luzerne County, Pennsylvania",11386,42,079,2023
+"Lycoming County, Pennsylvania",741,42,081,2023
+"McKean County, Pennsylvania",177,42,083,2023
+"Mercer County, Pennsylvania",626,42,085,2023
+"Mifflin County, Pennsylvania",545,42,087,2023
+"Monroe County, Pennsylvania",13398,42,089,2023
+"Montgomery County, Pennsylvania",16256,42,091,2023
+"Montour County, Pennsylvania",308,42,093,2023
+"Northampton County, Pennsylvania",23782,42,095,2023
+"Northumberland County, Pennsylvania",2021,42,097,2023
+"Perry County, Pennsylvania",418,42,099,2023
+"Philadelphia County, Pennsylvania",132645,42,101,2023
+"Pike County, Pennsylvania",3471,42,103,2023
+"Potter County, Pennsylvania",66,42,105,2023
+"Schuylkill County, Pennsylvania",3694,42,107,2023
+"Snyder County, Pennsylvania",551,42,109,2023
+"Somerset County, Pennsylvania",225,42,111,2023
+"Sullivan County, Pennsylvania",21,42,113,2023
+"Susquehanna County, Pennsylvania",266,42,115,2023
+"Tioga County, Pennsylvania",176,42,117,2023
+"Union County, Pennsylvania",487,42,119,2023
+"Venango County, Pennsylvania",260,42,121,2023
+"Warren County, Pennsylvania",71,42,123,2023
+"Washington County, Pennsylvania",737,42,125,2023
+"Wayne County, Pennsylvania",1144,42,127,2023
+"Westmoreland County, Pennsylvania",1491,42,129,2023
+"Wyoming County, Pennsylvania",167,42,131,2023
+"York County, Pennsylvania",20754,42,133,2023
+"Bristol County, Rhode Island",406,44,001,2023
+"Kent County, Rhode Island",3083,44,003,2023
+"Newport County, Rhode Island",2418,44,005,2023
+"Providence County, Rhode Island",36537,44,007,2023
+"Washington County, Rhode Island",1448,44,009,2023
+"Abbeville County, South Carolina",47,45,001,2023
+"Aiken County, South Carolina",1901,45,003,2023
+"Allendale County, South Carolina",38,45,005,2023
+"Anderson County, South Carolina",994,45,007,2023
+"Bamberg County, South Carolina",30,45,009,2023
+"Barnwell County, South Carolina",84,45,011,2023
+"Beaufort County, South Carolina",3462,45,013,2023
+"Berkeley County, South Carolina",4182,45,015,2023
+"Calhoun County, South Carolina",3,45,017,2023
+"Charleston County, South Carolina",2358,45,019,2023
+"Cherokee County, South Carolina",415,45,021,2023
+"Chester County, South Carolina",253,45,023,2023
+"Chesterfield County, South Carolina",251,45,025,2023
+"Clarendon County, South Carolina",162,45,027,2023
+"Colleton County, South Carolina",177,45,029,2023
+"Darlington County, South Carolina",487,45,031,2023
+"Dillon County, South Carolina",18,45,033,2023
+"Dorchester County, South Carolina",2130,45,035,2023
+"Edgefield County, South Carolina",148,45,037,2023
+"Fairfield County, South Carolina",90,45,039,2023
+"Florence County, South Carolina",924,45,041,2023
+"Georgetown County, South Carolina",531,45,043,2023
+"Greenville County, South Carolina",6766,45,045,2023
+"Greenwood County, South Carolina",777,45,047,2023
+"Hampton County, South Carolina",73,45,049,2023
+"Horry County, South Carolina",2360,45,051,2023
+"Jasper County, South Carolina",469,45,053,2023
+"Kershaw County, South Carolina",608,45,055,2023
+"Lancaster County, South Carolina",788,45,057,2023
+"Laurens County, South Carolina",537,45,059,2023
+"Lee County, South Carolina",1,45,061,2023
+"Lexington County, South Carolina",2966,45,063,2023
+"McCormick County, South Carolina",29,45,065,2023
+"Marion County, South Carolina",51,45,067,2023
+"Marlboro County, South Carolina",103,45,069,2023
+"Newberry County, South Carolina",413,45,071,2023
+"Oconee County, South Carolina",394,45,073,2023
+"Orangeburg County, South Carolina",334,45,075,2023
+"Pickens County, South Carolina",1145,45,077,2023
+"Richland County, South Carolina",5622,45,079,2023
+"Saluda County, South Carolina",230,45,081,2023
+"Spartanburg County, South Carolina",3575,45,083,2023
+"Sumter County, South Carolina",966,45,085,2023
+"Union County, South Carolina",73,45,087,2023
+"Williamsburg County, South Carolina",12,45,089,2023
+"York County, South Carolina",2791,45,091,2023
+"Aurora County, South Dakota",0,46,003,2023
+"Beadle County, South Dakota",336,46,005,2023
+"Bennett County, South Dakota",62,46,007,2023
+"Bon Homme County, South Dakota",30,46,009,2023
+"Brookings County, South Dakota",408,46,011,2023
+"Brown County, South Dakota",303,46,013,2023
+"Brule County, South Dakota",28,46,015,2023
+"Buffalo County, South Dakota",0,46,017,2023
+"Butte County, South Dakota",44,46,019,2023
+"Campbell County, South Dakota",0,46,021,2023
+"Charles Mix County, South Dakota",50,46,023,2023
+"Clark County, South Dakota",2,46,025,2023
+"Clay County, South Dakota",6,46,027,2023
+"Codington County, South Dakota",19,46,029,2023
+"Corson County, South Dakota",4,46,031,2023
+"Custer County, South Dakota",13,46,033,2023
+"Davison County, South Dakota",5,46,035,2023
+"Day County, South Dakota",95,46,037,2023
+"Deuel County, South Dakota",0,46,039,2023
+"Dewey County, South Dakota",9,46,041,2023
+"Douglas County, South Dakota",0,46,043,2023
+"Edmunds County, South Dakota",0,46,045,2023
+"Fall River County, South Dakota",49,46,047,2023
+"Faulk County, South Dakota",0,46,049,2023
+"Grant County, South Dakota",1,46,051,2023
+"Gregory County, South Dakota",17,46,053,2023
+"Haakon County, South Dakota",0,46,055,2023
+"Hamlin County, South Dakota",10,46,057,2023
+"Hand County, South Dakota",0,46,059,2023
+"Hanson County, South Dakota",0,46,061,2023
+"Harding County, South Dakota",0,46,063,2023
+"Hughes County, South Dakota",7,46,065,2023
+"Hutchinson County, South Dakota",0,46,067,2023
+"Hyde County, South Dakota",0,46,069,2023
+"Jackson County, South Dakota",0,46,071,2023
+"Jerauld County, South Dakota",3,46,073,2023
+"Jones County, South Dakota",0,46,075,2023
+"Kingsbury County, South Dakota",59,46,077,2023
+"Lake County, South Dakota",94,46,079,2023
+"Lawrence County, South Dakota",71,46,081,2023
+"Lincoln County, South Dakota",42,46,083,2023
+"Lyman County, South Dakota",0,46,085,2023
+"McCook County, South Dakota",2,46,087,2023
+"McPherson County, South Dakota",0,46,089,2023
+"Marshall County, South Dakota",8,46,091,2023
+"Meade County, South Dakota",254,46,093,2023
+"Mellette County, South Dakota",0,46,095,2023
+"Miner County, South Dakota",11,46,097,2023
+"Minnehaha County, South Dakota",603,46,099,2023
+"Moody County, South Dakota",26,46,101,2023
+"Oglala Lakota County, South Dakota",59,46,102,2023
+"Pennington County, South Dakota",681,46,103,2023
+"Perkins County, South Dakota",0,46,105,2023
+"Potter County, South Dakota",0,46,107,2023
+"Roberts County, South Dakota",7,46,109,2023
+"Sanborn County, South Dakota",16,46,111,2023
+"Spink County, South Dakota",0,46,115,2023
+"Stanley County, South Dakota",0,46,117,2023
+"Sully County, South Dakota",0,46,119,2023
+"Todd County, South Dakota",0,46,121,2023
+"Tripp County, South Dakota",0,46,123,2023
+"Turner County, South Dakota",16,46,125,2023
+"Union County, South Dakota",0,46,127,2023
+"Walworth County, South Dakota",18,46,129,2023
+"Yankton County, South Dakota",85,46,135,2023
+"Ziebach County, South Dakota",0,46,137,2023
+"Anderson County, Tennessee",256,47,001,2023
+"Bedford County, Tennessee",231,47,003,2023
+"Benton County, Tennessee",30,47,005,2023
+"Bledsoe County, Tennessee",130,47,007,2023
+"Blount County, Tennessee",465,47,009,2023
+"Bradley County, Tennessee",1380,47,011,2023
+"Campbell County, Tennessee",134,47,013,2023
+"Cannon County, Tennessee",10,47,015,2023
+"Carroll County, Tennessee",23,47,017,2023
+"Carter County, Tennessee",122,47,019,2023
+"Cheatham County, Tennessee",345,47,021,2023
+"Chester County, Tennessee",48,47,023,2023
+"Claiborne County, Tennessee",85,47,025,2023
+"Clay County, Tennessee",0,47,027,2023
+"Cocke County, Tennessee",306,47,029,2023
+"Coffee County, Tennessee",499,47,031,2023
+"Crockett County, Tennessee",10,47,033,2023
+"Cumberland County, Tennessee",305,47,035,2023
+"Davidson County, Tennessee",4885,47,037,2023
+"Decatur County, Tennessee",44,47,039,2023
+"DeKalb County, Tennessee",77,47,041,2023
+"Dickson County, Tennessee",100,47,043,2023
+"Dyer County, Tennessee",24,47,045,2023
+"Fayette County, Tennessee",59,47,047,2023
+"Fentress County, Tennessee",15,47,049,2023
+"Franklin County, Tennessee",139,47,051,2023
+"Gibson County, Tennessee",113,47,053,2023
+"Giles County, Tennessee",12,47,055,2023
+"Grainger County, Tennessee",0,47,057,2023
+"Greene County, Tennessee",266,47,059,2023
+"Grundy County, Tennessee",0,47,061,2023
+"Hamblen County, Tennessee",727,47,063,2023
+"Hamilton County, Tennessee",2164,47,065,2023
+"Hancock County, Tennessee",0,47,067,2023
+"Hardeman County, Tennessee",62,47,069,2023
+"Hardin County, Tennessee",126,47,071,2023
+"Hawkins County, Tennessee",122,47,073,2023
+"Haywood County, Tennessee",24,47,075,2023
+"Henderson County, Tennessee",36,47,077,2023
+"Henry County, Tennessee",71,47,079,2023
+"Hickman County, Tennessee",30,47,081,2023
+"Houston County, Tennessee",85,47,083,2023
+"Humphreys County, Tennessee",36,47,085,2023
+"Jackson County, Tennessee",4,47,087,2023
+"Jefferson County, Tennessee",182,47,089,2023
+"Johnson County, Tennessee",27,47,091,2023
+"Knox County, Tennessee",2429,47,093,2023
+"Lake County, Tennessee",19,47,095,2023
+"Lauderdale County, Tennessee",49,47,097,2023
+"Lawrence County, Tennessee",133,47,099,2023
+"Lewis County, Tennessee",121,47,101,2023
+"Lincoln County, Tennessee",123,47,103,2023
+"Loudon County, Tennessee",364,47,105,2023
+"McMinn County, Tennessee",96,47,107,2023
+"McNairy County, Tennessee",44,47,109,2023
+"Macon County, Tennessee",70,47,111,2023
+"Madison County, Tennessee",295,47,113,2023
+"Marion County, Tennessee",23,47,115,2023
+"Marshall County, Tennessee",13,47,117,2023
+"Maury County, Tennessee",960,47,119,2023
+"Meigs County, Tennessee",14,47,121,2023
+"Monroe County, Tennessee",187,47,123,2023
+"Montgomery County, Tennessee",6382,47,125,2023
+"Moore County, Tennessee",21,47,127,2023
+"Morgan County, Tennessee",32,47,129,2023
+"Obion County, Tennessee",50,47,131,2023
+"Overton County, Tennessee",16,47,133,2023
+"Perry County, Tennessee",0,47,135,2023
+"Pickett County, Tennessee",0,47,137,2023
+"Polk County, Tennessee",35,47,139,2023
+"Putnam County, Tennessee",510,47,141,2023
+"Rhea County, Tennessee",28,47,143,2023
+"Roane County, Tennessee",89,47,145,2023
+"Robertson County, Tennessee",471,47,147,2023
+"Rutherford County, Tennessee",3953,47,149,2023
+"Scott County, Tennessee",21,47,151,2023
+"Sequatchie County, Tennessee",83,47,153,2023
+"Sevier County, Tennessee",516,47,155,2023
+"Shelby County, Tennessee",3125,47,157,2023
+"Smith County, Tennessee",20,47,159,2023
+"Stewart County, Tennessee",0,47,161,2023
+"Sullivan County, Tennessee",526,47,163,2023
+"Sumner County, Tennessee",1694,47,165,2023
+"Tipton County, Tennessee",159,47,167,2023
+"Trousdale County, Tennessee",9,47,169,2023
+"Unicoi County, Tennessee",44,47,171,2023
+"Union County, Tennessee",235,47,173,2023
+"Van Buren County, Tennessee",15,47,175,2023
+"Warren County, Tennessee",174,47,177,2023
+"Washington County, Tennessee",511,47,179,2023
+"Wayne County, Tennessee",17,47,181,2023
+"Weakley County, Tennessee",135,47,183,2023
+"White County, Tennessee",137,47,185,2023
+"Williamson County, Tennessee",1484,47,187,2023
+"Wilson County, Tennessee",873,47,189,2023
+"Anderson County, Texas",282,48,001,2023
+"Andrews County, Texas",50,48,003,2023
+"Angelina County, Texas",332,48,005,2023
+"Aransas County, Texas",19,48,007,2023
+"Archer County, Texas",22,48,009,2023
+"Armstrong County, Texas",0,48,011,2023
+"Atascosa County, Texas",231,48,013,2023
+"Austin County, Texas",160,48,015,2023
+"Bailey County, Texas",5,48,017,2023
+"Bandera County, Texas",137,48,019,2023
+"Bastrop County, Texas",910,48,021,2023
+"Baylor County, Texas",0,48,023,2023
+"Bee County, Texas",168,48,025,2023
+"Bell County, Texas",18289,48,027,2023
+"Bexar County, Texas",34191,48,029,2023
+"Blanco County, Texas",15,48,031,2023
+"Borden County, Texas",0,48,033,2023
+"Bosque County, Texas",34,48,035,2023
+"Bowie County, Texas",184,48,037,2023
+"Brazoria County, Texas",4759,48,039,2023
+"Brazos County, Texas",1179,48,041,2023
+"Brewster County, Texas",34,48,043,2023
+"Briscoe County, Texas",0,48,045,2023
+"Brooks County, Texas",0,48,047,2023
+"Brown County, Texas",101,48,049,2023
+"Burleson County, Texas",13,48,051,2023
+"Burnet County, Texas",79,48,053,2023
+"Caldwell County, Texas",373,48,055,2023
+"Calhoun County, Texas",104,48,057,2023
+"Callahan County, Texas",21,48,059,2023
+"Cameron County, Texas",1310,48,061,2023
+"Camp County, Texas",4,48,063,2023
+"Carson County, Texas",0,48,065,2023
+"Cass County, Texas",13,48,067,2023
+"Castro County, Texas",51,48,069,2023
+"Chambers County, Texas",109,48,071,2023
+"Cherokee County, Texas",52,48,073,2023
+"Childress County, Texas",1,48,075,2023
+"Clay County, Texas",0,48,077,2023
+"Cochran County, Texas",0,48,079,2023
+"Coke County, Texas",0,48,081,2023
+"Coleman County, Texas",2,48,083,2023
+"Collin County, Texas",8128,48,085,2023
+"Collingsworth County, Texas",0,48,087,2023
+"Colorado County, Texas",0,48,089,2023
+"Comal County, Texas",1525,48,091,2023
+"Comanche County, Texas",0,48,093,2023
+"Concho County, Texas",0,48,095,2023
+"Cooke County, Texas",216,48,097,2023
+"Coryell County, Texas",3113,48,099,2023
+"Cottle County, Texas",0,48,101,2023
+"Crane County, Texas",0,48,103,2023
+"Crockett County, Texas",0,48,105,2023
+"Crosby County, Texas",17,48,107,2023
+"Culberson County, Texas",1,48,109,2023
+"Dallam County, Texas",0,48,111,2023
+"Dallas County, Texas",16057,48,113,2023
+"Dawson County, Texas",12,48,115,2023
+"Deaf Smith County, Texas",133,48,117,2023
+"Delta County, Texas",12,48,119,2023
+"Denton County, Texas",10389,48,121,2023
+"DeWitt County, Texas",60,48,123,2023
+"Dickens County, Texas",0,48,125,2023
+"Dimmit County, Texas",0,48,127,2023
+"Donley County, Texas",23,48,129,2023
+"Duval County, Texas",6,48,131,2023
+"Eastland County, Texas",8,48,133,2023
+"Ector County, Texas",670,48,135,2023
+"Edwards County, Texas",1,48,137,2023
+"Ellis County, Texas",971,48,139,2023
+"El Paso County, Texas",8696,48,141,2023
+"Erath County, Texas",209,48,143,2023
+"Falls County, Texas",42,48,145,2023
+"Fannin County, Texas",40,48,147,2023
+"Fayette County, Texas",9,48,149,2023
+"Fisher County, Texas",1,48,151,2023
+"Floyd County, Texas",0,48,153,2023
+"Foard County, Texas",7,48,155,2023
+"Fort Bend County, Texas",5347,48,157,2023
+"Franklin County, Texas",0,48,159,2023
+"Freestone County, Texas",16,48,161,2023
+"Frio County, Texas",39,48,163,2023
+"Gaines County, Texas",50,48,165,2023
+"Galveston County, Texas",3604,48,167,2023
+"Garza County, Texas",27,48,169,2023
+"Gillespie County, Texas",34,48,171,2023
+"Glasscock County, Texas",0,48,173,2023
+"Goliad County, Texas",0,48,175,2023
+"Gonzales County, Texas",108,48,177,2023
+"Gray County, Texas",33,48,179,2023
+"Grayson County, Texas",236,48,181,2023
+"Gregg County, Texas",303,48,183,2023
+"Grimes County, Texas",19,48,185,2023
+"Guadalupe County, Texas",2490,48,187,2023
+"Hale County, Texas",213,48,189,2023
+"Hall County, Texas",0,48,191,2023
+"Hamilton County, Texas",0,48,193,2023
+"Hansford County, Texas",69,48,195,2023
+"Hardeman County, Texas",69,48,197,2023
+"Hardin County, Texas",100,48,199,2023
+"Harris County, Texas",38394,48,201,2023
+"Harrison County, Texas",41,48,203,2023
+"Hartley County, Texas",15,48,205,2023
+"Haskell County, Texas",28,48,207,2023
+"Hays County, Texas",1989,48,209,2023
+"Hemphill County, Texas",0,48,211,2023
+"Henderson County, Texas",201,48,213,2023
+"Hidalgo County, Texas",2902,48,215,2023
+"Hill County, Texas",95,48,217,2023
+"Hockley County, Texas",23,48,219,2023
+"Hood County, Texas",243,48,221,2023
+"Hopkins County, Texas",36,48,223,2023
+"Houston County, Texas",64,48,225,2023
+"Howard County, Texas",230,48,227,2023
+"Hudspeth County, Texas",33,48,229,2023
+"Hunt County, Texas",561,48,231,2023
+"Hutchinson County, Texas",21,48,233,2023
+"Irion County, Texas",0,48,235,2023
+"Jack County, Texas",29,48,237,2023
+"Jackson County, Texas",0,48,239,2023
+"Jasper County, Texas",3,48,241,2023
+"Jeff Davis County, Texas",0,48,243,2023
+"Jefferson County, Texas",1126,48,245,2023
+"Jim Hogg County, Texas",0,48,247,2023
+"Jim Wells County, Texas",38,48,249,2023
+"Johnson County, Texas",1187,48,251,2023
+"Jones County, Texas",80,48,253,2023
+"Karnes County, Texas",92,48,255,2023
+"Kaufman County, Texas",1303,48,257,2023
+"Kendall County, Texas",84,48,259,2023
+"Kenedy County, Texas",0,48,261,2023
+"Kent County, Texas",11,48,263,2023
+"Kerr County, Texas",250,48,265,2023
+"Kimble County, Texas",14,48,267,2023
+"King County, Texas",0,48,269,2023
+"Kinney County, Texas",37,48,271,2023
+"Kleberg County, Texas",82,48,273,2023
+"Knox County, Texas",0,48,275,2023
+"Lamar County, Texas",43,48,277,2023
+"Lamb County, Texas",6,48,279,2023
+"Lampasas County, Texas",712,48,281,2023
+"La Salle County, Texas",42,48,283,2023
+"Lavaca County, Texas",14,48,285,2023
+"Lee County, Texas",0,48,287,2023
+"Leon County, Texas",4,48,289,2023
+"Liberty County, Texas",126,48,291,2023
+"Limestone County, Texas",60,48,293,2023
+"Lipscomb County, Texas",40,48,295,2023
+"Live Oak County, Texas",0,48,297,2023
+"Llano County, Texas",16,48,299,2023
+"Loving County, Texas",0,48,301,2023
+"Lubbock County, Texas",1627,48,303,2023
+"Lynn County, Texas",2,48,305,2023
+"McCulloch County, Texas",0,48,307,2023
+"McLennan County, Texas",1580,48,309,2023
+"McMullen County, Texas",0,48,311,2023
+"Madison County, Texas",35,48,313,2023
+"Marion County, Texas",0,48,315,2023
+"Martin County, Texas",0,48,317,2023
+"Mason County, Texas",0,48,319,2023
+"Matagorda County, Texas",436,48,321,2023
+"Maverick County, Texas",700,48,323,2023
+"Medina County, Texas",436,48,325,2023
+"Menard County, Texas",15,48,327,2023
+"Midland County, Texas",979,48,329,2023
+"Milam County, Texas",174,48,331,2023
+"Mills County, Texas",0,48,333,2023
+"Mitchell County, Texas",23,48,335,2023
+"Montague County, Texas",20,48,337,2023
+"Montgomery County, Texas",4948,48,339,2023
+"Moore County, Texas",0,48,341,2023
+"Morris County, Texas",0,48,343,2023
+"Motley County, Texas",5,48,345,2023
+"Nacogdoches County, Texas",288,48,347,2023
+"Navarro County, Texas",105,48,349,2023
+"Newton County, Texas",28,48,351,2023
+"Nolan County, Texas",19,48,353,2023
+"Nueces County, Texas",1842,48,355,2023
+"Ochiltree County, Texas",0,48,357,2023
+"Oldham County, Texas",0,48,359,2023
+"Orange County, Texas",188,48,361,2023
+"Palo Pinto County, Texas",153,48,363,2023
+"Panola County, Texas",63,48,365,2023
+"Parker County, Texas",507,48,367,2023
+"Parmer County, Texas",0,48,369,2023
+"Pecos County, Texas",7,48,371,2023
+"Polk County, Texas",329,48,373,2023
+"Potter County, Texas",299,48,375,2023
+"Presidio County, Texas",0,48,377,2023
+"Rains County, Texas",31,48,379,2023
+"Randall County, Texas",229,48,381,2023
+"Reagan County, Texas",0,48,383,2023
+"Real County, Texas",0,48,385,2023
+"Red River County, Texas",0,48,387,2023
+"Reeves County, Texas",0,48,389,2023
+"Refugio County, Texas",0,48,391,2023
+"Roberts County, Texas",8,48,393,2023
+"Robertson County, Texas",51,48,395,2023
+"Rockwall County, Texas",1132,48,397,2023
+"Runnels County, Texas",21,48,399,2023
+"Rusk County, Texas",350,48,401,2023
+"Sabine County, Texas",0,48,403,2023
+"San Augustine County, Texas",0,48,405,2023
+"San Jacinto County, Texas",205,48,407,2023
+"San Patricio County, Texas",434,48,409,2023
+"San Saba County, Texas",10,48,411,2023
+"Schleicher County, Texas",0,48,413,2023
+"Scurry County, Texas",54,48,415,2023
+"Shackelford County, Texas",0,48,417,2023
+"Shelby County, Texas",0,48,419,2023
+"Sherman County, Texas",0,48,421,2023
+"Smith County, Texas",474,48,423,2023
+"Somervell County, Texas",23,48,425,2023
+"Starr County, Texas",24,48,427,2023
+"Stephens County, Texas",0,48,429,2023
+"Sterling County, Texas",0,48,431,2023
+"Stonewall County, Texas",0,48,433,2023
+"Sutton County, Texas",0,48,435,2023
+"Swisher County, Texas",3,48,437,2023
+"Tarrant County, Texas",27709,48,439,2023
+"Taylor County, Texas",778,48,441,2023
+"Terrell County, Texas",0,48,443,2023
+"Terry County, Texas",7,48,445,2023
+"Throckmorton County, Texas",0,48,447,2023
+"Titus County, Texas",80,48,449,2023
+"Tom Green County, Texas",792,48,451,2023
+"Travis County, Texas",13240,48,453,2023
+"Trinity County, Texas",58,48,455,2023
+"Tyler County, Texas",16,48,457,2023
+"Upshur County, Texas",44,48,459,2023
+"Upton County, Texas",99,48,461,2023
+"Uvalde County, Texas",225,48,463,2023
+"Val Verde County, Texas",187,48,465,2023
+"Van Zandt County, Texas",104,48,467,2023
+"Victoria County, Texas",445,48,469,2023
+"Walker County, Texas",323,48,471,2023
+"Waller County, Texas",167,48,473,2023
+"Ward County, Texas",12,48,475,2023
+"Washington County, Texas",29,48,477,2023
+"Webb County, Texas",890,48,479,2023
+"Wharton County, Texas",302,48,481,2023
+"Wheeler County, Texas",0,48,483,2023
+"Wichita County, Texas",810,48,485,2023
+"Wilbarger County, Texas",36,48,487,2023
+"Willacy County, Texas",64,48,489,2023
+"Williamson County, Texas",6861,48,491,2023
+"Wilson County, Texas",262,48,493,2023
+"Winkler County, Texas",43,48,495,2023
+"Wise County, Texas",677,48,497,2023
+"Wood County, Texas",92,48,499,2023
+"Yoakum County, Texas",0,48,501,2023
+"Young County, Texas",351,48,503,2023
+"Zapata County, Texas",10,48,505,2023
+"Zavala County, Texas",0,48,507,2023
+"Beaver County, Utah",37,49,001,2023
+"Box Elder County, Utah",174,49,003,2023
+"Cache County, Utah",766,49,005,2023
+"Carbon County, Utah",4,49,007,2023
+"Daggett County, Utah",8,49,009,2023
+"Davis County, Utah",1288,49,011,2023
+"Duchesne County, Utah",18,49,013,2023
+"Emery County, Utah",0,49,015,2023
+"Garfield County, Utah",85,49,017,2023
+"Grand County, Utah",85,49,019,2023
+"Iron County, Utah",182,49,021,2023
+"Juab County, Utah",0,49,023,2023
+"Kane County, Utah",15,49,025,2023
+"Millard County, Utah",19,49,027,2023
+"Morgan County, Utah",12,49,029,2023
+"Piute County, Utah",1,49,031,2023
+"Rich County, Utah",5,49,033,2023
+"Salt Lake County, Utah",5380,49,035,2023
+"San Juan County, Utah",9,49,037,2023
+"Sanpete County, Utah",138,49,039,2023
+"Sevier County, Utah",16,49,041,2023
+"Summit County, Utah",43,49,043,2023
+"Tooele County, Utah",175,49,045,2023
+"Uintah County, Utah",54,49,047,2023
+"Utah County, Utah",2481,49,049,2023
+"Wasatch County, Utah",282,49,051,2023
+"Washington County, Utah",1079,49,053,2023
+"Wayne County, Utah",6,49,055,2023
+"Weber County, Utah",1200,49,057,2023
+"Addison County, Vermont",106,50,001,2023
+"Bennington County, Vermont",242,50,003,2023
+"Caledonia County, Vermont",158,50,005,2023
+"Chittenden County, Vermont",767,50,007,2023
+"Essex County, Vermont",26,50,009,2023
+"Franklin County, Vermont",200,50,011,2023
+"Grand Isle County, Vermont",31,50,013,2023
+"Lamoille County, Vermont",151,50,015,2023
+"Orange County, Vermont",55,50,017,2023
+"Orleans County, Vermont",126,50,019,2023
+"Rutland County, Vermont",399,50,021,2023
+"Washington County, Vermont",179,50,023,2023
+"Windham County, Vermont",432,50,025,2023
+"Windsor County, Vermont",338,50,027,2023
+"Accomack County, Virginia",329,51,001,2023
+"Albemarle County, Virginia",1071,51,003,2023
+"Alleghany County, Virginia",35,51,005,2023
+"Amelia County, Virginia",56,51,007,2023
+"Amherst County, Virginia",205,51,009,2023
+"Appomattox County, Virginia",31,51,011,2023
+"Arlington County, Virginia",3647,51,013,2023
+"Augusta County, Virginia",164,51,015,2023
+"Bath County, Virginia",106,51,017,2023
+"Bedford County, Virginia",329,51,019,2023
+"Bland County, Virginia",26,51,021,2023
+"Botetourt County, Virginia",376,51,023,2023
+"Brunswick County, Virginia",152,51,025,2023
+"Buchanan County, Virginia",63,51,027,2023
+"Buckingham County, Virginia",21,51,029,2023
+"Campbell County, Virginia",80,51,031,2023
+"Caroline County, Virginia",237,51,033,2023
+"Carroll County, Virginia",9,51,035,2023
+"Charles City County, Virginia",7,51,036,2023
+"Charlotte County, Virginia",220,51,037,2023
+"Chesterfield County, Virginia",6862,51,041,2023
+"Clarke County, Virginia",62,51,043,2023
+"Craig County, Virginia",0,51,045,2023
+"Culpeper County, Virginia",880,51,047,2023
+"Cumberland County, Virginia",22,51,049,2023
+"Dickenson County, Virginia",16,51,051,2023
+"Dinwiddie County, Virginia",290,51,053,2023
+"Essex County, Virginia",272,51,057,2023
+"Fairfax County, Virginia",12851,51,059,2023
+"Fauquier County, Virginia",726,51,061,2023
+"Floyd County, Virginia",55,51,063,2023
+"Fluvanna County, Virginia",263,51,065,2023
+"Franklin County, Virginia",343,51,067,2023
+"Frederick County, Virginia",1112,51,069,2023
+"Giles County, Virginia",16,51,071,2023
+"Gloucester County, Virginia",542,51,073,2023
+"Goochland County, Virginia",117,51,075,2023
+"Grayson County, Virginia",254,51,077,2023
+"Greene County, Virginia",106,51,079,2023
+"Greensville County, Virginia",172,51,081,2023
+"Halifax County, Virginia",243,51,083,2023
+"Hanover County, Virginia",471,51,085,2023
+"Henrico County, Virginia",2642,51,087,2023
+"Henry County, Virginia",303,51,089,2023
+"Highland County, Virginia",0,51,091,2023
+"Isle of Wight County, Virginia",285,51,093,2023
+"James City County, Virginia",1838,51,095,2023
+"King and Queen County, Virginia",61,51,097,2023
+"King George County, Virginia",312,51,099,2023
+"King William County, Virginia",187,51,101,2023
+"Lancaster County, Virginia",7,51,103,2023
+"Lee County, Virginia",58,51,105,2023
+"Loudoun County, Virginia",5884,51,107,2023
+"Louisa County, Virginia",99,51,109,2023
+"Lunenburg County, Virginia",49,51,111,2023
+"Madison County, Virginia",83,51,113,2023
+"Mathews County, Virginia",2,51,115,2023
+"Mecklenburg County, Virginia",170,51,117,2023
+"Middlesex County, Virginia",146,51,119,2023
+"Montgomery County, Virginia",469,51,121,2023
+"Nelson County, Virginia",28,51,125,2023
+"New Kent County, Virginia",264,51,127,2023
+"Northampton County, Virginia",172,51,131,2023
+"Northumberland County, Virginia",266,51,133,2023
+"Nottoway County, Virginia",238,51,135,2023
+"Orange County, Virginia",410,51,137,2023
+"Page County, Virginia",103,51,139,2023
+"Patrick County, Virginia",29,51,141,2023
+"Pittsylvania County, Virginia",267,51,143,2023
+"Powhatan County, Virginia",125,51,145,2023
+"Prince Edward County, Virginia",161,51,147,2023
+"Prince George County, Virginia",1016,51,149,2023
+"Prince William County, Virginia",10159,51,153,2023
+"Pulaski County, Virginia",82,51,155,2023
+"Rappahannock County, Virginia",0,51,157,2023
+"Richmond County, Virginia",17,51,159,2023
+"Roanoke County, Virginia",635,51,161,2023
+"Rockbridge County, Virginia",48,51,163,2023
+"Rockingham County, Virginia",1385,51,165,2023
+"Russell County, Virginia",0,51,167,2023
+"Scott County, Virginia",15,51,169,2023
+"Shenandoah County, Virginia",868,51,171,2023
+"Smyth County, Virginia",90,51,173,2023
+"Southampton County, Virginia",204,51,175,2023
+"Spotsylvania County, Virginia",2940,51,177,2023
+"Stafford County, Virginia",3116,51,179,2023
+"Surry County, Virginia",44,51,181,2023
+"Sussex County, Virginia",67,51,183,2023
+"Tazewell County, Virginia",75,51,185,2023
+"Warren County, Virginia",134,51,187,2023
+"Washington County, Virginia",175,51,191,2023
+"Westmoreland County, Virginia",294,51,193,2023
+"Wise County, Virginia",58,51,195,2023
+"Wythe County, Virginia",56,51,197,2023
+"York County, Virginia",1952,51,199,2023
+"Alexandria city, Virginia",2718,51,510,2023
+"Bristol city, Virginia",28,51,520,2023
+"Buena Vista city, Virginia",0,51,530,2023
+"Charlottesville city, Virginia",229,51,540,2023
+"Chesapeake city, Virginia",4762,51,550,2023
+"Colonial Heights city, Virginia",293,51,570,2023
+"Covington city, Virginia",16,51,580,2023
+"Danville city, Virginia",326,51,590,2023
+"Emporia city, Virginia",0,51,595,2023
+"Fairfax city, Virginia",69,51,600,2023
+"Falls Church city, Virginia",260,51,610,2023
+"Franklin city, Virginia",27,51,620,2023
+"Fredericksburg city, Virginia",314,51,630,2023
+"Galax city, Virginia",0,51,640,2023
+"Hampton city, Virginia",3053,51,650,2023
+"Harrisonburg city, Virginia",1990,51,660,2023
+"Hopewell city, Virginia",574,51,670,2023
+"Lexington city, Virginia",35,51,678,2023
+"Lynchburg city, Virginia",1027,51,680,2023
+"Manassas city, Virginia",857,51,683,2023
+"Manassas Park city, Virginia",177,51,685,2023
+"Martinsville city, Virginia",173,51,690,2023
+"Newport News city, Virginia",5828,51,700,2023
+"Norfolk city, Virginia",4385,51,710,2023
+"Norton city, Virginia",0,51,720,2023
+"Petersburg city, Virginia",834,51,730,2023
+"Poquoson city, Virginia",175,51,735,2023
+"Portsmouth city, Virginia",1785,51,740,2023
+"Radford city, Virginia",240,51,750,2023
+"Richmond city, Virginia",2404,51,760,2023
+"Roanoke city, Virginia",779,51,770,2023
+"Salem city, Virginia",153,51,775,2023
+"Staunton city, Virginia",338,51,790,2023
+"Suffolk city, Virginia",1613,51,800,2023
+"Virginia Beach city, Virginia",11369,51,810,2023
+"Waynesboro city, Virginia",231,51,820,2023
+"Williamsburg city, Virginia",389,51,830,2023
+"Winchester city, Virginia",211,51,840,2023
+"Adams County, Washington",56,53,001,2023
+"Asotin County, Washington",15,53,003,2023
+"Benton County, Washington",650,53,005,2023
+"Chelan County, Washington",41,53,007,2023
+"Clallam County, Washington",243,53,009,2023
+"Clark County, Washington",2261,53,011,2023
+"Columbia County, Washington",5,53,013,2023
+"Cowlitz County, Washington",200,53,015,2023
+"Douglas County, Washington",32,53,017,2023
+"Ferry County, Washington",23,53,019,2023
+"Franklin County, Washington",431,53,021,2023
+"Garfield County, Washington",0,53,023,2023
+"Grant County, Washington",114,53,025,2023
+"Grays Harbor County, Washington",112,53,027,2023
+"Island County, Washington",493,53,029,2023
+"Jefferson County, Washington",33,53,031,2023
+"King County, Washington",9887,53,033,2023
+"Kitsap County, Washington",2587,53,035,2023
+"Kittitas County, Washington",80,53,037,2023
+"Klickitat County, Washington",35,53,039,2023
+"Lewis County, Washington",550,53,041,2023
+"Lincoln County, Washington",8,53,043,2023
+"Mason County, Washington",359,53,045,2023
+"Okanogan County, Washington",157,53,047,2023
+"Pacific County, Washington",77,53,049,2023
+"Pend Oreille County, Washington",4,53,051,2023
+"Pierce County, Washington",10915,53,053,2023
+"San Juan County, Washington",36,53,055,2023
+"Skagit County, Washington",592,53,057,2023
+"Skamania County, Washington",4,53,059,2023
+"Snohomish County, Washington",4214,53,061,2023
+"Spokane County, Washington",2622,53,063,2023
+"Stevens County, Washington",77,53,065,2023
+"Thurston County, Washington",4092,53,067,2023
+"Wahkiakum County, Washington",9,53,069,2023
+"Walla Walla County, Washington",397,53,071,2023
+"Whatcom County, Washington",976,53,073,2023
+"Whitman County, Washington",137,53,075,2023
+"Yakima County, Washington",848,53,077,2023
+"Barbour County, West Virginia",33,54,001,2023
+"Berkeley County, West Virginia",1185,54,003,2023
+"Boone County, West Virginia",16,54,005,2023
+"Braxton County, West Virginia",0,54,007,2023
+"Brooke County, West Virginia",1,54,009,2023
+"Cabell County, West Virginia",241,54,011,2023
+"Calhoun County, West Virginia",8,54,013,2023
+"Clay County, West Virginia",4,54,015,2023
+"Doddridge County, West Virginia",75,54,017,2023
+"Fayette County, West Virginia",34,54,019,2023
+"Gilmer County, West Virginia",18,54,021,2023
+"Grant County, West Virginia",23,54,023,2023
+"Greenbrier County, West Virginia",43,54,025,2023
+"Hampshire County, West Virginia",179,54,027,2023
+"Hancock County, West Virginia",55,54,029,2023
+"Hardy County, West Virginia",399,54,031,2023
+"Harrison County, West Virginia",321,54,033,2023
+"Jackson County, West Virginia",0,54,035,2023
+"Jefferson County, West Virginia",750,54,037,2023
+"Kanawha County, West Virginia",653,54,039,2023
+"Lewis County, West Virginia",43,54,041,2023
+"Lincoln County, West Virginia",9,54,043,2023
+"Logan County, West Virginia",4,54,045,2023
+"McDowell County, West Virginia",4,54,047,2023
+"Marion County, West Virginia",79,54,049,2023
+"Marshall County, West Virginia",70,54,051,2023
+"Mason County, West Virginia",0,54,053,2023
+"Mercer County, West Virginia",207,54,055,2023
+"Mineral County, West Virginia",165,54,057,2023
+"Mingo County, West Virginia",0,54,059,2023
+"Monongalia County, West Virginia",550,54,061,2023
+"Monroe County, West Virginia",22,54,063,2023
+"Morgan County, West Virginia",79,54,065,2023
+"Nicholas County, West Virginia",0,54,067,2023
+"Ohio County, West Virginia",60,54,069,2023
+"Pendleton County, West Virginia",0,54,071,2023
+"Pleasants County, West Virginia",0,54,073,2023
+"Pocahontas County, West Virginia",16,54,075,2023
+"Preston County, West Virginia",35,54,077,2023
+"Putnam County, West Virginia",197,54,079,2023
+"Raleigh County, West Virginia",287,54,081,2023
+"Randolph County, West Virginia",25,54,083,2023
+"Ritchie County, West Virginia",26,54,085,2023
+"Roane County, West Virginia",3,54,087,2023
+"Summers County, West Virginia",0,54,089,2023
+"Taylor County, West Virginia",21,54,091,2023
+"Tucker County, West Virginia",9,54,093,2023
+"Tyler County, West Virginia",0,54,095,2023
+"Upshur County, West Virginia",0,54,097,2023
+"Wayne County, West Virginia",8,54,099,2023
+"Webster County, West Virginia",29,54,101,2023
+"Wetzel County, West Virginia",11,54,103,2023
+"Wirt County, West Virginia",0,54,105,2023
+"Wood County, West Virginia",199,54,107,2023
+"Wyoming County, West Virginia",2,54,109,2023
+"Adams County, Wisconsin",98,55,001,2023
+"Ashland County, Wisconsin",146,55,003,2023
+"Barron County, Wisconsin",155,55,005,2023
+"Bayfield County, Wisconsin",62,55,007,2023
+"Brown County, Wisconsin",3289,55,009,2023
+"Buffalo County, Wisconsin",28,55,011,2023
+"Burnett County, Wisconsin",18,55,013,2023
+"Calumet County, Wisconsin",22,55,015,2023
+"Chippewa County, Wisconsin",219,55,017,2023
+"Clark County, Wisconsin",305,55,019,2023
+"Columbia County, Wisconsin",133,55,021,2023
+"Crawford County, Wisconsin",45,55,023,2023
+"Dane County, Wisconsin",3995,55,025,2023
+"Dodge County, Wisconsin",500,55,027,2023
+"Door County, Wisconsin",27,55,029,2023
+"Douglas County, Wisconsin",107,55,031,2023
+"Dunn County, Wisconsin",46,55,033,2023
+"Eau Claire County, Wisconsin",271,55,035,2023
+"Florence County, Wisconsin",1,55,037,2023
+"Fond du Lac County, Wisconsin",447,55,039,2023
+"Forest County, Wisconsin",19,55,041,2023
+"Grant County, Wisconsin",71,55,043,2023
+"Green County, Wisconsin",33,55,045,2023
+"Green Lake County, Wisconsin",144,55,047,2023
+"Iowa County, Wisconsin",52,55,049,2023
+"Iron County, Wisconsin",0,55,051,2023
+"Jackson County, Wisconsin",55,55,053,2023
+"Jefferson County, Wisconsin",559,55,055,2023
+"Juneau County, Wisconsin",68,55,057,2023
+"Kenosha County, Wisconsin",2824,55,059,2023
+"Kewaunee County, Wisconsin",41,55,061,2023
+"La Crosse County, Wisconsin",493,55,063,2023
+"Lafayette County, Wisconsin",33,55,065,2023
+"Langlade County, Wisconsin",21,55,067,2023
+"Lincoln County, Wisconsin",9,55,069,2023
+"Manitowoc County, Wisconsin",266,55,071,2023
+"Marathon County, Wisconsin",292,55,073,2023
+"Marinette County, Wisconsin",419,55,075,2023
+"Marquette County, Wisconsin",29,55,077,2023
+"Menominee County, Wisconsin",35,55,078,2023
+"Milwaukee County, Wisconsin",36849,55,079,2023
+"Monroe County, Wisconsin",199,55,081,2023
+"Oconto County, Wisconsin",81,55,083,2023
+"Oneida County, Wisconsin",94,55,085,2023
+"Outagamie County, Wisconsin",825,55,087,2023
+"Ozaukee County, Wisconsin",371,55,089,2023
+"Pepin County, Wisconsin",5,55,091,2023
+"Pierce County, Wisconsin",108,55,093,2023
+"Polk County, Wisconsin",74,55,095,2023
+"Portage County, Wisconsin",115,55,097,2023
+"Price County, Wisconsin",55,55,099,2023
+"Racine County, Wisconsin",2971,55,101,2023
+"Richland County, Wisconsin",13,55,103,2023
+"Rock County, Wisconsin",695,55,105,2023
+"Rusk County, Wisconsin",39,55,107,2023
+"St. Croix County, Wisconsin",80,55,109,2023
+"Sauk County, Wisconsin",454,55,111,2023
+"Sawyer County, Wisconsin",42,55,113,2023
+"Shawano County, Wisconsin",242,55,115,2023
+"Sheboygan County, Wisconsin",959,55,117,2023
+"Taylor County, Wisconsin",20,55,119,2023
+"Trempealeau County, Wisconsin",139,55,121,2023
+"Vernon County, Wisconsin",72,55,123,2023
+"Vilas County, Wisconsin",84,55,125,2023
+"Walworth County, Wisconsin",516,55,127,2023
+"Washburn County, Wisconsin",55,55,129,2023
+"Washington County, Wisconsin",1003,55,131,2023
+"Waukesha County, Wisconsin",2916,55,133,2023
+"Waupaca County, Wisconsin",98,55,135,2023
+"Waushara County, Wisconsin",135,55,137,2023
+"Winnebago County, Wisconsin",1786,55,139,2023
+"Wood County, Wisconsin",138,55,141,2023
+"Albany County, Wyoming",330,56,001,2023
+"Big Horn County, Wyoming",0,56,003,2023
+"Campbell County, Wyoming",0,56,005,2023
+"Carbon County, Wyoming",24,56,007,2023
+"Converse County, Wyoming",0,56,009,2023
+"Crook County, Wyoming",3,56,011,2023
+"Fremont County, Wyoming",23,56,013,2023
+"Goshen County, Wyoming",25,56,015,2023
+"Hot Springs County, Wyoming",5,56,017,2023
+"Johnson County, Wyoming",112,56,019,2023
+"Laramie County, Wyoming",321,56,021,2023
+"Lincoln County, Wyoming",6,56,023,2023
+"Natrona County, Wyoming",247,56,025,2023
+"Niobrara County, Wyoming",2,56,027,2023
+"Park County, Wyoming",16,56,029,2023
+"Platte County, Wyoming",0,56,031,2023
+"Sheridan County, Wyoming",90,56,033,2023
+"Sublette County, Wyoming",0,56,035,2023
+"Sweetwater County, Wyoming",151,56,037,2023
+"Teton County, Wyoming",84,56,039,2023
+"Uinta County, Wyoming",134,56,041,2023
+"Washakie County, Wyoming",42,56,043,2023
+"Weston County, Wyoming",16,56,045,2023
+"Adjuntas Municipio, Puerto Rico",17901,72,001,2023
+"Aguada Municipio, Puerto Rico",33388,72,003,2023
+"Aguadilla Municipio, Puerto Rico",52686,72,005,2023
+"Aguas Buenas Municipio, Puerto Rico",23582,72,007,2023
+"Aibonito Municipio, Puerto Rico",24279,72,009,2023
+"Añasco Municipio, Puerto Rico",23190,72,011,2023
+"Arecibo Municipio, Puerto Rico",85468,72,013,2023
+"Arroyo Municipio, Puerto Rico",15387,72,015,2023
+"Barceloneta Municipio, Puerto Rico",22261,72,017,2023
+"Barranquitas Municipio, Puerto Rico",28574,72,019,2023
+"Bayamón Municipio, Puerto Rico",173503,72,021,2023
+"Cabo Rojo Municipio, Puerto Rico",45572,72,023,2023
+"Caguas Municipio, Puerto Rico",119826,72,025,2023
+"Camuy Municipio, Puerto Rico",32099,72,027,2023
+"Canóvanas Municipio, Puerto Rico",39781,72,029,2023
+"Carolina Municipio, Puerto Rico",140912,72,031,2023
+"Cataño Municipio, Puerto Rico",21430,72,033,2023
+"Cayey Municipio, Puerto Rico",40850,72,035,2023
+"Ceiba Municipio, Puerto Rico",10726,72,037,2023
+"Ciales Municipio, Puerto Rico",16776,72,039,2023
+"Cidra Municipio, Puerto Rico",39427,72,041,2023
+"Coamo Municipio, Puerto Rico",33856,72,043,2023
+"Comerío Municipio, Puerto Rico",18705,72,045,2023
+"Corozal Municipio, Puerto Rico",34054,72,047,2023
+"Culebra Municipio, Puerto Rico",1164,72,049,2023
+"Dorado Municipio, Puerto Rico",33401,72,051,2023
+"Fajardo Municipio, Puerto Rico",30629,72,053,2023
+"Florida Municipio, Puerto Rico",11453,72,054,2023
+"Guánica Municipio, Puerto Rico",13134,72,055,2023
+"Guayama Municipio, Puerto Rico",35079,72,057,2023
+"Guayanilla Municipio, Puerto Rico",17299,72,059,2023
+"Guaynabo Municipio, Puerto Rico",80656,72,061,2023
+"Gurabo Municipio, Puerto Rico",38533,72,063,2023
+"Hatillo Municipio, Puerto Rico",37876,72,065,2023
+"Hormigueros Municipio, Puerto Rico",14847,72,067,2023
+"Humacao Municipio, Puerto Rico",48755,72,069,2023
+"Isabela Municipio, Puerto Rico",41400,72,071,2023
+"Jayuya Municipio, Puerto Rico",14285,72,073,2023
+"Juana Díaz Municipio, Puerto Rico",45914,72,075,2023
+"Juncos Municipio, Puerto Rico",36396,72,077,2023
+"Lajas Municipio, Puerto Rico",22407,72,079,2023
+"Lares Municipio, Puerto Rico",27395,72,081,2023
+"Las Marías Municipio, Puerto Rico",8636,72,083,2023
+"Las Piedras Municipio, Puerto Rico",34486,72,085,2023
+"Loíza Municipio, Puerto Rico",22661,72,087,2023
+"Luquillo Municipio, Puerto Rico",17071,72,089,2023
+"Manatí Municipio, Puerto Rico",37645,72,091,2023
+"Maricao Municipio, Puerto Rico",5050,72,093,2023
+"Maunabo Municipio, Puerto Rico",10344,72,095,2023
+"Mayagüez Municipio, Puerto Rico",69543,72,097,2023
+"Moca Municipio, Puerto Rico",36734,72,099,2023
+"Morovis Municipio, Puerto Rico",28312,72,101,2023
+"Naguabo Municipio, Puerto Rico",22575,72,103,2023
+"Naranjito Municipio, Puerto Rico",29111,72,105,2023
+"Orocovis Municipio, Puerto Rico",20988,72,107,2023
+"Patillas Municipio, Puerto Rico",15638,72,109,2023
+"Peñuelas Municipio, Puerto Rico",19854,72,111,2023
+"Ponce Municipio, Puerto Rico",131890,72,113,2023
+"Quebradillas Municipio, Puerto Rico",22936,72,115,2023
+"Rincón Municipio, Puerto Rico",13271,72,117,2023
+"Río Grande Municipio, Puerto Rico",44949,72,119,2023
+"Sabana Grande Municipio, Puerto Rico",21904,72,121,2023
+"Salinas Municipio, Puerto Rico",24875,72,123,2023
+"San Germán Municipio, Puerto Rico",30772,72,125,2023
+"San Juan Municipio, Puerto Rico",291453,72,127,2023
+"San Lorenzo Municipio, Puerto Rico",37247,72,129,2023
+"San Sebastián Municipio, Puerto Rico",37587,72,131,2023
+"Santa Isabel Municipio, Puerto Rico",19906,72,133,2023
+"Toa Alta Municipio, Puerto Rico",65068,72,135,2023
+"Toa Baja Municipio, Puerto Rico",70792,72,137,2023
+"Trujillo Alto Municipio, Puerto Rico",64724,72,139,2023
+"Utuado Municipio, Puerto Rico",27202,72,141,2023
+"Vega Alta Municipio, Puerto Rico",34092,72,143,2023
+"Vega Baja Municipio, Puerto Rico",52005,72,145,2023
+"Vieques Municipio, Puerto Rico",7563,72,147,2023
+"Villalba Municipio, Puerto Rico",21572,72,149,2023
+"Yabucoa Municipio, Puerto Rico",29430,72,151,2023
+"Yauco Municipio, Puerto Rico",32981,72,153,2023

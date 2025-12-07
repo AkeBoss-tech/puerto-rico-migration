@@ -1,0 +1,3222 @@
+NAME,B03001_005E,state,county,year
+"Linn County, Missouri",3,29,115,2012
+"Howell County, Missouri",12,29,091,2012
+"Johnson County, Missouri",158,29,101,2012
+"Laclede County, Missouri",0,29,105,2012
+"Maries County, Missouri",0,29,125,2012
+"Phelps County, Missouri",24,29,161,2012
+"Platte County, Missouri",388,29,165,2012
+"St. Francois County, Missouri",3,29,187,2012
+"St. Louis city, Missouri",731,29,510,2012
+"Andrew County, Missouri",3,29,003,2012
+"Butler County, Missouri",11,29,023,2012
+"Carroll County, Missouri",1,29,033,2012
+"Daviess County, Missouri",23,29,061,2012
+"Holt County, Missouri",0,29,087,2012
+"Marion County, Missouri",14,29,127,2012
+"Osage County, Missouri",0,29,151,2012
+"Ripley County, Missouri",12,29,181,2012
+"Warren County, Missouri",6,29,219,2012
+"Washington County, Missouri",0,29,221,2012
+"Christian County, Missouri",197,29,043,2012
+"DeKalb County, Missouri",0,29,063,2012
+"Harrison County, Missouri",0,29,081,2012
+"Lafayette County, Missouri",109,29,107,2012
+"Adair County, Missouri",37,29,001,2012
+"Scotland County, Missouri",0,29,199,2012
+"Sullivan County, Missouri",105,29,211,2012
+"Clark County, Missouri",0,29,045,2012
+"Jasper County, Missouri",138,29,097,2012
+"Lewis County, Missouri",0,29,111,2012
+"McDonald County, Missouri",0,29,119,2012
+"Perry County, Missouri",0,29,157,2012
+"Polk County, Missouri",0,29,167,2012
+"Ray County, Missouri",157,29,177,2012
+"Hill County, Montana",23,30,041,2012
+"Chouteau County, Montana",0,30,015,2012
+"Lincoln County, Montana",0,30,053,2012
+"Park County, Montana",16,30,067,2012
+"Treasure County, Montana",0,30,103,2012
+"Blaine County, Montana",0,30,005,2012
+"Sweet Grass County, Montana",0,30,097,2012
+"Teton County, Montana",0,30,099,2012
+"Prairie County, Montana",0,30,079,2012
+"Glacier County, Montana",1,30,035,2012
+"Fallon County, Montana",0,30,025,2012
+"Golden Valley County, Montana",0,30,037,2012
+"Silver Bow County, Montana",39,30,093,2012
+"Stillwater County, Montana",27,30,095,2012
+"Jefferson County, Montana",0,30,043,2012
+"Granite County, Montana",0,30,039,2012
+"Wheatland County, Montana",0,30,107,2012
+"Madison County, Montana",2,30,057,2012
+"Sheridan County, Montana",0,30,091,2012
+"Carter County, Montana",0,30,011,2012
+"Big Horn County, Montana",0,30,003,2012
+"Lake County, Montana",0,30,047,2012
+"Lewis and Clark County, Montana",134,30,049,2012
+"Pondera County, Montana",0,30,073,2012
+"Yellowstone County, Montana",339,30,111,2012
+"Missoula County, Montana",121,30,063,2012
+"Barron County, Wisconsin",49,55,005,2012
+"Sawyer County, Wisconsin",69,55,113,2012
+"Green Lake County, Wisconsin",32,55,047,2012
+"Price County, Wisconsin",30,55,099,2012
+"Marquette County, Wisconsin",118,55,077,2012
+"Marinette County, Wisconsin",75,55,075,2012
+"Milwaukee County, Wisconsin",29188,55,079,2012
+"Racine County, Wisconsin",1440,55,101,2012
+"Dunn County, Wisconsin",73,55,033,2012
+"Forest County, Wisconsin",21,55,041,2012
+"Grant County, Wisconsin",20,55,043,2012
+"Rusk County, Wisconsin",65,55,107,2012
+"Sheboygan County, Wisconsin",339,55,117,2012
+"Menominee County, Wisconsin",0,55,078,2012
+"Outagamie County, Wisconsin",468,55,087,2012
+"Buffalo County, Wisconsin",5,55,011,2012
+"Columbia County, Wisconsin",90,55,021,2012
+"La Crosse County, Wisconsin",307,55,063,2012
+"Brown County, Wisconsin",1212,55,009,2012
+"Marathon County, Wisconsin",329,55,073,2012
+"Oneida County, Wisconsin",22,55,085,2012
+"Trempealeau County, Wisconsin",126,55,121,2012
+"Waukesha County, Wisconsin",2309,55,133,2012
+"Dodge County, Wisconsin",246,55,027,2012
+"Vilas County, Wisconsin",62,55,125,2012
+"Crawford County, Wisconsin",32,55,023,2012
+"Manitowoc County, Wisconsin",195,55,071,2012
+"Sauk County, Wisconsin",162,55,111,2012
+"Burnett County, Wisconsin",25,55,013,2012
+"Chippewa County, Wisconsin",131,55,017,2012
+"Door County, Wisconsin",32,55,029,2012
+"Fond du Lac County, Wisconsin",201,55,039,2012
+"Jackson County, Wisconsin",121,55,053,2012
+"Pepin County, Wisconsin",0,55,091,2012
+"Ozaukee County, Wisconsin",181,55,089,2012
+"Richland County, Wisconsin",15,55,103,2012
+"Rock County, Wisconsin",433,55,105,2012
+"Waushara County, Wisconsin",55,55,137,2012
+"Bayfield County, Wisconsin",10,55,007,2012
+"Lafayette County, Wisconsin",0,55,065,2012
+"Pierce County, Wisconsin",88,55,093,2012
+"Wood County, Wisconsin",186,55,141,2012
+"Calumet County, Wisconsin",126,55,015,2012
+"Florence County, Wisconsin",0,55,037,2012
+"Kenosha County, Wisconsin",2313,55,059,2012
+"Lincoln County, Wyoming",4,56,023,2012
+"Johnson County, Wyoming",0,56,019,2012
+"Laramie County, Wyoming",198,56,021,2012
+"Converse County, Wyoming",44,56,009,2012
+"Teton County, Wyoming",11,56,039,2012
+"Warren County, Tennessee",33,47,177,2012
+"Washington County, Tennessee",443,47,179,2012
+"Weakley County, Tennessee",42,47,183,2012
+"Benton County, Tennessee",14,47,005,2012
+"Bledsoe County, Tennessee",31,47,007,2012
+"Campbell County, Tennessee",82,47,013,2012
+"Cannon County, Tennessee",0,47,015,2012
+"Houston County, Tennessee",0,47,083,2012
+"Guayanilla Municipio, Puerto Rico",21057,72,059,2012
+"Sabana Grande Municipio, Puerto Rico",24439,72,121,2012
+"Guánica Municipio, Puerto Rico",18836,72,055,2012
+"Naguabo Municipio, Puerto Rico",26117,72,103,2012
+"Utuado Municipio, Puerto Rico",32366,72,141,2012
+"Cataño Municipio, Puerto Rico",26669,72,033,2012
+"Guayama Municipio, Puerto Rico",44700,72,057,2012
+"Gurabo Municipio, Puerto Rico",44475,72,063,2012
+"Barceloneta Municipio, Puerto Rico",24523,72,017,2012
+"Guaynabo Municipio, Puerto Rico",89832,72,061,2012
+"Fajardo Municipio, Puerto Rico",35737,72,053,2012
+"Rincón Municipio, Puerto Rico",13747,72,117,2012
+"Yabucoa Municipio, Puerto Rico",37512,72,151,2012
+"Canóvanas Municipio, Puerto Rico",45700,72,029,2012
+"Dorado Municipio, Puerto Rico",36418,72,051,2012
+"Orocovis Municipio, Puerto Rico",22987,72,107,2012
+"Ceiba Municipio, Puerto Rico",13361,72,037,2012
+"Comerío Municipio, Puerto Rico",20556,72,045,2012
+"Lares Municipio, Puerto Rico",30200,72,081,2012
+"San Juan Municipio, Puerto Rico",336570,72,127,2012
+"Maricao Municipio, Puerto Rico",6509,72,093,2012
+"Lincoln County, Maine",88,23,015,2012
+"Waldo County, Maine",119,23,027,2012
+"Penobscot County, Maine",380,23,019,2012
+"Piscataquis County, Maine",109,23,021,2012
+"Androscoggin County, Maine",408,23,001,2012
+"Aroostook County, Maine",254,23,003,2012
+"Washington County, Maine",126,23,029,2012
+"Cumberland County, Maine",1397,23,005,2012
+"Knox County, Maine",18,23,013,2012
+"Sagadahoc County, Maine",375,23,023,2012
+"York County, Maine",564,23,031,2012
+"Kennebec County, Maine",510,23,011,2012
+"Franklin County, Maine",0,23,007,2012
+"Somerset County, Maine",206,23,025,2012
+"Hancock County, Maine",96,23,009,2012
+"Worcester County, Maryland",73,24,047,2012
+"Baltimore city, Maryland",3582,24,510,2012
+"Somerset County, Maryland",298,24,039,2012
+"Talbot County, Maryland",316,24,041,2012
+"Harford County, Maryland",2194,24,025,2012
+"Howard County, Maryland",2331,24,027,2012
+"Prince George's County, Maryland",6119,24,033,2012
+"Baltimore County, Maryland",4639,24,005,2012
+"Frederick County, Maryland",2189,24,021,2012
+"Garrett County, Maryland",23,24,023,2012
+"Kent County, Maryland",67,24,029,2012
+"Carroll County, Maryland",815,24,013,2012
+"Queen Anne's County, Maryland",181,24,035,2012
+"Charles County, Maryland",1820,24,017,2012
+"Washington County, Maryland",1397,24,043,2012
+"Wicomico County, Maryland",1090,24,045,2012
+"Caroline County, Maryland",93,24,011,2012
+"Suffolk County, Massachusetts",36462,25,025,2012
+"Dukes County, Massachusetts",5,25,007,2012
+"Middlesex County, Massachusetts",29536,25,017,2012
+"Bristol County, Massachusetts",19716,25,005,2012
+"Hampden County, Massachusetts",81886,25,013,2012
+"Juneau City and Borough, Alaska",65,02,110,2012
+"Lake and Peninsula Borough, Alaska",2,02,164,2012
+"Yukon-Koyukuk Census Area, Alaska",1,02,290,2012
+"Anchorage Municipality, Alaska",3357,02,020,2012
+"Denali Borough, Alaska",0,02,068,2012
+"Valdez-Cordova Census Area, Alaska",0,02,261,2012
+"Hoonah-Angoon Census Area, Alaska",0,02,105,2012
+"Skagway Municipality, Alaska",0,02,230,2012
+"Prince of Wales-Hyder Census Area, Alaska",4,02,198,2012
+"Pima County, Arizona",5278,04,019,2012
+"Maricopa County, Arizona",19549,04,013,2012
+"Graham County, Arizona",20,04,009,2012
+"Santa Cruz County, Arizona",325,04,023,2012
+"La Paz County, Arizona",59,04,012,2012
+"Mohave County, Arizona",377,04,015,2012
+"Coconino County, Arizona",872,04,005,2012
+"Yavapai County, Arizona",789,04,025,2012
+"Greenlee County, Arizona",0,04,011,2012
+"Pinal County, Arizona",1913,04,021,2012
+"Nevada County, Arkansas",4,05,099,2012
+"Cross County, Arkansas",0,05,037,2012
+"Dallas County, Arkansas",0,05,039,2012
+"Columbia County, Arkansas",0,05,027,2012
+"Saline County, Arkansas",421,05,125,2012
+"Van Buren County, Arkansas",0,05,141,2012
+"Izard County, Arkansas",31,05,065,2012
+"Midland County, Michigan",219,26,111,2012
+"Ogemaw County, Michigan",25,26,129,2012
+"Crawford County, Michigan",0,26,039,2012
+"Gratiot County, Michigan",63,26,057,2012
+"Lenawee County, Michigan",542,26,091,2012
+"Haines Borough, Alaska",0,02,100,2012
+"Bullitt County, Kentucky",175,21,029,2012
+"Independence County, Arkansas",41,05,063,2012
+"Lincoln County, Arkansas",17,05,079,2012
+"Logan County, Arkansas",14,05,083,2012
+"Grant County, Arkansas",14,05,053,2012
+"Crittenden County, Arkansas",12,05,035,2012
+"Franklin County, Arkansas",42,05,047,2012
+"Faulkner County, Arkansas",61,05,045,2012
+"Pike County, Arkansas",0,05,109,2012
+"Jefferson County, Arkansas",75,05,069,2012
+"Marion County, Arkansas",10,05,089,2012
+"Montgomery County, Arkansas",13,05,097,2012
+"Scott County, Arkansas",56,05,127,2012
+"Searcy County, Arkansas",0,05,129,2012
+"Sebastian County, Arkansas",342,05,131,2012
+"Crawford County, Arkansas",0,05,033,2012
+"Benton County, Arkansas",1018,05,007,2012
+"Chicot County, Arkansas",0,05,017,2012
+"Hot Spring County, Arkansas",0,05,059,2012
+"Johnson County, Arkansas",35,05,071,2012
+"Lee County, Arkansas",31,05,077,2012
+"Madison County, Arkansas",53,05,087,2012
+"Fulton County, Arkansas",0,05,049,2012
+"Howard County, Arkansas",0,05,061,2012
+"Mississippi County, Arkansas",79,05,093,2012
+"Prairie County, Arkansas",0,05,117,2012
+"Union County, Arkansas",16,05,139,2012
+"Cleveland County, Arkansas",0,05,025,2012
+"Hempstead County, Arkansas",82,05,057,2012
+"Sharp County, Arkansas",35,05,135,2012
+"Washington County, Arkansas",651,05,143,2012
+"Ashley County, Arkansas",0,05,003,2012
+"Craighead County, Arkansas",54,05,031,2012
+"Lafayette County, Arkansas",0,05,073,2012
+"Perry County, Arkansas",0,05,105,2012
+"Poinsett County, Arkansas",25,05,111,2012
+"Sevier County, Arkansas",39,05,133,2012
+"Calhoun County, Arkansas",3,05,013,2012
+"Bradley County, Arkansas",20,05,011,2012
+"Lawrence County, Arkansas",0,05,075,2012
+"Polk County, Arkansas",29,05,113,2012
+"Conway County, Arkansas",0,05,029,2012
+"Newton County, Arkansas",0,05,101,2012
+"Little River County, Arkansas",14,05,081,2012
+"Lonoke County, Arkansas",75,05,085,2012
+"Miller County, Arkansas",109,05,091,2012
+"St. Francis County, Arkansas",136,05,123,2012
+"White County, Arkansas",47,05,145,2012
+"Merced County, California",1016,06,047,2012
+"Mariposa County, California",16,06,043,2012
+"Yuba County, California",320,06,115,2012
+"Contra Costa County, California",6506,06,013,2012
+"Lassen County, California",256,06,035,2012
+"Stanislaus County, California",3707,06,099,2012
+"Sonoma County, California",1975,06,097,2012
+"Tehama County, California",168,06,103,2012
+"Mono County, California",59,06,051,2012
+"San Benito County, California",101,06,069,2012
+"Sacramento County, California",10361,06,067,2012
+"El Dorado County, California",641,06,017,2012
+"Monterey County, California",2121,06,053,2012
+"Sierra County, California",0,06,091,2012
+"Cleburne County, Arkansas",0,05,023,2012
+"Butte County, California",568,06,007,2012
+"Plumas County, California",19,06,063,2012
+"San Luis Obispo County, California",730,06,079,2012
+"Kern County, California",4067,06,029,2012
+"Ventura County, California",3497,06,111,2012
+"Calaveras County, California",138,06,009,2012
+"San Mateo County, California",4085,06,081,2012
+"Tuolumne County, California",186,06,109,2012
+"Amador County, California",162,06,005,2012
+"Phillips County, Colorado",4,08,095,2012
+"Denver County, Colorado",3340,08,031,2012
+"Kiowa County, Colorado",0,08,061,2012
+"Baca County, Colorado",0,08,009,2012
+"Gilpin County, Colorado",2,08,047,2012
+"Kit Carson County, Colorado",0,08,063,2012
+"Gunnison County, Colorado",56,08,051,2012
+"Jefferson County, Colorado",1419,08,059,2012
+"Ouray County, Colorado",0,08,091,2012
+"Rio Blanco County, Colorado",0,08,103,2012
+"Weld County, Colorado",1082,08,123,2012
+"Conejos County, Colorado",12,08,021,2012
+"Costilla County, Colorado",45,08,023,2012
+"Douglas County, Colorado",771,08,035,2012
+"Eagle County, Colorado",29,08,037,2012
+"La Plata County, Colorado",142,08,067,2012
+"Moffat County, Colorado",9,08,081,2012
+"Rio Grande County, Colorado",0,08,105,2012
+"Bent County, Colorado",19,08,011,2012
+"Crowley County, Colorado",10,08,025,2012
+"San Juan County, Colorado",0,08,111,2012
+"Jackson County, Colorado",0,08,057,2012
+"Logan County, Colorado",74,08,075,2012
+"Montezuma County, Colorado",14,08,083,2012
+"Teller County, Colorado",9,08,119,2012
+"Boulder County, Colorado",785,08,013,2012
+"Las Animas County, Colorado",56,08,071,2012
+"Lincoln County, Colorado",1,08,073,2012
+"Routt County, Colorado",8,08,107,2012
+"Alamosa County, Colorado",64,08,003,2012
+"Clear Creek County, Colorado",41,08,019,2012
+"Fremont County, Colorado",132,08,043,2012
+"Fulton County, Kentucky",0,21,075,2012
+"Knott County, Kentucky",10,21,119,2012
+"Muhlenberg County, Kentucky",17,21,177,2012
+"Wolfe County, Kentucky",0,21,237,2012
+"Bell County, Kentucky",18,21,013,2012
+"Cumberland County, Kentucky",0,21,057,2012
+"Lee County, Kentucky",0,21,129,2012
+"Edmonson County, Kentucky",0,21,061,2012
+"Bracken County, Kentucky",0,21,023,2012
+"Nelson County, Kentucky",70,21,179,2012
+"Marion County, Kentucky",13,21,155,2012
+"Boone County, Kentucky",905,21,015,2012
+"Knox County, Kentucky",15,21,121,2012
+"Letcher County, Kentucky",0,21,133,2012
+"Pike County, Kentucky",21,21,195,2012
+"Gallatin County, Kentucky",0,21,077,2012
+"Vernon Parish, Louisiana",956,22,115,2012
+"Sabine Parish, Louisiana",13,22,085,2012
+"Franklin County, Florida",191,12,037,2012
+"Hamilton County, Florida",177,12,047,2012
+"Liberty County, Florida",98,12,077,2012
+"Sumter County, Florida",1388,12,119,2012
+"Gadsden County, Florida",736,12,039,2012
+"Holmes County, Florida",103,12,059,2012
+"Lee County, Florida",25690,12,071,2012
+"Marion County, Florida",14546,12,083,2012
+"Collier County, Florida",6299,12,021,2012
+"Okeechobee County, Florida",546,12,093,2012
+"Pasco County, Florida",20964,12,101,2012
+"Highlands County, Florida",6350,12,055,2012
+"Suwannee County, Florida",472,12,121,2012
+"DeSoto County, Florida",633,12,027,2012
+"Calhoun County, Florida",111,12,013,2012
+"Columbia County, Florida",1132,12,023,2012
+"Dixie County, Florida",120,12,029,2012
+"Putnam County, Florida",1590,12,107,2012
+"Union County, Florida",226,12,125,2012
+"Manatee County, Florida",5193,12,081,2012
+"Levy County, Florida",1232,12,075,2012
+"Baker County, Florida",115,12,003,2012
+"Volusia County, Florida",27317,12,127,2012
+"Leon County, Florida",2891,12,073,2012
+"Madison County, Florida",204,12,079,2012
+"Ford County, Illinois",28,17,053,2012
+"Jo Daviess County, Illinois",4,17,085,2012
+"Kendall County, Illinois",1910,17,093,2012
+"Lawrence County, Illinois",99,17,101,2012
+"Marion County, Illinois",16,17,121,2012
+"Mason County, Illinois",0,17,125,2012
+"Iroquois County, Illinois",62,17,075,2012
+"Clay County, Illinois",6,17,025,2012
+"Gallatin County, Illinois",2,17,059,2012
+"Monroe County, Illinois",18,17,133,2012
+"Peoria County, Illinois",309,17,143,2012
+"Orange County, California",11882,06,059,2012
+"Sutter County, California",504,06,101,2012
+"San Joaquin County, California",5132,06,077,2012
+"Archuleta County, Colorado",11,08,007,2012
+"Huerfano County, Colorado",83,08,055,2012
+"Chaffee County, Colorado",18,08,015,2012
+"Garfield County, Colorado",280,08,045,2012
+"Mineral County, Colorado",0,08,079,2012
+"Sedgwick County, Colorado",0,08,115,2012
+"Custer County, Colorado",0,08,027,2012
+"Adams County, Colorado",1895,08,001,2012
+"Lake County, Colorado",0,08,065,2012
+"Pitkin County, Colorado",91,08,097,2012
+"Cheyenne County, Colorado",0,08,017,2012
+"Dolores County, Colorado",0,08,033,2012
+"Larimer County, Colorado",1272,08,069,2012
+"San Miguel County, Colorado",0,08,113,2012
+"Elbert County, Colorado",93,08,039,2012
+"Yuma County, Colorado",0,08,125,2012
+"Summit County, Colorado",118,08,117,2012
+"Delta County, Colorado",47,08,029,2012
+"Windham County, Connecticut",8002,09,015,2012
+"Middlesex County, Connecticut",4062,09,007,2012
+"Washington County, Florida",229,12,133,2012
+"Brevard County, Florida",17886,12,009,2012
+"Lake County, Florida",14680,12,069,2012
+"Calhoun County, Illinois",6,17,013,2012
+"Polk County, Florida",35763,12,105,2012
+"Glades County, Florida",231,12,043,2012
+"Jackson County, Florida",569,12,063,2012
+"Seminole County, Florida",33485,12,117,2012
+"Bay County, Florida",2414,12,005,2012
+"Gulf County, Florida",111,12,045,2012
+"Osceola County, Florida",70805,12,097,2012
+"Walton County, Florida",415,12,131,2012
+"Jefferson County, Florida",108,12,065,2012
+"Hardee County, Florida",596,12,049,2012
+"Orange County, Florida",151395,12,095,2012
+"Gilchrist County, Florida",60,12,041,2012
+"Alachua County, Florida",5405,12,001,2012
+"Charlotte County, Florida",3026,12,015,2012
+"Martin County, Florida",2212,12,085,2012
+"Sarasota County, Florida",5019,12,115,2012
+"Citrus County, Florida",2468,12,017,2012
+"Santa Rosa County, Florida",1547,12,113,2012
+"Broward County, Florida",76923,12,011,2012
+"Monroe County, Florida",829,12,087,2012
+"Union County, Georgia",59,13,291,2012
+"Putnam County, Indiana",72,18,133,2012
+"Union County, Indiana",3,18,161,2012
+"Washington County, Indiana",0,18,175,2012
+"Daviess County, Indiana",24,18,027,2012
+"Dearborn County, Indiana",26,18,029,2012
+"Henry County, Indiana",44,18,065,2012
+"Knox County, Indiana",56,18,083,2012
+"Lawrence County, Indiana",80,18,093,2012
+"Madison County, Indiana",261,18,095,2012
+"Perry County, Indiana",13,18,123,2012
+"Pike County, Indiana",0,18,125,2012
+"Pulaski County, Indiana",4,18,131,2012
+"Steuben County, Indiana",211,18,151,2012
+"Warren County, Indiana",8,18,171,2012
+"Wells County, Indiana",3,18,179,2012
+"Decatur County, Indiana",39,18,031,2012
+"Delaware County, Indiana",183,18,035,2012
+"Jefferson County, Indiana",20,18,077,2012
+"Jennings County, Indiana",0,18,079,2012
+"Miami County, Indiana",13,18,103,2012
+"Morgan County, Indiana",20,18,109,2012
+"Newton County, Indiana",33,18,111,2012
+"St. Joseph County, Indiana",1151,18,141,2012
+"Kosciusko County, Indiana",271,18,085,2012
+"Switzerland County, Indiana",0,18,155,2012
+"Vanderburgh County, Indiana",199,18,163,2012
+"Carroll County, Indiana",26,18,015,2012
+"Monroe County, Indiana",490,18,105,2012
+"Fountain County, Indiana",87,18,045,2012
+"Starke County, Indiana",0,18,149,2012
+"Crawford County, Indiana",37,18,025,2012
+"Greene County, Indiana",20,18,055,2012
+"Marion County, Indiana",3637,18,097,2012
+"Benton County, Iowa",4,19,011,2012
+"Dubuque County, Iowa",149,19,061,2012
+"Fremont County, Iowa",7,19,071,2012
+"Pocahontas County, Iowa",0,19,151,2012
+"Taylor County, Iowa",0,19,173,2012
+"Van Buren County, Iowa",9,19,177,2012
+"Ringgold County, Iowa",0,19,159,2012
+"Adams County, Iowa",0,19,003,2012
+"Audubon County, Iowa",0,19,009,2012
+"Clarke County, Iowa",0,19,039,2012
+"Davis County, Iowa",0,19,051,2012
+"Ida County, Iowa",0,19,093,2012
+"Johnson County, Iowa",456,19,103,2012
+"Monroe County, Iowa",0,19,135,2012
+"Wapello County, Iowa",12,19,179,2012
+"Sioux County, Iowa",2,19,167,2012
+"Calhoun County, Iowa",61,19,025,2012
+"Carroll County, Iowa",2,19,027,2012
+"Cerro Gordo County, Iowa",219,19,033,2012
+"Greene County, Iowa",0,19,073,2012
+"Hardin County, Iowa",81,19,083,2012
+"Lucas County, Iowa",0,19,117,2012
+"Lyon County, Iowa",21,19,119,2012
+"Cassia County, Idaho",7,16,031,2012
+"Lincoln County, Idaho",0,16,063,2012
+"Franklin County, Idaho",0,16,041,2012
+"Canyon County, Idaho",1276,16,027,2012
+"Nemaha County, Kansas",0,20,131,2012
+"Wyandotte County, Kansas",404,20,209,2012
+"Cherokee County, Kansas",0,20,021,2012
+"Clay County, Kansas",4,20,027,2012
+"Lincoln County, Kansas",6,20,105,2012
+"Sumner County, Kansas",0,20,191,2012
+"Trego County, Kansas",13,20,195,2012
+"Wilson County, Kansas",13,20,205,2012
+"Mitchell County, Kansas",0,20,123,2012
+"Ness County, Kansas",8,20,135,2012
+"Atchison County, Kansas",57,20,005,2012
+"Bourbon County, Kansas",10,20,011,2012
+"Hamilton County, Kansas",0,20,075,2012
+"Leavenworth County, Kansas",537,20,103,2012
+"Shawnee County, Kansas",693,20,177,2012
+"Wichita County, Kansas",0,20,203,2012
+"Chautauqua County, Kansas",0,20,019,2012
+"Norton County, Kansas",19,20,137,2012
+"Reno County, Kansas",187,20,155,2012
+"Cloud County, Kansas",0,20,029,2012
+"Edwards County, Kansas",5,20,047,2012
+"Haskell County, Kansas",3,20,081,2012
+"Rush County, Kansas",0,20,165,2012
+"Scott County, Kansas",26,20,171,2012
+"Neosho County, Kansas",8,20,133,2012
+"Ottawa County, Kansas",0,20,143,2012
+"Phillips County, Kansas",0,20,147,2012
+"Barber County, Kansas",0,20,007,2012
+"Decatur County, Kansas",0,20,039,2012
+"Jefferson County, Kansas",27,20,087,2012
+"Greenup County, Kentucky",84,21,089,2012
+"Fleming County, Kentucky",0,21,069,2012
+"Carter County, Kentucky",8,21,043,2012
+"Elliott County, Kentucky",0,21,063,2012
+"Jefferson County, Kentucky",2351,21,111,2012
+"Larue County, Kentucky",8,21,123,2012
+"Mason County, Kentucky",16,21,161,2012
+"Kingman County, Kansas",14,20,095,2012
+"Valley County, Montana",3,30,105,2012
+"Cascade County, Montana",99,30,013,2012
+"Fergus County, Montana",0,30,027,2012
+"Garfield County, Montana",0,30,033,2012
+"Mineral County, Montana",0,30,061,2012
+"Petroleum County, Montana",5,30,069,2012
+"Powell County, Montana",1,30,077,2012
+"Sanders County, Montana",0,30,089,2012
+"Wibaux County, Montana",0,30,109,2012
+"Gallatin County, Montana",103,30,031,2012
+"Meagher County, Montana",0,30,059,2012
+"Carbon County, Montana",0,30,009,2012
+"Beaverhead County, Montana",0,30,001,2012
+"Flathead County, Montana",149,30,029,2012
+"Musselshell County, Montana",0,30,065,2012
+"Harlan County, Nebraska",0,31,083,2012
+"York County, Nebraska",0,31,185,2012
+"Buffalo County, Nebraska",31,31,019,2012
+"Colfax County, Nebraska",0,31,037,2012
+"Hitchcock County, Nebraska",0,31,087,2012
+"Platte County, Nebraska",56,31,141,2012
+"Polk County, Nebraska",0,31,143,2012
+"Box Butte County, Nebraska",0,31,013,2012
+"Brown County, Nebraska",0,31,017,2012
+"Sheridan County, Nebraska",4,31,161,2012
+"Lancaster County, Nebraska",586,31,109,2012
+"Nuckolls County, Nebraska",0,31,129,2012
+"Banner County, Nebraska",0,31,007,2012
+"Frontier County, Nebraska",0,31,063,2012
+"Douglas County, Nebraska",1339,31,055,2012
+"Richardson County, Nebraska",0,31,147,2012
+"Holt County, Nebraska",0,31,089,2012
+"Furnas County, Nebraska",0,31,065,2012
+"Saline County, Nebraska",7,31,151,2012
+"Thurston County, Nebraska",0,31,173,2012
+"Washington County, Nebraska",54,31,177,2012
+"Cherry County, Nebraska",0,31,031,2012
+"Dodge County, Nebraska",5,31,053,2012
+"Garden County, Nebraska",0,31,069,2012
+"Morrill County, Nebraska",0,31,123,2012
+"Nemaha County, Nebraska",0,31,127,2012
+"Thomas County, Nebraska",0,31,171,2012
+"Dakota County, Nebraska",5,31,043,2012
+"Antelope County, Nebraska",5,31,003,2012
+"Chase County, Nebraska",0,31,029,2012
+"Ravalli County, Montana",21,30,081,2012
+"Clay County, Nebraska",12,31,035,2012
+"Custer County, Nebraska",42,31,041,2012
+"Franklin County, Nebraska",0,31,061,2012
+"Hamilton County, Nebraska",0,31,081,2012
+"Jefferson County, Nebraska",0,31,095,2012
+"Keith County, Nebraska",6,31,101,2012
+"Loup County, Nebraska",0,31,115,2012
+"Perkins County, Nebraska",0,31,135,2012
+"Saunders County, Nebraska",0,31,155,2012
+"Scotts Bluff County, Nebraska",12,31,157,2012
+"Keya Paha County, Nebraska",0,31,103,2012
+"Kimball County, Nebraska",58,31,105,2012
+"Lincoln County, Nebraska",24,31,111,2012
+"Maury County, Tennessee",233,47,119,2012
+"Polk County, Texas",87,48,373,2012
+"Refugio County, Texas",36,48,391,2012
+"Van Zandt County, Texas",81,48,467,2012
+"Caldwell County, Texas",145,48,055,2012
+"Wilbarger County, Texas",31,48,487,2012
+"Martin County, Texas",0,48,317,2012
+"Reagan County, Texas",0,48,383,2012
+"Yoakum County, Texas",0,48,501,2012
+"Hale County, Texas",180,48,189,2012
+"Shelby County, Texas",0,48,419,2012
+"Red River County, Texas",56,48,387,2012
+"Runnels County, Texas",15,48,399,2012
+"Sutton County, Texas",0,48,435,2012
+"Tom Green County, Texas",673,48,451,2012
+"Victoria County, Texas",232,48,469,2012
+"Wharton County, Texas",14,48,481,2012
+"Wichita County, Texas",503,48,485,2012
+"Borden County, Texas",0,48,033,2012
+"Marion County, Texas",0,48,315,2012
+"Maverick County, Texas",199,48,323,2012
+"Grayson County, Texas",238,48,181,2012
+"Live Oak County, Texas",20,48,297,2012
+"Palo Pinto County, Texas",59,48,363,2012
+"Karnes County, Texas",20,48,255,2012
+"DeWitt County, Texas",6,48,123,2012
+"Callahan County, Texas",13,48,059,2012
+"Cass County, Texas",0,48,067,2012
+"Gregg County, Texas",175,48,183,2012
+"Madison County, Texas",22,48,313,2012
+"Lubbock County, Texas",739,48,303,2012
+"Kaufman County, Texas",487,48,257,2012
+"Kendall County, Texas",93,48,259,2012
+"Floyd County, Texas",37,48,153,2012
+"Bailey County, Texas",0,48,017,2012
+"Chambers County, Texas",47,48,071,2012
+"Bell County, Texas",12460,48,027,2012
+"Cameron County, Texas",912,48,061,2012
+"Deaf Smith County, Texas",8,48,117,2012
+"El Paso County, Texas",7515,48,141,2012
+"La Salle County, Texas",0,48,283,2012
+"Terrell County, Texas",0,48,443,2012
+"Tyler County, Texas",7,48,457,2012
+"Wheeler County, Texas",9,48,483,2012
+"Archer County, Texas",19,48,009,2012
+"Brewster County, Texas",8,48,043,2012
+"Hidalgo County, Texas",1709,48,215,2012
+"Smith County, Texas",519,48,423,2012
+"Crockett County, Texas",25,48,105,2012
+"Haskell County, Texas",0,48,207,2012
+"Howard County, Texas",70,48,227,2012
+"Mills County, Texas",0,48,333,2012
+"Montague County, Texas",1,48,337,2012
+"Panola County, Texas",0,48,365,2012
+"Sabine County, Texas",10,48,403,2012
+"Sherman County, Texas",0,48,421,2012
+"Swisher County, Texas",44,48,437,2012
+"Hunt County, Texas",136,48,231,2012
+"Camp County, Texas",60,48,063,2012
+"Hansford County, Texas",0,48,195,2012
+"Essex County, Massachusetts",33509,25,009,2012
+"Franklin County, Massachusetts",1330,25,011,2012
+"Worcester County, Massachusetts",41661,25,027,2012
+"Hampshire County, Massachusetts",3816,25,015,2012
+"Chippewa County, Michigan",54,26,033,2012
+"Allegan County, Michigan",503,26,005,2012
+"Oakland County, Michigan",6177,26,125,2012
+"Alger County, Michigan",13,26,003,2012
+"Muskegon County, Michigan",445,26,121,2012
+"Leelanau County, Michigan",5,26,089,2012
+"Lapeer County, Michigan",229,26,087,2012
+"Sanilac County, Michigan",26,26,151,2012
+"Isabella County, Michigan",102,26,073,2012
+"Ontonagon County, Michigan",7,26,131,2012
+"Tuscola County, Michigan",109,26,157,2012
+"Alcona County, Michigan",0,26,001,2012
+"Ionia County, Michigan",149,26,067,2012
+"Kalkaska County, Michigan",4,26,079,2012
+"Berrien County, Michigan",770,26,021,2012
+"Oscoda County, Michigan",12,26,135,2012
+"Wexford County, Michigan",64,26,165,2012
+"Clinton County, Michigan",143,26,037,2012
+"Dickinson County, Michigan",102,26,043,2012
+"Huron County, Michigan",7,26,063,2012
+"Ingham County, Michigan",1411,26,065,2012
+"Jefferson Davis Parish, Louisiana",27,22,053,2012
+"West Feliciana Parish, Louisiana",0,22,125,2012
+"Bienville Parish, Louisiana",12,22,013,2012
+"Cameron Parish, Louisiana",0,22,023,2012
+"Plaquemines Parish, Louisiana",187,22,075,2012
+"Washington Parish, Louisiana",79,22,117,2012
+"Acadia Parish, Louisiana",0,22,001,2012
+"St. Tammany Parish, Louisiana",972,22,103,2012
+"Caddo Parish, Louisiana",276,22,017,2012
+"Ascension Parish, Louisiana",583,22,005,2012
+"Iberia Parish, Louisiana",96,22,045,2012
+"St. Helena Parish, Louisiana",0,22,091,2012
+"De Soto Parish, Louisiana",30,22,031,2012
+"Livingston Parish, Louisiana",156,22,063,2012
+"Natchitoches Parish, Louisiana",66,22,069,2012
+"Catahoula Parish, Louisiana",122,22,025,2012
+"Franklin Parish, Louisiana",0,22,041,2012
+"Jackson Parish, Louisiana",0,22,049,2012
+"St. Charles Parish, Louisiana",156,22,089,2012
+"Tensas Parish, Louisiana",14,22,107,2012
+"Oxford County, Maine",347,23,017,2012
+"Banks County, Georgia",40,13,011,2012
+"Bulloch County, Georgia",171,13,031,2012
+"Clarke County, Georgia",395,13,059,2012
+"Clay County, Georgia",0,13,061,2012
+"Echols County, Georgia",6,13,101,2012
+"Glynn County, Georgia",979,13,127,2012
+"DeKalb County, Georgia",4089,13,089,2012
+"Haralson County, Georgia",29,13,143,2012
+"Jackson County, Georgia",194,13,157,2012
+"Jefferson County, Georgia",0,13,163,2012
+"Jones County, Georgia",0,13,169,2012
+"Lincoln County, Georgia",2,13,181,2012
+"Murray County, Georgia",213,13,213,2012
+"Muscogee County, Georgia",3496,13,215,2012
+"Pulaski County, Georgia",11,13,235,2012
+"Rabun County, Georgia",63,13,241,2012
+"Stewart County, Georgia",0,13,259,2012
+"Towns County, Georgia",7,13,281,2012
+"Treutlen County, Georgia",0,13,283,2012
+"Turner County, Georgia",4,13,287,2012
+"Atkinson County, Georgia",44,13,003,2012
+"Appling County, Georgia",0,13,001,2012
+"Brantley County, Georgia",233,13,025,2012
+"Ben Hill County, Georgia",191,13,017,2012
+"Catoosa County, Georgia",393,13,047,2012
+"Chattooga County, Georgia",109,13,055,2012
+"Columbia County, Georgia",1611,13,073,2012
+"Floyd County, Georgia",503,13,115,2012
+"Forsyth County, Georgia",1154,13,117,2012
+"Hart County, Georgia",100,13,147,2012
+"Lowndes County, Georgia",1017,13,185,2012
+"Meriwether County, Georgia",70,13,199,2012
+"Putnam County, Georgia",147,13,237,2012
+"Sumter County, Georgia",57,13,261,2012
+"Warren County, Georgia",2,13,301,2012
+"Baker County, Georgia",0,13,007,2012
+"Butts County, Georgia",14,13,035,2012
+"Candler County, Georgia",58,13,043,2012
+"Carroll County, Georgia",760,13,045,2012
+"Early County, Georgia",28,13,099,2012
+"Crisp County, Georgia",41,13,081,2012
+"Coweta County, Georgia",980,13,077,2012
+"Benewah County, Idaho",3,16,009,2012
+"Clark County, Idaho",0,16,033,2012
+"Fremont County, Idaho",0,16,043,2012
+"Idaho County, Idaho",28,16,049,2012
+"Power County, Idaho",0,16,077,2012
+"Madison County, Illinois",337,17,119,2012
+"Mercer County, Illinois",43,17,131,2012
+"Sangamon County, Illinois",270,17,167,2012
+"Randolph County, Illinois",75,17,157,2012
+"Ogle County, Illinois",46,17,141,2012
+"Stephenson County, Illinois",236,17,177,2012
+"White County, Illinois",20,17,193,2012
+"Henderson County, Illinois",6,17,071,2012
+"McLean County, Illinois",612,17,113,2012
+"Pike County, Illinois",55,17,149,2012
+"Rock Island County, Illinois",654,17,161,2012
+"Wabash County, Illinois",0,17,185,2012
+"Cumberland County, Illinois",3,17,035,2012
+"Kane County, Illinois",9445,17,089,2012
+"Brown County, Illinois",28,17,009,2012
+"Marshall County, Illinois",50,17,123,2012
+"Christian County, Illinois",61,17,021,2012
+"Jackson County, Illinois",580,17,077,2012
+"Union County, Illinois",60,17,181,2012
+"Saline County, Illinois",69,17,165,2012
+"Whiteside County, Illinois",242,17,195,2012
+"DeKalb County, Illinois",938,17,037,2012
+"Jasper County, Illinois",1,17,079,2012
+"Will County, Illinois",7375,17,197,2012
+"Douglas County, Illinois",19,17,041,2012
+"Greene County, Illinois",32,17,061,2012
+"Hardin County, Illinois",1,17,069,2012
+"Knox County, Illinois",130,17,095,2012
+"Latah County, Idaho",50,16,057,2012
+"Massac County, Illinois",8,17,127,2012
+"Tazewell County, Illinois",417,17,179,2012
+"Harrison County, Indiana",26,18,061,2012
+"Wabash County, Indiana",33,18,169,2012
+"Jay County, Indiana",117,18,075,2012
+"Porter County, Indiana",2539,18,127,2012
+"Spencer County, Indiana",0,18,147,2012
+"Tippecanoe County, Indiana",882,18,157,2012
+"Hamilton County, Indiana",830,18,057,2012
+"Pierce County, Nebraska",0,31,139,2012
+"Sioux County, Nebraska",5,31,165,2012
+"Burt County, Nebraska",0,31,021,2012
+"Cass County, Nebraska",42,31,025,2012
+"Cuming County, Nebraska",0,31,039,2012
+"Dixon County, Nebraska",35,31,051,2012
+"Dundy County, Nebraska",0,31,057,2012
+"Grant County, Nebraska",0,31,075,2012
+"Greeley County, Nebraska",4,31,077,2012
+"Hall County, Nebraska",73,31,079,2012
+"Hayes County, Nebraska",0,31,085,2012
+"Otoe County, Nebraska",5,31,131,2012
+"Red Willow County, Nebraska",0,31,145,2012
+"Cedar County, Nebraska",12,31,027,2012
+"Dawes County, Nebraska",41,31,045,2012
+"Johnson County, Nebraska",6,31,097,2012
+"Cheyenne County, Nebraska",0,31,033,2012
+"Dawson County, Nebraska",60,31,047,2012
+"Garfield County, Nebraska",0,31,071,2012
+"McPherson County, Nebraska",0,31,117,2012
+"Nance County, Nebraska",10,31,125,2012
+"Stanton County, Nebraska",0,31,167,2012
+"Valley County, Nebraska",0,31,175,2012
+"Churchill County, Nevada",278,32,001,2012
+"Douglas County, Nevada",279,32,005,2012
+"Pershing County, Nevada",70,32,027,2012
+"Eureka County, Nevada",1,32,011,2012
+"Humboldt County, Nevada",31,32,013,2012
+"White Pine County, Nevada",49,32,033,2012
+"Elko County, Nevada",27,32,007,2012
+"Nye County, Nevada",179,32,023,2012
+"Storey County, Nevada",0,32,029,2012
+"Clark County, Nevada",17544,32,003,2012
+"Lyon County, Nevada",70,32,019,2012
+"Cheshire County, New Hampshire",409,33,005,2012
+"Grafton County, New Hampshire",556,33,009,2012
+"Rockingham County, New Hampshire",1600,33,015,2012
+"Sullivan County, New Hampshire",24,33,019,2012
+"Hillsborough County, New Hampshire",6488,33,011,2012
+"Coos County, New Hampshire",150,33,007,2012
+"Carroll County, New Hampshire",185,33,003,2012
+"Mercer County, New Jersey",18578,34,021,2012
+"Cumberland County, New Jersey",23217,34,011,2012
+"Somerset County, New Jersey",7901,34,035,2012
+"Ocean County, New Jersey",16391,34,029,2012
+"Atlantic County, New Jersey",19202,34,001,2012
+"Middlesex County, New Jersey",47299,34,023,2012
+"Salem County, New Jersey",2221,34,033,2012
+"Cape May County, New Jersey",2530,34,009,2012
+"Camden County, New Jersey",41281,34,007,2012
+"Union County, New Jersey",25543,34,039,2012
+"Hudson County, New Jersey",58245,34,017,2012
+"Hunterdon County, New Jersey",1942,34,019,2012
+"Morris County, New Jersey",10804,34,027,2012
+"Hidalgo County, New Mexico",72,35,023,2012
+"McKinley County, New Mexico",61,35,031,2012
+"Sandoval County, New Mexico",696,35,043,2012
+"Grant County, New Mexico",37,35,017,2012
+"Curry County, New Mexico",170,35,009,2012
+"Clay County, Texas",47,48,077,2012
+"Hartley County, Texas",61,48,205,2012
+"Hill County, Texas",0,48,217,2012
+"Limestone County, Texas",5,48,293,2012
+"Nacogdoches County, Texas",118,48,347,2012
+"Parmer County, Texas",35,48,369,2012
+"Parker County, Texas",161,48,367,2012
+"Presidio County, Texas",0,48,377,2012
+"Val Verde County, Texas",102,48,465,2012
+"Culberson County, Texas",0,48,109,2012
+"Ector County, Texas",324,48,135,2012
+"Garza County, Texas",12,48,169,2012
+"Glasscock County, Texas",0,48,173,2012
+"Grimes County, Texas",6,48,185,2012
+"Collin County, Texas",3566,48,085,2012
+"Angelina County, Texas",46,48,005,2012
+"Cottle County, Texas",5,48,101,2012
+"Hays County, Texas",610,48,209,2012
+"Brazoria County, Texas",1145,48,039,2012
+"Donley County, Texas",0,48,129,2012
+"Atascosa County, Texas",209,48,013,2012
+"Nolan County, Texas",8,48,353,2012
+"Hudspeth County, Texas",10,48,229,2012
+"Ward County, Texas",21,48,475,2012
+"Harrison County, Texas",106,48,203,2012
+"Menard County, Texas",3,48,327,2012
+"Fayette County, Texas",9,48,149,2012
+"Williamson County, Texas",3515,48,491,2012
+"Hutchinson County, Texas",0,48,233,2012
+"Morris County, Texas",10,48,343,2012
+"Orange County, Texas",168,48,361,2012
+"Winkler County, Texas",0,48,495,2012
+"Harris County, Texas",20981,48,201,2012
+"Burnet County, Texas",94,48,053,2012
+"Gillespie County, Texas",11,48,171,2012
+"Dallas County, Texas",10724,48,113,2012
+"Guadalupe County, Texas",661,48,187,2012
+"McMullen County, Texas",0,48,311,2012
+"Young County, Texas",0,48,503,2012
+"Johnson County, Texas",1084,48,251,2012
+"Hopkins County, Texas",0,48,223,2012
+"Ochiltree County, Texas",65,48,357,2012
+"Knox County, Texas",33,48,275,2012
+"McLennan County, Texas",1722,48,309,2012
+"Concho County, Texas",0,48,095,2012
+"Edwards County, Texas",0,48,137,2012
+"Eastland County, Texas",0,48,133,2012
+"Jeff Davis County, Texas",0,48,243,2012
+"Jim Hogg County, Texas",14,48,247,2012
+"Montgomery County, Texas",1540,48,339,2012
+"Dimmit County, Texas",202,48,127,2012
+"Webb County, Texas",1150,48,479,2012
+"Armstrong County, Texas",0,48,011,2012
+"Castro County, Texas",0,48,069,2012
+"Kleberg County, Texas",217,48,273,2012
+"Cooke County, Texas",45,48,097,2012
+"Crosby County, Texas",30,48,107,2012
+"Fisher County, Texas",0,48,151,2012
+"Duval County, Texas",0,48,131,2012
+"Blanco County, Texas",23,48,031,2012
+"San Diego County, California",19515,06,073,2012
+"Tulare County, California",913,06,107,2012
+"Yolo County, California",914,06,113,2012
+"Humboldt County, California",211,06,023,2012
+"Nevada County, California",470,06,057,2012
+"Alpine County, California",6,06,003,2012
+"Madera County, California",571,06,039,2012
+"Mendocino County, California",148,06,045,2012
+"Santa Cruz County, California",430,06,087,2012
+"Trinity County, California",47,06,105,2012
+"Los Angeles County, California",46337,06,037,2012
+"Riverside County, California",12937,06,065,2012
+"San Bernardino County, California",13237,06,071,2012
+"Santa Clara County, California",7422,06,085,2012
+"Marin County, California",1113,06,041,2012
+"Placer County, California",1327,06,061,2012
+"Siskiyou County, California",140,06,093,2012
+"Shasta County, California",480,06,089,2012
+"Solano County, California",3886,06,095,2012
+"Del Norte County, California",177,06,015,2012
+"Glenn County, California",52,06,021,2012
+"Escambia County, Florida",3708,12,033,2012
+"Hernando County, Florida",9883,12,053,2012
+"Hillsborough County, Florida",94685,12,057,2012
+"Okaloosa County, Florida",2862,12,091,2012
+"Taylor County, Florida",138,12,123,2012
+"Wakulla County, Florida",195,12,129,2012
+"Lumpkin County, Georgia",116,13,187,2012
+"McDuffie County, Georgia",21,13,189,2012
+"Miller County, Georgia",0,13,201,2012
+"Morgan County, Georgia",0,13,211,2012
+"Heard County, Georgia",7,13,149,2012
+"Oconee County, Georgia",193,13,219,2012
+"Dougherty County, Georgia",554,13,095,2012
+"Fannin County, Georgia",213,13,111,2012
+"Henry County, Georgia",2572,13,151,2012
+"Houston County, Georgia",1451,13,153,2012
+"Laurens County, Georgia",27,13,175,2012
+"Long County, Georgia",164,13,183,2012
+"Spalding County, Georgia",577,13,255,2012
+"Stephens County, Georgia",0,13,257,2012
+"Telfair County, Georgia",152,13,271,2012
+"Upson County, Georgia",12,13,293,2012
+"Washington County, Georgia",23,13,303,2012
+"Peach County, Georgia",25,13,225,2012
+"Pierce County, Georgia",0,13,229,2012
+"Pike County, Georgia",44,13,231,2012
+"Screven County, Georgia",0,13,251,2012
+"Tattnall County, Georgia",100,13,267,2012
+"Walker County, Georgia",171,13,295,2012
+"Gwinnett County, Georgia",13098,13,135,2012
+"Charlton County, Georgia",0,13,049,2012
+"Bartow County, Georgia",677,13,015,2012
+"Douglas County, Georgia",897,13,097,2012
+"Jeff Davis County, Georgia",29,13,161,2012
+"Cobb County, Georgia",6646,13,067,2012
+"Dade County, Georgia",75,13,083,2012
+"Wilkes County, Georgia",0,13,317,2012
+"Brooks County, Georgia",8,13,027,2012
+"Gordon County, Georgia",66,13,129,2012
+"Elbert County, Georgia",11,13,105,2012
+"Fayette County, Georgia",1034,13,113,2012
+"Jenkins County, Georgia",36,13,165,2012
+"Newton County, Georgia",750,13,217,2012
+"Greene County, Georgia",8,13,133,2012
+"Colquitt County, Georgia",196,13,071,2012
+"Dawson County, Georgia",36,13,085,2012
+"Clayton County, Georgia",2412,13,063,2012
+"Hall County, Georgia",998,13,139,2012
+"Honolulu County, Hawaii",25457,15,003,2012
+"Maui County, Hawaii",5439,15,009,2012
+"Kalawao County, Hawaii",0,15,005,2012
+"Oneida County, Idaho",11,16,071,2012
+"Gem County, Idaho",124,16,045,2012
+"Valley County, Idaho",0,16,085,2012
+"Adams County, Idaho",4,16,003,2012
+"Kodiak Island Borough, Alaska",130,02,150,2012
+"North Slope Borough, Alaska",44,02,185,2012
+"Fairbanks North Star Borough, Alaska",643,02,090,2012
+"Nome Census Area, Alaska",14,02,180,2012
+"Yakutat City and Borough, Alaska",0,02,282,2012
+"Southeast Fairbanks Census Area, Alaska",135,02,240,2012
+"Aleutians East Borough, Alaska",18,02,013,2012
+"Kenai Peninsula Borough, Alaska",13,02,122,2012
+"Petersburg Census Area, Alaska",2,02,195,2012
+"Wrangell City and Borough, Alaska",0,02,275,2012
+"Gila County, Arizona",71,04,007,2012
+"Cochise County, Arizona",1734,04,003,2012
+"Apache County, Arizona",64,04,001,2012
+"Yuma County, Arizona",1323,04,027,2012
+"Navajo County, Arizona",89,04,017,2012
+"Clay County, Arkansas",0,05,021,2012
+"Drew County, Arkansas",15,05,043,2012
+"Randolph County, Arkansas",57,05,121,2012
+"Boone County, Arkansas",99,05,009,2012
+"Desha County, Arkansas",3,05,041,2012
+"Garland County, Arkansas",120,05,051,2012
+"Pope County, Arkansas",22,05,115,2012
+"Woodruff County, Arkansas",0,05,147,2012
+"Jackson County, Arkansas",45,05,067,2012
+"Stone County, Arkansas",0,05,137,2012
+"Baxter County, Arkansas",30,05,005,2012
+"Greene County, Arkansas",0,05,055,2012
+"Phillips County, Arkansas",0,05,107,2012
+"Yell County, Arkansas",34,05,149,2012
+"Clark County, Arkansas",0,05,019,2012
+"Monroe County, Arkansas",6,05,095,2012
+"Ouachita County, Arkansas",39,05,103,2012
+"Arkansas County, Arkansas",14,05,001,2012
+"Carroll County, Arkansas",49,05,015,2012
+"Pulaski County, Arkansas",1004,05,119,2012
+"Lake County, California",298,06,033,2012
+"Modoc County, California",24,06,049,2012
+"Inyo County, California",23,06,027,2012
+"Eddy County, New Mexico",57,35,015,2012
+"Mora County, New Mexico",1,35,033,2012
+"San Juan County, New Mexico",167,35,045,2012
+"Benton County, Mississippi",0,28,009,2012
+"Franklin County, Mississippi",0,28,037,2012
+"Coahoma County, Mississippi",109,28,027,2012
+"Jasper County, Mississippi",0,28,061,2012
+"Jones County, Mississippi",44,28,067,2012
+"Walthall County, Mississippi",117,28,147,2012
+"Monroe County, Mississippi",65,28,095,2012
+"Pontotoc County, Mississippi",0,28,115,2012
+"Holmes County, Mississippi",0,28,051,2012
+"Amite County, Mississippi",0,28,005,2012
+"Madison County, Mississippi",43,28,089,2012
+"Calhoun County, Mississippi",23,28,013,2012
+"Marion County, Mississippi",163,28,091,2012
+"Tishomingo County, Mississippi",0,28,141,2012
+"Wayne County, Mississippi",1,28,153,2012
+"Greene County, Mississippi",20,28,041,2012
+"Marshall County, Mississippi",155,28,093,2012
+"Quitman County, Mississippi",0,28,119,2012
+"Pearl River County, Mississippi",187,28,109,2012
+"Leake County, Mississippi",0,28,079,2012
+"Neshoba County, Mississippi",79,28,099,2012
+"Rankin County, Mississippi",211,28,121,2012
+"Washington County, Mississippi",137,28,151,2012
+"Lawrence County, Mississippi",0,28,077,2012
+"Perry County, Mississippi",0,28,111,2012
+"Chickasaw County, Mississippi",0,28,017,2012
+"Carroll County, Mississippi",0,28,015,2012
+"George County, Mississippi",0,28,039,2012
+"Grenada County, Mississippi",0,28,043,2012
+"Jefferson County, Mississippi",0,28,063,2012
+"Newton County, Mississippi",14,28,101,2012
+"Prentiss County, Mississippi",0,28,117,2012
+"Sharkey County, Mississippi",0,28,125,2012
+"Choctaw County, Mississippi",0,28,019,2012
+"Hancock County, Mississippi",93,28,045,2012
+"Itawamba County, Mississippi",0,28,057,2012
+"Issaquena County, Mississippi",0,28,055,2012
+"Jackson County, Mississippi",1356,28,059,2012
+"Leflore County, Mississippi",100,28,083,2012
+"Tunica County, Mississippi",0,28,143,2012
+"Claiborne County, Mississippi",0,28,021,2012
+"Harrison County, Mississippi",1875,28,047,2012
+"Lauderdale County, Mississippi",68,28,075,2012
+"Lincoln County, Mississippi",0,28,085,2012
+"Simpson County, Mississippi",31,28,127,2012
+"Winston County, Mississippi",11,28,159,2012
+"Attala County, Mississippi",3,28,007,2012
+"Lamar County, Mississippi",98,28,073,2012
+"Lee County, Mississippi",253,28,081,2012
+"Tallahatchie County, Mississippi",15,28,135,2012
+"Smith County, Mississippi",0,28,129,2012
+"Warren County, Mississippi",108,28,149,2012
+"Clarke County, Mississippi",0,28,023,2012
+"Montgomery County, Mississippi",0,28,097,2012
+"Jasper County, Texas",0,48,241,2012
+"Jefferson County, Texas",691,48,245,2012
+"Kinney County, Texas",0,48,271,2012
+"Oldham County, Texas",0,48,359,2012
+"Lamb County, Texas",63,48,279,2012
+"Lipscomb County, Texas",0,48,295,2012
+"McCulloch County, Texas",127,48,307,2012
+"Mason County, Texas",0,48,319,2012
+"Dickens County, Texas",0,48,125,2012
+"Lee County, Texas",15,48,287,2012
+"Tarrant County, Texas",13695,48,439,2012
+"Anderson County, Texas",202,48,001,2012
+"Ellis County, Texas",493,48,139,2012
+"Jackson County, Texas",0,48,239,2012
+"Kerr County, Texas",134,48,265,2012
+"Milam County, Texas",31,48,331,2012
+"Comanche County, Texas",53,48,093,2012
+"Falls County, Texas",9,48,145,2012
+"Brooks County, Texas",2,48,047,2012
+"Austin County, Texas",19,48,015,2012
+"Kenedy County, Texas",9,48,261,2012
+"Colorado County, Texas",57,48,089,2012
+"San Patricio County, Texas",539,48,409,2012
+"Randall County, Texas",412,48,381,2012
+"San Saba County, Texas",10,48,411,2012
+"Schleicher County, Texas",0,48,413,2012
+"Zavala County, Texas",1,48,507,2012
+"Calhoun County, Texas",7,48,057,2012
+"Foard County, Texas",0,48,155,2012
+"Goliad County, Texas",0,48,175,2012
+"Hamilton County, Texas",0,48,193,2012
+"Mitchell County, Texas",24,48,335,2012
+"Titus County, Texas",266,48,449,2012
+"Lavaca County, Texas",0,48,285,2012
+"Terry County, Texas",43,48,445,2012
+"Wise County, Texas",38,48,497,2012
+"Matagorda County, Texas",35,48,321,2012
+"Pecos County, Texas",33,48,371,2012
+"Rockwall County, Texas",239,48,397,2012
+"Taylor County, Texas",578,48,441,2012
+"Throckmorton County, Texas",0,48,447,2012
+"Walker County, Texas",136,48,471,2012
+"Wood County, Texas",50,48,499,2012
+"Aransas County, Texas",50,48,007,2012
+"Cochran County, Texas",0,48,079,2012
+"Coke County, Texas",0,48,081,2012
+"Coryell County, Texas",1761,48,099,2012
+"Hemphill County, Texas",8,48,211,2012
+"Moore County, Texas",0,48,341,2012
+"Potter County, Texas",337,48,375,2012
+"San Augustine County, Texas",0,48,405,2012
+"Shackelford County, Texas",1,48,417,2012
+"Starr County, Texas",94,48,427,2012
+"Upton County, Texas",2,48,461,2012
+"Brown County, Texas",77,48,049,2012
+"Hall County, Texas",0,48,191,2012
+"Franklin County, Texas",0,48,159,2012
+"Frio County, Texas",15,48,163,2012
+"Lampasas County, Texas",177,48,281,2012
+"Orleans County, Vermont",70,50,019,2012
+"Pueblo County, Colorado",818,08,101,2012
+"Montrose County, Colorado",0,08,085,2012
+"Morgan County, Colorado",56,08,087,2012
+"Park County, Colorado",63,08,093,2012
+"Saguache County, Colorado",5,08,109,2012
+"Mesa County, Colorado",226,08,077,2012
+"Prowers County, Colorado",17,08,099,2012
+"Hinsdale County, Colorado",0,08,053,2012
+"El Paso County, Colorado",7428,08,041,2012
+"Washington County, Colorado",5,08,121,2012
+"Grand County, Colorado",0,08,049,2012
+"Arapahoe County, Colorado",3227,08,005,2012
+"Otero County, Colorado",44,08,089,2012
+"Broomfield County, Colorado",273,08,014,2012
+"New Castle County, Delaware",15987,10,003,2012
+"Sussex County, Delaware",2577,10,005,2012
+"Kent County, Delaware",4231,10,001,2012
+"District of Columbia, District of Columbia",3355,11,001,2012
+"New Haven County, Connecticut",80914,09,009,2012
+"Litchfield County, Connecticut",2868,09,005,2012
+"Hartford County, Connecticut",96317,09,003,2012
+"New London County, Connecticut",12716,09,011,2012
+"Tolland County, Connecticut",3877,09,013,2012
+"Fairfield County, Connecticut",53339,09,001,2012
+"Duval County, Florida",20664,12,031,2012
+"Bradford County, Florida",223,12,007,2012
+"Clay County, Florida",4829,12,019,2012
+"Lafayette County, Florida",17,12,067,2012
+"Nassau County, Florida",651,12,089,2012
+"Pinellas County, Florida",22614,12,103,2012
+"St. Lucie County, Florida",11934,12,111,2012
+"Hendry County, Florida",927,12,051,2012
+"Indian River County, Florida",1877,12,061,2012
+"Palm Beach County, Florida",35947,12,099,2012
+"St. Johns County, Florida",3207,12,109,2012
+"Miami-Dade County, Florida",97500,12,086,2012
+"Flagler County, Florida",3596,12,035,2012
+"Hancock County, Georgia",8,13,141,2012
+"Calhoun County, Georgia",26,13,037,2012
+"Troup County, Georgia",92,13,285,2012
+"Bibb County, Georgia",389,13,021,2012
+"Marion County, Georgia",92,13,197,2012
+"Schley County, Georgia",0,13,249,2012
+"Bleckley County, Georgia",0,13,023,2012
+"Evans County, Georgia",0,13,109,2012
+"Franklin County, Georgia",71,13,119,2012
+"Effingham County, Georgia",365,13,103,2012
+"Lamar County, Georgia",13,13,171,2012
+"Emanuel County, Georgia",38,13,107,2012
+"Quitman County, Georgia",0,13,239,2012
+"Jasper County, Georgia",0,13,159,2012
+"Lanier County, Georgia",20,13,173,2012
+"Liberty County, Georgia",2521,13,179,2012
+"Mitchell County, Georgia",86,13,205,2012
+"Seminole County, Georgia",10,13,253,2012
+"Twiggs County, Georgia",3,13,289,2012
+"Polk County, Georgia",24,13,233,2012
+"Taylor County, Georgia",15,13,269,2012
+"Thomas County, Georgia",134,13,275,2012
+"Toombs County, Georgia",106,13,279,2012
+"Montgomery County, Georgia",35,13,209,2012
+"Oglethorpe County, Georgia",119,13,221,2012
+"Rockdale County, Georgia",482,13,247,2012
+"Wayne County, Georgia",512,13,305,2012
+"Wheeler County, Georgia",4,13,309,2012
+"Baldwin County, Georgia",80,13,009,2012
+"Mackinac County, Michigan",2,26,097,2012
+"Houghton County, Michigan",22,26,061,2012
+"Lake County, Michigan",23,26,085,2012
+"Presque Isle County, Michigan",0,26,141,2012
+"Kalamazoo County, Michigan",763,26,077,2012
+"Newaygo County, Michigan",55,26,123,2012
+"Calhoun County, Michigan",476,26,025,2012
+"Kent County, Michigan",7142,26,081,2012
+"Saginaw County, Michigan",252,26,145,2012
+"Bay County, Michigan",130,26,017,2012
+"Delta County, Michigan",27,26,041,2012
+"Koochiching County, Minnesota",56,27,071,2012
+"Morrison County, Minnesota",3,27,097,2012
+"Steele County, Minnesota",146,27,147,2012
+"Aitkin County, Minnesota",16,27,001,2012
+"Murray County, Minnesota",0,27,101,2012
+"Kandiyohi County, Minnesota",42,27,067,2012
+"Rock County, Minnesota",0,27,133,2012
+"Traverse County, Minnesota",1,27,155,2012
+"Hennepin County, Minnesota",3617,27,053,2012
+"Chippewa County, Minnesota",4,27,023,2012
+"Clearwater County, Minnesota",0,27,029,2012
+"Isanti County, Minnesota",102,27,059,2012
+"Mower County, Minnesota",59,27,099,2012
+"Olmsted County, Minnesota",309,27,109,2012
+"St. Clair County, Alabama",122,01,115,2012
+"Baldwin County, Alabama",738,01,003,2012
+"Houston County, Alabama",243,01,069,2012
+"Tuscaloosa County, Alabama",396,01,125,2012
+"Coffee County, Alabama",397,01,031,2012
+"Santa Barbara County, California",1658,06,083,2012
+"Imperial County, California",882,06,025,2012
+"Alameda County, California",10389,06,001,2012
+"Napa County, California",522,06,055,2012
+"San Francisco County, California",4169,06,075,2012
+"Colusa County, California",26,06,011,2012
+"Kings County, California",648,06,031,2012
+"Fresno County, California",2575,06,019,2012
+"Winnebago County, Illinois",1916,17,201,2012
+"Piatt County, Illinois",11,17,147,2012
+"Pulaski County, Illinois",7,17,153,2012
+"Schuyler County, Illinois",18,17,169,2012
+"Stark County, Illinois",4,17,175,2012
+"Edgar County, Illinois",64,17,045,2012
+"Bond County, Illinois",9,17,005,2012
+"Boone County, Illinois",475,17,007,2012
+"Bureau County, Illinois",88,17,011,2012
+"Carroll County, Illinois",53,17,015,2012
+"Coles County, Illinois",32,17,029,2012
+"Crawford County, Illinois",38,17,033,2012
+"Jersey County, Illinois",6,17,083,2012
+"Putnam County, Illinois",19,17,155,2012
+"De Witt County, Illinois",0,17,039,2012
+"Fayette County, Illinois",54,17,051,2012
+"Lee County, Illinois",268,17,103,2012
+"Logan County, Illinois",205,17,107,2012
+"Macoupin County, Illinois",77,17,117,2012
+"Richland County, Illinois",0,17,159,2012
+"Washington County, Illinois",2,17,189,2012
+"Montgomery County, Illinois",59,17,135,2012
+"Adams County, Illinois",12,17,001,2012
+"Clinton County, Illinois",116,17,027,2012
+"Edwards County, Illinois",0,17,047,2012
+"Jefferson County, Illinois",134,17,081,2012
+"Vermilion County, Illinois",31,17,183,2012
+"Williamson County, Illinois",302,17,199,2012
+"Clark County, Illinois",42,17,023,2012
+"Effingham County, Illinois",41,17,049,2012
+"Fulton County, Illinois",111,17,057,2012
+"Hamilton County, Illinois",84,17,065,2012
+"Henry County, Illinois",135,17,073,2012
+"Johnson County, Illinois",42,17,087,2012
+"Lake County, Illinois",8488,17,097,2012
+"Livingston County, Illinois",340,17,105,2012
+"Scott County, Illinois",0,17,171,2012
+"Cass County, Illinois",25,17,017,2012
+"Warren County, Illinois",27,17,187,2012
+"Huntington County, Indiana",61,18,069,2012
+"LaPorte County, Indiana",435,18,091,2012
+"White County, Indiana",2,18,181,2012
+"Jasper County, Indiana",109,18,073,2012
+"Martin County, Indiana",2,18,101,2012
+"Shelby County, Indiana",12,18,145,2012
+"Ripley County, Indiana",56,18,137,2012
+"Sullivan County, Indiana",44,18,153,2012
+"Tipton County, Indiana",1,18,159,2012
+"Vigo County, Indiana",234,18,167,2012
+"Warrick County, Indiana",58,18,173,2012
+"DeKalb County, Indiana",19,18,033,2012
+"Bartholomew County, Indiana",270,18,005,2012
+"Rush County, Indiana",54,18,139,2012
+"Fulton County, Indiana",33,18,049,2012
+"Lake County, Indiana",11597,18,089,2012
+"Noble County, Indiana",107,18,113,2012
+"Adams County, Indiana",35,18,001,2012
+"Fayette County, Indiana",0,18,041,2012
+"Winnebago County, Iowa",0,19,189,2012
+"Palo Alto County, Iowa",19,19,147,2012
+"Shelby County, Iowa",0,19,165,2012
+"Appanoose County, Iowa",11,19,007,2012
+"Henry County, Iowa",36,19,087,2012
+"Iowa County, Iowa",31,19,095,2012
+"Jasper County, Iowa",58,19,099,2012
+"Page County, Iowa",8,19,145,2012
+"Winneshiek County, Iowa",22,19,191,2012
+"Poweshiek County, Iowa",8,19,157,2012
+"Pottawattamie County, Iowa",43,19,155,2012
+"Marshall County, Iowa",228,19,127,2012
+"Clayton County, Iowa",11,19,043,2012
+"Boone County, Iowa",15,19,015,2012
+"Bremer County, Iowa",7,19,017,2012
+"Buena Vista County, Iowa",36,19,021,2012
+"Howard County, Iowa",0,19,089,2012
+"Pendleton County, Kentucky",0,21,191,2012
+"Robertson County, Kentucky",0,21,201,2012
+"Russell County, Kentucky",3,21,207,2012
+"Spencer County, Kentucky",24,21,215,2012
+"Washington County, Kentucky",1,21,229,2012
+"Bath County, Kentucky",0,21,011,2012
+"Ballard County, Kentucky",6,21,007,2012
+"Barren County, Kentucky",36,21,009,2012
+"Boyle County, Kentucky",8,21,021,2012
+"Green County, Kentucky",0,21,087,2012
+"Hancock County, Kentucky",3,21,091,2012
+"Harlan County, Kentucky",3,21,095,2012
+"Martin County, Kentucky",181,21,159,2012
+"Hardin County, Kentucky",1501,21,093,2012
+"Lincoln County, Kentucky",17,21,137,2012
+"McLean County, Kentucky",87,21,149,2012
+"Monroe County, Kentucky",18,21,171,2012
+"Ohio County, Kentucky",45,21,183,2012
+"Powell County, Kentucky",0,21,197,2012
+"Webster County, Kentucky",9,21,233,2012
+"Caldwell County, Kentucky",0,21,033,2012
+"Oktibbeha County, Mississippi",149,28,105,2012
+"Webster County, Mississippi",0,28,155,2012
+"Alcorn County, Mississippi",144,28,003,2012
+"Clay County, Mississippi",59,28,025,2012
+"Covington County, Mississippi",0,28,031,2012
+"Humphreys County, Mississippi",0,28,053,2012
+"Dauphin County, Pennsylvania",9603,42,043,2012
+"Franklin County, Pennsylvania",1352,42,055,2012
+"Union County, Pennsylvania",724,42,119,2012
+"Wayne County, Pennsylvania",909,42,127,2012
+"Bedford County, Pennsylvania",132,42,009,2012
+"Monroe County, Pennsylvania",12712,42,089,2012
+"Huntingdon County, Pennsylvania",437,42,061,2012
+"Washington County, Pennsylvania",368,42,125,2012
+"Philadelphia County, Pennsylvania",127674,42,101,2012
+"York County, Pennsylvania",14396,42,133,2012
+"Indiana County, Pennsylvania",431,42,063,2012
+"Cumberland County, Pennsylvania",3019,42,041,2012
+"Allegheny County, Pennsylvania",5295,42,003,2012
+"Westmoreland County, Pennsylvania",1210,42,129,2012
+"Forest County, Pennsylvania",242,42,053,2012
+"Blair County, Pennsylvania",379,42,013,2012
+"Lawrence County, Pennsylvania",431,42,073,2012
+"Bradford County, Pennsylvania",148,42,015,2012
+"Cambria County, Pennsylvania",631,42,021,2012
+"Chester County, Pennsylvania",7559,42,029,2012
+"Berks County, Pennsylvania",35640,42,011,2012
+"Mifflin County, Pennsylvania",310,42,087,2012
+"Mercer County, Missouri",5,29,129,2012
+"Wright County, Missouri",0,29,229,2012
+"Clay County, Missouri",604,29,047,2012
+"Dent County, Missouri",0,29,065,2012
+"Saline County, Missouri",21,29,195,2012
+"Worth County, Missouri",6,29,227,2012
+"Grundy County, Missouri",36,29,079,2012
+"Morgan County, Missouri",8,29,141,2012
+"Reynolds County, Missouri",4,29,179,2012
+"St. Louis County, Missouri",1717,29,189,2012
+"Stone County, Missouri",19,29,209,2012
+"Barry County, Missouri",32,29,009,2012
+"Boone County, Missouri",532,29,019,2012
+"Cole County, Missouri",220,29,051,2012
+"Crawford County, Missouri",4,29,055,2012
+"Iron County, Missouri",0,29,093,2012
+"Livingston County, Missouri",22,29,117,2012
+"Moniteau County, Missouri",36,29,135,2012
+"Pemiscot County, Missouri",5,29,155,2012
+"Pettis County, Missouri",35,29,159,2012
+"Shannon County, Missouri",0,29,203,2012
+"Randolph County, Missouri",34,29,175,2012
+"Dunklin County, Missouri",38,29,069,2012
+"Franklin County, Missouri",102,29,071,2012
+"Howard County, Missouri",0,29,089,2012
+"Jackson County, Missouri",2490,29,095,2012
+"Miller County, Missouri",0,29,131,2012
+"Putnam County, Missouri",1,29,171,2012
+"Taney County, Missouri",194,29,213,2012
+"Buchanan County, Missouri",217,29,021,2012
+"Grand Isle County, Vermont",12,50,013,2012
+"Chittenden County, Vermont",431,50,007,2012
+"Lamoille County, Vermont",58,50,015,2012
+"Franklin County, Vermont",69,50,011,2012
+"Caledonia County, Vermont",157,50,005,2012
+"Windham County, Vermont",395,50,025,2012
+"Bennington County, Vermont",182,50,003,2012
+"Addison County, Vermont",114,50,001,2012
+"Essex County, Vermont",32,50,009,2012
+"Washington County, Vermont",393,50,023,2012
+"Millard County, Utah",10,49,027,2012
+"Tooele County, Utah",80,49,045,2012
+"Washington County, Utah",168,49,053,2012
+"Kane County, Utah",0,49,025,2012
+"Summit County, Utah",147,49,043,2012
+"Grand County, Utah",8,49,019,2012
+"Piute County, Utah",0,49,031,2012
+"Rich County, Utah",1,49,033,2012
+"Wasatch County, Utah",18,49,051,2012
+"Beaver County, Utah",0,49,001,2012
+"Box Elder County, Utah",9,49,003,2012
+"Iron County, Utah",37,49,021,2012
+"Sanpete County, Utah",19,49,039,2012
+"Sevier County, Utah",0,49,041,2012
+"Weber County, Utah",562,49,057,2012
+"San Juan County, Utah",0,49,037,2012
+"Salt Lake County, Utah",3241,49,035,2012
+"Daggett County, Utah",0,49,009,2012
+"Wayne County, Utah",0,49,055,2012
+"Carbon County, Utah",4,49,007,2012
+"Morgan County, Utah",93,49,029,2012
+"Cache County, Utah",188,49,005,2012
+"Juab County, Utah",0,49,023,2012
+"James City County, Virginia",684,51,095,2012
+"Russell County, Virginia",0,51,167,2012
+"Smyth County, Virginia",67,51,173,2012
+"Bedford city, Virginia",0,51,515,2012
+"Lexington city, Virginia",30,51,678,2012
+"Campbell County, Virginia",158,51,031,2012
+"Henry County, Virginia",13,51,089,2012
+"King George County, Virginia",509,51,099,2012
+"Lancaster County, Virginia",80,51,103,2012
+"Lee County, Virginia",58,51,105,2012
+"Mathews County, Virginia",39,51,115,2012
+"Prince Edward County, Virginia",134,51,147,2012
+"Prince George County, Virginia",865,51,149,2012
+"Rockingham County, Virginia",73,51,165,2012
+"Scott County, Virginia",0,51,169,2012
+"Surry County, Virginia",2,51,181,2012
+"Appomattox County, Virginia",17,51,011,2012
+"Franklin County, Virginia",283,51,067,2012
+"Mecklenburg County, Virginia",276,51,117,2012
+"Montgomery County, Virginia",276,51,121,2012
+"Augusta County, Virginia",141,51,015,2012
+"Cumberland County, Virginia",0,51,049,2012
+"Goochland County, Virginia",239,51,075,2012
+"Halifax County, Virginia",63,51,083,2012
+"Madison County, Virginia",31,51,113,2012
+"Prince William County, Virginia",6121,51,153,2012
+"Mason County, Michigan",0,26,105,2012
+"Menominee County, Michigan",29,26,109,2012
+"Montcalm County, Michigan",125,26,117,2012
+"Missaukee County, Michigan",3,26,113,2012
+"St. Joseph County, Michigan",141,26,149,2012
+"St. Clair County, Michigan",301,26,147,2012
+"Van Buren County, Michigan",89,26,159,2012
+"Washtenaw County, Michigan",1642,26,161,2012
+"Arenac County, Michigan",29,26,011,2012
+"Barry County, Michigan",168,26,015,2012
+"Cass County, Michigan",96,26,027,2012
+"Iron County, Michigan",0,26,071,2012
+"Benzie County, Michigan",3,26,019,2012
+"Roscommon County, Michigan",57,26,143,2012
+"Schoolcraft County, Michigan",4,26,153,2012
+"Wayne County, Michigan",9668,26,163,2012
+"Branch County, Michigan",57,26,023,2012
+"Grand Traverse County, Michigan",163,26,055,2012
+"Jackson County, Michigan",424,26,075,2012
+"Genesee County, Michigan",1011,26,049,2012
+"Antrim County, Michigan",51,26,009,2012
+"Livingston County, Michigan",219,26,093,2012
+"Iosco County, Michigan",16,26,069,2012
+"Manistee County, Michigan",65,26,101,2012
+"Montmorency County, Michigan",3,26,119,2012
+"Gladwin County, Michigan",50,26,051,2012
+"Mecosta County, Michigan",118,26,107,2012
+"Marquette County, Michigan",39,26,103,2012
+"Osceola County, Michigan",10,26,133,2012
+"Otsego County, Michigan",2,26,137,2012
+"Cheboygan County, Michigan",39,26,031,2012
+"Luce County, Michigan",19,26,095,2012
+"Macomb County, Michigan",1585,26,099,2012
+"Pike County, Alabama",300,01,109,2012
+"Douglas County, Minnesota",56,27,041,2012
+"Le Sueur County, Minnesota",57,27,079,2012
+"Redwood County, Minnesota",122,27,127,2012
+"Todd County, Minnesota",5,27,153,2012
+"Houston County, Minnesota",0,27,055,2012
+"Otter Tail County, Minnesota",34,27,111,2012
+"Anoka County, Minnesota",810,27,003,2012
+"Dakota County, Minnesota",1890,27,037,2012
+"Marshall County, Minnesota",7,27,089,2012
+"Washington County, Minnesota",305,27,163,2012
+"Kanabec County, Minnesota",0,27,065,2012
+"Chambers County, Alabama",25,01,017,2012
+"Montgomery County, Alabama",810,01,101,2012
+"Henry County, Alabama",26,01,067,2012
+"Tallapoosa County, Alabama",12,01,123,2012
+"Wilcox County, Alabama",0,01,131,2012
+"Hendricks County, Indiana",241,18,063,2012
+"Dubois County, Indiana",120,18,037,2012
+"Grant County, Indiana",78,18,053,2012
+"Hancock County, Indiana",169,18,059,2012
+"Howard County, Indiana",314,18,067,2012
+"White County, Georgia",124,13,311,2012
+"Paulding County, Georgia",1755,13,223,2012
+"Richmond County, Georgia",3576,13,245,2012
+"Berrien County, Georgia",213,13,019,2012
+"Barrow County, Georgia",912,13,013,2012
+"Clinch County, Georgia",0,13,065,2012
+"Grady County, Georgia",118,13,131,2012
+"Whitfield County, Georgia",1356,13,313,2012
+"Macon County, Georgia",11,13,193,2012
+"Harris County, Georgia",151,13,145,2012
+"Worth County, Georgia",3,13,321,2012
+"Dooly County, Georgia",0,13,093,2012
+"Webster County, Georgia",0,13,307,2012
+"Glascock County, Georgia",10,13,125,2012
+"Chatham County, Georgia",2805,13,051,2012
+"Johnson County, Georgia",1,13,167,2012
+"Madison County, Georgia",15,13,195,2012
+"Tift County, Georgia",13,13,277,2012
+"Talbot County, Georgia",0,13,263,2012
+"Terrell County, Georgia",7,13,273,2012
+"Wilkinson County, Georgia",0,13,319,2012
+"Randolph County, Georgia",0,13,243,2012
+"Ware County, Georgia",121,13,299,2012
+"Wilcox County, Georgia",21,13,315,2012
+"Irwin County, Georgia",47,13,155,2012
+"Bacon County, Georgia",10,13,005,2012
+"Burke County, Georgia",125,13,033,2012
+"Chattahoochee County, Georgia",395,13,053,2012
+"Decatur County, Georgia",135,13,087,2012
+"Habersham County, Georgia",431,13,137,2012
+"McIntosh County, Georgia",47,13,191,2012
+"Monroe County, Georgia",107,13,207,2012
+"Taliaferro County, Georgia",0,13,265,2012
+"Bryan County, Georgia",513,13,029,2012
+"Camden County, Georgia",914,13,039,2012
+"Crawford County, Georgia",0,13,079,2012
+"Coffee County, Georgia",58,13,069,2012
+"Gilmer County, Georgia",304,13,123,2012
+"Walton County, Georgia",337,13,297,2012
+"Dodge County, Georgia",101,13,091,2012
+"Cherokee County, Georgia",1612,13,057,2012
+"Lee County, Georgia",31,13,177,2012
+"Pickens County, Georgia",108,13,227,2012
+"Cook County, Georgia",72,13,075,2012
+"Fulton County, Georgia",4863,13,121,2012
+"Hawaii County, Hawaii",8730,15,001,2012
+"Kauai County, Hawaii",2106,15,007,2012
+"Emmet County, Iowa",0,19,063,2012
+"Guthrie County, Iowa",0,19,077,2012
+"Hancock County, Iowa",7,19,081,2012
+"Madison County, Iowa",14,19,121,2012
+"Marion County, Iowa",140,19,125,2012
+"Wright County, Iowa",33,19,197,2012
+"Cass County, Iowa",0,19,029,2012
+"Crawford County, Iowa",88,19,047,2012
+"Fayette County, Iowa",63,19,065,2012
+"Harrison County, Iowa",6,19,085,2012
+"Mills County, Iowa",9,19,129,2012
+"Monona County, Iowa",4,19,133,2012
+"Osceola County, Iowa",0,19,143,2012
+"Webster County, Iowa",102,19,187,2012
+"Story County, Iowa",349,19,169,2012
+"Black Hawk County, Iowa",233,19,013,2012
+"Grundy County, Iowa",48,19,075,2012
+"Jones County, Iowa",18,19,105,2012
+"Mitchell County, Iowa",0,19,131,2012
+"Montgomery County, Iowa",0,19,137,2012
+"Sac County, Iowa",0,19,161,2012
+"Mahaska County, Iowa",19,19,123,2012
+"Buchanan County, Iowa",7,19,019,2012
+"Clinton County, Iowa",103,19,045,2012
+"Decatur County, Iowa",13,19,053,2012
+"Jefferson County, Iowa",0,19,101,2012
+"Allamakee County, Iowa",34,19,005,2012
+"Linn County, Iowa",277,19,113,2012
+"Dallas County, Iowa",101,19,049,2012
+"O'Brien County, Iowa",0,19,141,2012
+"Stanton County, Kansas",0,20,187,2012
+"Meade County, Kansas",1,20,119,2012
+"Montgomery County, Kansas",18,20,125,2012
+"Pratt County, Kansas",3,20,151,2012
+"Rawlins County, Kansas",8,20,153,2012
+"Anderson County, Kansas",0,20,003,2012
+"Ellsworth County, Kansas",0,20,053,2012
+"Geary County, Kansas",1113,20,061,2012
+"Ford County, Kansas",48,20,057,2012
+"Russell County, Kansas",0,20,167,2012
+"Marshall County, Kansas",13,20,117,2012
+"Allen County, Kansas",0,20,001,2012
+"Cheyenne County, Kansas",0,20,023,2012
+"Cowley County, Kansas",12,20,035,2012
+"Elk County, Kansas",0,20,049,2012
+"Franklin County, Kansas",109,20,059,2012
+"Hodgeman County, Kansas",3,20,083,2012
+"LaGrange County, Indiana",34,18,087,2012
+"Boone County, Indiana",136,18,011,2012
+"Montgomery County, Indiana",24,18,107,2012
+"Clark County, Indiana",375,18,019,2012
+"Clay County, Indiana",0,18,021,2012
+"Franklin County, Indiana",2,18,047,2012
+"Jackson County, Indiana",49,18,071,2012
+"Posey County, Indiana",2,18,129,2012
+"Vermillion County, Indiana",34,18,165,2012
+"Allen County, Indiana",1797,18,003,2012
+"Floyd County, Indiana",129,18,043,2012
+"Johnson County, Indiana",233,18,081,2012
+"Gibson County, Indiana",0,18,051,2012
+"Christian County, Kentucky",879,21,047,2012
+"Grayson County, Kentucky",0,21,085,2012
+"Henry County, Kentucky",61,21,103,2012
+"Hopkins County, Kentucky",57,21,107,2012
+"Laurel County, Kentucky",21,21,125,2012
+"Marshall County, Kentucky",129,21,157,2012
+"Montgomery County, Kentucky",0,21,173,2012
+"Nicholas County, Kentucky",0,21,181,2012
+"Owen County, Kentucky",0,21,187,2012
+"Scott County, Kentucky",113,21,209,2012
+"Warren County, Kentucky",285,21,227,2012
+"Bourbon County, Kentucky",29,21,017,2012
+"Boyd County, Kentucky",145,21,019,2012
+"Crittenden County, Kentucky",0,21,055,2012
+"Fayette County, Kentucky",1090,21,067,2012
+"Johnson County, Kentucky",64,21,115,2012
+"Menifee County, Kentucky",0,21,165,2012
+"Morgan County, Kentucky",0,21,175,2012
+"Perry County, Kentucky",7,21,193,2012
+"Pulaski County, Kentucky",70,21,199,2012
+"Clay County, Kentucky",35,21,051,2012
+"Adair County, Kentucky",0,21,001,2012
+"Breathitt County, Kentucky",0,21,025,2012
+"Graves County, Kentucky",146,21,083,2012
+"Hart County, Kentucky",31,21,099,2012
+"Butler County, Kentucky",0,21,031,2012
+"Trimble County, Kentucky",156,21,223,2012
+"Harrison County, Kentucky",0,21,097,2012
+"Hickman County, Kentucky",0,21,105,2012
+"Lyon County, Kentucky",2,21,143,2012
+"Wayne County, Kentucky",0,21,231,2012
+"Lewis County, Kentucky",0,21,135,2012
+"Trigg County, Kentucky",39,21,221,2012
+"Woodford County, Kentucky",97,21,239,2012
+"Leslie County, Kentucky",4,21,131,2012
+"Casey County, Kentucky",19,21,045,2012
+"Jessamine County, Kentucky",78,21,113,2012
+"Lawrence County, Kentucky",0,21,127,2012
+"Livingston County, Kentucky",0,21,139,2012
+"McCracken County, Kentucky",105,21,145,2012
+"Shelby County, Kentucky",152,21,211,2012
+"Whitley County, Kentucky",33,21,235,2012
+"Caldwell County, Missouri",0,29,025,2012
+"Cass County, Missouri",215,29,037,2012
+"Clinton County, Missouri",16,29,049,2012
+"Dallas County, Missouri",1,29,059,2012
+"Hickory County, Missouri",0,29,085,2012
+"Lincoln County, Missouri",87,29,113,2012
+"Monroe County, Missouri",6,29,137,2012
+"Newton County, Missouri",44,29,145,2012
+"Pike County, Missouri",39,29,163,2012
+"St. Charles County, Missouri",762,29,183,2012
+"Cape Girardeau County, Missouri",111,29,031,2012
+"Lincoln County, New Mexico",93,35,027,2012
+"Chaves County, New Mexico",218,35,005,2012
+"Lea County, New Mexico",21,35,025,2012
+"Santa Fe County, New Mexico",581,35,049,2012
+"Union County, New Mexico",0,35,059,2012
+"Sierra County, New Mexico",42,35,051,2012
+"Socorro County, New Mexico",0,35,053,2012
+"Roosevelt County, New Mexico",248,35,041,2012
+"Doña Ana County, New Mexico",852,35,013,2012
+"Los Alamos County, New Mexico",16,35,028,2012
+"Rio Arriba County, New Mexico",54,35,039,2012
+"San Miguel County, New Mexico",36,35,047,2012
+"Valencia County, New Mexico",205,35,061,2012
+"Torrance County, New Mexico",14,35,057,2012
+"Bernalillo County, New Mexico",2610,35,001,2012
+"Otero County, New Mexico",408,35,035,2012
+"Cibola County, New Mexico",85,35,006,2012
+"De Baca County, New Mexico",0,35,011,2012
+"Guadalupe County, New Mexico",10,35,019,2012
+"Catron County, New Mexico",0,35,003,2012
+"Bronx County, New York",311547,36,005,2012
+"Onondaga County, New York",9127,36,067,2012
+"Clinton County, New York",671,36,019,2012
+"Seneca County, New York",539,36,099,2012
+"Putnam County, New York",3748,36,079,2012
+"Herkimer County, New York",405,36,043,2012
+"Ontario County, New York",1989,36,069,2012
+"Steuben County, New York",570,36,101,2012
+"Hamilton County, New York",15,36,041,2012
+"Chautauqua County, New York",6314,36,013,2012
+"Kings County, New York",181136,36,047,2012
+"Tioga County, New York",299,36,107,2012
+"Orleans County, New York",839,36,073,2012
+"Saratoga County, New York",2237,36,091,2012
+"Columbia County, New York",1088,36,021,2012
+"Lewis County, New York",138,36,049,2012
+"Westchester County, New York",46813,36,119,2012
+"Delaware County, New York",675,36,025,2012
+"Montgomery County, New York",3899,36,057,2012
+"Richmond County, New York",39426,36,085,2012
+"St. Lawrence County, New York",958,36,089,2012
+"Tompkins County, New York",1295,36,109,2012
+"Warren County, New York",477,36,113,2012
+"Cortland County, New York",357,36,023,2012
+"Dutchess County, New York",11242,36,027,2012
+"Monroe County, New York",37847,36,055,2012
+"Oneida County, New York",6029,36,065,2012
+"Southampton County, Virginia",4,51,175,2012
+"Brunswick County, Virginia",37,51,025,2012
+"Caroline County, Virginia",355,51,033,2012
+"Northampton County, Virginia",59,51,131,2012
+"Patrick County, Virginia",0,51,141,2012
+"Rockbridge County, Virginia",1,51,163,2012
+"Shenandoah County, Virginia",584,51,171,2012
+"Norton city, Virginia",0,51,720,2012
+"Sweetwater County, Wyoming",96,56,037,2012
+"Platte County, Wyoming",0,56,031,2012
+"Sheridan County, Wyoming",4,56,033,2012
+"Big Horn County, Wyoming",0,56,003,2012
+"Crook County, Wyoming",0,56,011,2012
+"Park County, Wyoming",56,56,029,2012
+"Albany County, Wyoming",67,56,001,2012
+"Carbon County, Wyoming",41,56,007,2012
+"Goshen County, Wyoming",2,56,015,2012
+"Uinta County, Wyoming",107,56,041,2012
+"Washakie County, Wyoming",0,56,043,2012
+"Hot Springs County, Wyoming",5,56,017,2012
+"Fremont County, Wyoming",23,56,013,2012
+"Sublette County, Wyoming",0,56,035,2012
+"Weston County, Wyoming",18,56,045,2012
+"Aibonito Municipio, Puerto Rico",25475,72,009,2012
+"Juncos Municipio, Puerto Rico",39532,72,077,2012
+"Lajas Municipio, Puerto Rico",25321,72,079,2012
+"Adjuntas Municipio, Puerto Rico",19253,72,001,2012
+"Camuy Municipio, Puerto Rico",34393,72,027,2012
+"Hormigueros Municipio, Puerto Rico",16692,72,067,2012
+"Manatí Municipio, Puerto Rico",42961,72,091,2012
+"Naranjito Municipio, Puerto Rico",30121,72,105,2012
+"San Germán Municipio, Puerto Rico",34887,72,125,2012
+"Arecibo Municipio, Puerto Rico",94134,72,013,2012
+"Arroyo Municipio, Puerto Rico",19158,72,015,2012
+"Shiawassee County, Michigan",71,26,155,2012
+"Baraga County, Michigan",8,26,013,2012
+"Charlevoix County, Michigan",28,26,029,2012
+"Eaton County, Michigan",424,26,045,2012
+"Gogebic County, Michigan",9,26,053,2012
+"Emmet County, Michigan",56,26,047,2012
+"Meeker County, Minnesota",2,27,093,2012
+"Pennington County, Minnesota",19,27,113,2012
+"Rice County, Minnesota",75,27,131,2012
+"Wilkin County, Minnesota",0,27,167,2012
+"Red Lake County, Minnesota",0,27,125,2012
+"Clay County, Minnesota",7,27,027,2012
+"Faribault County, Minnesota",1,27,043,2012
+"Fillmore County, Minnesota",0,27,045,2012
+"Lake County, Minnesota",0,27,075,2012
+"Polk County, Minnesota",36,27,119,2012
+"Roseau County, Minnesota",5,27,135,2012
+"Sibley County, Minnesota",7,27,143,2012
+"Watonwan County, Minnesota",2,27,165,2012
+"Becker County, Minnesota",56,27,005,2012
+"Big Stone County, Minnesota",1,27,011,2012
+"Brown County, Minnesota",0,27,015,2012
+"Cass County, Minnesota",47,27,021,2012
+"Goodhue County, Minnesota",1,27,049,2012
+"Hubbard County, Minnesota",0,27,057,2012
+"Jackson County, Minnesota",9,27,063,2012
+"Martin County, Minnesota",0,27,091,2012
+"Nobles County, Minnesota",251,27,105,2012
+"Pine County, Minnesota",79,27,115,2012
+"Nez Perce County, Idaho",196,16,069,2012
+"Jerome County, Idaho",25,16,053,2012
+"Kootenai County, Idaho",253,16,055,2012
+"Lewis County, Idaho",8,16,061,2012
+"Minidoka County, Idaho",25,16,067,2012
+"Twin Falls County, Idaho",192,16,083,2012
+"Owyhee County, Idaho",13,16,073,2012
+"Blaine County, Idaho",20,16,013,2012
+"Boise County, Idaho",0,16,015,2012
+"Boundary County, Idaho",0,16,021,2012
+"Butte County, Idaho",0,16,023,2012
+"Caribou County, Idaho",0,16,029,2012
+"Gooding County, Idaho",21,16,047,2012
+"Ada County, Idaho",828,16,001,2012
+"Bannock County, Idaho",194,16,005,2012
+"Bear Lake County, Idaho",0,16,007,2012
+"Bingham County, Idaho",80,16,011,2012
+"Bonneville County, Idaho",85,16,019,2012
+"Camas County, Idaho",0,16,025,2012
+"Clearwater County, Idaho",0,16,035,2012
+"Jefferson County, Idaho",2,16,051,2012
+"Lemhi County, Idaho",0,16,059,2012
+"Payette County, Idaho",58,16,075,2012
+"Bonner County, Idaho",43,16,017,2012
+"Custer County, Idaho",0,16,037,2012
+"Elmore County, Idaho",103,16,039,2012
+"Madison County, Idaho",108,16,065,2012
+"Shoshone County, Idaho",0,16,079,2012
+"Teton County, Idaho",5,16,081,2012
+"Washington County, Idaho",26,16,087,2012
+"Hancock County, Illinois",34,17,067,2012
+"Grundy County, Illinois",485,17,063,2012
+"Kankakee County, Illinois",416,17,091,2012
+"DuPage County, Illinois",8246,17,043,2012
+"Alexander County, Illinois",26,17,003,2012
+"Menard County, Illinois",28,17,129,2012
+"LaSalle County, Illinois",669,17,099,2012
+"Cook County, Illinois",131716,17,031,2012
+"Macon County, Illinois",181,17,115,2012
+"Morgan County, Illinois",83,17,137,2012
+"Wayne County, Illinois",0,17,191,2012
+"Woodford County, Illinois",52,17,203,2012
+"Franklin County, Illinois",96,17,055,2012
+"McDonough County, Illinois",137,17,109,2012
+"McHenry County, Illinois",2223,17,111,2012
+"Moultrie County, Illinois",0,17,139,2012
+"Perry County, Illinois",77,17,145,2012
+"Pope County, Illinois",12,17,151,2012
+"St. Clair County, Illinois",1300,17,163,2012
+"Shelby County, Illinois",4,17,173,2012
+"Champaign County, Illinois",812,17,019,2012
+"Orange County, Indiana",102,18,117,2012
+"Marshall County, Indiana",128,18,099,2012
+"Blackford County, Indiana",3,18,009,2012
+"Scott County, Indiana",0,18,143,2012
+"Elkhart County, Indiana",1287,18,039,2012
+"Cass County, Indiana",98,18,017,2012
+"Wayne County, Indiana",95,18,177,2012
+"Butler County, Iowa",6,19,023,2012
+"Hamilton County, Iowa",0,19,079,2012
+"Union County, Iowa",2,19,175,2012
+"Worth County, Iowa",3,19,195,2012
+"Adair County, Iowa",0,19,001,2012
+"Chickasaw County, Iowa",0,19,037,2012
+"Dickinson County, Iowa",34,19,059,2012
+"Keokuk County, Iowa",11,19,107,2012
+"Tama County, Iowa",26,19,171,2012
+"Franklin County, Iowa",15,19,069,2012
+"Cedar County, Iowa",7,19,031,2012
+"Floyd County, Iowa",2,19,067,2012
+"Louisa County, Iowa",25,19,115,2012
+"Humboldt County, Iowa",0,19,091,2012
+"Washington County, Iowa",2,19,183,2012
+"Cherokee County, Iowa",0,19,035,2012
+"Des Moines County, Iowa",34,19,057,2012
+"Kossuth County, Iowa",3,19,109,2012
+"Muscatine County, Iowa",354,19,139,2012
+"Polk County, Iowa",650,19,153,2012
+"Woodbury County, Iowa",376,19,193,2012
+"Jackson County, Iowa",37,19,097,2012
+"Lee County, Iowa",65,19,111,2012
+"Warren County, Iowa",33,19,181,2012
+"Plymouth County, Iowa",18,19,149,2012
+"Clay County, Iowa",94,19,041,2012
+"Delaware County, Iowa",0,19,055,2012
+"Wayne County, Iowa",63,19,185,2012
+"Chemung County, New York",1322,36,015,2012
+"Livingston County, New York",1013,36,051,2012
+"Otsego County, New York",698,36,077,2012
+"Greene County, New York",1588,36,039,2012
+"Albany County, New York",7897,36,001,2012
+"Allegany County, New York",218,36,003,2012
+"Cattaraugus County, New York",626,36,009,2012
+"Madison County, New York",629,36,053,2012
+"Schenectady County, New York",5429,36,093,2012
+"Genesee County, New York",582,36,037,2012
+"Yates County, New York",256,36,123,2012
+"Greene County, North Carolina",15,37,079,2012
+"Mitchell County, North Carolina",43,37,121,2012
+"Chowan County, North Carolina",0,37,041,2012
+"Alleghany County, North Carolina",61,37,005,2012
+"Caldwell County, North Carolina",325,37,027,2012
+"Catawba County, North Carolina",570,37,035,2012
+"Cleveland County, North Carolina",272,37,045,2012
+"Craven County, North Carolina",1179,37,049,2012
+"Edgecombe County, North Carolina",73,37,065,2012
+"Granville County, North Carolina",500,37,077,2012
+"Harnett County, North Carolina",1865,37,085,2012
+"Hoke County, North Carolina",1744,37,093,2012
+"Henderson County, North Carolina",266,37,089,2012
+"Hyde County, North Carolina",25,37,095,2012
+"Iredell County, North Carolina",951,37,097,2012
+"Mecklenburg County, North Carolina",8336,37,119,2012
+"Northampton County, North Carolina",18,37,131,2012
+"Pitt County, North Carolina",782,37,147,2012
+"Rowan County, North Carolina",439,37,159,2012
+"Vance County, North Carolina",213,37,181,2012
+"Cherokee County, North Carolina",275,37,039,2012
+"Currituck County, North Carolina",217,37,053,2012
+"Union County, North Carolina",1612,37,179,2012
+"Wilkes County, North Carolina",94,37,193,2012
+"Nash County, North Carolina",221,37,127,2012
+"Alexander County, North Carolina",43,37,003,2012
+"Ulster County, New York",7311,36,111,2012
+"Dare County, North Carolina",32,37,055,2012
+"Warren County, North Carolina",181,37,185,2012
+"Wilson County, North Carolina",183,37,195,2012
+"Gates County, North Carolina",24,37,073,2012
+"Graham County, North Carolina",39,37,075,2012
+"Madison County, North Carolina",15,37,115,2012
+"Pamlico County, North Carolina",25,37,137,2012
+"Polk County, North Carolina",142,37,149,2012
+"Randolph County, North Carolina",942,37,151,2012
+"Stokes County, North Carolina",25,37,169,2012
+"Washington County, North Carolina",96,37,187,2012
+"Clay County, North Carolina",4,37,043,2012
+"Cumberland County, North Carolina",10282,37,051,2012
+"Guilford County, North Carolina",2990,37,081,2012
+"Jackson County, North Carolina",209,37,099,2012
+"Pasquotank County, North Carolina",227,37,139,2012
+"Robeson County, North Carolina",165,37,155,2012
+"Swain County, North Carolina",51,37,173,2012
+"Wake County, North Carolina",9333,37,183,2012
+"Florida Municipio, Puerto Rico",12420,72,054,2012
+"Quebradillas Municipio, Puerto Rico",25615,72,115,2012
+"Moca Municipio, Puerto Rico",39077,72,099,2012
+"Culebra Municipio, Puerto Rico",1405,72,049,2012
+"Salinas Municipio, Puerto Rico",30704,72,123,2012
+"Loíza Municipio, Puerto Rico",29387,72,087,2012
+"Yauco Municipio, Puerto Rico",41159,72,153,2012
+"Aguadilla Municipio, Puerto Rico",56978,72,005,2012
+"Cabo Rojo Municipio, Puerto Rico",49927,72,023,2012
+"Las Marías Municipio, Puerto Rico",9790,72,083,2012
+"Patillas Municipio, Puerto Rico",18961,72,109,2012
+"Villalba Municipio, Puerto Rico",25715,72,149,2012
+"Aguas Buenas Municipio, Puerto Rico",28209,72,007,2012
+"Bayamón Municipio, Puerto Rico",196084,72,021,2012
+"Carolina Municipio, Puerto Rico",160503,72,031,2012
+"Cayey Municipio, Puerto Rico",47329,72,035,2012
+"Hatillo Municipio, Puerto Rico",41154,72,065,2012
+"Humacao Municipio, Puerto Rico",56644,72,069,2012
+"Juana Díaz Municipio, Puerto Rico",50256,72,075,2012
+"Morovis Municipio, Puerto Rico",32408,72,101,2012
+"Mayagüez Municipio, Puerto Rico",85158,72,097,2012
+"Santa Isabel Municipio, Puerto Rico",23090,72,133,2012
+"Trujillo Alto Municipio, Puerto Rico",71269,72,139,2012
+"Corozal Municipio, Puerto Rico",36550,72,047,2012
+"Maunabo Municipio, Puerto Rico",12104,72,095,2012
+"Peñuelas Municipio, Puerto Rico",23497,72,111,2012
+"Ponce Municipio, Puerto Rico",161417,72,113,2012
+"San Sebastián Municipio, Puerto Rico",41217,72,131,2012
+"Toa Alta Municipio, Puerto Rico",72607,72,135,2012
+"Toa Baja Municipio, Puerto Rico",85680,72,137,2012
+"Vieques Municipio, Puerto Rico",8878,72,147,2012
+"Aguada Municipio, Puerto Rico",38874,72,003,2012
+"Caguas Municipio, Puerto Rico",137838,72,025,2012
+"Cidra Municipio, Puerto Rico",42674,72,041,2012
+"Coamo Municipio, Puerto Rico",40067,72,043,2012
+"Luquillo Municipio, Puerto Rico",19176,72,089,2012
+"Barranquitas Municipio, Puerto Rico",30140,72,019,2012
+"San Lorenzo Municipio, Puerto Rico",40274,72,129,2012
+"Añasco Municipio, Puerto Rico",28918,72,011,2012
+"Ciales Municipio, Puerto Rico",18580,72,039,2012
+"Isabela Municipio, Puerto Rico",44724,72,071,2012
+"Jayuya Municipio, Puerto Rico",16525,72,073,2012
+"Las Piedras Municipio, Puerto Rico",38314,72,085,2012
+"Río Grande Municipio, Puerto Rico",52728,72,119,2012
+"Vega Alta Municipio, Puerto Rico",38536,72,143,2012
+"Vega Baja Municipio, Puerto Rico",57288,72,145,2012
+"Ohio County, Indiana",0,18,115,2012
+"Owen County, Indiana",0,18,119,2012
+"Parke County, Indiana",19,18,121,2012
+"Randolph County, Indiana",53,18,135,2012
+"Whitley County, Indiana",19,18,183,2012
+"Benton County, Indiana",12,18,007,2012
+"Brown County, Indiana",9,18,013,2012
+"Clinton County, Indiana",146,18,023,2012
+"Anson County, North Carolina",27,37,007,2012
+"McDowell County, North Carolina",135,37,111,2012
+"Franklin County, North Carolina",443,37,069,2012
+"Jones County, North Carolina",9,37,103,2012
+"Macon County, North Carolina",228,37,113,2012
+"Brunswick County, North Carolina",417,37,019,2012
+"Transylvania County, North Carolina",127,37,175,2012
+"Beaufort County, North Carolina",297,37,013,2012
+"Columbus County, North Carolina",81,37,047,2012
+"Lincoln County, North Carolina",237,37,109,2012
+"Montgomery County, North Carolina",35,37,123,2012
+"Orange County, North Carolina",776,37,135,2012
+"Richmond County, North Carolina",163,37,153,2012
+"Sampson County, North Carolina",605,37,163,2012
+"Surry County, North Carolina",236,37,171,2012
+"Avery County, North Carolina",73,37,011,2012
+"Buncombe County, North Carolina",1240,37,021,2012
+"Cabarrus County, North Carolina",1560,37,025,2012
+"Bamberg County, South Carolina",18,45,009,2012
+"Beaufort County, South Carolina",1757,45,013,2012
+"Calhoun County, South Carolina",69,45,017,2012
+"Dillon County, South Carolina",16,45,033,2012
+"Saluda County, South Carolina",50,45,081,2012
+"Richland County, South Carolina",5427,45,079,2012
+"Fairfield County, South Carolina",0,45,039,2012
+"Hampton County, South Carolina",59,45,049,2012
+"Greenville County, South Carolina",3175,45,045,2012
+"Lancaster County, South Carolina",572,45,057,2012
+"Dorchester County, South Carolina",1051,45,035,2012
+"Florence County, South Carolina",550,45,041,2012
+"Laurens County, South Carolina",257,45,059,2012
+"McCormick County, South Carolina",30,45,065,2012
+"Pickens County, South Carolina",199,45,077,2012
+"Union County, South Carolina",59,45,087,2012
+"Williamsburg County, South Carolina",174,45,089,2012
+"Aurora County, South Dakota",0,46,003,2012
+"Grant County, South Dakota",0,46,051,2012
+"Tripp County, South Dakota",0,46,123,2012
+"Shannon County, South Dakota",47,46,113,2012
+"Ziebach County, South Dakota",0,46,137,2012
+"Spink County, South Dakota",1,46,115,2012
+"Brule County, South Dakota",0,46,015,2012
+"Brookings County, South Dakota",4,46,011,2012
+"Gregory County, South Dakota",13,46,053,2012
+"Hamlin County, South Dakota",0,46,057,2012
+"Minnehaha County, South Dakota",356,46,099,2012
+"Custer County, South Dakota",0,46,033,2012
+"Clark County, South Dakota",0,46,025,2012
+"Faulk County, South Dakota",0,46,049,2012
+"Kingsbury County, South Dakota",13,46,077,2012
+"Walworth County, South Dakota",0,46,129,2012
+"Clay County, South Dakota",3,46,027,2012
+"Day County, South Dakota",0,46,037,2012
+"Douglas County, South Dakota",0,46,043,2012
+"Hughes County, South Dakota",20,46,065,2012
+"McPherson County, South Dakota",0,46,089,2012
+"Knox County, Missouri",2,29,103,2012
+"Montgomery County, Missouri",15,29,139,2012
+"Stoddard County, Missouri",22,29,207,2012
+"Audrain County, Missouri",19,29,007,2012
+"Greene County, Missouri",711,29,077,2012
+"St. Clair County, Missouri",0,29,185,2012
+"Schuyler County, Missouri",2,29,197,2012
+"Camden County, Missouri",39,29,029,2012
+"Jefferson County, Missouri",178,29,099,2012
+"New Madrid County, Missouri",0,29,143,2012
+"Ralls County, Missouri",3,29,173,2012
+"Custer County, Montana",34,30,017,2012
+"Powder River County, Montana",0,30,075,2012
+"Roosevelt County, Montana",0,30,085,2012
+"Liberty County, Montana",0,30,051,2012
+"Richland County, Montana",10,30,083,2012
+"Toole County, Montana",0,30,101,2012
+"Daniels County, Montana",0,30,019,2012
+"Judith Basin County, Montana",0,30,045,2012
+"Deer Lodge County, Montana",15,30,023,2012
+"McCone County, Montana",0,30,055,2012
+"Rosebud County, Montana",0,30,087,2012
+"Dawson County, Montana",7,30,021,2012
+"Broadwater County, Montana",7,30,007,2012
+"Phillips County, Montana",0,30,071,2012
+"Blaine County, Nebraska",0,31,009,2012
+"Deuel County, Nebraska",0,31,049,2012
+"Jewell County, Kansas",0,20,089,2012
+"Kearny County, Kansas",15,20,093,2012
+"Rice County, Kansas",17,20,159,2012
+"Stafford County, Kansas",0,20,185,2012
+"McPherson County, Kansas",45,20,113,2012
+"Osage County, Kansas",32,20,139,2012
+"Greeley County, Kansas",0,20,071,2012
+"Coffey County, Kansas",0,20,031,2012
+"Crawford County, Kansas",32,20,037,2012
+"Ellis County, Kansas",9,20,051,2012
+"Greenwood County, Kansas",0,20,073,2012
+"Labette County, Kansas",29,20,099,2012
+"Linn County, Kansas",0,20,107,2012
+"Sedgwick County, Kansas",1962,20,173,2012
+"Seward County, Kansas",42,20,175,2012
+"Republic County, Kansas",0,20,157,2012
+"Graham County, Kansas",0,20,065,2012
+"Johnson County, Kansas",866,20,091,2012
+"Douglas County, Kansas",276,20,045,2012
+"Sheridan County, Kansas",0,20,179,2012
+"Miami County, Kansas",54,20,121,2012
+"Wallace County, Kansas",0,20,199,2012
+"Stevens County, Kansas",2,20,189,2012
+"Smith County, Kansas",0,20,183,2012
+"Jackson County, Kansas",31,20,085,2012
+"Anderson County, Kentucky",0,21,005,2012
+"Breckinridge County, Kentucky",0,21,027,2012
+"Floyd County, Kentucky",15,21,071,2012
+"Franklin County, Kentucky",99,21,073,2012
+"Kenton County, Kentucky",476,21,117,2012
+"McCreary County, Kentucky",38,21,147,2012
+"Madison County, Kentucky",129,21,151,2012
+"Magoffin County, Kentucky",0,21,153,2012
+"Metcalfe County, Kentucky",0,21,169,2012
+"Owsley County, Kentucky",0,21,189,2012
+"Rowan County, Kentucky",0,21,205,2012
+"Simpson County, Kentucky",27,21,213,2012
+"Taylor County, Kentucky",7,21,217,2012
+"Clark County, Kentucky",61,21,049,2012
+"Todd County, Kentucky",0,21,219,2012
+"Carlisle County, Kentucky",0,21,039,2012
+"Sully County, South Dakota",0,46,119,2012
+"Hand County, South Dakota",1,46,059,2012
+"Lake County, South Dakota",1,46,079,2012
+"Yankton County, South Dakota",48,46,135,2012
+"Codington County, South Dakota",8,46,029,2012
+"Butte County, South Dakota",0,46,019,2012
+"Corson County, South Dakota",0,46,031,2012
+"Edmunds County, South Dakota",12,46,045,2012
+"Campbell County, South Dakota",0,46,021,2012
+"Bennett County, South Dakota",0,46,007,2012
+"Stanley County, South Dakota",12,46,117,2012
+"Jones County, South Dakota",0,46,075,2012
+"Potter County, South Dakota",0,46,107,2012
+"Turner County, South Dakota",2,46,125,2012
+"Charles Mix County, South Dakota",0,46,023,2012
+"Hanson County, South Dakota",0,46,061,2012
+"Marshall County, South Dakota",104,46,091,2012
+"Mellette County, South Dakota",0,46,095,2012
+"Perkins County, South Dakota",0,46,105,2012
+"Pennington County, South Dakota",395,46,103,2012
+"Union County, South Dakota",3,46,127,2012
+"Coffee County, Tennessee",13,47,031,2012
+"Fayette County, Tennessee",24,47,047,2012
+"Hancock County, Tennessee",0,47,067,2012
+"Hawkins County, Tennessee",40,47,073,2012
+"Johnson County, Tennessee",22,47,091,2012
+"Lincoln County, Tennessee",51,47,103,2012
+"Macon County, Tennessee",0,47,111,2012
+"Moore County, Tennessee",0,47,127,2012
+"Robertson County, Tennessee",307,47,147,2012
+"Franklin County, Tennessee",46,47,051,2012
+"Blount County, Tennessee",188,47,009,2012
+"Cheatham County, Tennessee",160,47,021,2012
+"Carter County, Tennessee",13,47,019,2012
+"Grainger County, Tennessee",74,47,057,2012
+"Sanborn County, South Dakota",3,46,111,2012
+"Giles County, Tennessee",50,47,055,2012
+"Lauderdale County, Tennessee",39,47,097,2012
+"Lawrence County, Tennessee",49,47,099,2012
+"Madison County, Tennessee",131,47,113,2012
+"Marion County, Tennessee",14,47,115,2012
+"Overton County, Tennessee",5,47,133,2012
+"Pickett County, Tennessee",0,47,137,2012
+"Wayne County, Tennessee",31,47,181,2012
+"Williamson County, Tennessee",836,47,187,2012
+"Bedford County, Tennessee",50,47,003,2012
+"Greene County, Tennessee",73,47,059,2012
+"Cumberland County, Tennessee",77,47,035,2012
+"Van Buren County, Tennessee",0,47,175,2012
+"Claiborne County, Tennessee",0,47,025,2012
+"Hickman County, Tennessee",0,47,081,2012
+"Humphreys County, Tennessee",139,47,085,2012
+"Putnam County, Tennessee",263,47,141,2012
+"Sevier County, Tennessee",225,47,155,2012
+"Stewart County, Tennessee",5,47,161,2012
+"Chester County, Tennessee",117,47,023,2012
+"Decatur County, Tennessee",0,47,039,2012
+"Jackson County, Tennessee",0,47,087,2012
+"Logan County, Nebraska",0,31,113,2012
+"Thayer County, Nebraska",8,31,169,2012
+"Adams County, Nebraska",58,31,001,2012
+"Boone County, Nebraska",0,31,011,2012
+"Rock County, Nebraska",0,31,149,2012
+"Sherman County, Nebraska",1,31,163,2012
+"Howard County, Nebraska",0,31,093,2012
+"Gosper County, Nebraska",0,31,073,2012
+"Sarpy County, Nebraska",506,31,153,2012
+"Boyd County, Nebraska",1,31,015,2012
+"Fillmore County, Nebraska",0,31,059,2012
+"Hooker County, Nebraska",0,31,091,2012
+"Seward County, Nebraska",18,31,159,2012
+"Webster County, Nebraska",0,31,181,2012
+"Butler County, Nebraska",1,31,023,2012
+"Arthur County, Nebraska",0,31,005,2012
+"Gage County, Nebraska",14,31,067,2012
+"Kearney County, Nebraska",0,31,099,2012
+"Madison County, Nebraska",36,31,119,2012
+"Phelps County, Nebraska",0,31,137,2012
+"Wayne County, Nebraska",1,31,179,2012
+"Knox County, Nebraska",6,31,107,2012
+"Merrick County, Nebraska",0,31,121,2012
+"Pawnee County, Nebraska",0,31,133,2012
+"Wheeler County, Nebraska",0,31,183,2012
+"Lander County, Nevada",72,32,015,2012
+"Esmeralda County, Nevada",0,32,009,2012
+"Mineral County, Nevada",0,32,021,2012
+"Lincoln County, Nevada",3,32,017,2012
+"Washoe County, Nevada",1658,32,031,2012
+"Carson City, Nevada",214,32,510,2012
+"Merrimack County, New Hampshire",1023,33,013,2012
+"Belknap County, New Hampshire",363,33,001,2012
+"Strafford County, New Hampshire",588,33,017,2012
+"Monmouth County, New Jersey",18501,34,025,2012
+"Sussex County, New Jersey",4073,34,037,2012
+"Essex County, New Jersey",57329,34,013,2012
+"Gloucester County, New Jersey",6323,34,015,2012
+"Passaic County, New Jersey",40731,34,031,2012
+"Bergen County, New Jersey",26982,34,003,2012
+"Warren County, New Jersey",2632,34,041,2012
+"Burlington County, New Jersey",14003,34,005,2012
+"Luna County, New Mexico",25,35,029,2012
+"Taos County, New Mexico",47,35,055,2012
+"Colfax County, New Mexico",72,35,007,2012
+"Harding County, New Mexico",0,35,021,2012
+"Quay County, New Mexico",5,35,037,2012
+"Noxubee County, Mississippi",0,28,103,2012
+"Tate County, Mississippi",23,28,137,2012
+"Panola County, Mississippi",0,28,107,2012
+"Yalobusha County, Mississippi",9,28,161,2012
+"Copiah County, Mississippi",0,28,029,2012
+"Hinds County, Mississippi",221,28,049,2012
+"Union County, Mississippi",7,28,145,2012
+"Tippah County, Mississippi",38,28,139,2012
+"Forrest County, Mississippi",370,28,035,2012
+"Lafayette County, Mississippi",16,28,071,2012
+"Lowndes County, Mississippi",111,28,087,2012
+"Wilkinson County, Mississippi",0,28,157,2012
+"Scott County, Iowa",277,19,163,2012
+"Sherman County, Kansas",5,20,181,2012
+"Thomas County, Kansas",0,20,193,2012
+"Morris County, Kansas",15,20,127,2012
+"Rooks County, Kansas",2,20,163,2012
+"Clark County, Kansas",0,20,025,2012
+"Harper County, Kansas",15,20,077,2012
+"Lyon County, Kansas",89,20,111,2012
+"Pawnee County, Kansas",17,20,145,2012
+"Comanche County, Kansas",0,20,033,2012
+"Gove County, Kansas",0,20,063,2012
+"Harvey County, Kansas",120,20,079,2012
+"Gray County, Kansas",0,20,069,2012
+"Chase County, Kansas",0,20,017,2012
+"Grant County, Kansas",0,20,067,2012
+"Logan County, Kansas",0,20,109,2012
+"Pottawatomie County, Kansas",136,20,149,2012
+"Butler County, Kansas",184,20,015,2012
+"Saline County, Kansas",422,20,169,2012
+"Wabaunsee County, Kansas",3,20,197,2012
+"Woodson County, Kansas",4,20,207,2012
+"Osborne County, Kansas",0,20,141,2012
+"Finney County, Kansas",102,20,055,2012
+"Kiowa County, Kansas",0,20,097,2012
+"Washington County, Kansas",0,20,201,2012
+"Morton County, Kansas",0,20,129,2012
+"Barton County, Kansas",8,20,009,2012
+"Doniphan County, Kansas",1,20,043,2012
+"Lane County, Kansas",10,20,101,2012
+"Marion County, Kansas",0,20,115,2012
+"Clinton County, Kentucky",51,21,053,2012
+"Estill County, Kentucky",0,21,065,2012
+"Richland Parish, Louisiana",13,22,083,2012
+"St. Martin Parish, Louisiana",0,22,099,2012
+"Winn Parish, Louisiana",12,22,127,2012
+"East Baton Rouge Parish, Louisiana",910,22,033,2012
+"Allen Parish, Louisiana",87,22,003,2012
+"Madison Parish, Louisiana",41,22,065,2012
+"St. James Parish, Louisiana",66,22,093,2012
+"Grant Parish, Louisiana",51,22,043,2012
+"Jefferson Parish, Louisiana",3007,22,051,2012
+"Beauregard Parish, Louisiana",234,22,011,2012
+"Bossier Parish, Louisiana",239,22,015,2012
+"East Feliciana Parish, Louisiana",3,22,037,2012
+"St. John the Baptist Parish, Louisiana",89,22,095,2012
+"Ouachita Parish, Louisiana",133,22,073,2012
+"Rapides Parish, Louisiana",106,22,079,2012
+"St. Landry Parish, Louisiana",27,22,097,2012
+"Tangipahoa Parish, Louisiana",205,22,105,2012
+"St. Mary Parish, Louisiana",27,22,101,2012
+"West Carroll Parish, Louisiana",25,22,123,2012
+"Union Parish, Louisiana",30,22,111,2012
+"Caldwell Parish, Louisiana",11,22,021,2012
+"East Carroll Parish, Louisiana",12,22,035,2012
+"Lafayette Parish, Louisiana",387,22,055,2012
+"Evangeline Parish, Louisiana",15,22,039,2012
+"Lincoln Parish, Louisiana",144,22,061,2012
+"St. Bernard Parish, Louisiana",62,22,087,2012
+"Webster Parish, Louisiana",166,22,119,2012
+"West Baton Rouge Parish, Louisiana",12,22,121,2012
+"Iberville Parish, Louisiana",13,22,047,2012
+"Red River Parish, Louisiana",15,22,081,2012
+"Morehouse Parish, Louisiana",20,22,067,2012
+"Orleans Parish, Louisiana",782,22,071,2012
+"Terrebonne Parish, Louisiana",111,22,109,2012
+"Calcasieu Parish, Louisiana",624,22,019,2012
+"Claiborne Parish, Louisiana",0,22,027,2012
+"Carroll County, Kentucky",17,21,041,2012
+"Avoyelles Parish, Louisiana",21,22,009,2012
+"Assumption Parish, Louisiana",97,22,007,2012
+"Pointe Coupee Parish, Louisiana",0,22,077,2012
+"Vermilion Parish, Louisiana",0,22,113,2012
+"Lafourche Parish, Louisiana",137,22,057,2012
+"Concordia Parish, Louisiana",9,22,029,2012
+"LaSalle Parish, Louisiana",8,22,059,2012
+"McNairy County, Tennessee",2,47,109,2012
+"Roane County, Tennessee",58,47,145,2012
+"Bradley County, Tennessee",711,47,011,2012
+"Hamblen County, Tennessee",132,47,063,2012
+"Union County, Tennessee",77,47,173,2012
+"Hardin County, Tennessee",221,47,071,2012
+"Dickson County, Tennessee",202,47,043,2012
+"Morgan County, Tennessee",23,47,129,2012
+"Monroe County, Tennessee",112,47,123,2012
+"Henry County, Tennessee",55,47,079,2012
+"Crockett County, Tennessee",0,47,033,2012
+"Lake County, Tennessee",10,47,095,2012
+"Knox County, Tennessee",908,47,093,2012
+"McMinn County, Tennessee",91,47,107,2012
+"Marshall County, Tennessee",63,47,117,2012
+"Rhea County, Tennessee",107,47,143,2012
+"Scott County, Tennessee",0,47,151,2012
+"Anderson County, Tennessee",160,47,001,2012
+"Fentress County, Tennessee",30,47,049,2012
+"Gibson County, Tennessee",113,47,053,2012
+"Hardeman County, Tennessee",28,47,069,2012
+"Loudon County, Tennessee",155,47,105,2012
+"Rutherford County, Tennessee",1689,47,149,2012
+"Smith County, Tennessee",77,47,159,2012
+"Wilson County, Tennessee",80,47,189,2012
+"Unicoi County, Tennessee",22,47,171,2012
+"Caswell County, North Carolina",161,37,033,2012
+"Davie County, North Carolina",114,37,059,2012
+"Davidson County, North Carolina",304,37,057,2012
+"Duplin County, North Carolina",321,37,061,2012
+"Durham County, North Carolina",1972,37,063,2012
+"Hertford County, North Carolina",14,37,091,2012
+"Lee County, North Carolina",806,37,105,2012
+"New Hanover County, North Carolina",1570,37,129,2012
+"Pender County, North Carolina",291,37,141,2012
+"Wayne County, North Carolina",660,37,191,2012
+"Scotland County, North Carolina",47,37,165,2012
+"Watauga County, North Carolina",59,37,189,2012
+"Halifax County, North Carolina",254,37,083,2012
+"Alamance County, North Carolina",1196,37,001,2012
+"Tyrrell County, North Carolina",0,37,177,2012
+"Stark County, North Dakota",0,38,089,2012
+"Wells County, North Dakota",0,38,103,2012
+"Burke County, North Dakota",6,38,013,2012
+"Mountrail County, North Dakota",24,38,061,2012
+"Williams County, North Dakota",28,38,105,2012
+"Billings County, North Dakota",0,38,007,2012
+"Kidder County, North Dakota",0,38,043,2012
+"Cavalier County, North Dakota",0,38,019,2012
+"Grant County, North Dakota",0,38,037,2012
+"McHenry County, North Dakota",12,38,049,2012
+"Steele County, North Dakota",0,38,091,2012
+"Benson County, North Dakota",0,38,005,2012
+"LaMoure County, North Dakota",0,38,045,2012
+"Morton County, North Dakota",78,38,059,2012
+"Dunn County, North Dakota",15,38,025,2012
+"McIntosh County, North Dakota",0,38,051,2012
+"Nelson County, North Dakota",0,38,063,2012
+"Jefferson Davis County, Mississippi",0,28,065,2012
+"Scott County, Mississippi",236,28,123,2012
+"Yazoo County, Mississippi",92,28,163,2012
+"Bolivar County, Mississippi",0,28,011,2012
+"Pike County, Mississippi",24,28,113,2012
+"Stone County, Mississippi",10,28,131,2012
+"Kemper County, Mississippi",0,28,069,2012
+"Sunflower County, Mississippi",22,28,133,2012
+"Adams County, Mississippi",50,28,001,2012
+"DeSoto County, Mississippi",218,28,033,2012
+"Delaware County, Pennsylvania",6229,42,045,2012
+"Somerset County, Pennsylvania",486,42,111,2012
+"Madison County, Missouri",0,29,123,2012
+"Vernon County, Missouri",4,29,217,2012
+"Nodaway County, Missouri",94,29,147,2012
+"Chariton County, Missouri",1,29,041,2012
+"Wayne County, Missouri",33,29,223,2012
+"Scott County, Missouri",29,29,201,2012
+"Barton County, Missouri",4,29,011,2012
+"Cedar County, Missouri",0,29,039,2012
+"Gasconade County, Missouri",0,29,073,2012
+"Macon County, Missouri",59,29,121,2012
+"Oregon County, Missouri",28,29,149,2012
+"Ste. Genevieve County, Missouri",0,29,186,2012
+"Douglas County, Missouri",0,29,067,2012
+"Henry County, Missouri",0,29,083,2012
+"Lawrence County, Missouri",85,29,109,2012
+"Pulaski County, Missouri",1366,29,169,2012
+"Texas County, Missouri",37,29,215,2012
+"Callaway County, Missouri",14,29,027,2012
+"Cooper County, Missouri",25,29,053,2012
+"Gentry County, Missouri",0,29,075,2012
+"Mississippi County, Missouri",20,29,133,2012
+"Ozark County, Missouri",0,29,153,2012
+"Bollinger County, Missouri",0,29,017,2012
+"Schoharie County, New York",460,36,095,2012
+"Fulton County, New York",961,36,035,2012
+"Rensselaer County, New York",3266,36,083,2012
+"Franklin County, New York",690,36,033,2012
+"Queens County, New York",116277,36,081,2012
+"Washington County, New York",514,36,115,2012
+"New York County, New York",113269,36,061,2012
+"Cayuga County, New York",1081,36,011,2012
+"Rockland County, New York",13504,36,087,2012
+"Niagara County, New York",2421,36,063,2012
+"Essex County, New York",340,36,031,2012
+"Nassau County, New York",30865,36,059,2012
+"Schuyler County, New York",132,36,097,2012
+"Chenango County, New York",520,36,017,2012
+"Jefferson County, New York",2505,36,045,2012
+"Suffolk County, New York",64221,36,103,2012
+"Wyoming County, New York",823,36,121,2012
+"Oswego County, New York",1164,36,075,2012
+"Wayne County, New York",1857,36,117,2012
+"Broome County, New York",3665,36,007,2012
+"Erie County, New York",28383,36,029,2012
+"Sullivan County, New York",4489,36,105,2012
+"Orange County, New York",29339,36,071,2012
+"Riley County, Kansas",1055,20,161,2012
+"Dickinson County, Kansas",33,20,041,2012
+"Garrard County, Kentucky",79,21,079,2012
+"Campbell County, Kentucky",195,21,037,2012
+"Grant County, Kentucky",73,21,081,2012
+"Logan County, Kentucky",13,21,141,2012
+"Mercer County, Kentucky",57,21,167,2012
+"Union County, Kentucky",139,21,225,2012
+"Calloway County, Kentucky",76,21,035,2012
+"Daviess County, Kentucky",131,21,059,2012
+"Henderson County, Kentucky",48,21,101,2012
+"Jackson County, Kentucky",12,21,109,2012
+"Meade County, Kentucky",248,21,163,2012
+"Oldham County, Kentucky",357,21,185,2012
+"Rockcastle County, Kentucky",0,21,203,2012
+"Allen County, Kentucky",65,21,003,2012
+"Brown County, Kansas",7,20,013,2012
+"Rolette County, North Dakota",23,38,079,2012
+"Walsh County, North Dakota",0,38,099,2012
+"Bottineau County, North Dakota",35,38,009,2012
+"Barnes County, North Dakota",0,38,003,2012
+"Grand Forks County, North Dakota",71,38,035,2012
+"McKenzie County, North Dakota",0,38,053,2012
+"McLean County, North Dakota",46,38,055,2012
+"Pierce County, North Dakota",3,38,069,2012
+"Renville County, North Dakota",0,38,075,2012
+"Bowman County, North Dakota",0,38,011,2012
+"Burleigh County, North Dakota",41,38,015,2012
+"Logan County, North Dakota",4,38,047,2012
+"Oliver County, North Dakota",0,38,065,2012
+"Stutsman County, North Dakota",0,38,093,2012
+"Ramsey County, North Dakota",66,38,071,2012
+"Foster County, North Dakota",0,38,031,2012
+"Griggs County, North Dakota",0,38,039,2012
+"Sheridan County, North Dakota",0,38,083,2012
+"Slope County, North Dakota",0,38,087,2012
+"Union County, Ohio",60,39,159,2012
+"Pike County, Ohio",27,39,131,2012
+"Paulding County, Ohio",74,39,125,2012
+"Hamilton County, Ohio",1962,39,061,2012
+"Franklin County, Ohio",6710,39,049,2012
+"Marion County, Ohio",376,39,101,2012
+"Tuscarawas County, Ohio",53,39,157,2012
+"Wayne County, Ohio",117,39,169,2012
+"Brown County, Ohio",0,39,015,2012
+"Butler County, Ohio",1823,39,017,2012
+"Harrison County, Ohio",4,39,067,2012
+"Knox County, Ohio",65,39,083,2012
+"Licking County, Ohio",406,39,089,2012
+"Richland County, Ohio",388,39,139,2012
+"Vinton County, Ohio",0,39,163,2012
+"Carroll County, Ohio",1,39,019,2012
+"Hancock County, Ohio",217,39,063,2012
+"Clermont County, Ohio",547,39,025,2012
+"Fairfield County, Ohio",94,39,045,2012
+"Defiance County, Ohio",221,39,039,2012
+"Highland County, Ohio",16,39,071,2012
+"Henry County, Ohio",114,39,069,2012
+"Jefferson County, Ohio",171,39,081,2012
+"Portage County, Ohio",730,39,133,2012
+"Putnam County, Ohio",42,39,137,2012
+"Belmont County, Ohio",98,39,013,2012
+"Clinton County, Ohio",254,39,027,2012
+"Fayette County, Ohio",40,39,047,2012
+"Perry County, Ohio",118,39,127,2012
+"Pickaway County, Ohio",77,39,129,2012
+"Madison County, Ohio",78,39,097,2012
+"Muskingum County, Ohio",132,39,119,2012
+"Sandusky County, Ohio",282,39,143,2012
+"Van Wert County, Ohio",25,39,161,2012
+"Washington County, Ohio",15,39,167,2012
+"Auglaize County, Ohio",77,39,011,2012
+"Darke County, Ohio",22,39,037,2012
+"Ottawa County, Ohio",267,39,123,2012
+"Hardin County, Ohio",147,39,065,2012
+"Jackson County, Ohio",81,39,079,2012
+"Huron County, Ohio",195,39,077,2012
+"Haywood County, North Carolina",224,37,087,2012
+"Forsyth County, North Carolina",2831,37,067,2012
+"Bladen County, North Carolina",116,37,017,2012
+"Carteret County, North Carolina",632,37,031,2012
+"Bertie County, North Carolina",7,37,015,2012
+"Martin County, North Carolina",33,37,117,2012
+"Perquimans County, North Carolina",133,37,143,2012
+"Rockingham County, North Carolina",399,37,157,2012
+"Camden County, North Carolina",104,37,029,2012
+"Gaston County, North Carolina",942,37,071,2012
+"Moore County, North Carolina",305,37,125,2012
+"Stanly County, North Carolina",329,37,167,2012
+"Yancey County, North Carolina",80,37,199,2012
+"Chatham County, North Carolina",262,37,037,2012
+"Johnston County, North Carolina",1244,37,101,2012
+"Person County, North Carolina",117,37,145,2012
+"Ashe County, North Carolina",36,37,009,2012
+"Lenoir County, North Carolina",135,37,107,2012
+"Onslow County, North Carolina",3962,37,133,2012
+"Rutherford County, North Carolina",64,37,161,2012
+"Yadkin County, North Carolina",239,37,197,2012
+"Burke County, North Carolina",51,37,023,2012
+"Lyman County, South Dakota",0,46,085,2012
+"Deuel County, South Dakota",0,46,039,2012
+"Bon Homme County, South Dakota",6,46,009,2012
+"Fall River County, South Dakota",0,46,047,2012
+"Jackson County, South Dakota",3,46,071,2012
+"Hyde County, South Dakota",0,46,069,2012
+"Hutchinson County, South Dakota",3,46,067,2012
+"Buffalo County, South Dakota",0,46,017,2012
+"Dewey County, South Dakota",54,46,041,2012
+"Harding County, South Dakota",0,46,063,2012
+"Roberts County, South Dakota",4,46,109,2012
+"Lincoln County, South Dakota",5,46,083,2012
+"Lawrence County, South Dakota",0,46,081,2012
+"Beadle County, South Dakota",101,46,005,2012
+"Davison County, South Dakota",0,46,035,2012
+"Jerauld County, South Dakota",0,46,073,2012
+"Haakon County, South Dakota",0,46,055,2012
+"Meade County, South Dakota",218,46,093,2012
+"Brown County, South Dakota",57,46,013,2012
+"McCook County, South Dakota",0,46,087,2012
+"Moody County, South Dakota",3,46,101,2012
+"Todd County, South Dakota",1,46,121,2012
+"Miner County, South Dakota",0,46,097,2012
+"Sumner County, Tennessee",813,47,165,2012
+"Trousdale County, Tennessee",0,47,169,2012
+"Clay County, Tennessee",34,47,027,2012
+"Shelby County, Tennessee",2493,47,157,2012
+"Henderson County, Tennessee",40,47,077,2012
+"Jefferson County, Tennessee",135,47,089,2012
+"Sequatchie County, Tennessee",93,47,153,2012
+"Carroll County, Tennessee",66,47,017,2012
+"Davidson County, Tennessee",2819,47,037,2012
+"Perry County, Tennessee",0,47,135,2012
+"Meigs County, Tennessee",0,47,121,2012
+"Haywood County, Tennessee",29,47,075,2012
+"Athens County, Ohio",247,39,009,2012
+"Adams County, Ohio",7,39,001,2012
+"Medina County, Ohio",1107,39,103,2012
+"Lucas County, Ohio",2517,39,095,2012
+"Noble County, Ohio",42,39,121,2012
+"Seneca County, Ohio",207,39,147,2012
+"Stark County, Ohio",957,39,151,2012
+"Coshocton County, Ohio",69,39,031,2012
+"Delaware County, Ohio",757,39,041,2012
+"Geauga County, Ohio",153,39,055,2012
+"Hocking County, Ohio",34,39,073,2012
+"Lake County, Ohio",1217,39,085,2012
+"Ross County, Ohio",263,39,141,2012
+"Cuyahoga County, Ohio",36665,39,035,2012
+"Holmes County, Ohio",70,39,075,2012
+"Miami County, Ohio",80,39,109,2012
+"Monroe County, Ohio",0,39,111,2012
+"Trumbull County, Ohio",861,39,155,2012
+"Wood County, Ohio",567,39,173,2012
+"Ashland County, Ohio",202,39,005,2012
+"Dewey County, Oklahoma",0,40,043,2012
+"Harper County, Oklahoma",0,40,059,2012
+"Logan County, Oklahoma",43,40,083,2012
+"Tulsa County, Oklahoma",1934,40,143,2012
+"Washington County, Oklahoma",167,40,147,2012
+"Harmon County, Oklahoma",0,40,057,2012
+"Haskell County, Oklahoma",2,40,061,2012
+"Okmulgee County, Oklahoma",104,40,111,2012
+"Osage County, Oklahoma",68,40,113,2012
+"Jefferson County, Oklahoma",6,40,067,2012
+"Garfield County, Oklahoma",306,40,047,2012
+"Garvin County, Oklahoma",10,40,049,2012
+"Pittsburg County, Oklahoma",58,40,121,2012
+"Pontotoc County, Oklahoma",4,40,123,2012
+"Roger Mills County, Oklahoma",0,40,129,2012
+"Woodward County, Oklahoma",10,40,153,2012
+"Cherokee County, Oklahoma",39,40,021,2012
+"Delaware County, Oklahoma",27,40,041,2012
+"Ellis County, Oklahoma",2,40,045,2012
+"Grady County, Oklahoma",67,40,051,2012
+"Payne County, Oklahoma",176,40,119,2012
+"Pottawatomie County, Oklahoma",110,40,125,2012
+"Creek County, Oklahoma",49,40,037,2012
+"Tillman County, Oklahoma",40,40,141,2012
+"Washita County, Oklahoma",0,40,149,2012
+"Cotton County, Oklahoma",5,40,033,2012
+"Kiowa County, Oklahoma",41,40,075,2012
+"Le Flore County, Oklahoma",108,40,079,2012
+"McCurtain County, Oklahoma",45,40,089,2012
+"Major County, Oklahoma",0,40,093,2012
+"Mayes County, Oklahoma",29,40,097,2012
+"Oklahoma County, Oklahoma",2160,40,109,2012
+"Custer County, Oklahoma",131,40,039,2012
+"Love County, Oklahoma",0,40,085,2012
+"Beckham County, Oklahoma",100,40,009,2012
+"Choctaw County, Oklahoma",2,40,023,2012
+"Jackson County, Oklahoma",246,40,065,2012
+"Lincoln County, Oklahoma",18,40,081,2012
+"Pawnee County, Oklahoma",8,40,117,2012
+"Seminole County, Oklahoma",62,40,133,2012
+"Montgomery County, Tennessee",3838,47,125,2012
+"Grundy County, Tennessee",0,47,061,2012
+"Cocke County, Tennessee",19,47,029,2012
+"DeKalb County, Tennessee",43,47,041,2012
+"Lewis County, Tennessee",0,47,101,2012
+"Obion County, Tennessee",0,47,131,2012
+"Tipton County, Tennessee",171,47,167,2012
+"Dyer County, Tennessee",313,47,045,2012
+"Hamilton County, Tennessee",1150,47,065,2012
+"Polk County, Tennessee",24,47,139,2012
+"White County, Tennessee",55,47,185,2012
+"Sullivan County, Tennessee",381,47,163,2012
+"Traill County, North Dakota",5,38,097,2012
+"Dickey County, North Dakota",0,38,021,2012
+"Ward County, North Dakota",243,38,101,2012
+"Pembina County, North Dakota",28,38,067,2012
+"Hettinger County, North Dakota",0,38,041,2012
+"Cass County, North Dakota",217,38,017,2012
+"Emmons County, North Dakota",0,38,029,2012
+"Richland County, North Dakota",18,38,077,2012
+"Adams County, North Dakota",1,38,001,2012
+"Eddy County, North Dakota",0,38,027,2012
+"Mercer County, North Dakota",0,38,057,2012
+"Ransom County, North Dakota",0,38,073,2012
+"Sioux County, North Dakota",0,38,085,2012
+"Golden Valley County, North Dakota",1,38,033,2012
+"Towner County, North Dakota",6,38,095,2012
+"Divide County, North Dakota",0,38,023,2012
+"Sargent County, North Dakota",0,38,081,2012
+"Meigs County, Ohio",10,39,105,2012
+"Champaign County, Ohio",63,39,021,2012
+"Greene County, Ohio",1171,39,057,2012
+"Lawrence County, Ohio",20,39,087,2012
+"Morgan County, Ohio",0,39,115,2012
+"Wyandot County, Ohio",18,39,175,2012
+"Erie County, Ohio",523,39,043,2012
+"Logan County, Ohio",56,39,091,2012
+"Summit County, Ohio",1741,39,153,2012
+"Shelby County, Ohio",56,39,149,2012
+"Williams County, Ohio",75,39,171,2012
+"Columbiana County, Ohio",262,39,029,2012
+"Fulton County, Ohio",134,39,051,2012
+"Gallia County, Ohio",2,39,053,2012
+"Mahoning County, Ohio",6462,39,099,2012
+"Scioto County, Ohio",90,39,145,2012
+"Morrow County, Ohio",0,39,117,2012
+"Preble County, Ohio",40,39,135,2012
+"Allen County, Ohio",321,39,003,2012
+"Crawford County, Ohio",94,39,033,2012
+"Guernsey County, Ohio",114,39,059,2012
+"Mercer County, Ohio",20,39,107,2012
+"Clark County, Ohio",271,39,023,2012
+"Lorain County, Ohio",16837,39,093,2012
+"Montgomery County, Ohio",2081,39,113,2012
+"Warren County, Ohio",553,39,165,2012
+"Ashtabula County, Ohio",2170,39,007,2012
+"Kay County, Oklahoma",40,40,071,2012
+"Craig County, Oklahoma",35,40,035,2012
+"Canadian County, Oklahoma",444,40,017,2012
+"Monroe County, Alabama",0,01,099,2012
+"Lawrence County, Alabama",6,01,079,2012
+"Lee County, Alabama",898,01,081,2012
+"Marion County, Alabama",7,01,093,2012
+"Pickens County, Alabama",52,01,107,2012
+"Sumter County, Alabama",8,01,119,2012
+"Jefferson County, Alabama",816,01,073,2012
+"Blaine County, Oklahoma",0,40,011,2012
+"Coal County, Oklahoma",0,40,029,2012
+"Grant County, Oklahoma",9,40,053,2012
+"Kingfisher County, Oklahoma",0,40,073,2012
+"McClain County, Oklahoma",74,40,087,2012
+"Marshall County, Oklahoma",0,40,095,2012
+"Noble County, Oklahoma",0,40,103,2012
+"Nowata County, Oklahoma",7,40,105,2012
+"Rogers County, Oklahoma",227,40,131,2012
+"Sequoyah County, Oklahoma",1,40,135,2012
+"Alfalfa County, Oklahoma",0,40,003,2012
+"Woods County, Oklahoma",4,40,151,2012
+"Cleveland County, Oklahoma",724,40,027,2012
+"Okfuskee County, Oklahoma",15,40,107,2012
+"Atoka County, Oklahoma",23,40,005,2012
+"Union County, Oregon",14,41,061,2012
+"Marion County, Oregon",650,41,047,2012
+"Douglas County, Oregon",226,41,019,2012
+"Jefferson County, Oregon",93,41,031,2012
+"Polk County, Oregon",430,41,053,2012
+"Deschutes County, Oregon",391,41,017,2012
+"Linn County, Oregon",147,41,043,2012
+"Yamhill County, Oregon",467,41,071,2012
+"Baker County, Oregon",0,41,001,2012
+"Klamath County, Oregon",207,41,035,2012
+"Lincoln County, Oregon",18,41,041,2012
+"Benton County, Oregon",189,41,003,2012
+"Crook County, Oregon",4,41,013,2012
+"Sherman County, Oregon",0,41,055,2012
+"Harney County, Oregon",0,41,025,2012
+"Malheur County, Oregon",19,41,045,2012
+"Wallowa County, Oregon",1,41,063,2012
+"Wheeler County, Oregon",2,41,069,2012
+"Morrow County, Oregon",0,41,049,2012
+"Coos County, Oregon",260,41,011,2012
+"Curry County, Oregon",30,41,015,2012
+"Gilliam County, Oregon",0,41,021,2012
+"Hood River County, Oregon",0,41,027,2012
+"Lake County, Oregon",0,41,037,2012
+"Multnomah County, Oregon",2338,41,051,2012
+"Pike County, Pennsylvania",3195,42,103,2012
+"Cimarron County, Oklahoma",2,40,025,2012
+"Snyder County, Pennsylvania",398,42,109,2012
+"Susquehanna County, Pennsylvania",219,42,115,2012
+"Crawford County, Pennsylvania",386,42,039,2012
+"Erie County, Pennsylvania",5534,42,049,2012
+"Fulton County, Pennsylvania",26,42,057,2012
+"Juniata County, Pennsylvania",226,42,067,2012
+"Schuylkill County, Pennsylvania",1714,42,107,2012
+"Wyoming County, Pennsylvania",202,42,131,2012
+"Adams County, Pennsylvania",958,42,001,2012
+"Armstrong County, Pennsylvania",234,42,005,2012
+"Clinton County, Pennsylvania",182,42,035,2012
+"Carbon County, Pennsylvania",1340,42,025,2012
+"Centre County, Pennsylvania",1472,42,027,2012
+"Northumberland County, Pennsylvania",1310,42,097,2012
+"Northampton County, Pennsylvania",18662,42,095,2012
+"Venango County, Pennsylvania",309,42,121,2012
+"Beaver County, Pennsylvania",537,42,007,2012
+"Latimer County, Oklahoma",8,40,077,2012
+"Texas County, Oklahoma",98,40,139,2012
+"Pushmataha County, Oklahoma",28,40,127,2012
+"Johnston County, Oklahoma",1,40,069,2012
+"Beaver County, Oklahoma",0,40,007,2012
+"Hughes County, Oklahoma",2,40,063,2012
+"Comanche County, Oklahoma",2898,40,031,2012
+"Adair County, Oklahoma",0,40,001,2012
+"Stephens County, Oklahoma",73,40,137,2012
+"Carter County, Oklahoma",59,40,019,2012
+"Greer County, Oklahoma",30,40,055,2012
+"McIntosh County, Oklahoma",0,40,091,2012
+"Murray County, Oklahoma",59,40,099,2012
+"Ottawa County, Oklahoma",49,40,115,2012
+"Wagoner County, Oklahoma",71,40,145,2012
+"Caddo County, Oklahoma",22,40,015,2012
+"Muskogee County, Oklahoma",169,40,101,2012
+"Bryan County, Oklahoma",44,40,013,2012
+"Jackson County, Oregon",608,41,029,2012
+"Grant County, Oregon",0,41,023,2012
+"Clackamas County, Oregon",545,41,005,2012
+"Tillamook County, Oregon",46,41,057,2012
+"Josephine County, Oregon",77,41,033,2012
+"Umatilla County, Oregon",161,41,059,2012
+"Columbia County, Oregon",24,41,009,2012
+"Wasco County, Oregon",2,41,065,2012
+"Lane County, Oregon",781,41,039,2012
+"Washington County, Oregon",1531,41,067,2012
+"Clatsop County, Oregon",139,41,007,2012
+"Cameron County, Pennsylvania",2,42,023,2012
+"Bucks County, Pennsylvania",10877,42,017,2012
+"Lehigh County, Pennsylvania",39154,42,077,2012
+"Clarion County, Pennsylvania",112,42,031,2012
+"Greene County, Pennsylvania",462,42,059,2012
+"Luzerne County, Pennsylvania",4466,42,079,2012
+"Columbia County, Pennsylvania",591,42,037,2012
+"Jefferson County, Pennsylvania",66,42,065,2012
+"Perry County, Pennsylvania",318,42,099,2012
+"Sullivan County, Pennsylvania",33,42,113,2012
+"Kent County, Rhode Island",1008,44,003,2012
+"Washington County, Rhode Island",989,44,009,2012
+"Newberry County, South Carolina",29,45,071,2012
+"Clarendon County, South Carolina",107,45,027,2012
+"Sumter County, South Carolina",449,45,085,2012
+"Barnwell County, South Carolina",97,45,011,2012
+"Darlington County, South Carolina",186,45,031,2012
+"York County, South Carolina",1755,45,091,2012
+"Cherokee County, South Carolina",118,45,021,2012
+"Jasper County, South Carolina",104,45,053,2012
+"Lee County, South Carolina",12,45,061,2012
+"Abbeville County, South Carolina",30,45,001,2012
+"Chesapeake city, Virginia",2315,51,550,2012
+"Albemarle County, Virginia",264,51,003,2012
+"Bedford County, Virginia",324,51,019,2012
+"Wise County, Virginia",55,51,195,2012
+"Portsmouth city, Virginia",696,51,740,2012
+"Alleghany County, Virginia",0,51,005,2012
+"Galax city, Virginia",0,51,640,2012
+"Choctaw County, Alabama",0,01,023,2012
+"Franklin County, Alabama",0,01,059,2012
+"Marengo County, Alabama",0,01,091,2012
+"Russell County, Alabama",509,01,113,2012
+"Cherokee County, Alabama",68,01,019,2012
+"Covington County, Alabama",10,01,039,2012
+"Crenshaw County, Alabama",3,01,041,2012
+"Dallas County, Alabama",0,01,047,2012
+"Lauderdale County, Alabama",62,01,077,2012
+"Lowndes County, Alabama",0,01,085,2012
+"Macon County, Alabama",49,01,087,2012
+"Limestone County, Alabama",147,01,083,2012
+"Shelby County, Alabama",356,01,117,2012
+"Winston County, Alabama",0,01,133,2012
+"Cullman County, Alabama",69,01,043,2012
+"Elmore County, Alabama",40,01,051,2012
+"Jackson County, Alabama",52,01,071,2012
+"Talladega County, Alabama",125,01,121,2012
+"Washington County, Alabama",0,01,129,2012
+"Clay County, Alabama",40,01,027,2012
+"Morgan County, Alabama",227,01,103,2012
+"Chilton County, Alabama",28,01,021,2012
+"Colbert County, Alabama",145,01,033,2012
+"Sherburne County, Minnesota",139,27,141,2012
+"Wadena County, Minnesota",1,27,159,2012
+"Benton County, Minnesota",12,27,009,2012
+"Carver County, Minnesota",89,27,019,2012
+"Freeborn County, Minnesota",67,27,047,2012
+"Itasca County, Minnesota",10,27,061,2012
+"McLeod County, Minnesota",12,27,085,2012
+"Pope County, Minnesota",56,27,121,2012
+"Ramsey County, Minnesota",1795,27,123,2012
+"Stevens County, Minnesota",30,27,149,2012
+"Swift County, Minnesota",34,27,151,2012
+"Winona County, Minnesota",34,27,169,2012
+"Cottonwood County, Minnesota",0,27,033,2012
+"Scott County, Minnesota",299,27,139,2012
+"Dodge County, Minnesota",45,27,039,2012
+"Wabasha County, Minnesota",67,27,157,2012
+"Pipestone County, Minnesota",64,27,117,2012
+"Crow Wing County, Minnesota",61,27,035,2012
+"Norman County, Minnesota",6,27,107,2012
+"Wright County, Minnesota",156,27,171,2012
+"Nicollet County, Minnesota",13,27,103,2012
+"Grant County, Minnesota",0,27,051,2012
+"Kittson County, Minnesota",8,27,069,2012
+"Mahnomen County, Minnesota",3,27,087,2012
+"Chisago County, Minnesota",25,27,025,2012
+"Yellow Medicine County, Minnesota",8,27,173,2012
+"Beltrami County, Minnesota",57,27,007,2012
+"Blue Earth County, Minnesota",68,27,013,2012
+"Lac qui Parle County, Minnesota",5,27,073,2012
+"Lake of the Woods County, Minnesota",0,27,077,2012
+"Waseca County, Minnesota",65,27,161,2012
+"St. Louis County, Minnesota",200,27,137,2012
+"Stearns County, Minnesota",239,27,145,2012
+"Lincoln County, Minnesota",3,27,081,2012
+"Lyon County, Minnesota",4,27,083,2012
+"Mille Lacs County, Minnesota",50,27,095,2012
+"Lackawanna County, Pennsylvania",5166,42,069,2012
+"McKean County, Pennsylvania",364,42,083,2012
+"Fayette County, Pennsylvania",544,42,051,2012
+"Montgomery County, Pennsylvania",9767,42,091,2012
+"Clearfield County, Pennsylvania",931,42,033,2012
+"Lebanon County, Pennsylvania",9037,42,075,2012
+"Lycoming County, Pennsylvania",884,42,081,2012
+"Montour County, Pennsylvania",114,42,093,2012
+"Warren County, Pennsylvania",152,42,123,2012
+"Butler County, Pennsylvania",247,42,019,2012
+"Elk County, Pennsylvania",31,42,047,2012
+"Lancaster County, Pennsylvania",30456,42,071,2012
+"Mercer County, Pennsylvania",463,42,085,2012
+"Potter County, Pennsylvania",23,42,105,2012
+"Tioga County, Pennsylvania",165,42,117,2012
+"Newport County, Rhode Island",1460,44,005,2012
+"Providence County, Rhode Island",29543,44,007,2012
+"Bristol County, Rhode Island",433,44,001,2012
+"Aiken County, South Carolina",931,45,003,2012
+"Allendale County, South Carolina",1,45,005,2012
+"Edgefield County, South Carolina",125,45,037,2012
+"Chester County, South Carolina",78,45,023,2012
+"Colleton County, South Carolina",79,45,029,2012
+"Marion County, South Carolina",129,45,067,2012
+"Lexington County, South Carolina",1212,45,063,2012
+"Oconee County, South Carolina",359,45,073,2012
+"Berkeley County, South Carolina",2022,45,015,2012
+"Charleston County, South Carolina",1961,45,019,2012
+"Georgetown County, South Carolina",171,45,043,2012
+"Marlboro County, South Carolina",191,45,069,2012
+"Anderson County, South Carolina",915,45,007,2012
+"Chesterfield County, South Carolina",88,45,025,2012
+"Greenwood County, South Carolina",447,45,047,2012
+"Horry County, South Carolina",1727,45,051,2012
+"Kershaw County, South Carolina",352,45,055,2012
+"Orangeburg County, South Carolina",459,45,075,2012
+"Spartanburg County, South Carolina",1043,45,083,2012
+"Staunton city, Virginia",142,51,790,2012
+"Fluvanna County, Virginia",231,51,065,2012
+"Amelia County, Virginia",24,51,007,2012
+"Radford city, Virginia",28,51,750,2012
+"Winchester city, Virginia",292,51,840,2012
+"Accomack County, Virginia",255,51,001,2012
+"Craig County, Virginia",0,51,045,2012
+"Floyd County, Virginia",102,51,063,2012
+"Giles County, Virginia",18,51,071,2012
+"Grayson County, Virginia",40,51,077,2012
+"Nottoway County, Virginia",228,51,135,2012
+"Rappahannock County, Virginia",28,51,157,2012
+"Charles City County, Virginia",14,51,036,2012
+"Culpeper County, Virginia",493,51,047,2012
+"Dinwiddie County, Virginia",159,51,053,2012
+"Greene County, Virginia",35,51,079,2012
+"Hanover County, Virginia",267,51,085,2012
+"Lunenburg County, Virginia",46,51,111,2012
+"Orange County, Virginia",230,51,137,2012
+"Emporia city, Virginia",54,51,595,2012
+"Northumberland County, Virginia",0,51,133,2012
+"Warren County, Virginia",131,51,187,2012
+"Fredericksburg city, Virginia",550,51,630,2012
+"Arlington County, Virginia",1867,51,013,2012
+"Hopewell city, Virginia",730,51,670,2012
+"Frederick County, Virginia",957,51,069,2012
+"York County, Virginia",921,51,199,2012
+"Nelson County, Virginia",30,51,125,2012
+"Pittsylvania County, Virginia",112,51,143,2012
+"Falls Church city, Virginia",33,51,610,2012
+"Poquoson city, Virginia",35,51,735,2012
+"Waynesboro city, Virginia",490,51,820,2012
+"Salem city, Virginia",28,51,775,2012
+"Norfolk city, Virginia",4355,51,710,2012
+"Fairfax County, Virginia",11154,51,059,2012
+"Kittitas County, Washington",75,53,037,2012
+"Benton County, Washington",837,53,005,2012
+"Ferry County, Washington",1,53,019,2012
+"Douglas County, Washington",50,53,017,2012
+"Pierce County, Washington",8047,53,053,2012
+"Franklin County, Washington",323,53,021,2012
+"Whatcom County, Washington",458,53,073,2012
+"Hampshire County, West Virginia",26,54,027,2012
+"Doddridge County, West Virginia",0,54,017,2012
+"Marion County, West Virginia",74,54,049,2012
+"Hancock County, West Virginia",80,54,029,2012
+"Nicholas County, West Virginia",0,54,067,2012
+"Tucker County, West Virginia",0,54,093,2012
+"Roane County, West Virginia",11,54,087,2012
+"Wood County, West Virginia",100,54,107,2012
+"Mason County, West Virginia",6,54,053,2012
+"Pleasants County, West Virginia",13,54,073,2012
+"Jefferson County, West Virginia",705,54,037,2012
+"Pendleton County, West Virginia",0,54,071,2012
+"Ohio County, West Virginia",58,54,069,2012
+"Calhoun County, West Virginia",0,54,013,2012
+"Raleigh County, West Virginia",187,54,081,2012
+"Barbour County, West Virginia",1,54,001,2012
+"Wayne County, West Virginia",12,54,099,2012
+"Winnebago County, Wisconsin",555,55,139,2012
+"Green County, Wisconsin",53,55,045,2012
+"Shawano County, Wisconsin",190,55,115,2012
+"Langlade County, Wisconsin",17,55,067,2012
+"Vernon County, Wisconsin",12,55,123,2012
+"Kewaunee County, Wisconsin",86,55,061,2012
+"Eau Claire County, Wisconsin",176,55,035,2012
+"Polk County, Wisconsin",46,55,095,2012
+"Washburn County, Wisconsin",23,55,129,2012
+"Walworth County, Wisconsin",328,55,127,2012
+"Juneau County, Wisconsin",112,55,057,2012
+"Washington County, Wisconsin",241,55,131,2012
+"Dane County, Wisconsin",3138,55,025,2012
+"Douglas County, Wisconsin",25,55,031,2012
+"Iowa County, Wisconsin",59,55,049,2012
+"Portage County, Wisconsin",99,55,097,2012
+"Taylor County, Wisconsin",17,55,119,2012
+"Adams County, Wisconsin",117,55,001,2012
+"Monroe County, Wisconsin",110,55,081,2012
+"Renville County, Minnesota",0,27,129,2012
+"Carlton County, Minnesota",40,27,017,2012
+"Cook County, Minnesota",15,27,031,2012
+"Allegany County, Maryland",199,24,001,2012
+"Anne Arundel County, Maryland",4448,24,003,2012
+"Calvert County, Maryland",714,24,009,2012
+"Montgomery County, Maryland",6756,24,031,2012
+"St. Mary's County, Maryland",925,24,037,2012
+"Dorchester County, Maryland",268,24,019,2012
+"Cecil County, Maryland",1304,24,015,2012
+"Barnstable County, Massachusetts",1429,25,001,2012
+"Berkshire County, Massachusetts",1894,25,003,2012
+"Plymouth County, Massachusetts",7959,25,023,2012
+"Norfolk County, Massachusetts",6643,25,021,2012
+"Nantucket County, Massachusetts",278,25,019,2012
+"Monroe County, Michigan",619,26,115,2012
+"Hillsdale County, Michigan",79,26,059,2012
+"Oceana County, Michigan",23,26,127,2012
+"Clare County, Michigan",49,26,035,2012
+"Keweenaw County, Michigan",0,26,083,2012
+"Ottawa County, Michigan",1040,26,139,2012
+"Alpena County, Michigan",0,26,007,2012
+"Wythe County, Virginia",28,51,197,2012
+"Colonial Heights city, Virginia",288,51,570,2012
+"Harrisonburg city, Virginia",1202,51,660,2012
+"Bland County, Virginia",0,51,021,2012
+"Botetourt County, Virginia",89,51,023,2012
+"Buckingham County, Virginia",54,51,029,2012
+"Bristol city, Virginia",0,51,520,2012
+"Covington city, Virginia",23,51,580,2012
+"Williamsburg city, Virginia",95,51,830,2012
+"Virginia Beach city, Virginia",9997,51,810,2012
+"Carroll County, Virginia",50,51,035,2012
+"Washington County, Virginia",69,51,191,2012
+"Westmoreland County, Virginia",62,51,193,2012
+"Page County, Virginia",70,51,139,2012
+"Pulaski County, Virginia",37,51,155,2012
+"Alexandria city, Virginia",1672,51,510,2012
+"Danville city, Virginia",38,51,590,2012
+"Hampton city, Virginia",2375,51,650,2012
+"Amherst County, Virginia",37,51,009,2012
+"Bath County, Virginia",0,51,017,2012
+"Buchanan County, Virginia",6,51,027,2012
+"Newport News city, Virginia",4131,51,700,2012
+"Stafford County, Virginia",2876,51,179,2012
+"Lynchburg city, Virginia",212,51,680,2012
+"Richmond city, Virginia",851,51,760,2012
+"Martinsville city, Virginia",1,51,690,2012
+"Essex County, Virginia",25,51,057,2012
+"Tazewell County, Virginia",143,51,185,2012
+"Buena Vista city, Virginia",20,51,530,2012
+"Manassas Park city, Virginia",258,51,685,2012
+"Petersburg city, Virginia",255,51,730,2012
+"Sussex County, Virginia",56,51,183,2012
+"Fairfax city, Virginia",337,51,600,2012
+"Manassas city, Virginia",262,51,683,2012
+"Roanoke city, Virginia",767,51,770,2012
+"Suffolk city, Virginia",732,51,800,2012
+"Charlotte County, Virginia",3,51,037,2012
+"Chesterfield County, Virginia",3272,51,041,2012
+"Greensville County, Virginia",29,51,081,2012
+"Okanogan County, Washington",58,53,047,2012
+"Thurston County, Washington",1647,53,067,2012
+"Columbia County, Washington",10,53,013,2012
+"Clark County, Washington",1064,53,011,2012
+"Asotin County, Washington",16,53,003,2012
+"Adams County, Washington",3,53,001,2012
+"Garfield County, Washington",0,53,023,2012
+"Mason County, Washington",92,53,045,2012
+"Skagit County, Washington",558,53,057,2012
+"Stevens County, Washington",40,53,065,2012
+"Spokane County, Washington",1431,53,063,2012
+"Lincoln County, Washington",20,53,043,2012
+"Chelan County, Washington",228,53,007,2012
+"Jefferson County, Washington",69,53,031,2012
+"Kitsap County, Washington",1111,53,035,2012
+"King County, Washington",5817,53,033,2012
+"Pacific County, Washington",21,53,049,2012
+"Pend Oreille County, Washington",9,53,051,2012
+"San Juan County, Washington",5,53,055,2012
+"Ashland County, Wisconsin",93,55,003,2012
+"Jefferson County, Wisconsin",102,55,055,2012
+"Campbell County, Wyoming",30,56,005,2012
+"Natrona County, Wyoming",62,56,025,2012
+"Niobrara County, Wyoming",2,56,027,2012
+"San Jacinto County, Texas",102,48,407,2012
+"Upshur County, Texas",0,48,459,2012
+"Waller County, Texas",92,48,473,2012
+"Wilson County, Texas",27,48,493,2012
+"Hockley County, Texas",19,48,219,2012
+"Midland County, Texas",204,48,329,2012
+"Llano County, Texas",0,48,299,2012
+"Fannin County, Texas",16,48,147,2012
+"Brazos County, Texas",668,48,041,2012
+"Gaines County, Texas",0,48,165,2012
+"Gray County, Texas",42,48,179,2012
+"Jack County, Texas",86,48,237,2012
+"Bosque County, Texas",6,48,035,2012
+"Bexar County, Texas",19202,48,029,2012
+"Baylor County, Texas",0,48,023,2012
+"Denton County, Texas",3956,48,121,2012
+"Galveston County, Texas",2029,48,167,2012
+"Roberts County, Texas",0,48,393,2012
+"Uvalde County, Texas",114,48,463,2012
+"Bowie County, Texas",235,48,037,2012
+"Kent County, Texas",0,48,263,2012
+"Somervell County, Texas",58,48,425,2012
+"Hardin County, Texas",22,48,199,2012
+"Leon County, Texas",13,48,289,2012
+"Newton County, Texas",0,48,351,2012
+"Reeves County, Texas",0,48,389,2012
+"Travis County, Texas",5520,48,453,2012
+"Collingsworth County, Texas",5,48,087,2012
+"Erath County, Texas",47,48,143,2012
+"Motley County, Texas",0,48,345,2012
+"Coleman County, Texas",60,48,083,2012
+"Medina County, Texas",136,48,325,2012
+"Henderson County, Texas",72,48,213,2012
+"Lamar County, Texas",120,48,277,2012
+"Kimble County, Texas",11,48,267,2012
+"Washington County, Texas",0,48,477,2012
+"Stephens County, Texas",11,48,429,2012
+"Andrews County, Texas",98,48,003,2012
+"Gonzales County, Texas",4,48,177,2012
+"Lynn County, Texas",0,48,305,2012
+"Zapata County, Texas",0,48,505,2012
+"Hood County, Texas",135,48,221,2012
+"King County, Texas",0,48,269,2012
+"Cherokee County, Texas",124,48,073,2012
+"Delta County, Texas",0,48,119,2012
+"Jones County, Texas",14,48,253,2012
+"Jim Wells County, Texas",116,48,249,2012
+"Dallam County, Texas",45,48,111,2012
+"Fort Bend County, Texas",2647,48,157,2012
+"Irion County, Texas",0,48,235,2012
+"Willacy County, Texas",2,48,489,2012
+"Dawson County, Texas",0,48,115,2012
+"Burleson County, Texas",14,48,051,2012
+"Nueces County, Texas",2048,48,355,2012
+"Rains County, Texas",18,48,379,2012
+"Shelby County, Missouri",0,29,205,2012
+"Webster County, Missouri",50,29,225,2012
+"Atchison County, Missouri",10,29,005,2012
+"Bates County, Missouri",3,29,013,2012
+"Benton County, Missouri",0,29,015,2012
+"Carter County, Missouri",0,29,035,2012
+"Dade County, Missouri",5,29,057,2012
+"Skamania County, Washington",0,53,059,2012
+"Whitman County, Washington",152,53,075,2012
+"Yakima County, Washington",429,53,077,2012
+"Clallam County, Washington",197,53,009,2012
+"Cowlitz County, Washington",153,53,015,2012
+"Klickitat County, Washington",5,53,039,2012
+"Lewis County, Washington",172,53,041,2012
+"Grays Harbor County, Washington",36,53,027,2012
+"Island County, Washington",366,53,029,2012
+"Wahkiakum County, Washington",25,53,069,2012
+"Walla Walla County, Washington",180,53,071,2012
+"Grant County, Washington",107,53,025,2012
+"Snohomish County, Washington",3022,53,061,2012
+"Grant County, West Virginia",34,54,023,2012
+"Summers County, West Virginia",48,54,089,2012
+"Brooke County, West Virginia",26,54,009,2012
+"Greenbrier County, West Virginia",83,54,025,2012
+"Hardy County, West Virginia",3,54,031,2012
+"Mineral County, West Virginia",14,54,057,2012
+"Mingo County, West Virginia",9,54,059,2012
+"Lewis County, West Virginia",6,54,041,2012
+"Marshall County, West Virginia",6,54,051,2012
+"Pocahontas County, West Virginia",0,54,075,2012
+"Tyler County, West Virginia",0,54,095,2012
+"Randolph County, West Virginia",34,54,083,2012
+"Taylor County, West Virginia",35,54,091,2012
+"Wirt County, West Virginia",0,54,105,2012
+"Clay County, West Virginia",0,54,015,2012
+"Gilmer County, West Virginia",39,54,021,2012
+"Monongalia County, West Virginia",313,54,061,2012
+"Monroe County, West Virginia",0,54,063,2012
+"Wetzel County, West Virginia",0,54,103,2012
+"Cabell County, West Virginia",93,54,011,2012
+"Kanawha County, West Virginia",340,54,039,2012
+"Logan County, West Virginia",7,54,045,2012
+"Preston County, West Virginia",91,54,077,2012
+"Harrison County, West Virginia",75,54,033,2012
+"Ritchie County, West Virginia",3,54,085,2012
+"Morgan County, West Virginia",26,54,065,2012
+"Lincoln County, West Virginia",0,54,043,2012
+"Braxton County, West Virginia",0,54,007,2012
+"Putnam County, West Virginia",4,54,079,2012
+"Boone County, West Virginia",0,54,005,2012
+"McDowell County, West Virginia",0,54,047,2012
+"Wyoming County, West Virginia",0,54,109,2012
+"Jackson County, West Virginia",65,54,035,2012
+"Mercer County, West Virginia",62,54,055,2012
+"Upshur County, West Virginia",0,54,097,2012
+"Webster County, West Virginia",0,54,101,2012
+"Berkeley County, West Virginia",881,54,003,2012
+"Fayette County, West Virginia",113,54,019,2012
+"Iron County, Wisconsin",0,55,051,2012
+"Clark County, Wisconsin",44,55,019,2012
+"St. Croix County, Wisconsin",65,55,109,2012
+"Oconto County, Wisconsin",23,55,083,2012
+"Lincoln County, Wisconsin",18,55,069,2012
+"Waupaca County, Wisconsin",16,55,135,2012
+"Real County, Texas",0,48,385,2012
+"Sterling County, Texas",0,48,431,2012
+"Carson County, Texas",0,48,065,2012
+"Freestone County, Texas",10,48,161,2012
+"Hardeman County, Texas",36,48,197,2012
+"Briscoe County, Texas",6,48,045,2012
+"Liberty County, Texas",39,48,291,2012
+"Loving County, Texas",0,48,301,2012
+"Robertson County, Texas",8,48,395,2012
+"Rusk County, Texas",126,48,401,2012
+"Trinity County, Texas",0,48,455,2012
+"Bandera County, Texas",67,48,019,2012
+"Childress County, Texas",0,48,075,2012
+"Comal County, Texas",335,48,091,2012
+"Houston County, Texas",6,48,225,2012
+"Navarro County, Texas",174,48,349,2012
+"Scurry County, Texas",24,48,415,2012
+"Stonewall County, Texas",0,48,433,2012
+"Bastrop County, Texas",95,48,021,2012
+"Bee County, Texas",72,48,025,2012
+"Crane County, Texas",0,48,103,2012
+"Rutland County, Vermont",353,50,021,2012
+"Orange County, Vermont",28,50,017,2012
+"Windsor County, Vermont",213,50,027,2012
+"Utah County, Utah",1127,49,049,2012
+"Duchesne County, Utah",39,49,013,2012
+"Uintah County, Utah",153,49,047,2012
+"Davis County, Utah",524,49,011,2012
+"Emery County, Utah",0,49,015,2012
+"Garfield County, Utah",0,49,017,2012
+"Isle of Wight County, Virginia",83,51,093,2012
+"Franklin city, Virginia",0,51,620,2012
+"Charlottesville city, Virginia",44,51,540,2012
+"Henrico County, Virginia",2228,51,087,2012
+"King William County, Virginia",43,51,101,2012
+"Louisa County, Virginia",145,51,109,2012
+"Middlesex County, Virginia",33,51,119,2012
+"Richmond County, Virginia",7,51,159,2012
+"Spotsylvania County, Virginia",1977,51,177,2012
+"Clarke County, Virginia",27,51,043,2012
+"King and Queen County, Virginia",31,51,097,2012
+"New Kent County, Virginia",56,51,127,2012
+"Dickenson County, Virginia",0,51,051,2012
+"Loudoun County, Virginia",2604,51,107,2012
+"Roanoke County, Virginia",316,51,161,2012
+"Highland County, Virginia",0,51,091,2012
+"Gloucester County, Virginia",165,51,073,2012
+"Powhatan County, Virginia",40,51,145,2012
+"Fauquier County, Virginia",247,51,061,2012
+"Coosa County, Alabama",0,01,037,2012
+"Dale County, Alabama",627,01,045,2012
+"Hale County, Alabama",0,01,065,2012
+"Etowah County, Alabama",85,01,055,2012
+"DeKalb County, Alabama",258,01,049,2012
+"Escambia County, Alabama",7,01,053,2012
+"Lamar County, Alabama",30,01,075,2012
+"Randolph County, Alabama",64,01,111,2012
+"Butler County, Alabama",0,01,013,2012
+"Mobile County, Alabama",800,01,097,2012
+"Perry County, Alabama",0,01,105,2012
+"Walker County, Alabama",155,01,127,2012
+"Cleburne County, Alabama",2,01,029,2012
+"Conecuh County, Alabama",4,01,035,2012
+"Greene County, Alabama",0,01,063,2012
+"Barbour County, Alabama",151,01,005,2012
+"Bibb County, Alabama",38,01,007,2012
+"Bullock County, Alabama",0,01,011,2012
+"Calhoun County, Alabama",294,01,015,2012
+"Clarke County, Alabama",23,01,025,2012
+"Fayette County, Alabama",74,01,057,2012
+"Marshall County, Alabama",84,01,095,2012
+"Blount County, Alabama",118,01,009,2012
+"Madison County, Alabama",2335,01,089,2012
+"Autauga County, Alabama",438,01,001,2012
+"Geneva County, Alabama",13,01,061,2012
+"Aleutians West Census Area, Alaska",27,02,016,2012
+"Bristol Bay Borough, Alaska",0,02,060,2012
+"Northwest Arctic Borough, Alaska",17,02,188,2012
+"Bethel Census Area, Alaska",0,02,050,2012
+"Wade Hampton Census Area, Alaska",5,02,270,2012
+"Sitka City and Borough, Alaska",31,02,220,2012
+"Ketchikan Gateway Borough, Alaska",113,02,130,2012
+"Matanuska-Susitna Borough, Alaska",295,02,170,2012
+"Dillingham Census Area, Alaska",4,02,070,2012

@@ -1,0 +1,3221 @@
+NAME,B03001_005E,state,county,year
+"McPherson County, Nebraska",0,31,117,2014
+"Cheyenne County, Nebraska",10,31,033,2014
+"Dawson County, Nebraska",110,31,047,2014
+"Garfield County, Nebraska",0,31,071,2014
+"Nance County, Nebraska",0,31,125,2014
+"Stanton County, Nebraska",0,31,167,2014
+"Valley County, Nebraska",0,31,175,2014
+"Churchill County, Nevada",90,32,001,2014
+"Douglas County, Nevada",447,32,005,2014
+"Pershing County, Nevada",38,32,027,2014
+"Eureka County, Nevada",1,32,011,2014
+"Humboldt County, Nevada",70,32,013,2014
+"White Pine County, Nevada",39,32,033,2014
+"Elko County, Nevada",170,32,007,2014
+"Nye County, Nevada",130,32,023,2014
+"Storey County, Nevada",0,32,029,2014
+"Clark County, Nevada",20403,32,003,2014
+"Lyon County, Nevada",301,32,019,2014
+"Cheshire County, New Hampshire",461,33,005,2014
+"Grafton County, New Hampshire",557,33,009,2014
+"Rockingham County, New Hampshire",1565,33,015,2014
+"Sullivan County, New Hampshire",110,33,019,2014
+"Hillsborough County, New Hampshire",6685,33,011,2014
+"Coos County, New Hampshire",84,33,007,2014
+"Carroll County, New Hampshire",105,33,003,2014
+"Mercer County, New Jersey",17591,34,021,2014
+"Cumberland County, New Jersey",24224,34,011,2014
+"Somerset County, New Jersey",8161,34,035,2014
+"Clay County, Nebraska",14,31,035,2014
+"Custer County, Nebraska",20,31,041,2014
+"Franklin County, Nebraska",1,31,061,2014
+"Hamilton County, Nebraska",0,31,081,2014
+"Jefferson County, Nebraska",7,31,095,2014
+"Keith County, Nebraska",5,31,101,2014
+"Loup County, Nebraska",0,31,115,2014
+"Perkins County, Nebraska",0,31,135,2014
+"Saunders County, Nebraska",8,31,155,2014
+"Scotts Bluff County, Nebraska",128,31,157,2014
+"Keya Paha County, Nebraska",0,31,103,2014
+"Kimball County, Nebraska",69,31,105,2014
+"Lincoln County, Nebraska",0,31,111,2014
+"Pierce County, Nebraska",1,31,139,2014
+"Sioux County, Nebraska",3,31,165,2014
+"Burt County, Nebraska",0,31,021,2014
+"Cass County, Nebraska",85,31,025,2014
+"Cuming County, Nebraska",24,31,039,2014
+"Dixon County, Nebraska",28,31,051,2014
+"Dundy County, Nebraska",0,31,057,2014
+"Grant County, Nebraska",0,31,075,2014
+"Greeley County, Nebraska",1,31,077,2014
+"Hall County, Nebraska",63,31,079,2014
+"Hayes County, Nebraska",0,31,085,2014
+"Otoe County, Nebraska",0,31,131,2014
+"Red Willow County, Nebraska",0,31,145,2014
+"Cedar County, Nebraska",5,31,027,2014
+"Dawes County, Nebraska",91,31,045,2014
+"Johnson County, Nebraska",18,31,097,2014
+"Hughes County, South Dakota",39,46,065,2014
+"Clay County, South Dakota",14,46,027,2014
+"Day County, South Dakota",0,46,037,2014
+"Douglas County, South Dakota",0,46,043,2014
+"McPherson County, South Dakota",0,46,089,2014
+"Sanborn County, South Dakota",0,46,111,2014
+"Sully County, South Dakota",0,46,119,2014
+"Hand County, South Dakota",2,46,059,2014
+"Lake County, South Dakota",9,46,079,2014
+"Yankton County, South Dakota",54,46,135,2014
+"Codington County, South Dakota",30,46,029,2014
+"Butte County, South Dakota",0,46,019,2014
+"Corson County, South Dakota",0,46,031,2014
+"Edmunds County, South Dakota",0,46,045,2014
+"Campbell County, South Dakota",0,46,021,2014
+"Bennett County, South Dakota",0,46,007,2014
+"Stanley County, South Dakota",0,46,117,2014
+"Jones County, South Dakota",0,46,075,2014
+"Potter County, South Dakota",0,46,107,2014
+"Turner County, South Dakota",18,46,125,2014
+"Charles Mix County, South Dakota",0,46,023,2014
+"Hanson County, South Dakota",0,46,061,2014
+"Marshall County, South Dakota",86,46,091,2014
+"Mellette County, South Dakota",0,46,095,2014
+"Perkins County, South Dakota",0,46,105,2014
+"Pennington County, South Dakota",409,46,103,2014
+"Union County, South Dakota",7,46,127,2014
+"Coffee County, Tennessee",78,47,031,2014
+"Fayette County, Tennessee",46,47,047,2014
+"Hancock County, Tennessee",0,47,067,2014
+"Hawkins County, Tennessee",113,47,073,2014
+"Johnson County, Tennessee",14,47,091,2014
+"Lincoln County, Tennessee",92,47,103,2014
+"Ocean County, New Jersey",16700,34,029,2014
+"Macon County, Tennessee",50,47,111,2014
+"Moore County, Tennessee",0,47,127,2014
+"Robertson County, Tennessee",331,47,147,2014
+"Franklin County, Tennessee",61,47,051,2014
+"Blount County, Tennessee",269,47,009,2014
+"Cheatham County, Tennessee",103,47,021,2014
+"Carter County, Tennessee",86,47,019,2014
+"Grainger County, Tennessee",76,47,057,2014
+"Giles County, Tennessee",62,47,055,2014
+"Lauderdale County, Tennessee",28,47,097,2014
+"Lawrence County, Tennessee",23,47,099,2014
+"Madison County, Tennessee",147,47,113,2014
+"Marion County, Tennessee",56,47,115,2014
+"Overton County, Tennessee",11,47,133,2014
+"Pickett County, Tennessee",0,47,137,2014
+"Wayne County, Tennessee",6,47,181,2014
+"Williamson County, Tennessee",868,47,187,2014
+"Bedford County, Tennessee",17,47,003,2014
+"Greene County, Tennessee",64,47,059,2014
+"Cumberland County, Tennessee",49,47,035,2014
+"Van Buren County, Tennessee",16,47,175,2014
+"Claiborne County, Tennessee",10,47,025,2014
+"Hickman County, Tennessee",62,47,081,2014
+"Humphreys County, Tennessee",71,47,085,2014
+"Decatur County, Tennessee",0,47,039,2014
+"Sevier County, Tennessee",250,47,155,2014
+"Stewart County, Tennessee",12,47,161,2014
+"Chester County, Tennessee",19,47,023,2014
+"Jackson County, Tennessee",0,47,087,2014
+"McNairy County, Tennessee",38,47,109,2014
+"Roane County, Tennessee",59,47,145,2014
+"Bradley County, Tennessee",666,47,011,2014
+"Hamblen County, Tennessee",190,47,063,2014
+"Union County, Tennessee",62,47,173,2014
+"Hardin County, Tennessee",4,47,071,2014
+"Dickson County, Tennessee",18,47,043,2014
+"Morgan County, Tennessee",29,47,129,2014
+"Monroe County, Tennessee",101,47,123,2014
+"Henry County, Tennessee",40,47,079,2014
+"Crockett County, Tennessee",0,47,033,2014
+"Lake County, Tennessee",9,47,095,2014
+"Knox County, Tennessee",1321,47,093,2014
+"McMinn County, Tennessee",109,47,107,2014
+"Marshall County, Tennessee",50,47,117,2014
+"Rhea County, Tennessee",108,47,143,2014
+"Scott County, Tennessee",0,47,151,2014
+"Anderson County, Tennessee",76,47,001,2014
+"Fentress County, Tennessee",12,47,049,2014
+"Gibson County, Tennessee",73,47,053,2014
+"Hardeman County, Tennessee",18,47,069,2014
+"Loudon County, Tennessee",29,47,105,2014
+"Rutherford County, Tennessee",2058,47,149,2014
+"Smith County, Tennessee",99,47,159,2014
+"Wilson County, Tennessee",200,47,189,2014
+"Unicoi County, Tennessee",14,47,171,2014
+"Lincoln County, New Mexico",54,35,027,2014
+"Chaves County, New Mexico",192,35,005,2014
+"Lea County, New Mexico",19,35,025,2014
+"Santa Fe County, New Mexico",578,35,049,2014
+"Putnam County, Tennessee",251,47,141,2014
+"Union County, New Mexico",0,35,059,2014
+"Sierra County, New Mexico",29,35,051,2014
+"Socorro County, New Mexico",4,35,053,2014
+"Roosevelt County, New Mexico",249,35,041,2014
+"Doña Ana County, New Mexico",1169,35,013,2014
+"Los Alamos County, New Mexico",0,35,028,2014
+"Rio Arriba County, New Mexico",24,35,039,2014
+"San Miguel County, New Mexico",9,35,047,2014
+"Valencia County, New Mexico",155,35,061,2014
+"Torrance County, New Mexico",15,35,057,2014
+"Bernalillo County, New Mexico",3209,35,001,2014
+"Otero County, New Mexico",708,35,035,2014
+"Cibola County, New Mexico",65,35,006,2014
+"De Baca County, New Mexico",0,35,011,2014
+"Guadalupe County, New Mexico",0,35,019,2014
+"Catron County, New Mexico",0,35,003,2014
+"Bronx County, New York",296633,36,005,2014
+"Onondaga County, New York",10409,36,067,2014
+"Clinton County, New York",733,36,019,2014
+"Seneca County, New York",690,36,099,2014
+"Putnam County, New York",4142,36,079,2014
+"Herkimer County, New York",471,36,043,2014
+"Ontario County, New York",2203,36,069,2014
+"Tioga County, New York",430,36,107,2014
+"Hamilton County, New York",18,36,041,2014
+"Chautauqua County, New York",6693,36,013,2014
+"Kings County, New York",176183,36,047,2014
+"Orleans County, New York",906,36,073,2014
+"Saratoga County, New York",2024,36,091,2014
+"Columbia County, New York",1315,36,021,2014
+"Lewis County, New York",124,36,049,2014
+"Westchester County, New York",49039,36,119,2014
+"Delaware County, New York",623,36,025,2014
+"Montgomery County, New York",4713,36,057,2014
+"Richmond County, New York",39959,36,085,2014
+"St. Lawrence County, New York",1034,36,089,2014
+"Tompkins County, New York",1683,36,109,2014
+"Warren County, New York",594,36,113,2014
+"Cortland County, New York",427,36,023,2014
+"Dutchess County, New York",11804,36,027,2014
+"Monroe County, New York",39938,36,055,2014
+"Oneida County, New York",6931,36,065,2014
+"Ulster County, New York",7640,36,111,2014
+"Chemung County, New York",1027,36,015,2014
+"Livingston County, New York",1208,36,051,2014
+"Otsego County, New York",757,36,077,2014
+"Greene County, New York",1350,36,039,2014
+"Albany County, New York",8591,36,001,2014
+"Allegany County, New York",267,36,003,2014
+"Cattaraugus County, New York",662,36,009,2014
+"Madison County, New York",547,36,053,2014
+"Schenectady County, New York",5931,36,093,2014
+"Genesee County, New York",695,36,037,2014
+"Yates County, New York",254,36,123,2014
+"Greene County, North Carolina",125,37,079,2014
+"Steuben County, New York",651,36,101,2014
+"Mitchell County, North Carolina",0,37,121,2014
+"Chowan County, North Carolina",14,37,041,2014
+"Alleghany County, North Carolina",154,37,005,2014
+"Caldwell County, North Carolina",177,37,027,2014
+"Catawba County, North Carolina",790,37,035,2014
+"Cleveland County, North Carolina",242,37,045,2014
+"Craven County, North Carolina",1189,37,049,2014
+"Edgecombe County, North Carolina",107,37,065,2014
+"Granville County, North Carolina",494,37,077,2014
+"Harnett County, North Carolina",2930,37,085,2014
+"Hoke County, North Carolina",1860,37,093,2014
+"Henderson County, North Carolina",291,37,089,2014
+"Hyde County, North Carolina",0,37,095,2014
+"Iredell County, North Carolina",1118,37,097,2014
+"Mecklenburg County, North Carolina",9934,37,119,2014
+"Northampton County, North Carolina",6,37,131,2014
+"Pitt County, North Carolina",1034,37,147,2014
+"Rowan County, North Carolina",625,37,159,2014
+"Vance County, North Carolina",393,37,181,2014
+"Cherokee County, North Carolina",104,37,039,2014
+"Currituck County, North Carolina",289,37,053,2014
+"Union County, North Carolina",1957,37,179,2014
+"Wilkes County, North Carolina",88,37,193,2014
+"Nash County, North Carolina",342,37,127,2014
+"Alexander County, North Carolina",52,37,003,2014
+"Camden County, New Jersey",43538,34,007,2014
+"Middlesex County, New Jersey",48037,34,023,2014
+"Salem County, New Jersey",1927,34,033,2014
+"Cape May County, New Jersey",2596,34,009,2014
+"Union County, New Jersey",27417,34,039,2014
+"Hudson County, New Jersey",58396,34,017,2014
+"Hunterdon County, New Jersey",2323,34,019,2014
+"Morris County, New Jersey",11594,34,027,2014
+"Hidalgo County, New Mexico",83,35,023,2014
+"McKinley County, New Mexico",223,35,031,2014
+"Sandoval County, New Mexico",550,35,043,2014
+"Grant County, New Mexico",28,35,017,2014
+"Curry County, New Mexico",240,35,009,2014
+"Eddy County, New Mexico",75,35,015,2014
+"Mora County, New Mexico",1,35,033,2014
+"San Juan County, New Mexico",43,35,045,2014
+"Shelby County, Missouri",0,29,205,2014
+"Webster County, Missouri",0,29,225,2014
+"Atchison County, Missouri",24,29,005,2014
+"Bates County, Missouri",0,29,013,2014
+"Benton County, Missouri",23,29,015,2014
+"Carter County, Missouri",0,29,035,2014
+"Dade County, Missouri",9,29,057,2014
+"Linn County, Missouri",7,29,115,2014
+"Howell County, Missouri",0,29,091,2014
+"Johnson County, Missouri",161,29,101,2014
+"Laclede County, Missouri",14,29,105,2014
+"Maries County, Missouri",0,29,125,2014
+"Phelps County, Missouri",104,29,161,2014
+"Platte County, Missouri",221,29,165,2014
+"St. Francois County, Missouri",24,29,187,2014
+"St. Louis city, Missouri",682,29,510,2014
+"Atlantic County, New Jersey",20583,34,001,2014
+"Andrew County, Missouri",14,29,003,2014
+"Butler County, Missouri",33,29,023,2014
+"Carroll County, Missouri",3,29,033,2014
+"Daviess County, Missouri",25,29,061,2014
+"Holt County, Missouri",1,29,087,2014
+"Marion County, Missouri",0,29,127,2014
+"Osage County, Missouri",0,29,151,2014
+"Ripley County, Missouri",3,29,181,2014
+"Warren County, Missouri",10,29,219,2014
+"Washington County, Missouri",1,29,221,2014
+"Christian County, Missouri",234,29,043,2014
+"DeKalb County, Missouri",0,29,063,2014
+"Harrison County, Missouri",2,29,081,2014
+"Lafayette County, Missouri",57,29,107,2014
+"Adair County, Missouri",16,29,001,2014
+"Scotland County, Missouri",0,29,199,2014
+"Sullivan County, Missouri",116,29,211,2014
+"Clark County, Missouri",0,29,045,2014
+"Jasper County, Missouri",214,29,097,2014
+"Lewis County, Missouri",0,29,111,2014
+"McDonald County, Missouri",0,29,119,2014
+"Perry County, Missouri",32,29,157,2014
+"Polk County, Missouri",11,29,167,2014
+"Ray County, Missouri",152,29,177,2014
+"Hill County, Montana",14,30,041,2014
+"Chouteau County, Montana",0,30,015,2014
+"Teton County, Montana",2,30,099,2014
+"Treasure County, Montana",0,30,103,2014
+"Blaine County, Montana",2,30,005,2014
+"Sweet Grass County, Montana",3,30,097,2014
+"Prairie County, Montana",0,30,079,2014
+"Glacier County, Montana",7,30,035,2014
+"Fallon County, Montana",0,30,025,2014
+"Golden Valley County, Montana",0,30,037,2014
+"Silver Bow County, Montana",18,30,093,2014
+"Stillwater County, Montana",31,30,095,2014
+"Jefferson County, Montana",0,30,043,2014
+"Granite County, Montana",0,30,039,2014
+"Wheatland County, Montana",0,30,107,2014
+"Madison County, Montana",11,30,057,2014
+"Sheridan County, Montana",0,30,091,2014
+"Carter County, Montana",0,30,011,2014
+"Big Horn County, Montana",60,30,003,2014
+"Lake County, Montana",7,30,047,2014
+"Lewis and Clark County, Montana",120,30,049,2014
+"Curry County, Oregon",0,41,015,2014
+"Gilliam County, Oregon",0,41,021,2014
+"Hood River County, Oregon",33,41,027,2014
+"Lake County, Oregon",5,41,037,2014
+"Multnomah County, Oregon",2000,41,051,2014
+"Pike County, Pennsylvania",2672,42,103,2014
+"Snyder County, Pennsylvania",463,42,109,2014
+"Susquehanna County, Pennsylvania",313,42,115,2014
+"Crawford County, Pennsylvania",461,42,039,2014
+"Erie County, Pennsylvania",6035,42,049,2014
+"Fulton County, Pennsylvania",43,42,057,2014
+"Juniata County, Pennsylvania",151,42,067,2014
+"Schuylkill County, Pennsylvania",2143,42,107,2014
+"Wyoming County, Pennsylvania",128,42,131,2014
+"Adams County, Pennsylvania",1021,42,001,2014
+"Armstrong County, Pennsylvania",218,42,005,2014
+"Clinton County, Pennsylvania",211,42,035,2014
+"Carbon County, Pennsylvania",1343,42,025,2014
+"Centre County, Pennsylvania",1658,42,027,2014
+"Northumberland County, Pennsylvania",1367,42,097,2014
+"Northampton County, Pennsylvania",19562,42,095,2014
+"Venango County, Pennsylvania",250,42,121,2014
+"Lincoln County, Montana",0,30,053,2014
+"Park County, Montana",12,30,067,2014
+"Beaver County, Pennsylvania",469,42,007,2014
+"Lackawanna County, Pennsylvania",5737,42,069,2014
+"McKean County, Pennsylvania",340,42,083,2014
+"Fayette County, Pennsylvania",682,42,051,2014
+"Montgomery County, Pennsylvania",11171,42,091,2014
+"Clearfield County, Pennsylvania",887,42,033,2014
+"Lebanon County, Pennsylvania",9991,42,075,2014
+"Lycoming County, Pennsylvania",771,42,081,2014
+"Montour County, Pennsylvania",167,42,093,2014
+"Warren County, Pennsylvania",162,42,123,2014
+"Butler County, Pennsylvania",402,42,019,2014
+"Elk County, Pennsylvania",13,42,047,2014
+"Lancaster County, Pennsylvania",32835,42,071,2014
+"Mercer County, Pennsylvania",562,42,085,2014
+"Potter County, Pennsylvania",56,42,105,2014
+"Allendale County, South Carolina",1,45,005,2014
+"Providence County, Rhode Island",32310,44,007,2014
+"Bristol County, Rhode Island",337,44,001,2014
+"Aiken County, South Carolina",1116,45,003,2014
+"Edgefield County, South Carolina",179,45,037,2014
+"Chester County, South Carolina",23,45,023,2014
+"Colleton County, South Carolina",121,45,029,2014
+"Marion County, South Carolina",105,45,067,2014
+"Lexington County, South Carolina",1100,45,063,2014
+"Oconee County, South Carolina",173,45,073,2014
+"Berkeley County, South Carolina",1637,45,015,2014
+"Charleston County, South Carolina",2635,45,019,2014
+"Georgetown County, South Carolina",277,45,043,2014
+"Marlboro County, South Carolina",185,45,069,2014
+"Anderson County, South Carolina",1315,45,007,2014
+"Chesterfield County, South Carolina",108,45,025,2014
+"Greenwood County, South Carolina",445,45,047,2014
+"Horry County, South Carolina",1704,45,051,2014
+"Kershaw County, South Carolina",615,45,055,2014
+"Orangeburg County, South Carolina",628,45,075,2014
+"Spartanburg County, South Carolina",1670,45,083,2014
+"Bamberg County, South Carolina",5,45,009,2014
+"Beaufort County, South Carolina",1669,45,013,2014
+"Calhoun County, South Carolina",49,45,017,2014
+"Dillon County, South Carolina",20,45,033,2014
+"Saluda County, South Carolina",106,45,081,2014
+"Richland County, South Carolina",4797,45,079,2014
+"Fairfield County, South Carolina",0,45,039,2014
+"Hampton County, South Carolina",74,45,049,2014
+"Greenville County, South Carolina",4406,45,045,2014
+"Lancaster County, South Carolina",792,45,057,2014
+"Dorchester County, South Carolina",1450,45,035,2014
+"Florence County, South Carolina",439,45,041,2014
+"Laurens County, South Carolina",201,45,059,2014
+"McCormick County, South Carolina",30,45,065,2014
+"Pickens County, South Carolina",303,45,077,2014
+"Union County, South Carolina",34,45,087,2014
+"Williamsburg County, South Carolina",182,45,089,2014
+"Aurora County, South Dakota",2,46,003,2014
+"Grant County, South Dakota",0,46,051,2014
+"Tripp County, South Dakota",0,46,123,2014
+"Shannon County, South Dakota",32,46,113,2014
+"Ziebach County, South Dakota",18,46,137,2014
+"Spink County, South Dakota",3,46,115,2014
+"Brule County, South Dakota",0,46,015,2014
+"Tioga County, Pennsylvania",161,42,117,2014
+"Newport County, Rhode Island",1520,44,005,2014
+"Brookings County, South Dakota",32,46,011,2014
+"Gregory County, South Dakota",14,46,053,2014
+"Hamlin County, South Dakota",0,46,057,2014
+"Minnehaha County, South Dakota",261,46,099,2014
+"Custer County, South Dakota",0,46,033,2014
+"Clark County, South Dakota",1,46,025,2014
+"Faulk County, South Dakota",12,46,049,2014
+"Kingsbury County, South Dakota",7,46,077,2014
+"Walworth County, South Dakota",0,46,129,2014
+"Jasper County, Mississippi",0,28,061,2014
+"Benton County, Mississippi",0,28,009,2014
+"Franklin County, Mississippi",8,28,037,2014
+"Coahoma County, Mississippi",70,28,027,2014
+"Jones County, Mississippi",42,28,067,2014
+"Walthall County, Mississippi",147,28,147,2014
+"Monroe County, Mississippi",9,28,095,2014
+"Pontotoc County, Mississippi",0,28,115,2014
+"Holmes County, Mississippi",6,28,051,2014
+"Amite County, Mississippi",3,28,005,2014
+"Madison County, Mississippi",85,28,089,2014
+"Calhoun County, Mississippi",13,28,013,2014
+"Marion County, Mississippi",170,28,091,2014
+"Tishomingo County, Mississippi",0,28,141,2014
+"Wayne County, Mississippi",0,28,153,2014
+"Greene County, Mississippi",28,28,041,2014
+"Marshall County, Mississippi",191,28,093,2014
+"Quitman County, Mississippi",0,28,119,2014
+"Pearl River County, Mississippi",138,28,109,2014
+"Leake County, Mississippi",0,28,079,2014
+"Neshoba County, Mississippi",35,28,099,2014
+"Rankin County, Mississippi",240,28,121,2014
+"Washington County, Mississippi",129,28,151,2014
+"Lawrence County, Mississippi",0,28,077,2014
+"Perry County, Mississippi",0,28,111,2014
+"Chickasaw County, Mississippi",0,28,017,2014
+"Carroll County, Mississippi",0,28,015,2014
+"George County, Mississippi",0,28,039,2014
+"Grenada County, Mississippi",0,28,043,2014
+"Jefferson County, Mississippi",0,28,063,2014
+"Newton County, Mississippi",75,28,101,2014
+"Prentiss County, Mississippi",0,28,117,2014
+"Sharkey County, Mississippi",0,28,125,2014
+"Choctaw County, Mississippi",0,28,019,2014
+"Hancock County, Mississippi",148,28,045,2014
+"Itawamba County, Mississippi",0,28,057,2014
+"Issaquena County, Mississippi",0,28,055,2014
+"Jackson County, Mississippi",1806,28,059,2014
+"Leflore County, Mississippi",159,28,083,2014
+"Tunica County, Mississippi",0,28,143,2014
+"Claiborne County, Mississippi",10,28,021,2014
+"Harrison County, Mississippi",1757,28,047,2014
+"Lauderdale County, Mississippi",187,28,075,2014
+"Lincoln County, Mississippi",34,28,085,2014
+"Simpson County, Mississippi",19,28,127,2014
+"Winston County, Mississippi",10,28,159,2014
+"Attala County, Mississippi",154,28,007,2014
+"Lamar County, Mississippi",32,28,073,2014
+"Lee County, Mississippi",255,28,081,2014
+"Tallahatchie County, Mississippi",18,28,135,2014
+"Smith County, Mississippi",0,28,129,2014
+"Warren County, Mississippi",134,28,149,2014
+"Clarke County, Mississippi",0,28,023,2014
+"Montgomery County, Mississippi",0,28,097,2014
+"Oktibbeha County, Mississippi",146,28,105,2014
+"Dauphin County, Pennsylvania",11460,42,043,2014
+"Clay County, Mississippi",25,28,025,2014
+"Covington County, Mississippi",0,28,031,2014
+"Humphreys County, Mississippi",9,28,053,2014
+"Franklin County, Pennsylvania",1145,42,055,2014
+"Union County, Pennsylvania",892,42,119,2014
+"Wayne County, Pennsylvania",860,42,127,2014
+"Bedford County, Pennsylvania",142,42,009,2014
+"Monroe County, Pennsylvania",12312,42,089,2014
+"Huntingdon County, Pennsylvania",415,42,061,2014
+"Washington County, Pennsylvania",537,42,125,2014
+"Philadelphia County, Pennsylvania",133044,42,101,2014
+"York County, Pennsylvania",14949,42,133,2014
+"Indiana County, Pennsylvania",471,42,063,2014
+"Cumberland County, Pennsylvania",3191,42,041,2014
+"Allegheny County, Pennsylvania",5687,42,003,2014
+"Westmoreland County, Pennsylvania",1229,42,129,2014
+"Forest County, Pennsylvania",277,42,053,2014
+"Blair County, Pennsylvania",498,42,013,2014
+"Lawrence County, Pennsylvania",357,42,073,2014
+"Bradford County, Pennsylvania",214,42,015,2014
+"Cambria County, Pennsylvania",585,42,021,2014
+"Chester County, Pennsylvania",7424,42,029,2014
+"Berks County, Pennsylvania",39627,42,011,2014
+"Mifflin County, Pennsylvania",328,42,087,2014
+"Mercer County, Missouri",5,29,129,2014
+"Wright County, Missouri",3,29,229,2014
+"Clay County, Missouri",947,29,047,2014
+"Dent County, Missouri",0,29,065,2014
+"Saline County, Missouri",2,29,195,2014
+"Worth County, Missouri",0,29,227,2014
+"Grundy County, Missouri",44,29,079,2014
+"Morgan County, Missouri",7,29,141,2014
+"Reynolds County, Missouri",3,29,179,2014
+"St. Louis County, Missouri",2035,29,189,2014
+"Stone County, Missouri",38,29,209,2014
+"Barry County, Missouri",34,29,009,2014
+"Boone County, Missouri",374,29,019,2014
+"Cole County, Missouri",209,29,051,2014
+"Crawford County, Missouri",6,29,055,2014
+"Iron County, Missouri",0,29,093,2014
+"Livingston County, Missouri",7,29,117,2014
+"Webster County, Mississippi",0,28,155,2014
+"Alcorn County, Mississippi",180,28,003,2014
+"Moniteau County, Missouri",26,29,135,2014
+"Pemiscot County, Missouri",4,29,155,2014
+"Pettis County, Missouri",54,29,159,2014
+"Shannon County, Missouri",13,29,203,2014
+"Randolph County, Missouri",69,29,175,2014
+"Dunklin County, Missouri",47,29,069,2014
+"Franklin County, Missouri",147,29,071,2014
+"Howard County, Missouri",1,29,089,2014
+"Jackson County, Missouri",2953,29,095,2014
+"Miller County, Missouri",0,29,131,2014
+"Putnam County, Missouri",0,29,171,2014
+"Taney County, Missouri",59,29,213,2014
+"Buchanan County, Missouri",324,29,021,2014
+"Caldwell County, Missouri",0,29,025,2014
+"Monroe County, Missouri",39,29,137,2014
+"Dallas County, Missouri",1,29,059,2014
+"Hickory County, Missouri",3,29,085,2014
+"Lincoln County, Missouri",68,29,113,2014
+"Newton County, Missouri",76,29,145,2014
+"Pike County, Missouri",3,29,163,2014
+"St. Charles County, Missouri",767,29,183,2014
+"Cape Girardeau County, Missouri",151,29,031,2014
+"Pondera County, Montana",1,30,073,2014
+"Yellowstone County, Montana",384,30,111,2014
+"Missoula County, Montana",362,30,063,2014
+"Ravalli County, Montana",32,30,081,2014
+"Valley County, Montana",5,30,105,2014
+"Cascade County, Montana",238,30,013,2014
+"Fergus County, Montana",0,30,027,2014
+"Garfield County, Montana",1,30,033,2014
+"Mineral County, Montana",1,30,061,2014
+"Petroleum County, Montana",1,30,069,2014
+"Powell County, Montana",0,30,077,2014
+"Sanders County, Montana",0,30,089,2014
+"Wibaux County, Montana",0,30,109,2014
+"Gallatin County, Montana",120,30,031,2014
+"Meagher County, Montana",0,30,059,2014
+"Carbon County, Montana",0,30,009,2014
+"Beaverhead County, Montana",3,30,001,2014
+"Flathead County, Montana",176,30,029,2014
+"Musselshell County, Montana",0,30,065,2014
+"Harlan County, Nebraska",0,31,083,2014
+"York County, Nebraska",0,31,185,2014
+"Buffalo County, Nebraska",52,31,019,2014
+"Colfax County, Nebraska",106,31,037,2014
+"Hitchcock County, Nebraska",0,31,087,2014
+"Platte County, Nebraska",13,31,141,2014
+"Polk County, Nebraska",0,31,143,2014
+"Box Butte County, Nebraska",0,31,013,2014
+"Brown County, Nebraska",0,31,017,2014
+"Sheridan County, Nebraska",12,31,161,2014
+"Lancaster County, Nebraska",657,31,109,2014
+"Nuckolls County, Nebraska",0,31,129,2014
+"Banner County, Nebraska",0,31,007,2014
+"Frontier County, Nebraska",0,31,063,2014
+"Douglas County, Nebraska",1412,31,055,2014
+"Richardson County, Nebraska",2,31,147,2014
+"Cass County, Missouri",241,29,037,2014
+"Clinton County, Missouri",39,29,049,2014
+"Holt County, Nebraska",0,31,089,2014
+"Furnas County, Nebraska",0,31,065,2014
+"Saline County, Nebraska",6,31,151,2014
+"Thurston County, Nebraska",5,31,173,2014
+"Washington County, Nebraska",68,31,177,2014
+"Cherry County, Nebraska",0,31,031,2014
+"Dodge County, Nebraska",1,31,053,2014
+"Garden County, Nebraska",0,31,069,2014
+"Morrill County, Nebraska",0,31,123,2014
+"Nemaha County, Nebraska",0,31,127,2014
+"Thomas County, Nebraska",0,31,171,2014
+"Dakota County, Nebraska",79,31,043,2014
+"Antelope County, Nebraska",10,31,003,2014
+"Chase County, Nebraska",0,31,029,2014
+"Pendleton County, Kentucky",33,21,191,2014
+"Robertson County, Kentucky",0,21,201,2014
+"Russell County, Kentucky",3,21,207,2014
+"Spencer County, Kentucky",17,21,215,2014
+"Washington County, Kentucky",1,21,229,2014
+"Bath County, Kentucky",0,21,011,2014
+"Green County, Kentucky",0,21,087,2014
+"Ballard County, Kentucky",8,21,007,2014
+"Barren County, Kentucky",51,21,009,2014
+"Boyle County, Kentucky",3,21,021,2014
+"Hancock County, Kentucky",4,21,091,2014
+"Harlan County, Kentucky",4,21,095,2014
+"Martin County, Kentucky",102,21,159,2014
+"Hardin County, Kentucky",1889,21,093,2014
+"Lincoln County, Kentucky",47,21,137,2014
+"McLean County, Kentucky",75,21,149,2014
+"Monroe County, Kentucky",0,21,171,2014
+"Ohio County, Kentucky",82,21,183,2014
+"Powell County, Kentucky",34,21,197,2014
+"Webster County, Kentucky",15,21,233,2014
+"Caldwell County, Kentucky",0,21,033,2014
+"Casey County, Kentucky",8,21,045,2014
+"Christian County, Kentucky",661,21,047,2014
+"Grayson County, Kentucky",12,21,085,2014
+"Henry County, Kentucky",28,21,103,2014
+"Hopkins County, Kentucky",69,21,107,2014
+"Laurel County, Kentucky",79,21,125,2014
+"Marshall County, Kentucky",118,21,157,2014
+"Montgomery County, Kentucky",0,21,173,2014
+"Nicholas County, Kentucky",0,21,181,2014
+"Owen County, Kentucky",82,21,187,2014
+"Scott County, Kentucky",78,21,209,2014
+"Warren County, Kentucky",238,21,227,2014
+"Bourbon County, Kentucky",0,21,017,2014
+"Boyd County, Kentucky",142,21,019,2014
+"Crittenden County, Kentucky",0,21,055,2014
+"Fayette County, Kentucky",1232,21,067,2014
+"Johnson County, Kentucky",71,21,115,2014
+"Menifee County, Kentucky",0,21,165,2014
+"Morgan County, Kentucky",10,21,175,2014
+"Perry County, Kentucky",2,21,193,2014
+"Pulaski County, Kentucky",54,21,199,2014
+"Clay County, Kentucky",46,21,051,2014
+"Adair County, Kentucky",0,21,001,2014
+"Breathitt County, Kentucky",0,21,025,2014
+"Graves County, Kentucky",301,21,083,2014
+"Hart County, Kentucky",92,21,099,2014
+"Butler County, Kentucky",0,21,031,2014
+"Trimble County, Kentucky",231,21,223,2014
+"Harrison County, Kentucky",0,21,097,2014
+"Hickman County, Kentucky",0,21,105,2014
+"Lyon County, Kentucky",7,21,143,2014
+"Wayne County, Kentucky",28,21,231,2014
+"Lewis County, Kentucky",0,21,135,2014
+"Trigg County, Kentucky",57,21,221,2014
+"Woodford County, Kentucky",278,21,239,2014
+"Leslie County, Kentucky",0,21,131,2014
+"Jessamine County, Kentucky",251,21,113,2014
+"Lawrence County, Kentucky",0,21,127,2014
+"Livingston County, Kentucky",20,21,139,2014
+"McCracken County, Kentucky",254,21,145,2014
+"Shelby County, Kentucky",140,21,211,2014
+"Whitley County, Kentucky",30,21,235,2014
+"Marion County, Kansas",31,20,115,2014
+"Brown County, Kansas",6,20,013,2014
+"Riley County, Kansas",1216,20,161,2014
+"Dickinson County, Kansas",58,20,041,2014
+"Garrard County, Kentucky",64,21,079,2014
+"Campbell County, Kentucky",123,21,037,2014
+"Grant County, Kentucky",70,21,081,2014
+"Logan County, Kentucky",60,21,141,2014
+"Mercer County, Kentucky",53,21,167,2014
+"Union County, Kentucky",170,21,225,2014
+"Calloway County, Kentucky",38,21,035,2014
+"Daviess County, Kentucky",266,21,059,2014
+"Henderson County, Kentucky",42,21,101,2014
+"Jackson County, Kentucky",24,21,109,2014
+"Meade County, Kentucky",291,21,163,2014
+"Oldham County, Kentucky",407,21,185,2014
+"Anderson County, Kentucky",0,21,005,2014
+"Breckinridge County, Kentucky",9,21,027,2014
+"Floyd County, Kentucky",39,21,071,2014
+"Fulton County, Kentucky",3,21,075,2014
+"Rockcastle County, Kentucky",0,21,203,2014
+"Allen County, Kentucky",13,21,003,2014
+"Bullitt County, Kentucky",187,21,029,2014
+"Knott County, Kentucky",5,21,119,2014
+"Muhlenberg County, Kentucky",129,21,177,2014
+"Wolfe County, Kentucky",0,21,237,2014
+"Bell County, Kentucky",51,21,013,2014
+"Cumberland County, Kentucky",0,21,057,2014
+"Lee County, Kentucky",0,21,129,2014
+"Edmonson County, Kentucky",18,21,061,2014
+"Bracken County, Kentucky",0,21,023,2014
+"Nelson County, Kentucky",23,21,179,2014
+"Marion County, Kentucky",15,21,155,2014
+"Boone County, Kentucky",1083,21,015,2014
+"Knox County, Kentucky",2,21,121,2014
+"Letcher County, Kentucky",0,21,133,2014
+"Pike County, Kentucky",29,21,195,2014
+"Gallatin County, Kentucky",0,21,077,2014
+"Vernon Parish, Louisiana",1181,22,115,2014
+"Sabine Parish, Louisiana",32,22,085,2014
+"Jefferson Davis Parish, Louisiana",41,22,053,2014
+"West Feliciana Parish, Louisiana",28,22,125,2014
+"Bienville Parish, Louisiana",14,22,013,2014
+"Cameron Parish, Louisiana",0,22,023,2014
+"Plaquemines Parish, Louisiana",214,22,075,2014
+"Washington Parish, Louisiana",54,22,117,2014
+"Acadia Parish, Louisiana",4,22,001,2014
+"St. Tammany Parish, Louisiana",926,22,103,2014
+"Caddo Parish, Louisiana",309,22,017,2014
+"Ascension Parish, Louisiana",193,22,005,2014
+"Iberia Parish, Louisiana",121,22,045,2014
+"St. Helena Parish, Louisiana",0,22,091,2014
+"De Soto Parish, Louisiana",43,22,031,2014
+"Livingston Parish, Louisiana",612,22,063,2014
+"Natchitoches Parish, Louisiana",16,22,069,2014
+"Catahoula Parish, Louisiana",0,22,025,2014
+"Franklin Parish, Louisiana",0,22,041,2014
+"Jackson Parish, Louisiana",0,22,049,2014
+"St. Charles Parish, Louisiana",197,22,089,2014
+"Tensas Parish, Louisiana",11,22,107,2014
+"Oxford County, Maine",325,23,017,2014
+"Allegany County, Maryland",182,24,001,2014
+"Anne Arundel County, Maryland",5343,24,003,2014
+"Calvert County, Maryland",890,24,009,2014
+"Montgomery County, Maryland",7287,24,031,2014
+"St. Mary's County, Maryland",983,24,037,2014
+"Dorchester County, Maryland",285,24,019,2014
+"Cecil County, Maryland",1606,24,015,2014
+"Barnstable County, Massachusetts",1573,25,001,2014
+"Berkshire County, Massachusetts",1635,25,003,2014
+"Plymouth County, Massachusetts",8234,25,023,2014
+"Norfolk County, Massachusetts",8064,25,021,2014
+"Nantucket County, Massachusetts",116,25,019,2014
+"Monroe County, Michigan",526,26,115,2014
+"Hillsdale County, Michigan",72,26,059,2014
+"Oceana County, Michigan",17,26,127,2014
+"Clare County, Michigan",85,26,035,2014
+"Madison County, Kentucky",119,21,151,2014
+"Franklin County, Kentucky",20,21,073,2014
+"Kenton County, Kentucky",418,21,117,2014
+"McCreary County, Kentucky",120,21,147,2014
+"Magoffin County, Kentucky",0,21,153,2014
+"Metcalfe County, Kentucky",0,21,169,2014
+"Owsley County, Kentucky",0,21,189,2014
+"Rowan County, Kentucky",0,21,205,2014
+"Simpson County, Kentucky",16,21,213,2014
+"Taylor County, Kentucky",52,21,217,2014
+"Clark County, Kentucky",59,21,049,2014
+"Todd County, Kentucky",6,21,219,2014
+"Carlisle County, Kentucky",0,21,039,2014
+"Carroll County, Kentucky",1,21,041,2014
+"Clinton County, Kentucky",46,21,053,2014
+"Estill County, Kentucky",0,21,065,2014
+"Richland Parish, Louisiana",28,22,083,2014
+"St. Martin Parish, Louisiana",32,22,099,2014
+"Winn Parish, Louisiana",34,22,127,2014
+"East Baton Rouge Parish, Louisiana",984,22,033,2014
+"Allen Parish, Louisiana",79,22,003,2014
+"Madison Parish, Louisiana",93,22,065,2014
+"St. James Parish, Louisiana",37,22,093,2014
+"Grant Parish, Louisiana",20,22,043,2014
+"Jefferson Parish, Louisiana",3247,22,051,2014
+"Beauregard Parish, Louisiana",150,22,011,2014
+"Bossier Parish, Louisiana",260,22,015,2014
+"East Feliciana Parish, Louisiana",6,22,037,2014
+"St. John the Baptist Parish, Louisiana",104,22,095,2014
+"Ouachita Parish, Louisiana",125,22,073,2014
+"Rapides Parish, Louisiana",116,22,079,2014
+"St. Landry Parish, Louisiana",41,22,097,2014
+"Tangipahoa Parish, Louisiana",271,22,105,2014
+"St. Mary Parish, Louisiana",244,22,101,2014
+"West Carroll Parish, Louisiana",73,22,123,2014
+"Union Parish, Louisiana",9,22,111,2014
+"Caldwell Parish, Louisiana",37,22,021,2014
+"East Carroll Parish, Louisiana",5,22,035,2014
+"Lafayette Parish, Louisiana",447,22,055,2014
+"Evangeline Parish, Louisiana",11,22,039,2014
+"Lincoln Parish, Louisiana",69,22,061,2014
+"St. Bernard Parish, Louisiana",156,22,087,2014
+"Webster Parish, Louisiana",55,22,119,2014
+"West Baton Rouge Parish, Louisiana",21,22,121,2014
+"Iberville Parish, Louisiana",21,22,047,2014
+"Red River Parish, Louisiana",0,22,081,2014
+"Morehouse Parish, Louisiana",0,22,067,2014
+"Orleans Parish, Louisiana",967,22,071,2014
+"Terrebonne Parish, Louisiana",68,22,109,2014
+"Calcasieu Parish, Louisiana",604,22,019,2014
+"Claiborne Parish, Louisiana",8,22,027,2014
+"Avoyelles Parish, Louisiana",22,22,009,2014
+"Assumption Parish, Louisiana",51,22,007,2014
+"Pointe Coupee Parish, Louisiana",0,22,077,2014
+"Vermilion Parish, Louisiana",199,22,113,2014
+"Lafourche Parish, Louisiana",83,22,057,2014
+"Concordia Parish, Louisiana",9,22,029,2014
+"LaSalle Parish, Louisiana",0,22,059,2014
+"Midland County, Michigan",131,26,111,2014
+"Keweenaw County, Michigan",0,26,083,2014
+"Ottawa County, Michigan",1442,26,139,2014
+"Alpena County, Michigan",17,26,007,2014
+"Ogemaw County, Michigan",4,26,129,2014
+"Crawford County, Michigan",0,26,039,2014
+"Gratiot County, Michigan",70,26,057,2014
+"Lenawee County, Michigan",635,26,091,2014
+"Mackinac County, Michigan",10,26,097,2014
+"Houghton County, Michigan",36,26,061,2014
+"Lake County, Michigan",27,26,085,2014
+"Presque Isle County, Michigan",24,26,141,2014
+"Kalamazoo County, Michigan",954,26,077,2014
+"Newaygo County, Michigan",80,26,123,2014
+"Calhoun County, Michigan",698,26,025,2014
+"Kent County, Michigan",6240,26,081,2014
+"Saginaw County, Michigan",414,26,145,2014
+"Bay County, Michigan",175,26,017,2014
+"Delta County, Michigan",30,26,041,2014
+"Koochiching County, Minnesota",0,27,071,2014
+"Morrison County, Minnesota",26,27,097,2014
+"Steele County, Minnesota",1,27,147,2014
+"Aitkin County, Minnesota",34,27,001,2014
+"Murray County, Minnesota",0,27,101,2014
+"Kandiyohi County, Minnesota",17,27,067,2014
+"Rock County, Minnesota",0,27,133,2014
+"Traverse County, Minnesota",1,27,155,2014
+"Hennepin County, Minnesota",3358,27,053,2014
+"Chippewa County, Minnesota",46,27,023,2014
+"Clearwater County, Minnesota",13,27,029,2014
+"Isanti County, Minnesota",220,27,059,2014
+"Mower County, Minnesota",74,27,099,2014
+"Olmsted County, Minnesota",496,27,109,2014
+"St. Clair County, Alabama",102,01,115,2014
+"Baldwin County, Alabama",561,01,003,2014
+"Houston County, Alabama",308,01,069,2014
+"Tuscaloosa County, Alabama",428,01,125,2014
+"Coffee County, Alabama",603,01,031,2014
+"Pike County, Alabama",293,01,109,2014
+"Douglas County, Minnesota",34,27,041,2014
+"Le Sueur County, Minnesota",41,27,079,2014
+"Chisago County, Minnesota",12,27,025,2014
+"Todd County, Minnesota",9,27,153,2014
+"Houston County, Minnesota",3,27,055,2014
+"Otter Tail County, Minnesota",193,27,111,2014
+"St. Louis County, Minnesota",349,27,137,2014
+"Dakota County, Minnesota",2132,27,037,2014
+"Marshall County, Minnesota",14,27,089,2014
+"Washington County, Minnesota",413,27,163,2014
+"Kanabec County, Minnesota",0,27,065,2014
+"Chambers County, Alabama",0,01,017,2014
+"Montgomery County, Alabama",688,01,101,2014
+"Henry County, Alabama",0,01,067,2014
+"Tallapoosa County, Alabama",45,01,123,2014
+"Aleutians West Census Area, Alaska",11,02,016,2014
+"Northwest Arctic Borough, Alaska",1,02,188,2014
+"North Slope Borough, Alaska",18,02,185,2014
+"Fairbanks North Star Borough, Alaska",1514,02,090,2014
+"Nome Census Area, Alaska",44,02,180,2014
+"Kenai Peninsula Borough, Alaska",170,02,122,2014
+"Yakutat City and Borough, Alaska",0,02,282,2014
+"Southeast Fairbanks Census Area, Alaska",133,02,240,2014
+"Aleutians East Borough, Alaska",13,02,013,2014
+"Prince of Wales-Hyder Census Area, Alaska",1,02,198,2014
+"Pima County, Arizona",5758,04,019,2014
+"Graham County, Arizona",50,04,009,2014
+"La Paz County, Arizona",49,04,012,2014
+"Apache County, Arizona",75,04,001,2014
+"Yuma County, Arizona",1367,04,027,2014
+"Pinal County, Arizona",2653,04,021,2014
+"Clay County, Arkansas",0,05,021,2014
+"Drew County, Arkansas",0,05,043,2014
+"Saline County, Arkansas",164,05,125,2014
+"Boone County, Arkansas",102,05,009,2014
+"Desha County, Arkansas",12,05,041,2014
+"Garland County, Arkansas",48,05,051,2014
+"Pope County, Arkansas",19,05,115,2014
+"Woodruff County, Arkansas",0,05,147,2014
+"Jackson County, Arkansas",21,05,067,2014
+"Stone County, Arkansas",0,05,137,2014
+"Baxter County, Arkansas",17,05,005,2014
+"Greene County, Arkansas",6,05,055,2014
+"Phillips County, Arkansas",0,05,107,2014
+"Yell County, Arkansas",0,05,149,2014
+"Clark County, Arkansas",0,05,019,2014
+"Monroe County, Arkansas",12,05,095,2014
+"Ouachita County, Arkansas",67,05,103,2014
+"Arkansas County, Arkansas",0,05,001,2014
+"Carroll County, Arkansas",63,05,015,2014
+"Pulaski County, Arkansas",931,05,119,2014
+"Lake County, California",363,06,033,2014
+"Modoc County, California",28,06,049,2014
+"Inyo County, California",41,06,027,2014
+"Santa Barbara County, California",2019,06,083,2014
+"Imperial County, California",741,06,025,2014
+"Alameda County, California",10645,06,001,2014
+"Napa County, California",514,06,055,2014
+"San Francisco County, California",4527,06,075,2014
+"Colusa County, California",120,06,011,2014
+"Kings County, California",547,06,031,2014
+"Fresno County, California",3694,06,019,2014
+"Orange County, California",12883,06,059,2014
+"Sutter County, California",436,06,101,2014
+"San Joaquin County, California",5743,06,077,2014
+"Archuleta County, Colorado",10,08,007,2014
+"Huerfano County, Colorado",75,08,055,2014
+"Chaffee County, Colorado",26,08,015,2014
+"Garfield County, Colorado",375,08,045,2014
+"Mineral County, Colorado",0,08,079,2014
+"Sedgwick County, Colorado",4,08,115,2014
+"Custer County, Colorado",0,08,027,2014
+"Adams County, Colorado",2260,08,001,2014
+"Lake County, Colorado",11,08,065,2014
+"Pitkin County, Colorado",124,08,097,2014
+"Cheyenne County, Colorado",0,08,017,2014
+"Dolores County, Colorado",30,08,033,2014
+"Larimer County, Colorado",1275,08,069,2014
+"San Miguel County, Colorado",0,08,113,2014
+"Delta County, Colorado",64,08,029,2014
+"Elbert County, Colorado",53,08,039,2014
+"Yuma County, Colorado",0,08,125,2014
+"Summit County, Colorado",140,08,117,2014
+"Windham County, Connecticut",8331,09,015,2014
+"Middlesex County, Connecticut",4441,09,007,2014
+"Washington County, Florida",214,12,133,2014
+"Brevard County, Florida",20114,12,009,2014
+"Lake County, Florida",15996,12,069,2014
+"Polk County, Florida",40193,12,105,2014
+"Glades County, Florida",228,12,043,2014
+"Jackson County, Florida",551,12,063,2014
+"Seminole County, Florida",37731,12,117,2014
+"Bay County, Florida",2572,12,005,2014
+"Gulf County, Florida",133,12,045,2014
+"Osceola County, Florida",80438,12,097,2014
+"Walton County, Florida",352,12,131,2014
+"Jefferson County, Florida",175,12,065,2014
+"Hardee County, Florida",376,12,049,2014
+"Orange County, Florida",165699,12,095,2014
+"Gilchrist County, Florida",46,12,041,2014
+"Alachua County, Florida",5915,12,001,2014
+"Charlotte County, Florida",2519,12,015,2014
+"Martin County, Florida",1875,12,085,2014
+"Sarasota County, Florida",5546,12,115,2014
+"Citrus County, Florida",3246,12,017,2014
+"Santa Rosa County, Florida",1799,12,113,2014
+"Broward County, Florida",81978,12,011,2014
+"Monroe County, Florida",1037,12,087,2014
+"Union County, Georgia",24,13,291,2014
+"White County, Georgia",343,13,311,2014
+"Paulding County, Georgia",1726,13,223,2014
+"Richmond County, Georgia",3608,13,245,2014
+"Berrien County, Georgia",182,13,019,2014
+"Barrow County, Georgia",875,13,013,2014
+"Clinch County, Georgia",0,13,065,2014
+"Grady County, Georgia",183,13,131,2014
+"Whitfield County, Georgia",1563,13,313,2014
+"Macon County, Georgia",10,13,193,2014
+"Harris County, Georgia",215,13,145,2014
+"Worth County, Georgia",7,13,321,2014
+"Dooly County, Georgia",4,13,093,2014
+"Webster County, Georgia",0,13,307,2014
+"Glascock County, Georgia",0,13,125,2014
+"Chatham County, Georgia",3267,13,051,2014
+"Johnson County, Georgia",9,13,167,2014
+"Madison County, Georgia",8,13,195,2014
+"Tift County, Georgia",147,13,277,2014
+"Talbot County, Georgia",49,13,263,2014
+"Terrell County, Georgia",40,13,273,2014
+"Wilkinson County, Georgia",5,13,319,2014
+"Randolph County, Georgia",2,13,243,2014
+"Ware County, Georgia",139,13,299,2014
+"Wilcox County, Georgia",29,13,315,2014
+"Irwin County, Georgia",2,13,155,2014
+"Bacon County, Georgia",6,13,005,2014
+"Burke County, Georgia",109,13,033,2014
+"Chattahoochee County, Georgia",431,13,053,2014
+"Decatur County, Georgia",15,13,087,2014
+"Habersham County, Georgia",444,13,137,2014
+"Bryan County, Georgia",618,13,029,2014
+"McIntosh County, Georgia",88,13,191,2014
+"Monroe County, Georgia",126,13,207,2014
+"Taliaferro County, Georgia",0,13,265,2014
+"Camden County, Georgia",1168,13,039,2014
+"Crawford County, Georgia",36,13,079,2014
+"Coffee County, Georgia",206,13,069,2014
+"Gilmer County, Georgia",237,13,123,2014
+"Walton County, Georgia",300,13,297,2014
+"Dodge County, Georgia",101,13,091,2014
+"Cherokee County, Georgia",2258,13,057,2014
+"Lee County, Georgia",17,13,177,2014
+"Pickens County, Georgia",10,13,227,2014
+"Cook County, Georgia",67,13,075,2014
+"Fulton County, Georgia",6197,13,121,2014
+"Hawaii County, Hawaii",9754,15,001,2014
+"Kauai County, Hawaii",2166,15,007,2014
+"Cassia County, Idaho",55,16,031,2014
+"Lincoln County, Idaho",2,16,063,2014
+"Franklin County, Idaho",0,16,041,2014
+"Canyon County, Idaho",1123,16,027,2014
+"Latah County, Idaho",65,16,057,2014
+"Benewah County, Idaho",0,16,009,2014
+"Clark County, Idaho",0,16,033,2014
+"Fremont County, Idaho",12,16,043,2014
+"Idaho County, Idaho",38,16,049,2014
+"Power County, Idaho",0,16,077,2014
+"Madison County, Illinois",480,17,119,2014
+"Mercer County, Illinois",29,17,131,2014
+"Sangamon County, Illinois",425,17,167,2014
+"Randolph County, Illinois",19,17,157,2014
+"Ogle County, Illinois",49,17,141,2014
+"Stephenson County, Illinois",416,17,177,2014
+"White County, Illinois",30,17,193,2014
+"Henderson County, Illinois",8,17,071,2014
+"McLean County, Illinois",675,17,113,2014
+"Pike County, Illinois",54,17,149,2014
+"Rock Island County, Illinois",898,17,161,2014
+"Wabash County, Illinois",0,17,185,2014
+"Cumberland County, Illinois",3,17,035,2014
+"Kane County, Illinois",10984,17,089,2014
+"Brown County, Illinois",55,17,009,2014
+"Marshall County, Illinois",48,17,123,2014
+"Christian County, Illinois",35,17,021,2014
+"Jackson County, Illinois",376,17,077,2014
+"Union County, Illinois",28,17,181,2014
+"Saline County, Illinois",51,17,165,2014
+"Whiteside County, Illinois",382,17,195,2014
+"DeKalb County, Illinois",1145,17,037,2014
+"Jasper County, Illinois",1,17,079,2014
+"Will County, Illinois",7212,17,197,2014
+"Douglas County, Illinois",26,17,041,2014
+"Greene County, Illinois",49,17,061,2014
+"Hardin County, Illinois",11,17,069,2014
+"Knox County, Illinois",108,17,095,2014
+"Massac County, Illinois",17,17,127,2014
+"Tazewell County, Illinois",377,17,179,2014
+"Harrison County, Indiana",101,18,061,2014
+"Wabash County, Indiana",55,18,169,2014
+"Jay County, Indiana",81,18,075,2014
+"Piscataquis County, Maine",118,23,021,2014
+"Lincoln County, Maine",117,23,015,2014
+"Waldo County, Maine",102,23,027,2014
+"Penobscot County, Maine",590,23,019,2014
+"Androscoggin County, Maine",520,23,001,2014
+"Aroostook County, Maine",336,23,003,2014
+"Washington County, Maine",154,23,029,2014
+"Cumberland County, Maine",1023,23,005,2014
+"Knox County, Maine",45,23,013,2014
+"Sagadahoc County, Maine",259,23,023,2014
+"York County, Maine",674,23,031,2014
+"Kennebec County, Maine",638,23,011,2014
+"Franklin County, Maine",0,23,007,2014
+"Somerset County, Maine",110,23,025,2014
+"Hancock County, Maine",51,23,009,2014
+"Worcester County, Maryland",145,24,047,2014
+"Baltimore city, Maryland",3934,24,510,2014
+"Somerset County, Maryland",204,24,039,2014
+"Talbot County, Maryland",200,24,041,2014
+"Harford County, Maryland",3398,24,025,2014
+"Howard County, Maryland",2625,24,027,2014
+"Prince George's County, Maryland",5711,24,033,2014
+"Baltimore County, Maryland",4942,24,005,2014
+"Frederick County, Maryland",2282,24,021,2014
+"Garrett County, Maryland",18,24,023,2014
+"Kent County, Maryland",64,24,029,2014
+"Carroll County, Maryland",1108,24,013,2014
+"Queen Anne's County, Maryland",268,24,035,2014
+"Charles County, Maryland",1904,24,017,2014
+"Washington County, Maryland",1247,24,043,2014
+"Wicomico County, Maryland",980,24,045,2014
+"Caroline County, Maryland",88,24,011,2014
+"Suffolk County, Massachusetts",37553,25,025,2014
+"Dukes County, Massachusetts",12,25,007,2014
+"Middlesex County, Massachusetts",32444,25,017,2014
+"Bristol County, Massachusetts",22277,25,005,2014
+"Hampden County, Massachusetts",86946,25,013,2014
+"Essex County, Massachusetts",35561,25,009,2014
+"Franklin County, Massachusetts",1303,25,011,2014
+"Worcester County, Massachusetts",45150,25,027,2014
+"Hampshire County, Massachusetts",3697,25,015,2014
+"Chippewa County, Michigan",55,26,033,2014
+"Allegan County, Michigan",418,26,005,2014
+"Oakland County, Michigan",7197,26,125,2014
+"Alger County, Michigan",21,26,003,2014
+"Muskegon County, Michigan",839,26,121,2014
+"Leelanau County, Michigan",45,26,089,2014
+"Lapeer County, Michigan",213,26,087,2014
+"Sanilac County, Michigan",85,26,151,2014
+"Isabella County, Michigan",186,26,073,2014
+"Ontonagon County, Michigan",3,26,131,2014
+"Tuscola County, Michigan",76,26,157,2014
+"Alcona County, Michigan",8,26,001,2014
+"Ionia County, Michigan",156,26,067,2014
+"Kalkaska County, Michigan",6,26,079,2014
+"Berrien County, Michigan",875,26,021,2014
+"Oscoda County, Michigan",32,26,135,2014
+"Wexford County, Michigan",47,26,165,2014
+"Clinton County, Michigan",110,26,037,2014
+"Hamilton County, Indiana",589,18,057,2014
+"Porter County, Indiana",2618,18,127,2014
+"Spencer County, Indiana",6,18,147,2014
+"Tippecanoe County, Indiana",851,18,157,2014
+"LaGrange County, Indiana",33,18,087,2014
+"Boone County, Indiana",162,18,011,2014
+"Montgomery County, Indiana",49,18,107,2014
+"Clark County, Indiana",528,18,019,2014
+"Clay County, Indiana",36,18,021,2014
+"Franklin County, Indiana",34,18,047,2014
+"Jackson County, Indiana",66,18,071,2014
+"Posey County, Indiana",0,18,129,2014
+"Vermillion County, Indiana",117,18,165,2014
+"Allen County, Indiana",1611,18,003,2014
+"Floyd County, Indiana",36,18,043,2014
+"Johnson County, Indiana",176,18,081,2014
+"Gibson County, Indiana",54,18,051,2014
+"Orange County, Indiana",16,18,117,2014
+"Marshall County, Indiana",253,18,099,2014
+"Blackford County, Indiana",0,18,009,2014
+"Scott County, Indiana",2,18,143,2014
+"Elkhart County, Indiana",1782,18,039,2014
+"Cass County, Indiana",81,18,017,2014
+"Wayne County, Indiana",165,18,177,2014
+"Butler County, Iowa",8,19,023,2014
+"Hamilton County, Iowa",21,19,079,2014
+"Union County, Iowa",13,19,175,2014
+"Worth County, Iowa",29,19,195,2014
+"Adair County, Iowa",0,19,001,2014
+"Chickasaw County, Iowa",0,19,037,2014
+"Dickinson County, Iowa",27,19,059,2014
+"Keokuk County, Iowa",19,19,107,2014
+"Tama County, Iowa",10,19,171,2014
+"Franklin County, Iowa",0,19,069,2014
+"Cedar County, Iowa",6,19,031,2014
+"Floyd County, Iowa",2,19,067,2014
+"Louisa County, Iowa",67,19,115,2014
+"Humboldt County, Iowa",0,19,091,2014
+"Washington County, Iowa",14,19,183,2014
+"Cherokee County, Iowa",16,19,035,2014
+"Des Moines County, Iowa",0,19,057,2014
+"Kossuth County, Iowa",4,19,109,2014
+"Muscatine County, Iowa",462,19,139,2014
+"Polk County, Iowa",1083,19,153,2014
+"Woodbury County, Iowa",404,19,193,2014
+"Jackson County, Iowa",0,19,097,2014
+"Lee County, Iowa",84,19,111,2014
+"Warren County, Iowa",50,19,181,2014
+"Plymouth County, Iowa",0,19,149,2014
+"Clay County, Iowa",29,19,041,2014
+"Delaware County, Iowa",0,19,055,2014
+"Wayne County, Iowa",43,19,185,2014
+"Scott County, Iowa",354,19,163,2014
+"Sherman County, Kansas",6,20,181,2014
+"Thomas County, Kansas",0,20,193,2014
+"Morris County, Kansas",3,20,127,2014
+"Rooks County, Kansas",10,20,163,2014
+"Clark County, Kansas",0,20,025,2014
+"Harper County, Kansas",27,20,077,2014
+"Lyon County, Kansas",45,20,111,2014
+"Pawnee County, Kansas",10,20,145,2014
+"Dickinson County, Michigan",67,26,043,2014
+"Huron County, Michigan",7,26,063,2014
+"Ingham County, Michigan",1586,26,065,2014
+"Comanche County, Kansas",0,20,033,2014
+"Gove County, Kansas",0,20,063,2014
+"Harvey County, Kansas",189,20,079,2014
+"Jewell County, Kansas",0,20,089,2014
+"Kearny County, Kansas",17,20,093,2014
+"Rice County, Kansas",26,20,159,2014
+"Stafford County, Kansas",0,20,185,2014
+"McPherson County, Kansas",40,20,113,2014
+"Osage County, Kansas",33,20,139,2014
+"Greeley County, Kansas",5,20,071,2014
+"Coffey County, Kansas",0,20,031,2014
+"Crawford County, Kansas",33,20,037,2014
+"Ellis County, Kansas",35,20,051,2014
+"Greenwood County, Kansas",0,20,073,2014
+"Labette County, Kansas",12,20,099,2014
+"Linn County, Kansas",0,20,107,2014
+"Sedgwick County, Kansas",2084,20,173,2014
+"Seward County, Kansas",0,20,175,2014
+"Republic County, Kansas",0,20,157,2014
+"Graham County, Kansas",0,20,065,2014
+"Johnson County, Kansas",982,20,091,2014
+"Douglas County, Kansas",408,20,045,2014
+"Sheridan County, Kansas",0,20,179,2014
+"Miami County, Kansas",19,20,121,2014
+"Wallace County, Kansas",0,20,199,2014
+"Stevens County, Kansas",1,20,189,2014
+"Smith County, Kansas",3,20,183,2014
+"Jackson County, Kansas",22,20,085,2014
+"Kingman County, Kansas",7,20,095,2014
+"Nemaha County, Kansas",0,20,131,2014
+"Wyandotte County, Kansas",485,20,209,2014
+"Cherokee County, Kansas",4,20,021,2014
+"Clay County, Kansas",2,20,027,2014
+"Lincoln County, Kansas",5,20,105,2014
+"Sumner County, Kansas",9,20,191,2014
+"Trego County, Kansas",1,20,195,2014
+"Wilson County, Kansas",29,20,205,2014
+"Mitchell County, Kansas",0,20,123,2014
+"Ness County, Kansas",8,20,135,2014
+"Atchison County, Kansas",38,20,005,2014
+"Bourbon County, Kansas",0,20,011,2014
+"Hamilton County, Kansas",0,20,075,2014
+"Leavenworth County, Kansas",394,20,103,2014
+"Shawnee County, Kansas",961,20,177,2014
+"Wichita County, Kansas",0,20,203,2014
+"Chautauqua County, Kansas",0,20,019,2014
+"Norton County, Kansas",13,20,137,2014
+"Reno County, Kansas",171,20,155,2014
+"Cloud County, Kansas",0,20,029,2014
+"Edwards County, Kansas",5,20,047,2014
+"Haskell County, Kansas",0,20,081,2014
+"Rush County, Kansas",0,20,165,2014
+"Scott County, Kansas",26,20,171,2014
+"Neosho County, Kansas",3,20,133,2014
+"Ottawa County, Kansas",0,20,143,2014
+"Phillips County, Kansas",0,20,147,2014
+"Barber County, Kansas",0,20,007,2014
+"Decatur County, Kansas",0,20,039,2014
+"Jefferson County, Kansas",41,20,087,2014
+"Greenup County, Kentucky",11,21,089,2014
+"Mason County, Michigan",6,26,105,2014
+"Menominee County, Michigan",51,26,109,2014
+"Montcalm County, Michigan",219,26,117,2014
+"Missaukee County, Michigan",27,26,113,2014
+"St. Joseph County, Michigan",183,26,149,2014
+"St. Clair County, Michigan",268,26,147,2014
+"Van Buren County, Michigan",116,26,159,2014
+"Washtenaw County, Michigan",1029,26,161,2014
+"Arenac County, Michigan",38,26,011,2014
+"Barry County, Michigan",105,26,015,2014
+"Cass County, Michigan",180,26,027,2014
+"Iron County, Michigan",7,26,071,2014
+"Benzie County, Michigan",22,26,019,2014
+"Roscommon County, Michigan",68,26,143,2014
+"Schoolcraft County, Michigan",2,26,153,2014
+"Wayne County, Michigan",11366,26,163,2014
+"Branch County, Michigan",87,26,023,2014
+"Grand Traverse County, Michigan",88,26,055,2014
+"Jackson County, Michigan",254,26,075,2014
+"Genesee County, Michigan",971,26,049,2014
+"Antrim County, Michigan",72,26,009,2014
+"Livingston County, Michigan",246,26,093,2014
+"Iosco County, Michigan",13,26,069,2014
+"Manistee County, Michigan",35,26,101,2014
+"Montmorency County, Michigan",2,26,119,2014
+"Gladwin County, Michigan",25,26,051,2014
+"Mecosta County, Michigan",183,26,107,2014
+"Marquette County, Michigan",78,26,103,2014
+"Osceola County, Michigan",15,26,133,2014
+"Otsego County, Michigan",3,26,137,2014
+"Cheboygan County, Michigan",40,26,031,2014
+"Luce County, Michigan",4,26,095,2014
+"Macomb County, Michigan",1411,26,099,2014
+"Shiawassee County, Michigan",83,26,155,2014
+"Baraga County, Michigan",16,26,013,2014
+"Charlevoix County, Michigan",29,26,029,2014
+"Eaton County, Michigan",311,26,045,2014
+"Gogebic County, Michigan",33,26,053,2014
+"Emmet County, Michigan",30,26,047,2014
+"Meeker County, Minnesota",0,27,093,2014
+"Pennington County, Minnesota",30,27,113,2014
+"Rice County, Minnesota",142,27,131,2014
+"Wilkin County, Minnesota",0,27,167,2014
+"Red Lake County, Minnesota",0,27,125,2014
+"Clay County, Minnesota",28,27,027,2014
+"Faribault County, Minnesota",2,27,043,2014
+"Fillmore County, Minnesota",0,27,045,2014
+"Lake County, Minnesota",0,27,075,2014
+"Polk County, Minnesota",98,27,119,2014
+"Roseau County, Minnesota",18,27,135,2014
+"Sibley County, Minnesota",13,27,143,2014
+"Watonwan County, Minnesota",1,27,165,2014
+"Becker County, Minnesota",54,27,005,2014
+"Big Stone County, Minnesota",1,27,011,2014
+"Brown County, Minnesota",63,27,015,2014
+"Cass County, Minnesota",17,27,021,2014
+"Jefferson County, Kentucky",2582,21,111,2014
+"Fleming County, Kentucky",0,21,069,2014
+"Carter County, Kentucky",8,21,043,2014
+"Elliott County, Kentucky",5,21,063,2014
+"Larue County, Kentucky",5,21,123,2014
+"Mason County, Kentucky",9,21,161,2014
+"Juncos Municipio, Puerto Rico",39779,72,077,2014
+"Adjuntas Municipio, Puerto Rico",19080,72,001,2014
+"Hormigueros Municipio, Puerto Rico",16490,72,067,2014
+"Naranjito Municipio, Puerto Rico",29608,72,105,2014
+"Arecibo Municipio, Puerto Rico",91759,72,013,2014
+"Florida Municipio, Puerto Rico",12375,72,054,2014
+"Moca Municipio, Puerto Rico",38668,72,099,2014
+"Salinas Municipio, Puerto Rico",30177,72,123,2014
+"Yauco Municipio, Puerto Rico",39921,72,153,2014
+"Cabo Rojo Municipio, Puerto Rico",50008,72,023,2014
+"Las Marías Municipio, Puerto Rico",9373,72,083,2014
+"Villalba Municipio, Puerto Rico",24986,72,149,2014
+"Aguada Municipio, Puerto Rico",37965,72,003,2014
+"Cidra Municipio, Puerto Rico",42193,72,041,2014
+"Luquillo Municipio, Puerto Rico",18762,72,089,2014
+"Orocovis Municipio, Puerto Rico",22645,72,107,2014
+"Ceiba Municipio, Puerto Rico",12845,72,037,2014
+"Isabela Municipio, Puerto Rico",43952,72,071,2014
+"Las Piedras Municipio, Puerto Rico",38325,72,085,2014
+"Vega Alta Municipio, Puerto Rico",38623,72,143,2014
+"Gray County, Kansas",9,20,069,2014
+"Chase County, Kansas",1,20,017,2014
+"Grant County, Kansas",72,20,067,2014
+"Logan County, Kansas",0,20,109,2014
+"Pottawatomie County, Kansas",156,20,149,2014
+"Butler County, Kansas",205,20,015,2014
+"Saline County, Kansas",174,20,169,2014
+"Wabaunsee County, Kansas",3,20,197,2014
+"Woodson County, Kansas",5,20,207,2014
+"Osborne County, Kansas",1,20,141,2014
+"Finney County, Kansas",16,20,055,2014
+"Kiowa County, Kansas",0,20,097,2014
+"Washington County, Kansas",0,20,201,2014
+"Morton County, Kansas",0,20,129,2014
+"Barton County, Kansas",13,20,009,2014
+"Doniphan County, Kansas",21,20,043,2014
+"Lane County, Kansas",3,20,101,2014
+"Martin County, Minnesota",1,27,091,2014
+"Goodhue County, Minnesota",72,27,049,2014
+"Hubbard County, Minnesota",8,27,057,2014
+"Jackson County, Minnesota",11,27,063,2014
+"Nobles County, Minnesota",77,27,105,2014
+"Pine County, Minnesota",70,27,115,2014
+"Platte County, Wyoming",0,56,031,2014
+"Sheridan County, Wyoming",4,56,033,2014
+"Big Horn County, Wyoming",0,56,003,2014
+"Crook County, Wyoming",0,56,011,2014
+"Park County, Wyoming",7,56,029,2014
+"Albany County, Wyoming",115,56,001,2014
+"Carbon County, Wyoming",73,56,007,2014
+"Goshen County, Wyoming",74,56,015,2014
+"Uinta County, Wyoming",202,56,041,2014
+"Washakie County, Wyoming",1,56,043,2014
+"Hot Springs County, Wyoming",0,56,017,2014
+"Fremont County, Wyoming",20,56,013,2014
+"Sublette County, Wyoming",0,56,035,2014
+"Weston County, Wyoming",17,56,045,2014
+"Graham County, North Carolina",0,37,075,2014
+"Warren County, North Carolina",138,37,185,2014
+"Wilson County, North Carolina",315,37,195,2014
+"Gates County, North Carolina",11,37,073,2014
+"Madison County, North Carolina",15,37,115,2014
+"Pamlico County, North Carolina",37,37,137,2014
+"Polk County, North Carolina",176,37,149,2014
+"Randolph County, North Carolina",656,37,151,2014
+"Stokes County, North Carolina",175,37,169,2014
+"Washington County, North Carolina",95,37,187,2014
+"Clay County, North Carolina",12,37,043,2014
+"Cumberland County, North Carolina",11843,37,051,2014
+"Guilford County, North Carolina",3459,37,081,2014
+"Jackson County, North Carolina",231,37,099,2014
+"Pasquotank County, North Carolina",224,37,139,2014
+"Robeson County, North Carolina",172,37,155,2014
+"Swain County, North Carolina",12,37,173,2014
+"Wake County, North Carolina",10293,37,183,2014
+"Anson County, North Carolina",10,37,007,2014
+"McDowell County, North Carolina",105,37,111,2014
+"Franklin County, North Carolina",362,37,069,2014
+"Jones County, North Carolina",2,37,103,2014
+"Macon County, North Carolina",115,37,113,2014
+"Brunswick County, North Carolina",574,37,019,2014
+"Transylvania County, North Carolina",150,37,175,2014
+"Beaufort County, North Carolina",240,37,013,2014
+"Columbus County, North Carolina",64,37,047,2014
+"Lincoln County, North Carolina",299,37,109,2014
+"Montgomery County, North Carolina",69,37,123,2014
+"Orange County, North Carolina",799,37,135,2014
+"Richmond County, North Carolina",227,37,153,2014
+"Sampson County, North Carolina",489,37,163,2014
+"Surry County, North Carolina",190,37,171,2014
+"Avery County, North Carolina",50,37,011,2014
+"Buncombe County, North Carolina",1936,37,021,2014
+"Cabarrus County, North Carolina",1609,37,025,2014
+"Caswell County, North Carolina",23,37,033,2014
+"Davie County, North Carolina",144,37,059,2014
+"Davidson County, North Carolina",279,37,057,2014
+"Duplin County, North Carolina",347,37,061,2014
+"Durham County, North Carolina",2404,37,063,2014
+"Hertford County, North Carolina",22,37,091,2014
+"Lee County, North Carolina",502,37,105,2014
+"New Hanover County, North Carolina",1657,37,129,2014
+"Pender County, North Carolina",326,37,141,2014
+"Wayne County, North Carolina",885,37,191,2014
+"Dare County, North Carolina",46,37,055,2014
+"Scotland County, North Carolina",170,37,165,2014
+"Aibonito Municipio, Puerto Rico",24943,72,009,2014
+"Guayanilla Municipio, Puerto Rico",20667,72,059,2014
+"Lajas Municipio, Puerto Rico",24731,72,079,2014
+"Sabana Grande Municipio, Puerto Rico",24154,72,121,2014
+"Camuy Municipio, Puerto Rico",34008,72,027,2014
+"Guánica Municipio, Puerto Rico",18320,72,055,2014
+"Manatí Municipio, Puerto Rico",41825,72,091,2014
+"Naguabo Municipio, Puerto Rico",26457,72,103,2014
+"San Germán Municipio, Puerto Rico",34170,72,125,2014
+"Utuado Municipio, Puerto Rico",31580,72,141,2014
+"Arroyo Municipio, Puerto Rico",19061,72,015,2014
+"Cataño Municipio, Puerto Rico",25990,72,033,2014
+"Quebradillas Municipio, Puerto Rico",25288,72,115,2014
+"Guayama Municipio, Puerto Rico",43712,72,057,2014
+"Culebra Municipio, Puerto Rico",1485,72,049,2014
+"Gurabo Municipio, Puerto Rico",45002,72,063,2014
+"Barceloneta Municipio, Puerto Rico",24628,72,017,2014
+"Loíza Municipio, Puerto Rico",28474,72,087,2014
+"Guaynabo Municipio, Puerto Rico",87623,72,061,2014
+"Aguadilla Municipio, Puerto Rico",55796,72,005,2014
+"Fajardo Municipio, Puerto Rico",34569,72,053,2014
+"Patillas Municipio, Puerto Rico",18620,72,109,2014
+"Rincón Municipio, Puerto Rico",13530,72,117,2014
+"Aguas Buenas Municipio, Puerto Rico",27603,72,007,2014
+"Bayamón Municipio, Puerto Rico",190756,72,021,2014
+"Carolina Municipio, Puerto Rico",156101,72,031,2014
+"Cayey Municipio, Puerto Rico",46581,72,035,2014
+"Hatillo Municipio, Puerto Rico",41086,72,065,2014
+"Humacao Municipio, Puerto Rico",55826,72,069,2014
+"Juana Díaz Municipio, Puerto Rico",49400,72,075,2014
+"Morovis Municipio, Puerto Rico",32024,72,101,2014
+"Mayagüez Municipio, Puerto Rico",82498,72,097,2014
+"Santa Isabel Municipio, Puerto Rico",22964,72,133,2014
+"Trujillo Alto Municipio, Puerto Rico",70077,72,139,2014
+"Corozal Municipio, Puerto Rico",36333,72,047,2014
+"Maunabo Municipio, Puerto Rico",11821,72,095,2014
+"Peñuelas Municipio, Puerto Rico",22877,72,111,2014
+"Ponce Municipio, Puerto Rico",156830,72,113,2014
+"San Sebastián Municipio, Puerto Rico",40320,72,131,2014
+"Toa Alta Municipio, Puerto Rico",73163,72,135,2014
+"Toa Baja Municipio, Puerto Rico",83777,72,137,2014
+"Vieques Municipio, Puerto Rico",8952,72,147,2014
+"Yabucoa Municipio, Puerto Rico",36598,72,151,2014
+"Caguas Municipio, Puerto Rico",135076,72,025,2014
+"Canóvanas Municipio, Puerto Rico",45886,72,029,2014
+"Coamo Municipio, Puerto Rico",40148,72,043,2014
+"Dorado Municipio, Puerto Rico",36598,72,051,2014
+"Barranquitas Municipio, Puerto Rico",29716,72,019,2014
+"San Lorenzo Municipio, Puerto Rico",39777,72,129,2014
+"Añasco Municipio, Puerto Rico",28391,72,011,2014
+"Stark County, North Dakota",2,38,089,2014
+"Halifax County, North Carolina",158,37,083,2014
+"Alamance County, North Carolina",1409,37,001,2014
+"Tyrrell County, North Carolina",0,37,177,2014
+"Wells County, North Dakota",0,38,103,2014
+"Burke County, North Dakota",12,38,013,2014
+"Mountrail County, North Dakota",27,38,061,2014
+"Williams County, North Dakota",20,38,105,2014
+"Billings County, North Dakota",0,38,007,2014
+"Kidder County, North Dakota",0,38,043,2014
+"Cavalier County, North Dakota",0,38,019,2014
+"Grant County, North Dakota",0,38,037,2014
+"McHenry County, North Dakota",9,38,049,2014
+"Steele County, North Dakota",0,38,091,2014
+"Benson County, North Dakota",0,38,005,2014
+"LaMoure County, North Dakota",0,38,045,2014
+"Morton County, North Dakota",0,38,059,2014
+"Dunn County, North Dakota",20,38,025,2014
+"McIntosh County, North Dakota",0,38,051,2014
+"Nelson County, North Dakota",0,38,063,2014
+"Rolette County, North Dakota",88,38,079,2014
+"Walsh County, North Dakota",0,38,099,2014
+"Bottineau County, North Dakota",4,38,009,2014
+"Barnes County, North Dakota",32,38,003,2014
+"Grand Forks County, North Dakota",185,38,035,2014
+"McKenzie County, North Dakota",5,38,053,2014
+"McLean County, North Dakota",73,38,055,2014
+"Pierce County, North Dakota",2,38,069,2014
+"Renville County, North Dakota",0,38,075,2014
+"Bowman County, North Dakota",0,38,011,2014
+"Burleigh County, North Dakota",87,38,015,2014
+"Logan County, North Dakota",5,38,047,2014
+"Oliver County, North Dakota",0,38,065,2014
+"Stutsman County, North Dakota",45,38,093,2014
+"Ramsey County, North Dakota",107,38,071,2014
+"Foster County, North Dakota",4,38,031,2014
+"Griggs County, North Dakota",0,38,039,2014
+"Sheridan County, North Dakota",0,38,083,2014
+"Slope County, North Dakota",0,38,087,2014
+"Union County, Ohio",54,39,159,2014
+"Pike County, Ohio",19,39,131,2014
+"Paulding County, Ohio",79,39,125,2014
+"Hamilton County, Ohio",2112,39,061,2014
+"Franklin County, Ohio",7430,39,049,2014
+"Marion County, Ohio",241,39,101,2014
+"Tuscarawas County, Ohio",136,39,157,2014
+"Watauga County, North Carolina",113,37,189,2014
+"Wayne County, Ohio",141,39,169,2014
+"Brown County, Ohio",104,39,015,2014
+"Lares Municipio, Puerto Rico",29143,72,081,2014
+"Ciales Municipio, Puerto Rico",17993,72,039,2014
+"Comerío Municipio, Puerto Rico",20429,72,045,2014
+"Jayuya Municipio, Puerto Rico",16059,72,073,2014
+"Río Grande Municipio, Puerto Rico",51838,72,119,2014
+"San Juan Municipio, Puerto Rico",324995,72,127,2014
+"Vega Baja Municipio, Puerto Rico",55196,72,145,2014
+"Maricao Municipio, Puerto Rico",6333,72,093,2014
+"Richland County, Ohio",364,39,139,2014
+"Harrison County, Ohio",2,39,067,2014
+"Knox County, Ohio",179,39,083,2014
+"Licking County, Ohio",405,39,089,2014
+"Vinton County, Ohio",9,39,163,2014
+"Carroll County, Ohio",0,39,019,2014
+"Hancock County, Ohio",177,39,063,2014
+"Clermont County, Ohio",636,39,025,2014
+"Fairfield County, Ohio",186,39,045,2014
+"Defiance County, Ohio",323,39,039,2014
+"Highland County, Ohio",13,39,071,2014
+"Henry County, Ohio",182,39,069,2014
+"Jefferson County, Ohio",82,39,081,2014
+"Portage County, Ohio",625,39,133,2014
+"Putnam County, Ohio",46,39,137,2014
+"Belmont County, Ohio",73,39,013,2014
+"Clinton County, Ohio",197,39,027,2014
+"Fayette County, Ohio",32,39,047,2014
+"Perry County, Ohio",98,39,127,2014
+"Pickaway County, Ohio",70,39,129,2014
+"Madison County, Ohio",129,39,097,2014
+"Muskingum County, Ohio",249,39,119,2014
+"Sandusky County, Ohio",243,39,143,2014
+"Van Wert County, Ohio",42,39,161,2014
+"Washington County, Ohio",13,39,167,2014
+"Auglaize County, Ohio",47,39,011,2014
+"Darke County, Ohio",60,39,037,2014
+"Ottawa County, Ohio",139,39,123,2014
+"Hardin County, Ohio",164,39,065,2014
+"Jackson County, Ohio",62,39,079,2014
+"Huron County, Ohio",235,39,077,2014
+"Athens County, Ohio",141,39,009,2014
+"Adams County, Ohio",10,39,001,2014
+"Medina County, Ohio",1055,39,103,2014
+"Lucas County, Ohio",3018,39,095,2014
+"Noble County, Ohio",45,39,121,2014
+"Seneca County, Ohio",352,39,147,2014
+"Stark County, Ohio",1096,39,151,2014
+"Coshocton County, Ohio",94,39,031,2014
+"Delaware County, Ohio",804,39,041,2014
+"Geauga County, Ohio",173,39,055,2014
+"Hocking County, Ohio",40,39,073,2014
+"Lake County, Ohio",1347,39,085,2014
+"Ross County, Ohio",283,39,141,2014
+"Cuyahoga County, Ohio",39538,39,035,2014
+"Holmes County, Ohio",130,39,075,2014
+"Miami County, Ohio",107,39,109,2014
+"Butler County, Ohio",2093,39,017,2014
+"Monroe County, Ohio",30,39,111,2014
+"Trumbull County, Ohio",983,39,155,2014
+"Wood County, Ohio",627,39,173,2014
+"Ashland County, Ohio",132,39,005,2014
+"Washington County, Oklahoma",142,40,147,2014
+"Harper County, Oklahoma",0,40,059,2014
+"Logan County, Oklahoma",57,40,083,2014
+"Tulsa County, Oklahoma",2512,40,143,2014
+"Harmon County, Oklahoma",0,40,057,2014
+"Haskell County, Oklahoma",8,40,061,2014
+"Okmulgee County, Oklahoma",75,40,111,2014
+"Osage County, Oklahoma",108,40,113,2014
+"Jefferson County, Oklahoma",2,40,067,2014
+"Garfield County, Oklahoma",338,40,047,2014
+"Garvin County, Oklahoma",37,40,049,2014
+"Pittsburg County, Oklahoma",52,40,121,2014
+"Pontotoc County, Oklahoma",16,40,123,2014
+"Roger Mills County, Oklahoma",0,40,129,2014
+"Woodward County, Oklahoma",20,40,153,2014
+"Cherokee County, Oklahoma",23,40,021,2014
+"Delaware County, Oklahoma",37,40,041,2014
+"Ellis County, Oklahoma",3,40,045,2014
+"Grady County, Oklahoma",71,40,051,2014
+"Payne County, Oklahoma",239,40,119,2014
+"Pottawatomie County, Oklahoma",141,40,125,2014
+"Creek County, Oklahoma",50,40,037,2014
+"Tillman County, Oklahoma",62,40,141,2014
+"Washita County, Oklahoma",0,40,149,2014
+"Cotton County, Oklahoma",63,40,033,2014
+"Kiowa County, Oklahoma",45,40,075,2014
+"Le Flore County, Oklahoma",172,40,079,2014
+"McCurtain County, Oklahoma",105,40,089,2014
+"Major County, Oklahoma",0,40,093,2014
+"Mayes County, Oklahoma",59,40,097,2014
+"Oklahoma County, Oklahoma",2546,40,109,2014
+"Custer County, Oklahoma",140,40,039,2014
+"Love County, Oklahoma",0,40,085,2014
+"Beckham County, Oklahoma",93,40,009,2014
+"Choctaw County, Oklahoma",30,40,023,2014
+"Jackson County, Oklahoma",85,40,065,2014
+"Lincoln County, Oklahoma",13,40,081,2014
+"Pawnee County, Oklahoma",7,40,117,2014
+"Seminole County, Oklahoma",47,40,133,2014
+"Cimarron County, Oklahoma",5,40,025,2014
+"Blaine County, Oklahoma",0,40,011,2014
+"Coal County, Oklahoma",1,40,029,2014
+"Grant County, Oklahoma",8,40,053,2014
+"Kingfisher County, Oklahoma",4,40,073,2014
+"McClain County, Oklahoma",74,40,087,2014
+"Marshall County, Oklahoma",7,40,095,2014
+"Noble County, Oklahoma",0,40,103,2014
+"Dewey County, Oklahoma",0,40,043,2014
+"Nowata County, Oklahoma",8,40,105,2014
+"Rogers County, Oklahoma",125,40,131,2014
+"Cleveland County, Oklahoma",993,40,027,2014
+"Sequoyah County, Oklahoma",103,40,135,2014
+"Alfalfa County, Oklahoma",6,40,003,2014
+"Woods County, Oklahoma",0,40,151,2014
+"Okfuskee County, Oklahoma",26,40,107,2014
+"Atoka County, Oklahoma",22,40,005,2014
+"Union County, Oregon",14,41,061,2014
+"Marion County, Oregon",674,41,047,2014
+"Douglas County, Oregon",257,41,019,2014
+"Jefferson County, Oregon",34,41,031,2014
+"Polk County, Oregon",173,41,053,2014
+"Deschutes County, Oregon",493,41,017,2014
+"Linn County, Oregon",345,41,043,2014
+"Yamhill County, Oregon",351,41,071,2014
+"Baker County, Oregon",7,41,001,2014
+"Klamath County, Oregon",63,41,035,2014
+"Lincoln County, Oregon",32,41,041,2014
+"Benton County, Oregon",263,41,003,2014
+"Crook County, Oregon",53,41,013,2014
+"Sherman County, Oregon",0,41,055,2014
+"Harney County, Oregon",0,41,025,2014
+"Malheur County, Oregon",53,41,045,2014
+"Wallowa County, Oregon",14,41,063,2014
+"Wheeler County, Oregon",3,41,069,2014
+"Morrow County, Oregon",0,41,049,2014
+"Coos County, Oregon",74,41,011,2014
+"Warren County, Tennessee",54,47,177,2014
+"Washington County, Tennessee",365,47,179,2014
+"Weakley County, Tennessee",0,47,183,2014
+"Benton County, Tennessee",27,47,005,2014
+"Bledsoe County, Tennessee",24,47,007,2014
+"Campbell County, Tennessee",90,47,013,2014
+"Cannon County, Tennessee",0,47,015,2014
+"Houston County, Tennessee",7,47,083,2014
+"Maury County, Tennessee",212,47,119,2014
+"Polk County, Texas",76,48,373,2014
+"Refugio County, Texas",58,48,391,2014
+"Van Zandt County, Texas",29,48,467,2014
+"Caldwell County, Texas",264,48,055,2014
+"Wilbarger County, Texas",21,48,487,2014
+"Martin County, Texas",27,48,317,2014
+"Reagan County, Texas",0,48,383,2014
+"Yoakum County, Texas",63,48,501,2014
+"Hale County, Texas",164,48,189,2014
+"Shelby County, Texas",0,48,419,2014
+"Red River County, Texas",57,48,387,2014
+"Runnels County, Texas",73,48,399,2014
+"Sutton County, Texas",0,48,435,2014
+"Tom Green County, Texas",815,48,451,2014
+"Victoria County, Texas",235,48,469,2014
+"Wharton County, Texas",30,48,481,2014
+"Grayson County, Texas",47,48,181,2014
+"Borden County, Texas",0,48,033,2014
+"Marion County, Texas",0,48,315,2014
+"Maverick County, Texas",224,48,323,2014
+"Live Oak County, Texas",15,48,297,2014
+"Palo Pinto County, Texas",43,48,363,2014
+"Karnes County, Texas",24,48,255,2014
+"DeWitt County, Texas",17,48,123,2014
+"Callahan County, Texas",27,48,059,2014
+"Cass County, Texas",9,48,067,2014
+"Gregg County, Texas",165,48,183,2014
+"Madison County, Texas",18,48,313,2014
+"Lubbock County, Texas",526,48,303,2014
+"Kaufman County, Texas",567,48,257,2014
+"Kendall County, Texas",258,48,259,2014
+"Floyd County, Texas",14,48,153,2014
+"Bailey County, Texas",0,48,017,2014
+"Chambers County, Texas",21,48,071,2014
+"Bell County, Texas",13053,48,027,2014
+"Cameron County, Texas",856,48,061,2014
+"Deaf Smith County, Texas",54,48,117,2014
+"El Paso County, Texas",8407,48,141,2014
+"La Salle County, Texas",0,48,283,2014
+"Terrell County, Texas",23,48,443,2014
+"Tyler County, Texas",20,48,457,2014
+"Wheeler County, Texas",9,48,483,2014
+"Archer County, Texas",28,48,009,2014
+"Brewster County, Texas",10,48,043,2014
+"Hidalgo County, Texas",1921,48,215,2014
+"Smith County, Texas",625,48,423,2014
+"Crockett County, Texas",25,48,105,2014
+"Haskell County, Texas",0,48,207,2014
+"Howard County, Texas",133,48,227,2014
+"Mills County, Texas",10,48,333,2014
+"Montague County, Texas",19,48,337,2014
+"Panola County, Texas",5,48,365,2014
+"Sabine County, Texas",16,48,403,2014
+"Sherman County, Texas",8,48,421,2014
+"Swisher County, Texas",66,48,437,2014
+"Hunt County, Texas",165,48,231,2014
+"Camp County, Texas",38,48,063,2014
+"Hansford County, Texas",0,48,195,2014
+"Guadalupe County, Texas",1501,48,187,2014
+"Clay County, Texas",44,48,077,2014
+"Hartley County, Texas",56,48,205,2014
+"Hill County, Texas",69,48,217,2014
+"Limestone County, Texas",7,48,293,2014
+"Wichita County, Texas",784,48,485,2014
+"Nacogdoches County, Texas",194,48,347,2014
+"Parmer County, Texas",81,48,369,2014
+"Parker County, Texas",89,48,367,2014
+"Garza County, Texas",11,48,169,2014
+"Val Verde County, Texas",214,48,465,2014
+"Culberson County, Texas",0,48,109,2014
+"Ector County, Texas",512,48,135,2014
+"Glasscock County, Texas",0,48,173,2014
+"Grimes County, Texas",14,48,185,2014
+"Collin County, Texas",4473,48,085,2014
+"Angelina County, Texas",87,48,005,2014
+"Cottle County, Texas",12,48,101,2014
+"Hays County, Texas",1113,48,209,2014
+"Brazoria County, Texas",1547,48,039,2014
+"Donley County, Texas",0,48,129,2014
+"Atascosa County, Texas",73,48,013,2014
+"Nolan County, Texas",0,48,353,2014
+"Hudspeth County, Texas",2,48,229,2014
+"Ward County, Texas",68,48,475,2014
+"Harrison County, Texas",56,48,203,2014
+"Menard County, Texas",3,48,327,2014
+"Fayette County, Texas",2,48,149,2014
+"Williamson County, Texas",2896,48,491,2014
+"Hutchinson County, Texas",49,48,233,2014
+"Morris County, Texas",5,48,343,2014
+"Orange County, Texas",121,48,361,2014
+"Winkler County, Texas",29,48,495,2014
+"Harris County, Texas",24510,48,201,2014
+"Burnet County, Texas",43,48,053,2014
+"Gillespie County, Texas",25,48,171,2014
+"Dallas County, Texas",12150,48,113,2014
+"McMullen County, Texas",0,48,311,2014
+"Young County, Texas",0,48,503,2014
+"Johnson County, Texas",928,48,251,2014
+"Hopkins County, Texas",16,48,223,2014
+"Ochiltree County, Texas",46,48,357,2014
+"Knox County, Texas",8,48,275,2014
+"McLennan County, Texas",1559,48,309,2014
+"Concho County, Texas",0,48,095,2014
+"Edwards County, Texas",0,48,137,2014
+"Eastland County, Texas",17,48,133,2014
+"Jeff Davis County, Texas",8,48,243,2014
+"Jim Hogg County, Texas",10,48,247,2014
+"Montgomery County, Texas",1966,48,339,2014
+"Dimmit County, Texas",214,48,127,2014
+"Webb County, Texas",1428,48,479,2014
+"Armstrong County, Texas",0,48,011,2014
+"Castro County, Texas",5,48,069,2014
+"Kleberg County, Texas",208,48,273,2014
+"Cooke County, Texas",70,48,097,2014
+"Presidio County, Texas",0,48,377,2014
+"Crosby County, Texas",39,48,107,2014
+"Fisher County, Texas",0,48,151,2014
+"Duval County, Texas",22,48,131,2014
+"Kinney County, Texas",58,48,271,2014
+"Blanco County, Texas",77,48,031,2014
+"Jasper County, Texas",0,48,241,2014
+"Jefferson County, Texas",747,48,245,2014
+"Oldham County, Texas",38,48,359,2014
+"Lamb County, Texas",52,48,279,2014
+"Lipscomb County, Texas",4,48,295,2014
+"McCulloch County, Texas",116,48,307,2014
+"Mason County, Texas",0,48,319,2014
+"Dickens County, Texas",0,48,125,2014
+"Lee County, Texas",126,48,287,2014
+"Tarrant County, Texas",16515,48,439,2014
+"Anderson County, Texas",159,48,001,2014
+"Ellis County, Texas",526,48,139,2014
+"Jackson County, Texas",0,48,239,2014
+"Kerr County, Texas",167,48,265,2014
+"Milam County, Texas",101,48,331,2014
+"Comanche County, Texas",23,48,093,2014
+"Falls County, Texas",36,48,145,2014
+"Brooks County, Texas",0,48,047,2014
+"Austin County, Texas",33,48,015,2014
+"Kenedy County, Texas",6,48,261,2014
+"Colorado County, Texas",20,48,089,2014
+"San Patricio County, Texas",194,48,409,2014
+"Randall County, Texas",307,48,381,2014
+"San Saba County, Texas",0,48,411,2014
+"Schleicher County, Texas",0,48,413,2014
+"Zavala County, Texas",68,48,507,2014
+"Calhoun County, Texas",40,48,057,2014
+"Foard County, Texas",0,48,155,2014
+"Goliad County, Texas",0,48,175,2014
+"Hamilton County, Texas",0,48,193,2014
+"Mitchell County, Texas",51,48,335,2014
+"Titus County, Texas",114,48,449,2014
+"Lavaca County, Texas",0,48,285,2014
+"Terry County, Texas",43,48,445,2014
+"Wise County, Texas",42,48,497,2014
+"Matagorda County, Texas",28,48,321,2014
+"Pecos County, Texas",54,48,371,2014
+"Rockwall County, Texas",702,48,397,2014
+"Taylor County, Texas",747,48,441,2014
+"Throckmorton County, Texas",0,48,447,2014
+"Walker County, Texas",241,48,471,2014
+"Wood County, Texas",13,48,499,2014
+"Aransas County, Texas",14,48,007,2014
+"Cochran County, Texas",0,48,079,2014
+"Coke County, Texas",4,48,081,2014
+"Coryell County, Texas",1950,48,099,2014
+"Hemphill County, Texas",3,48,211,2014
+"Moore County, Texas",45,48,341,2014
+"Potter County, Texas",238,48,375,2014
+"Upton County, Texas",4,48,461,2014
+"San Augustine County, Texas",0,48,405,2014
+"Shackelford County, Texas",1,48,417,2014
+"Starr County, Texas",63,48,427,2014
+"Brown County, Texas",28,48,049,2014
+"Hall County, Texas",1,48,191,2014
+"Franklin County, Texas",0,48,159,2014
+"Frio County, Texas",28,48,163,2014
+"Lampasas County, Texas",437,48,281,2014
+"Orleans County, Vermont",72,50,019,2014
+"Grand Isle County, Vermont",16,50,013,2014
+"Chittenden County, Vermont",485,50,007,2014
+"Lamoille County, Vermont",107,50,015,2014
+"Franklin County, Vermont",137,50,011,2014
+"Caledonia County, Vermont",187,50,005,2014
+"Windham County, Vermont",421,50,025,2014
+"Bennington County, Vermont",244,50,003,2014
+"Addison County, Vermont",150,50,001,2014
+"Essex County, Vermont",35,50,009,2014
+"Washington County, Vermont",399,50,023,2014
+"Millard County, Utah",4,49,027,2014
+"Tooele County, Utah",121,49,045,2014
+"Washington County, Utah",359,49,053,2014
+"Kane County, Utah",0,49,025,2014
+"Summit County, Utah",139,49,043,2014
+"Grand County, Utah",13,49,019,2014
+"Piute County, Utah",0,49,031,2014
+"Rich County, Utah",0,49,033,2014
+"Wasatch County, Utah",31,49,051,2014
+"Beaver County, Utah",0,49,001,2014
+"Box Elder County, Utah",22,49,003,2014
+"Iron County, Utah",35,49,021,2014
+"Sanpete County, Utah",27,49,039,2014
+"Sevier County, Utah",5,49,041,2014
+"Weber County, Utah",452,49,057,2014
+"San Juan County, Utah",0,49,037,2014
+"Salt Lake County, Utah",3322,49,035,2014
+"Daggett County, Utah",0,49,009,2014
+"Wayne County, Utah",1,49,055,2014
+"Carbon County, Utah",0,49,007,2014
+"Morgan County, Utah",0,49,029,2014
+"Cache County, Utah",308,49,005,2014
+"Juab County, Utah",0,49,023,2014
+"James City County, Virginia",1043,51,095,2014
+"Russell County, Virginia",35,51,167,2014
+"Smyth County, Virginia",107,51,173,2014
+"Charlottesville city, Virginia",86,51,540,2014
+"Campbell County, Virginia",118,51,031,2014
+"Henrico County, Virginia",2302,51,087,2014
+"King George County, Virginia",545,51,099,2014
+"Lancaster County, Virginia",103,51,103,2014
+"Lee County, Virginia",84,51,105,2014
+"Mathews County, Virginia",32,51,115,2014
+"Middlesex County, Virginia",33,51,119,2014
+"Prince George County, Virginia",733,51,149,2014
+"Richmond County, Virginia",21,51,159,2014
+"Scott County, Virginia",0,51,169,2014
+"Spotsylvania County, Virginia",2088,51,177,2014
+"Appomattox County, Virginia",119,51,011,2014
+"Franklin County, Virginia",213,51,067,2014
+"Cumberland County, Virginia",0,51,049,2014
+"King and Queen County, Virginia",0,51,097,2014
+"Montgomery County, Virginia",511,51,121,2014
+"New Kent County, Virginia",104,51,127,2014
+"Dickenson County, Virginia",24,51,051,2014
+"Halifax County, Virginia",59,51,083,2014
+"Loudoun County, Virginia",3741,51,107,2014
+"Prince William County, Virginia",7582,51,153,2014
+"Southampton County, Virginia",16,51,175,2014
+"Highland County, Virginia",0,51,091,2014
+"Caroline County, Virginia",257,51,033,2014
+"Gloucester County, Virginia",196,51,073,2014
+"Patrick County, Virginia",0,51,141,2014
+"Powhatan County, Virginia",132,51,145,2014
+"Shenandoah County, Virginia",333,51,171,2014
+"Fauquier County, Virginia",211,51,061,2014
+"Staunton city, Virginia",120,51,790,2014
+"Asotin County, Washington",27,53,003,2014
+"Adams County, Washington",17,53,001,2014
+"Garfield County, Washington",0,53,023,2014
+"Mason County, Washington",162,53,045,2014
+"Skagit County, Washington",585,53,057,2014
+"Stevens County, Washington",92,53,065,2014
+"Spokane County, Washington",1378,53,063,2014
+"Lincoln County, Washington",15,53,043,2014
+"Chelan County, Washington",153,53,007,2014
+"Jefferson County, Washington",33,53,031,2014
+"Kitsap County, Washington",1565,53,035,2014
+"King County, Washington",7511,53,033,2014
+"Pacific County, Washington",27,53,049,2014
+"Pend Oreille County, Washington",22,53,051,2014
+"San Juan County, Washington",17,53,055,2014
+"Skamania County, Washington",3,53,059,2014
+"Whitman County, Washington",140,53,075,2014
+"Yakima County, Washington",583,53,077,2014
+"Clallam County, Washington",56,53,009,2014
+"Cowlitz County, Washington",156,53,015,2014
+"Ferry County, Washington",5,53,019,2014
+"Lewis County, Washington",575,53,041,2014
+"Douglas County, Washington",38,53,017,2014
+"Island County, Washington",384,53,029,2014
+"Pierce County, Washington",8205,53,053,2014
+"Franklin County, Washington",281,53,021,2014
+"Walla Walla County, Washington",165,53,071,2014
+"Whatcom County, Washington",470,53,073,2014
+"Grant County, West Virginia",0,54,023,2014
+"Hampshire County, West Virginia",38,54,027,2014
+"Brooke County, West Virginia",30,54,009,2014
+"Doddridge County, West Virginia",0,54,017,2014
+"Hardy County, West Virginia",55,54,031,2014
+"Marion County, West Virginia",69,54,049,2014
+"Mingo County, West Virginia",13,54,059,2014
+"Hancock County, West Virginia",40,54,029,2014
+"Marshall County, West Virginia",12,54,051,2014
+"Nicholas County, West Virginia",0,54,067,2014
+"Tucker County, West Virginia",0,54,093,2014
+"Tyler County, West Virginia",0,54,095,2014
+"Roane County, West Virginia",20,54,087,2014
+"Mason County, West Virginia",6,54,053,2014
+"Taylor County, West Virginia",65,54,091,2014
+"Wood County, West Virginia",175,54,107,2014
+"Gilmer County, West Virginia",56,54,021,2014
+"Monroe County, West Virginia",11,54,063,2014
+"Pleasants County, West Virginia",35,54,073,2014
+"Cabell County, West Virginia",73,54,011,2014
+"Jefferson County, West Virginia",590,54,037,2014
+"Logan County, West Virginia",8,54,045,2014
+"Pendleton County, West Virginia",0,54,071,2014
+"Harrison County, West Virginia",102,54,033,2014
+"Ohio County, West Virginia",76,54,069,2014
+"Calhoun County, West Virginia",0,54,013,2014
+"Morgan County, West Virginia",18,54,065,2014
+"Raleigh County, West Virginia",232,54,081,2014
+"Putnam County, West Virginia",12,54,079,2014
+"Barbour County, West Virginia",18,54,001,2014
+"McDowell County, West Virginia",0,54,047,2014
+"Wayne County, West Virginia",116,54,099,2014
+"Jackson County, West Virginia",0,54,035,2014
+"Mercer County, West Virginia",138,54,055,2014
+"Upshur County, West Virginia",0,54,097,2014
+"Webster County, West Virginia",0,54,101,2014
+"Berkeley County, West Virginia",804,54,003,2014
+"Fayette County, West Virginia",113,54,019,2014
+"Iron County, Wisconsin",2,55,051,2014
+"Clark County, Wisconsin",35,55,019,2014
+"St. Croix County, Wisconsin",105,55,109,2014
+"Oconto County, Wisconsin",6,55,083,2014
+"Lincoln County, Wisconsin",14,55,069,2014
+"Waupaca County, Wisconsin",17,55,135,2014
+"Barron County, Wisconsin",61,55,005,2014
+"Sawyer County, Wisconsin",97,55,113,2014
+"Green Lake County, Wisconsin",25,55,047,2014
+"Price County, Wisconsin",80,55,099,2014
+"Marquette County, Wisconsin",104,55,077,2014
+"Marinette County, Wisconsin",18,55,075,2014
+"Milwaukee County, Wisconsin",33751,55,079,2014
+"Racine County, Wisconsin",1875,55,101,2014
+"Winnebago County, Wisconsin",629,55,139,2014
+"Forest County, Wisconsin",16,55,041,2014
+"Green County, Wisconsin",67,55,045,2014
+"Rusk County, Wisconsin",83,55,107,2014
+"Shawano County, Wisconsin",133,55,115,2014
+"Langlade County, Wisconsin",22,55,067,2014
+"Outagamie County, Wisconsin",376,55,087,2014
+"Vernon County, Wisconsin",9,55,123,2014
+"Columbia County, Wisconsin",113,55,021,2014
+"Kewaunee County, Wisconsin",68,55,061,2014
+"Brown County, Wisconsin",1886,55,009,2014
+"Eau Claire County, Wisconsin",297,55,035,2014
+"Oneida County, Wisconsin",40,55,085,2014
+"Polk County, Wisconsin",44,55,095,2014
+"Washburn County, Wisconsin",44,55,129,2014
+"Waukesha County, Wisconsin",1882,55,133,2014
+"Walworth County, Wisconsin",558,55,127,2014
+"Crawford County, Wisconsin",30,55,023,2014
+"Juneau County, Wisconsin",120,55,057,2014
+"Dane County, Wisconsin",2447,55,025,2014
+"Sauk County, Wisconsin",183,55,111,2014
+"Washington County, Wisconsin",251,55,131,2014
+"Chippewa County, Wisconsin",66,55,017,2014
+"Douglas County, Wisconsin",44,55,031,2014
+"Jackson County, Wisconsin",86,55,053,2014
+"Iowa County, Wisconsin",46,55,049,2014
+"Ozaukee County, Wisconsin",142,55,089,2014
+"Portage County, Wisconsin",42,55,097,2014
+"Rock County, Wisconsin",599,55,105,2014
+"Taylor County, Wisconsin",16,55,119,2014
+"Adams County, Wisconsin",120,55,001,2014
+"Bayfield County, Wisconsin",24,55,007,2014
+"Monroe County, Wisconsin",135,55,081,2014
+"Wood County, Wisconsin",327,55,141,2014
+"Ashland County, Wisconsin",36,55,003,2014
+"Florence County, Wisconsin",4,55,037,2014
+"Jefferson County, Wisconsin",387,55,055,2014
+"Campbell County, Wyoming",3,56,005,2014
+"Lincoln County, Wyoming",13,56,023,2014
+"Natrona County, Wyoming",189,56,025,2014
+"Converse County, Wyoming",40,56,009,2014
+"Niobrara County, Wyoming",2,56,027,2014
+"Sweetwater County, Wyoming",67,56,037,2014
+"Fluvanna County, Virginia",113,51,065,2014
+"Amelia County, Virginia",12,51,007,2014
+"Radford city, Virginia",83,51,750,2014
+"Winchester city, Virginia",229,51,840,2014
+"Accomack County, Virginia",91,51,001,2014
+"Craig County, Virginia",0,51,045,2014
+"Floyd County, Virginia",66,51,063,2014
+"Giles County, Virginia",21,51,071,2014
+"Grayson County, Virginia",22,51,077,2014
+"Nottoway County, Virginia",107,51,135,2014
+"Rappahannock County, Virginia",0,51,157,2014
+"Charles City County, Virginia",3,51,036,2014
+"Culpeper County, Virginia",748,51,047,2014
+"Dinwiddie County, Virginia",195,51,053,2014
+"Greene County, Virginia",69,51,079,2014
+"Hanover County, Virginia",294,51,085,2014
+"Lunenburg County, Virginia",24,51,111,2014
+"Orange County, Virginia",300,51,137,2014
+"Emporia city, Virginia",0,51,595,2014
+"Wythe County, Virginia",21,51,197,2014
+"Chesapeake city, Virginia",2813,51,550,2014
+"Harrisonburg city, Virginia",1261,51,660,2014
+"Albemarle County, Virginia",414,51,003,2014
+"Bedford County, Virginia",225,51,019,2014
+"Buckingham County, Virginia",70,51,029,2014
+"Wise County, Virginia",69,51,195,2014
+"Covington city, Virginia",29,51,580,2014
+"Portsmouth city, Virginia",788,51,740,2014
+"Virginia Beach city, Virginia",10222,51,810,2014
+"Alleghany County, Virginia",0,51,005,2014
+"Galax city, Virginia",0,51,640,2014
+"Westmoreland County, Virginia",60,51,193,2014
+"Northumberland County, Virginia",0,51,133,2014
+"Pulaski County, Virginia",82,51,155,2014
+"Warren County, Virginia",164,51,187,2014
+"Bath County, Virginia",0,51,017,2014
+"Danville city, Virginia",37,51,590,2014
+"Fredericksburg city, Virginia",416,51,630,2014
+"Amherst County, Virginia",20,51,009,2014
+"Hopewell city, Virginia",814,51,670,2014
+"Newport News city, Virginia",4068,51,700,2014
+"Frederick County, Virginia",729,51,069,2014
+"Lynchburg city, Virginia",412,51,680,2014
+"York County, Virginia",1047,51,199,2014
+"Martinsville city, Virginia",1,51,690,2014
+"Nelson County, Virginia",0,51,125,2014
+"Pittsylvania County, Virginia",135,51,143,2014
+"Buena Vista city, Virginia",24,51,530,2014
+"Falls Church city, Virginia",40,51,610,2014
+"Petersburg city, Virginia",568,51,730,2014
+"Poquoson city, Virginia",21,51,735,2014
+"Fairfax city, Virginia",208,51,600,2014
+"Waynesboro city, Virginia",590,51,820,2014
+"Roanoke city, Virginia",779,51,770,2014
+"Suffolk city, Virginia",699,51,800,2014
+"Norfolk city, Virginia",4507,51,710,2014
+"Chesterfield County, Virginia",3548,51,041,2014
+"Fairfax County, Virginia",12417,51,059,2014
+"Okanogan County, Washington",59,53,047,2014
+"Kittitas County, Washington",103,53,037,2014
+"Benton County, Washington",669,53,005,2014
+"Clark County, Washington",1017,53,011,2014
+"Jefferson Davis County, Mississippi",0,28,065,2014
+"Lafayette County, Mississippi",16,28,071,2014
+"Lowndes County, Mississippi",197,28,087,2014
+"Wilkinson County, Mississippi",0,28,157,2014
+"Scott County, Mississippi",84,28,123,2014
+"Yazoo County, Mississippi",90,28,163,2014
+"Bolivar County, Mississippi",12,28,011,2014
+"Pike County, Mississippi",42,28,113,2014
+"Stone County, Mississippi",20,28,131,2014
+"Kemper County, Mississippi",0,28,069,2014
+"Coosa County, Alabama",0,01,037,2014
+"Dale County, Alabama",594,01,045,2014
+"Hale County, Alabama",0,01,065,2014
+"Etowah County, Alabama",47,01,055,2014
+"DeKalb County, Alabama",317,01,049,2014
+"Escambia County, Alabama",74,01,053,2014
+"Lamar County, Alabama",57,01,075,2014
+"Randolph County, Alabama",16,01,111,2014
+"Butler County, Alabama",0,01,013,2014
+"Mobile County, Alabama",1077,01,097,2014
+"Perry County, Alabama",0,01,105,2014
+"Walker County, Alabama",197,01,127,2014
+"Cleburne County, Alabama",0,01,029,2014
+"Conecuh County, Alabama",22,01,035,2014
+"Greene County, Alabama",0,01,063,2014
+"Barbour County, Alabama",82,01,005,2014
+"Bibb County, Alabama",41,01,007,2014
+"Bullock County, Alabama",0,01,011,2014
+"Calhoun County, Alabama",542,01,015,2014
+"Clarke County, Alabama",12,01,025,2014
+"Fayette County, Alabama",24,01,057,2014
+"Marshall County, Alabama",190,01,095,2014
+"Blount County, Alabama",185,01,009,2014
+"Madison County, Alabama",2626,01,089,2014
+"Autauga County, Alabama",342,01,001,2014
+"Geneva County, Alabama",27,01,061,2014
+"Wilcox County, Alabama",0,01,131,2014
+"Bristol Bay Borough, Alaska",0,02,060,2014
+"Kodiak Island Borough, Alaska",162,02,150,2014
+"Bethel Census Area, Alaska",0,02,050,2014
+"Wade Hampton Census Area, Alaska",4,02,270,2014
+"Sitka City and Borough, Alaska",95,02,220,2014
+"Ketchikan Gateway Borough, Alaska",143,02,130,2014
+"Matanuska-Susitna Borough, Alaska",549,02,170,2014
+"Dillingham Census Area, Alaska",5,02,070,2014
+"Haines Borough, Alaska",0,02,100,2014
+"Juneau City and Borough, Alaska",49,02,110,2014
+"Lake and Peninsula Borough, Alaska",0,02,164,2014
+"Yukon-Koyukuk Census Area, Alaska",8,02,290,2014
+"Anchorage Municipality, Alaska",3355,02,020,2014
+"Denali Borough, Alaska",0,02,068,2014
+"Valdez-Cordova Census Area, Alaska",17,02,261,2014
+"Hoonah-Angoon Census Area, Alaska",0,02,105,2014
+"Skagway Municipality, Alaska",0,02,230,2014
+"Wrangell City and Borough, Alaska",5,02,275,2014
+"Petersburg Borough, Alaska",15,02,195,2014
+"Maricopa County, Arizona",22593,04,013,2014
+"Gila County, Arizona",43,04,007,2014
+"Santa Cruz County, Arizona",333,04,023,2014
+"Yavapai County, Arizona",689,04,025,2014
+"Cochise County, Arizona",1981,04,003,2014
+"Mohave County, Arizona",540,04,015,2014
+"Coconino County, Arizona",901,04,005,2014
+"Greenlee County, Arizona",0,04,011,2014
+"Navajo County, Arizona",269,04,017,2014
+"Nevada County, Arkansas",0,05,099,2014
+"Cross County, Arkansas",0,05,037,2014
+"Dallas County, Arkansas",0,05,039,2014
+"Columbia County, Arkansas",0,05,027,2014
+"Randolph County, Arkansas",7,05,121,2014
+"Van Buren County, Arkansas",0,05,141,2014
+"Izard County, Arkansas",0,05,065,2014
+"Sunflower County, Mississippi",9,28,133,2014
+"Adams County, Mississippi",69,28,001,2014
+"DeSoto County, Mississippi",171,28,033,2014
+"Delaware County, Pennsylvania",6955,42,045,2014
+"Somerset County, Pennsylvania",517,42,111,2014
+"Madison County, Missouri",0,29,123,2014
+"Vernon County, Missouri",9,29,217,2014
+"Nodaway County, Missouri",58,29,147,2014
+"Chariton County, Missouri",5,29,041,2014
+"Wayne County, Missouri",10,29,223,2014
+"Scott County, Missouri",29,29,201,2014
+"Barton County, Missouri",0,29,011,2014
+"Cedar County, Missouri",15,29,039,2014
+"Gasconade County, Missouri",24,29,073,2014
+"Macon County, Missouri",62,29,121,2014
+"Oregon County, Missouri",42,29,149,2014
+"Ste. Genevieve County, Missouri",1,29,186,2014
+"Douglas County, Missouri",0,29,067,2014
+"Henry County, Missouri",9,29,083,2014
+"Lawrence County, Missouri",71,29,109,2014
+"Pulaski County, Missouri",1416,29,169,2014
+"Texas County, Missouri",73,29,215,2014
+"Callaway County, Missouri",86,29,027,2014
+"Cooper County, Missouri",53,29,053,2014
+"Gentry County, Missouri",0,29,075,2014
+"Mississippi County, Missouri",70,29,133,2014
+"Ozark County, Missouri",35,29,153,2014
+"Bollinger County, Missouri",0,29,017,2014
+"Phillips County, Montana",0,30,071,2014
+"Blaine County, Nebraska",0,31,009,2014
+"Deuel County, Nebraska",0,31,049,2014
+"Logan County, Nebraska",0,31,113,2014
+"Thayer County, Nebraska",0,31,169,2014
+"Adams County, Nebraska",84,31,001,2014
+"Boone County, Nebraska",0,31,011,2014
+"Rock County, Nebraska",0,31,149,2014
+"Sherman County, Nebraska",11,31,163,2014
+"Howard County, Nebraska",0,31,093,2014
+"Gosper County, Nebraska",0,31,073,2014
+"Sarpy County, Nebraska",720,31,153,2014
+"Boyd County, Nebraska",0,31,015,2014
+"Fillmore County, Nebraska",0,31,059,2014
+"Hooker County, Nebraska",0,31,091,2014
+"Seward County, Nebraska",26,31,159,2014
+"Webster County, Nebraska",0,31,181,2014
+"Butler County, Nebraska",3,31,023,2014
+"Arthur County, Nebraska",0,31,005,2014
+"Escambia County, Florida",3488,12,033,2014
+"Hernando County, Florida",9987,12,053,2014
+"Hillsborough County, Florida",101479,12,057,2014
+"Okaloosa County, Florida",3391,12,091,2014
+"Taylor County, Florida",267,12,123,2014
+"Wakulla County, Florida",266,12,129,2014
+"Lumpkin County, Georgia",83,13,187,2014
+"McDuffie County, Georgia",21,13,189,2014
+"Miller County, Georgia",6,13,201,2014
+"Morgan County, Georgia",55,13,211,2014
+"Heard County, Georgia",0,13,149,2014
+"Oconee County, Georgia",155,13,219,2014
+"Dougherty County, Georgia",364,13,095,2014
+"Fannin County, Georgia",103,13,111,2014
+"Henry County, Georgia",2582,13,151,2014
+"Houston County, Georgia",1690,13,153,2014
+"Laurens County, Georgia",79,13,175,2014
+"Long County, Georgia",276,13,183,2014
+"Spalding County, Georgia",435,13,255,2014
+"Stephens County, Georgia",15,13,257,2014
+"Telfair County, Georgia",83,13,271,2014
+"Upson County, Georgia",22,13,293,2014
+"Washington County, Georgia",24,13,303,2014
+"Peach County, Georgia",46,13,225,2014
+"Pierce County, Georgia",7,13,229,2014
+"Walker County, Georgia",298,13,295,2014
+"Pike County, Georgia",39,13,231,2014
+"Screven County, Georgia",0,13,251,2014
+"Tattnall County, Georgia",192,13,267,2014
+"Gwinnett County, Georgia",13263,13,135,2014
+"Charlton County, Georgia",2,13,049,2014
+"Bartow County, Georgia",879,13,015,2014
+"Douglas County, Georgia",1004,13,097,2014
+"Jeff Davis County, Georgia",26,13,161,2014
+"Hancock County, Georgia",4,13,141,2014
+"Calhoun County, Georgia",13,13,037,2014
+"Troup County, Georgia",159,13,285,2014
+"Bibb County, Georgia",355,13,021,2014
+"Marion County, Georgia",28,13,197,2014
+"Schley County, Georgia",0,13,249,2014
+"Bleckley County, Georgia",107,13,023,2014
+"Evans County, Georgia",16,13,109,2014
+"Franklin County, Georgia",39,13,119,2014
+"Effingham County, Georgia",539,13,103,2014
+"Lamar County, Georgia",29,13,171,2014
+"Emanuel County, Georgia",19,13,107,2014
+"Quitman County, Georgia",0,13,239,2014
+"Jasper County, Georgia",39,13,159,2014
+"Lanier County, Georgia",0,13,173,2014
+"Liberty County, Georgia",2896,13,179,2014
+"Mitchell County, Georgia",44,13,205,2014
+"Seminole County, Georgia",30,13,253,2014
+"Twiggs County, Georgia",4,13,289,2014
+"Polk County, Georgia",61,13,233,2014
+"Taylor County, Georgia",22,13,269,2014
+"Thomas County, Georgia",96,13,275,2014
+"Toombs County, Georgia",66,13,279,2014
+"Montgomery County, Georgia",29,13,209,2014
+"Oglethorpe County, Georgia",90,13,221,2014
+"Rockdale County, Georgia",721,13,247,2014
+"Wayne County, Georgia",358,13,305,2014
+"Wheeler County, Georgia",1,13,309,2014
+"Baldwin County, Georgia",88,13,009,2014
+"Suffolk County, New York",64760,36,103,2014
+"Wyoming County, New York",790,36,121,2014
+"Oswego County, New York",1245,36,075,2014
+"Wayne County, New York",1893,36,117,2014
+"Broome County, New York",3810,36,007,2014
+"Erie County, New York",31007,36,029,2014
+"Sullivan County, New York",5391,36,105,2014
+"Orange County, New York",29614,36,071,2014
+"Haywood County, North Carolina",201,37,087,2014
+"Forsyth County, North Carolina",3574,37,067,2014
+"Bladen County, North Carolina",271,37,017,2014
+"Carteret County, North Carolina",658,37,031,2014
+"Bertie County, North Carolina",23,37,015,2014
+"Martin County, North Carolina",89,37,117,2014
+"Perquimans County, North Carolina",70,37,143,2014
+"Rockingham County, North Carolina",386,37,157,2014
+"Camden County, North Carolina",89,37,029,2014
+"Gaston County, North Carolina",1150,37,071,2014
+"Moore County, North Carolina",343,37,125,2014
+"Stanly County, North Carolina",501,37,167,2014
+"Yancey County, North Carolina",82,37,199,2014
+"Ohio County, Indiana",0,18,115,2014
+"Owen County, Indiana",0,18,119,2014
+"Logan County, Arkansas",4,05,083,2014
+"Independence County, Arkansas",11,05,063,2014
+"Lincoln County, Arkansas",0,05,079,2014
+"Grant County, Arkansas",4,05,053,2014
+"Crittenden County, Arkansas",23,05,035,2014
+"Franklin County, Arkansas",73,05,047,2014
+"Faulkner County, Arkansas",121,05,045,2014
+"Pike County, Arkansas",0,05,109,2014
+"Jefferson County, Arkansas",37,05,069,2014
+"Marion County, Arkansas",10,05,089,2014
+"Montgomery County, Arkansas",21,05,097,2014
+"Scott County, Arkansas",0,05,127,2014
+"Searcy County, Arkansas",0,05,129,2014
+"Sebastian County, Arkansas",411,05,131,2014
+"Crawford County, Arkansas",48,05,033,2014
+"Benton County, Arkansas",896,05,007,2014
+"Chicot County, Arkansas",0,05,017,2014
+"Hot Spring County, Arkansas",74,05,059,2014
+"Johnson County, Arkansas",3,05,071,2014
+"Lee County, Arkansas",0,05,077,2014
+"Madison County, Arkansas",42,05,087,2014
+"Fulton County, Arkansas",14,05,049,2014
+"Howard County, Arkansas",0,05,061,2014
+"Mississippi County, Arkansas",44,05,093,2014
+"Prairie County, Arkansas",0,05,117,2014
+"Union County, Arkansas",4,05,139,2014
+"Cleburne County, Arkansas",11,05,023,2014
+"Cleveland County, Arkansas",0,05,025,2014
+"Hempstead County, Arkansas",67,05,057,2014
+"Sharp County, Arkansas",110,05,135,2014
+"Washington County, Arkansas",678,05,143,2014
+"Ashley County, Arkansas",0,05,003,2014
+"Craighead County, Arkansas",82,05,031,2014
+"Lafayette County, Arkansas",0,05,073,2014
+"Perry County, Arkansas",0,05,105,2014
+"Poinsett County, Arkansas",0,05,111,2014
+"Sevier County, Arkansas",104,05,133,2014
+"Calhoun County, Arkansas",3,05,013,2014
+"Bradley County, Arkansas",29,05,011,2014
+"Lawrence County, Arkansas",0,05,075,2014
+"Polk County, Arkansas",32,05,113,2014
+"Conway County, Arkansas",0,05,029,2014
+"Newton County, Arkansas",0,05,101,2014
+"Little River County, Arkansas",67,05,081,2014
+"Lonoke County, Arkansas",268,05,085,2014
+"Miller County, Arkansas",155,05,091,2014
+"St. Francis County, Arkansas",148,05,123,2014
+"White County, Arkansas",58,05,145,2014
+"Merced County, California",1329,06,047,2014
+"Mariposa County, California",24,06,043,2014
+"Yuba County, California",305,06,115,2014
+"Contra Costa County, California",7841,06,013,2014
+"Lassen County, California",185,06,035,2014
+"Stanislaus County, California",3265,06,099,2014
+"Sonoma County, California",2025,06,097,2014
+"Tehama County, California",122,06,103,2014
+"Mono County, California",66,06,051,2014
+"San Benito County, California",219,06,069,2014
+"Ashe County, North Carolina",50,37,009,2014
+"Chatham County, North Carolina",281,37,037,2014
+"Johnston County, North Carolina",1726,37,101,2014
+"Person County, North Carolina",212,37,145,2014
+"Lenoir County, North Carolina",93,37,107,2014
+"Onslow County, North Carolina",4635,37,133,2014
+"Rutherford County, North Carolina",142,37,161,2014
+"Yadkin County, North Carolina",142,37,197,2014
+"Burke County, North Carolina",99,37,023,2014
+"Traill County, North Dakota",9,38,097,2014
+"Dickey County, North Dakota",12,38,021,2014
+"Ward County, North Dakota",298,38,101,2014
+"Pembina County, North Dakota",34,38,067,2014
+"Hettinger County, North Dakota",5,38,041,2014
+"Cass County, North Dakota",224,38,017,2014
+"Emmons County, North Dakota",0,38,029,2014
+"Richland County, North Dakota",19,38,077,2014
+"Adams County, North Dakota",7,38,001,2014
+"Eddy County, North Dakota",0,38,027,2014
+"Mercer County, North Dakota",0,38,057,2014
+"Ransom County, North Dakota",0,38,073,2014
+"Sioux County, North Dakota",0,38,085,2014
+"Golden Valley County, North Dakota",1,38,033,2014
+"Towner County, North Dakota",7,38,095,2014
+"Divide County, North Dakota",0,38,023,2014
+"Benton County, Indiana",0,18,007,2014
+"Parke County, Indiana",29,18,121,2014
+"Randolph County, Indiana",64,18,135,2014
+"Whitley County, Indiana",35,18,183,2014
+"Brown County, Indiana",0,18,013,2014
+"Clinton County, Indiana",125,18,023,2014
+"Putnam County, Indiana",121,18,133,2014
+"Union County, Indiana",5,18,161,2014
+"Washington County, Indiana",0,18,175,2014
+"Daviess County, Indiana",61,18,027,2014
+"Dearborn County, Indiana",3,18,029,2014
+"Henry County, Indiana",78,18,065,2014
+"Knox County, Indiana",112,18,083,2014
+"Lawrence County, Indiana",89,18,093,2014
+"Madison County, Indiana",331,18,095,2014
+"Perry County, Indiana",0,18,123,2014
+"Pike County, Indiana",0,18,125,2014
+"Pulaski County, Indiana",18,18,131,2014
+"Steuben County, Indiana",252,18,151,2014
+"Warren County, Indiana",8,18,171,2014
+"Wells County, Indiana",1,18,179,2014
+"Decatur County, Indiana",53,18,031,2014
+"Delaware County, Indiana",267,18,035,2014
+"Jefferson County, Indiana",238,18,077,2014
+"Jennings County, Indiana",0,18,079,2014
+"Miami County, Indiana",53,18,103,2014
+"Morgan County, Indiana",20,18,109,2014
+"Newton County, Indiana",14,18,111,2014
+"St. Joseph County, Indiana",1185,18,141,2014
+"Kosciusko County, Indiana",85,18,085,2014
+"Switzerland County, Indiana",2,18,155,2014
+"Vanderburgh County, Indiana",297,18,163,2014
+"Carroll County, Indiana",18,18,015,2014
+"Monroe County, Indiana",657,18,105,2014
+"Fountain County, Indiana",99,18,045,2014
+"Starke County, Indiana",19,18,149,2014
+"Crawford County, Indiana",31,18,025,2014
+"Greene County, Indiana",67,18,055,2014
+"Marion County, Indiana",4253,18,097,2014
+"Benton County, Iowa",5,19,011,2014
+"Dubuque County, Iowa",128,19,061,2014
+"Fremont County, Iowa",21,19,071,2014
+"Pocahontas County, Iowa",5,19,151,2014
+"Taylor County, Iowa",0,19,173,2014
+"Van Buren County, Iowa",18,19,177,2014
+"Ringgold County, Iowa",0,19,159,2014
+"Adams County, Iowa",0,19,003,2014
+"Audubon County, Iowa",0,19,009,2014
+"Clarke County, Iowa",0,19,039,2014
+"Davis County, Iowa",19,19,051,2014
+"Ida County, Iowa",0,19,093,2014
+"Johnson County, Iowa",412,19,103,2014
+"Monroe County, Iowa",0,19,135,2014
+"Wapello County, Iowa",44,19,179,2014
+"Sioux County, Iowa",4,19,167,2014
+"Calhoun County, Iowa",27,19,025,2014
+"Carroll County, Iowa",0,19,027,2014
+"Cerro Gordo County, Iowa",74,19,033,2014
+"Greene County, Iowa",0,19,073,2014
+"Hardin County, Iowa",39,19,083,2014
+"Sierra County, California",0,06,091,2014
+"Sacramento County, California",11215,06,067,2014
+"El Dorado County, California",685,06,017,2014
+"Monterey County, California",2343,06,053,2014
+"Gage County, Nebraska",15,31,067,2014
+"Kearney County, Nebraska",0,31,099,2014
+"Madison County, Nebraska",93,31,119,2014
+"Phelps County, Nebraska",11,31,137,2014
+"Wayne County, Nebraska",0,31,179,2014
+"Knox County, Nebraska",10,31,107,2014
+"Merrick County, Nebraska",10,31,121,2014
+"Pawnee County, Nebraska",0,31,133,2014
+"Wheeler County, Nebraska",0,31,183,2014
+"Lander County, Nevada",0,32,015,2014
+"Esmeralda County, Nevada",0,32,009,2014
+"Mineral County, Nevada",0,32,021,2014
+"Lincoln County, Nevada",3,32,017,2014
+"Washoe County, Nevada",2111,32,031,2014
+"Carson City, Nevada",174,32,510,2014
+"Merrimack County, New Hampshire",1049,33,013,2014
+"Belknap County, New Hampshire",384,33,001,2014
+"Strafford County, New Hampshire",606,33,017,2014
+"Monmouth County, New Jersey",18451,34,025,2014
+"Sussex County, New Jersey",3782,34,037,2014
+"Essex County, New Jersey",56891,34,013,2014
+"Gloucester County, New Jersey",7596,34,015,2014
+"Passaic County, New Jersey",42526,34,031,2014
+"Bergen County, New Jersey",30155,34,003,2014
+"Warren County, New Jersey",2573,34,041,2014
+"Burlington County, New Jersey",14732,34,005,2014
+"Luna County, New Mexico",30,35,029,2014
+"Taos County, New Mexico",129,35,055,2014
+"Colfax County, New Mexico",74,35,007,2014
+"Harding County, New Mexico",0,35,021,2014
+"Quay County, New Mexico",5,35,037,2014
+"Knox County, Missouri",1,29,103,2014
+"Montgomery County, Missouri",42,29,139,2014
+"Stoddard County, Missouri",66,29,207,2014
+"Audrain County, Missouri",48,29,007,2014
+"Greene County, Missouri",779,29,077,2014
+"St. Clair County, Missouri",7,29,185,2014
+"Schuyler County, Missouri",3,29,197,2014
+"Camden County, Missouri",17,29,029,2014
+"Jefferson County, Missouri",254,29,099,2014
+"New Madrid County, Missouri",9,29,143,2014
+"Ralls County, Missouri",42,29,173,2014
+"Custer County, Montana",23,30,017,2014
+"Powder River County, Montana",0,30,075,2014
+"Roosevelt County, Montana",0,30,085,2014
+"Liberty County, Montana",0,30,051,2014
+"Richland County, Montana",16,30,083,2014
+"Garfield County, Utah",0,49,017,2014
+"Lucas County, Iowa",0,19,117,2014
+"Lyon County, Iowa",7,19,119,2014
+"Emery County, Utah",2,49,015,2014
+"Isle of Wight County, Virginia",129,51,093,2014
+"Franklin city, Virginia",0,51,620,2014
+"Lexington city, Virginia",14,51,678,2014
+"Henry County, Virginia",61,51,089,2014
+"King William County, Virginia",0,51,101,2014
+"Louisa County, Virginia",193,51,109,2014
+"Prince Edward County, Virginia",97,51,147,2014
+"Rockingham County, Virginia",242,51,165,2014
+"Surry County, Virginia",5,51,181,2014
+"Clarke County, Virginia",57,51,043,2014
+"Mecklenburg County, Virginia",106,51,117,2014
+"Augusta County, Virginia",175,51,015,2014
+"Goochland County, Virginia",210,51,075,2014
+"Madison County, Virginia",61,51,113,2014
+"Roanoke County, Virginia",149,51,161,2014
+"Brunswick County, Virginia",25,51,025,2014
+"Northampton County, Virginia",58,51,131,2014
+"Rockbridge County, Virginia",99,51,163,2014
+"Norton city, Virginia",0,51,720,2014
+"Klickitat County, Washington",0,53,039,2014
+"Grays Harbor County, Washington",219,53,027,2014
+"Wahkiakum County, Washington",20,53,069,2014
+"Grant County, Washington",58,53,025,2014
+"Snohomish County, Washington",3884,53,061,2014
+"Summers County, West Virginia",44,54,089,2014
+"Greenbrier County, West Virginia",77,54,025,2014
+"Mineral County, West Virginia",3,54,057,2014
+"Lewis County, West Virginia",9,54,041,2014
+"Pocahontas County, West Virginia",0,54,075,2014
+"Randolph County, West Virginia",87,54,083,2014
+"Wirt County, West Virginia",0,54,105,2014
+"Clay County, West Virginia",0,54,015,2014
+"Monongalia County, West Virginia",343,54,061,2014
+"Wetzel County, West Virginia",25,54,103,2014
+"Kanawha County, West Virginia",326,54,039,2014
+"Preston County, West Virginia",101,54,077,2014
+"Ritchie County, West Virginia",0,54,085,2014
+"Lincoln County, West Virginia",0,54,043,2014
+"Braxton County, West Virginia",0,54,007,2014
+"Boone County, West Virginia",1,54,005,2014
+"Wyoming County, West Virginia",1,54,109,2014
+"Dunn County, Wisconsin",28,55,033,2014
+"Grant County, Wisconsin",37,55,043,2014
+"Sheboygan County, Wisconsin",332,55,117,2014
+"Banks County, Georgia",54,13,011,2014
+"Bulloch County, Georgia",304,13,031,2014
+"Clarke County, Georgia",784,13,059,2014
+"Clay County, Georgia",0,13,061,2014
+"Echols County, Georgia",46,13,101,2014
+"Glynn County, Georgia",765,13,127,2014
+"DeKalb County, Georgia",4047,13,089,2014
+"Haralson County, Georgia",36,13,143,2014
+"Jackson County, Georgia",207,13,157,2014
+"Jefferson County, Georgia",102,13,163,2014
+"Jones County, Georgia",41,13,169,2014
+"Lincoln County, Georgia",0,13,181,2014
+"Murray County, Georgia",120,13,213,2014
+"Muscogee County, Georgia",3340,13,215,2014
+"Pulaski County, Georgia",13,13,235,2014
+"Rabun County, Georgia",34,13,241,2014
+"Stewart County, Georgia",8,13,259,2014
+"Towns County, Georgia",31,13,281,2014
+"Treutlen County, Georgia",0,13,283,2014
+"Turner County, Georgia",7,13,287,2014
+"Atkinson County, Georgia",73,13,003,2014
+"Appling County, Georgia",28,13,001,2014
+"Brantley County, Georgia",124,13,025,2014
+"Ben Hill County, Georgia",173,13,017,2014
+"Catoosa County, Georgia",514,13,047,2014
+"Chattooga County, Georgia",56,13,055,2014
+"Columbia County, Georgia",2657,13,073,2014
+"Floyd County, Georgia",932,13,115,2014
+"Forsyth County, Georgia",1426,13,117,2014
+"Hart County, Georgia",56,13,147,2014
+"Lowndes County, Georgia",1235,13,185,2014
+"Meriwether County, Georgia",57,13,199,2014
+"Putnam County, Georgia",67,13,237,2014
+"Sumter County, Georgia",148,13,261,2014
+"San Diego County, California",22746,06,073,2014
+"Tulare County, California",959,06,107,2014
+"Yolo County, California",1001,06,113,2014
+"Humboldt County, California",390,06,023,2014
+"Nevada County, California",285,06,057,2014
+"Alpine County, California",7,06,003,2014
+"Madera County, California",430,06,039,2014
+"Candler County, Georgia",50,13,043,2014
+"Warren County, Georgia",3,13,301,2014
+"Baker County, Georgia",0,13,007,2014
+"Butts County, Georgia",208,13,035,2014
+"Carroll County, Georgia",638,13,045,2014
+"Early County, Georgia",11,13,099,2014
+"Crisp County, Georgia",15,13,081,2014
+"Coweta County, Georgia",1344,13,077,2014
+"Cobb County, Georgia",7240,13,067,2014
+"Dade County, Georgia",53,13,083,2014
+"Wilkes County, Georgia",7,13,317,2014
+"Brooks County, Georgia",41,13,027,2014
+"Gordon County, Georgia",84,13,129,2014
+"Elbert County, Georgia",28,13,105,2014
+"Fayette County, Georgia",888,13,113,2014
+"Jenkins County, Georgia",48,13,165,2014
+"Newton County, Georgia",846,13,217,2014
+"Greene County, Georgia",4,13,133,2014
+"Colquitt County, Georgia",61,13,071,2014
+"Dawson County, Georgia",105,13,085,2014
+"Clayton County, Georgia",2226,13,063,2014
+"Hall County, Georgia",900,13,139,2014
+"Honolulu County, Hawaii",28601,15,003,2014
+"Maui County, Hawaii",6223,15,009,2014
+"Kalawao County, Hawaii",1,15,005,2014
+"Oneida County, Idaho",14,16,071,2014
+"Gem County, Idaho",109,16,045,2014
+"Valley County, Idaho",0,16,085,2014
+"Adams County, Idaho",7,16,003,2014
+"Sargent County, North Dakota",4,38,081,2014
+"Meigs County, Ohio",0,39,105,2014
+"Champaign County, Ohio",30,39,021,2014
+"Greene County, Ohio",956,39,057,2014
+"Lawrence County, Ohio",8,39,087,2014
+"Morgan County, Ohio",0,39,115,2014
+"Wyandot County, Ohio",36,39,175,2014
+"Erie County, Ohio",725,39,043,2014
+"Logan County, Ohio",97,39,091,2014
+"Summit County, Ohio",2699,39,153,2014
+"Shelby County, Ohio",50,39,149,2014
+"Williams County, Ohio",78,39,171,2014
+"Columbiana County, Ohio",201,39,029,2014
+"Fulton County, Ohio",219,39,051,2014
+"Gallia County, Ohio",0,39,053,2014
+"Mahoning County, Ohio",7136,39,099,2014
+"Scioto County, Ohio",150,39,145,2014
+"Morrow County, Ohio",238,39,117,2014
+"Preble County, Ohio",55,39,135,2014
+"Allen County, Ohio",242,39,003,2014
+"Crawford County, Ohio",104,39,033,2014
+"Guernsey County, Ohio",134,39,059,2014
+"Mercer County, Ohio",17,39,107,2014
+"Clark County, Ohio",182,39,023,2014
+"Lorain County, Ohio",17437,39,093,2014
+"Montgomery County, Ohio",2086,39,113,2014
+"Warren County, Ohio",548,39,165,2014
+"Ashtabula County, Ohio",2166,39,007,2014
+"Kay County, Oklahoma",16,40,071,2014
+"Craig County, Oklahoma",28,40,035,2014
+"Canadian County, Oklahoma",238,40,017,2014
+"Latimer County, Oklahoma",9,40,077,2014
+"Winnebago County, Iowa",0,19,189,2014
+"Palo Alto County, Iowa",2,19,147,2014
+"Shelby County, Iowa",4,19,165,2014
+"Appanoose County, Iowa",37,19,007,2014
+"Henry County, Iowa",0,19,087,2014
+"Iowa County, Iowa",19,19,095,2014
+"Jasper County, Iowa",10,19,099,2014
+"Page County, Iowa",27,19,145,2014
+"Winneshiek County, Iowa",0,19,191,2014
+"Poweshiek County, Iowa",90,19,157,2014
+"Pottawattamie County, Iowa",51,19,155,2014
+"Los Angeles County, California",48333,06,037,2014
+"Mendocino County, California",185,06,045,2014
+"Santa Cruz County, California",628,06,087,2014
+"Trinity County, California",8,06,105,2014
+"Riverside County, California",14180,06,065,2014
+"San Bernardino County, California",16723,06,071,2014
+"Santa Clara County, California",7700,06,085,2014
+"Marin County, California",1122,06,041,2014
+"Placer County, California",1592,06,061,2014
+"Siskiyou County, California",115,06,093,2014
+"Shasta County, California",668,06,089,2014
+"Solano County, California",4393,06,095,2014
+"Del Norte County, California",136,06,015,2014
+"Glenn County, California",58,06,021,2014
+"Butte County, California",513,06,007,2014
+"Plumas County, California",51,06,063,2014
+"San Luis Obispo County, California",766,06,079,2014
+"Kern County, California",4488,06,029,2014
+"Ventura County, California",3776,06,111,2014
+"Calaveras County, California",88,06,009,2014
+"San Mateo County, California",4244,06,081,2014
+"Tuolumne County, California",182,06,109,2014
+"Amador County, California",186,06,005,2014
+"Phillips County, Colorado",0,08,095,2014
+"Denver County, Colorado",3799,08,031,2014
+"Kiowa County, Colorado",0,08,061,2014
+"Baca County, Colorado",0,08,009,2014
+"Gilpin County, Colorado",4,08,047,2014
+"Kit Carson County, Colorado",16,08,063,2014
+"Gunnison County, Colorado",20,08,051,2014
+"Jefferson County, Colorado",1966,08,059,2014
+"Ouray County, Colorado",0,08,091,2014
+"Rio Blanco County, Colorado",0,08,103,2014
+"Weld County, Colorado",1225,08,123,2014
+"Conejos County, Colorado",1,08,021,2014
+"Costilla County, Colorado",0,08,023,2014
+"Douglas County, Colorado",1010,08,035,2014
+"Eagle County, Colorado",0,08,037,2014
+"La Plata County, Colorado",397,08,067,2014
+"Moffat County, Colorado",29,08,081,2014
+"Rio Grande County, Colorado",0,08,105,2014
+"Bent County, Colorado",2,08,011,2014
+"Crowley County, Colorado",2,08,025,2014
+"San Juan County, Colorado",0,08,111,2014
+"Jackson County, Colorado",1,08,057,2014
+"Logan County, Colorado",99,08,075,2014
+"Montezuma County, Colorado",3,08,083,2014
+"Teller County, Colorado",33,08,119,2014
+"Boulder County, Colorado",806,08,013,2014
+"Las Animas County, Colorado",20,08,071,2014
+"Lincoln County, Colorado",1,08,073,2014
+"Routt County, Colorado",13,08,107,2014
+"Alamosa County, Colorado",78,08,003,2014
+"Clear Creek County, Colorado",15,08,019,2014
+"Fremont County, Colorado",231,08,043,2014
+"Toole County, Montana",0,30,101,2014
+"Daniels County, Montana",0,30,019,2014
+"Judith Basin County, Montana",0,30,045,2014
+"Beaver County, Oklahoma",0,40,007,2014
+"Texas County, Oklahoma",164,40,139,2014
+"Pushmataha County, Oklahoma",48,40,127,2014
+"Johnston County, Oklahoma",37,40,069,2014
+"Hughes County, Oklahoma",6,40,063,2014
+"Comanche County, Oklahoma",3232,40,031,2014
+"Adair County, Oklahoma",5,40,001,2014
+"Stephens County, Oklahoma",124,40,137,2014
+"Carter County, Oklahoma",43,40,019,2014
+"Greer County, Oklahoma",11,40,055,2014
+"McIntosh County, Oklahoma",0,40,091,2014
+"Murray County, Oklahoma",41,40,099,2014
+"Ottawa County, Oklahoma",57,40,115,2014
+"Wagoner County, Oklahoma",229,40,145,2014
+"Caddo County, Oklahoma",45,40,015,2014
+"Bremer County, Iowa",7,19,017,2014
+"Marshall County, Iowa",341,19,127,2014
+"Clayton County, Iowa",0,19,043,2014
+"Boone County, Iowa",20,19,015,2014
+"Buena Vista County, Iowa",16,19,021,2014
+"Howard County, Iowa",0,19,089,2014
+"Emmet County, Iowa",4,19,063,2014
+"Guthrie County, Iowa",0,19,077,2014
+"Hancock County, Iowa",18,19,081,2014
+"Madison County, Iowa",10,19,121,2014
+"Marion County, Iowa",99,19,125,2014
+"Wright County, Iowa",6,19,197,2014
+"Cass County, Iowa",3,19,029,2014
+"Crawford County, Iowa",4,19,047,2014
+"Fayette County, Iowa",53,19,065,2014
+"Harrison County, Iowa",12,19,085,2014
+"Mills County, Iowa",62,19,129,2014
+"Monona County, Iowa",3,19,133,2014
+"Osceola County, Iowa",0,19,143,2014
+"Webster County, Iowa",244,19,187,2014
+"Story County, Iowa",326,19,169,2014
+"Black Hawk County, Iowa",255,19,013,2014
+"Grundy County, Iowa",0,19,075,2014
+"Jones County, Iowa",8,19,105,2014
+"Mitchell County, Iowa",0,19,131,2014
+"Montgomery County, Iowa",0,19,137,2014
+"Sac County, Iowa",7,19,161,2014
+"Mahaska County, Iowa",101,19,123,2014
+"Buchanan County, Iowa",3,19,019,2014
+"Clinton County, Iowa",80,19,045,2014
+"Decatur County, Iowa",10,19,053,2014
+"Jefferson County, Iowa",2,19,101,2014
+"Allamakee County, Iowa",5,19,005,2014
+"Linn County, Iowa",362,19,113,2014
+"Dallas County, Iowa",261,19,049,2014
+"O'Brien County, Iowa",3,19,141,2014
+"Stanton County, Kansas",44,20,187,2014
+"Meade County, Kansas",1,20,119,2014
+"Montgomery County, Kansas",21,20,125,2014
+"Pratt County, Kansas",0,20,151,2014
+"Rawlins County, Kansas",6,20,153,2014
+"Anderson County, Kansas",0,20,003,2014
+"Ellsworth County, Kansas",2,20,053,2014
+"Geary County, Kansas",997,20,061,2014
+"Ford County, Kansas",71,20,057,2014
+"Russell County, Kansas",0,20,167,2014
+"Marshall County, Kansas",13,20,117,2014
+"Allen County, Kansas",0,20,001,2014
+"Cheyenne County, Kansas",0,20,023,2014
+"Cowley County, Kansas",73,20,035,2014
+"Elk County, Kansas",0,20,049,2014
+"Franklin County, Kansas",166,20,059,2014
+"Hodgeman County, Kansas",2,20,083,2014
+"Menominee County, Wisconsin",0,55,078,2014
+"Buffalo County, Wisconsin",3,55,011,2014
+"La Crosse County, Wisconsin",153,55,063,2014
+"Marathon County, Wisconsin",418,55,073,2014
+"Trempealeau County, Wisconsin",37,55,121,2014
+"Dodge County, Wisconsin",315,55,027,2014
+"Vilas County, Wisconsin",41,55,125,2014
+"Dawson County, Montana",0,30,021,2014
+"Deer Lodge County, Montana",7,30,023,2014
+"McCone County, Montana",0,30,055,2014
+"Rosebud County, Montana",0,30,087,2014
+"Broadwater County, Montana",10,30,007,2014
+"Cameron County, Pennsylvania",3,42,023,2014
+"Bucks County, Pennsylvania",12069,42,017,2014
+"Lehigh County, Pennsylvania",41196,42,077,2014
+"Clarion County, Pennsylvania",161,42,031,2014
+"Greene County, Pennsylvania",342,42,059,2014
+"Luzerne County, Pennsylvania",5856,42,079,2014
+"Columbia County, Pennsylvania",687,42,037,2014
+"Jefferson County, Pennsylvania",91,42,065,2014
+"Perry County, Pennsylvania",363,42,099,2014
+"Sullivan County, Pennsylvania",8,42,113,2014
+"Kent County, Rhode Island",1561,44,003,2014
+"Washington County, Rhode Island",969,44,009,2014
+"Newberry County, South Carolina",45,45,071,2014
+"Clarendon County, South Carolina",63,45,027,2014
+"Sumter County, South Carolina",534,45,085,2014
+"Barnwell County, South Carolina",52,45,011,2014
+"Darlington County, South Carolina",263,45,031,2014
+"York County, South Carolina",2406,45,091,2014
+"Cherokee County, South Carolina",94,45,021,2014
+"Jasper County, South Carolina",63,45,053,2014
+"Lee County, South Carolina",45,45,061,2014
+"Abbeville County, South Carolina",14,45,001,2014
+"Lyman County, South Dakota",0,46,085,2014
+"Deuel County, South Dakota",10,46,039,2014
+"Bon Homme County, South Dakota",12,46,009,2014
+"Fall River County, South Dakota",0,46,047,2014
+"Jackson County, South Dakota",3,46,071,2014
+"Hyde County, South Dakota",0,46,069,2014
+"Hutchinson County, South Dakota",31,46,067,2014
+"Buffalo County, South Dakota",0,46,017,2014
+"Dewey County, South Dakota",96,46,041,2014
+"Harding County, South Dakota",0,46,063,2014
+"Roberts County, South Dakota",2,46,109,2014
+"Lincoln County, South Dakota",6,46,083,2014
+"Lawrence County, South Dakota",9,46,081,2014
+"Beadle County, South Dakota",49,46,005,2014
+"Davison County, South Dakota",0,46,035,2014
+"Jerauld County, South Dakota",0,46,073,2014
+"Fond du Lac County, Wisconsin",212,55,039,2014
+"Manitowoc County, Wisconsin",162,55,071,2014
+"Burnett County, Wisconsin",17,55,013,2014
+"Door County, Wisconsin",85,55,029,2014
+"Pepin County, Wisconsin",0,55,091,2014
+"Richland County, Wisconsin",6,55,103,2014
+"Waushara County, Wisconsin",64,55,137,2014
+"Lafayette County, Wisconsin",14,55,065,2014
+"Pierce County, Wisconsin",16,55,093,2014
+"Calumet County, Wisconsin",39,55,015,2014
+"Kenosha County, Wisconsin",2479,55,059,2014
+"Johnson County, Wyoming",0,56,019,2014
+"Laramie County, Wyoming",316,56,021,2014
+"Teton County, Wyoming",26,56,039,2014
+"Colonial Heights city, Virginia",359,51,570,2014
+"Bland County, Virginia",7,51,021,2014
+"Botetourt County, Virginia",85,51,023,2014
+"Bristol city, Virginia",5,51,520,2014
+"Williamsburg city, Virginia",129,51,830,2014
+"Carroll County, Virginia",78,51,035,2014
+"Washington County, Virginia",52,51,191,2014
+"Page County, Virginia",91,51,139,2014
+"Alexandria city, Virginia",1492,51,510,2014
+"Hampton city, Virginia",3080,51,650,2014
+"Arlington County, Virginia",2359,51,013,2014
+"Buchanan County, Virginia",3,51,027,2014
+"Stafford County, Virginia",2719,51,179,2014
+"Richmond city, Virginia",1126,51,760,2014
+"Essex County, Virginia",10,51,057,2014
+"Tazewell County, Virginia",75,51,185,2014
+"Manassas Park city, Virginia",353,51,685,2014
+"Sussex County, Virginia",84,51,183,2014
+"Manassas city, Virginia",400,51,683,2014
+"Salem city, Virginia",36,51,775,2014
+"Charlotte County, Virginia",3,51,037,2014
+"Greensville County, Virginia",55,51,081,2014
+"Thurston County, Washington",1486,53,067,2014
+"Columbia County, Washington",0,53,013,2014
+"Nez Perce County, Idaho",46,16,069,2014
+"Jerome County, Idaho",74,16,053,2014
+"Kootenai County, Idaho",169,16,055,2014
+"Lewis County, Idaho",0,16,061,2014
+"Minidoka County, Idaho",72,16,067,2014
+"Twin Falls County, Idaho",137,16,083,2014
+"Owyhee County, Idaho",31,16,073,2014
+"Blaine County, Idaho",109,16,013,2014
+"Boise County, Idaho",18,16,015,2014
+"Boundary County, Idaho",0,16,021,2014
+"Butte County, Idaho",0,16,023,2014
+"Caribou County, Idaho",0,16,029,2014
+"Gooding County, Idaho",28,16,047,2014
+"Ada County, Idaho",937,16,001,2014
+"Bannock County, Idaho",208,16,005,2014
+"Bear Lake County, Idaho",12,16,007,2014
+"Bingham County, Idaho",72,16,011,2014
+"Bonneville County, Idaho",66,16,019,2014
+"Camas County, Idaho",0,16,025,2014
+"Clearwater County, Idaho",8,16,035,2014
+"Jefferson County, Idaho",0,16,051,2014
+"Lemhi County, Idaho",0,16,059,2014
+"Payette County, Idaho",0,16,075,2014
+"Bonner County, Idaho",11,16,017,2014
+"Custer County, Idaho",0,16,037,2014
+"Elmore County, Idaho",71,16,039,2014
+"Madison County, Idaho",112,16,065,2014
+"Shoshone County, Idaho",47,16,079,2014
+"Teton County, Idaho",0,16,081,2014
+"Washington County, Idaho",26,16,087,2014
+"Hancock County, Illinois",66,17,067,2014
+"Grundy County, Illinois",331,17,063,2014
+"Kankakee County, Illinois",299,17,091,2014
+"DuPage County, Illinois",7782,17,043,2014
+"Alexander County, Illinois",26,17,003,2014
+"Menard County, Illinois",0,17,129,2014
+"LaSalle County, Illinois",680,17,099,2014
+"Cook County, Illinois",141928,17,031,2014
+"Macon County, Illinois",198,17,115,2014
+"Morgan County, Illinois",111,17,137,2014
+"Wayne County, Illinois",24,17,191,2014
+"Woodford County, Illinois",59,17,203,2014
+"Franklin County, Illinois",83,17,055,2014
+"McDonough County, Illinois",87,17,109,2014
+"McHenry County, Illinois",2306,17,111,2014
+"Pueblo County, Colorado",1521,08,101,2014
+"Montrose County, Colorado",0,08,085,2014
+"Morgan County, Colorado",121,08,087,2014
+"Park County, Colorado",0,08,093,2014
+"Saguache County, Colorado",4,08,109,2014
+"Mesa County, Colorado",302,08,077,2014
+"Prowers County, Colorado",3,08,099,2014
+"Hinsdale County, Colorado",0,08,053,2014
+"El Paso County, Colorado",7799,08,041,2014
+"Washington County, Colorado",2,08,121,2014
+"Grand County, Colorado",12,08,049,2014
+"Arapahoe County, Colorado",3674,08,005,2014
+"Otero County, Colorado",22,08,089,2014
+"Broomfield County, Colorado",131,08,014,2014
+"New Castle County, Delaware",17352,10,003,2014
+"St. Clair County, Illinois",1108,17,163,2014
+"Moultrie County, Illinois",4,17,139,2014
+"Perry County, Illinois",77,17,145,2014
+"Pope County, Illinois",5,17,151,2014
+"Shelby County, Illinois",7,17,173,2014
+"Champaign County, Illinois",1022,17,019,2014
+"Calhoun County, Illinois",7,17,013,2014
+"Ford County, Illinois",40,17,053,2014
+"Jo Daviess County, Illinois",35,17,085,2014
+"Kendall County, Illinois",1969,17,093,2014
+"Lawrence County, Illinois",109,17,101,2014
+"Marion County, Illinois",40,17,121,2014
+"Mason County, Illinois",10,17,125,2014
+"Iroquois County, Illinois",42,17,075,2014
+"Clay County, Illinois",40,17,025,2014
+"Gallatin County, Illinois",0,17,059,2014
+"Monroe County, Illinois",23,17,133,2014
+"Peoria County, Illinois",373,17,143,2014
+"Muskogee County, Oklahoma",286,40,101,2014
+"Bryan County, Oklahoma",116,40,013,2014
+"Jackson County, Oregon",756,41,029,2014
+"Grant County, Oregon",0,41,023,2014
+"Clackamas County, Oregon",1083,41,005,2014
+"Tillamook County, Oregon",48,41,057,2014
+"Josephine County, Oregon",162,41,033,2014
+"Umatilla County, Oregon",168,41,059,2014
+"Columbia County, Oregon",59,41,009,2014
+"Wasco County, Oregon",5,41,065,2014
+"Lane County, Oregon",953,41,039,2014
+"Washington County, Oregon",1999,41,067,2014
+"Clatsop County, Oregon",108,41,007,2014
+"San Jacinto County, Texas",145,48,407,2014
+"Upshur County, Texas",0,48,459,2014
+"Waller County, Texas",58,48,473,2014
+"Wilson County, Texas",221,48,493,2014
+"Hockley County, Texas",70,48,219,2014
+"Midland County, Texas",369,48,329,2014
+"Llano County, Texas",3,48,299,2014
+"Fannin County, Texas",16,48,147,2014
+"Brazos County, Texas",582,48,041,2014
+"Gaines County, Texas",0,48,165,2014
+"Gray County, Texas",86,48,179,2014
+"Jack County, Texas",20,48,237,2014
+"Bosque County, Texas",12,48,035,2014
+"Bexar County, Texas",20675,48,029,2014
+"Baylor County, Texas",0,48,023,2014
+"Denton County, Texas",4806,48,121,2014
+"Galveston County, Texas",3017,48,167,2014
+"Roberts County, Texas",0,48,393,2014
+"Uvalde County, Texas",80,48,463,2014
+"Bowie County, Texas",120,48,037,2014
+"Kent County, Texas",0,48,263,2014
+"Somervell County, Texas",36,48,425,2014
+"Hardin County, Texas",62,48,199,2014
+"Leon County, Texas",58,48,289,2014
+"Newton County, Texas",0,48,351,2014
+"Reeves County, Texas",28,48,389,2014
+"Travis County, Texas",6784,48,453,2014
+"Collingsworth County, Texas",4,48,087,2014
+"Erath County, Texas",93,48,143,2014
+"New Haven County, Connecticut",84672,09,009,2014
+"Sussex County, Delaware",2728,10,005,2014
+"Kent County, Delaware",4931,10,001,2014
+"District of Columbia, District of Columbia",4035,11,001,2014
+"Litchfield County, Connecticut",3261,09,005,2014
+"Hartford County, Connecticut",100998,09,003,2014
+"New London County, Connecticut",13861,09,011,2014
+"Tolland County, Connecticut",4456,09,013,2014
+"Fairfield County, Connecticut",55536,09,001,2014
+"Duval County, Florida",23760,12,031,2014
+"Bradford County, Florida",256,12,007,2014
+"Clay County, Florida",5749,12,019,2014
+"Lafayette County, Florida",97,12,067,2014
+"Nassau County, Florida",747,12,089,2014
+"Pinellas County, Florida",24683,12,103,2014
+"St. Lucie County, Florida",12316,12,111,2014
+"Hendry County, Florida",1069,12,051,2014
+"Indian River County, Florida",2497,12,061,2014
+"Palm Beach County, Florida",40315,12,099,2014
+"St. Johns County, Florida",3575,12,109,2014
+"Miami-Dade County, Florida",101253,12,086,2014
+"Flagler County, Florida",3313,12,035,2014
+"Franklin County, Florida",123,12,037,2014
+"Hamilton County, Florida",167,12,047,2014
+"Liberty County, Florida",62,12,077,2014
+"Sumter County, Florida",1411,12,119,2014
+"Gadsden County, Florida",288,12,039,2014
+"Holmes County, Florida",122,12,059,2014
+"Lee County, Florida",27527,12,071,2014
+"Marion County, Florida",17086,12,083,2014
+"Collier County, Florida",7035,12,021,2014
+"Okeechobee County, Florida",562,12,093,2014
+"Pasco County, Florida",23370,12,101,2014
+"Highlands County, Florida",5876,12,055,2014
+"Suwannee County, Florida",470,12,121,2014
+"DeSoto County, Florida",466,12,027,2014
+"Calhoun County, Florida",64,12,013,2014
+"Columbia County, Florida",1347,12,023,2014
+"Dixie County, Florida",187,12,029,2014
+"Putnam County, Florida",1761,12,107,2014
+"Union County, Florida",223,12,125,2014
+"Manatee County, Florida",7065,12,081,2014
+"Levy County, Florida",1072,12,075,2014
+"Baker County, Florida",131,12,003,2014
+"Volusia County, Florida",28587,12,127,2014
+"Leon County, Florida",3810,12,073,2014
+"Madison County, Florida",237,12,079,2014
+"Haakon County, South Dakota",0,46,055,2014
+"Meade County, South Dakota",225,46,093,2014
+"Brown County, South Dakota",46,46,013,2014
+"McCook County, South Dakota",0,46,087,2014
+"Moody County, South Dakota",3,46,101,2014
+"Todd County, South Dakota",2,46,121,2014
+"Miner County, South Dakota",0,46,097,2014
+"Sumner County, Tennessee",547,47,165,2014
+"Trousdale County, Tennessee",0,47,169,2014
+"Clay County, Tennessee",40,47,027,2014
+"Shelby County, Tennessee",2885,47,157,2014
+"Henderson County, Tennessee",8,47,077,2014
+"Henderson County, Texas",85,48,213,2014
+"Motley County, Texas",0,48,345,2014
+"Coleman County, Texas",26,48,083,2014
+"Medina County, Texas",138,48,325,2014
+"Lamar County, Texas",150,48,277,2014
+"Kimble County, Texas",0,48,267,2014
+"Davidson County, Tennessee",3209,47,037,2014
+"Jefferson County, Tennessee",157,47,089,2014
+"Sequatchie County, Tennessee",89,47,153,2014
+"Carroll County, Tennessee",97,47,017,2014
+"Perry County, Tennessee",0,47,135,2014
+"Meigs County, Tennessee",0,47,121,2014
+"Haywood County, Tennessee",68,47,075,2014
+"Montgomery County, Tennessee",4691,47,125,2014
+"Grundy County, Tennessee",0,47,061,2014
+"Cocke County, Tennessee",30,47,029,2014
+"DeKalb County, Tennessee",53,47,041,2014
+"Lewis County, Tennessee",0,47,101,2014
+"Obion County, Tennessee",46,47,131,2014
+"Tipton County, Tennessee",122,47,167,2014
+"Dyer County, Tennessee",146,47,045,2014
+"Hamilton County, Tennessee",1784,47,065,2014
+"Polk County, Tennessee",18,47,139,2014
+"White County, Tennessee",0,47,185,2014
+"Sullivan County, Tennessee",216,47,163,2014
+"Schoharie County, New York",433,36,095,2014
+"Fulton County, New York",985,36,035,2014
+"Rensselaer County, New York",3136,36,083,2014
+"Franklin County, New York",808,36,033,2014
+"Queens County, New York",116374,36,081,2014
+"Washington County, New York",587,36,115,2014
+"New York County, New York",109500,36,061,2014
+"Cayuga County, New York",945,36,011,2014
+"Rockland County, New York",14228,36,087,2014
+"Niagara County, New York",2588,36,063,2014
+"Essex County, New York",352,36,031,2014
+"Nassau County, New York",33050,36,059,2014
+"Schuyler County, New York",148,36,097,2014
+"Chenango County, New York",538,36,017,2014
+"Jefferson County, New York",2868,36,045,2014
+"Winnebago County, Illinois",2361,17,201,2014
+"Piatt County, Illinois",26,17,147,2014
+"Pulaski County, Illinois",4,17,153,2014
+"Schuyler County, Illinois",79,17,169,2014
+"Stark County, Illinois",4,17,175,2014
+"Edgar County, Illinois",32,17,045,2014
+"Bond County, Illinois",19,17,005,2014
+"Boone County, Illinois",674,17,007,2014
+"Bureau County, Illinois",56,17,011,2014
+"Carroll County, Illinois",68,17,015,2014
+"Coles County, Illinois",28,17,029,2014
+"Crawford County, Illinois",48,17,033,2014
+"Jersey County, Illinois",4,17,083,2014
+"Putnam County, Illinois",28,17,155,2014
+"De Witt County, Illinois",98,17,039,2014
+"Fayette County, Illinois",41,17,051,2014
+"Lee County, Illinois",369,17,103,2014
+"Logan County, Illinois",280,17,107,2014
+"Macoupin County, Illinois",114,17,117,2014
+"Richland County, Illinois",0,17,159,2014
+"Washington County, Illinois",2,17,189,2014
+"Montgomery County, Illinois",74,17,135,2014
+"Adams County, Illinois",58,17,001,2014
+"Clinton County, Illinois",203,17,027,2014
+"Edwards County, Illinois",15,17,047,2014
+"Jefferson County, Illinois",208,17,081,2014
+"Vermilion County, Illinois",76,17,183,2014
+"Williamson County, Illinois",166,17,199,2014
+"Clark County, Illinois",6,17,023,2014
+"Effingham County, Illinois",66,17,049,2014
+"Fulton County, Illinois",127,17,057,2014
+"Hamilton County, Illinois",76,17,065,2014
+"Henry County, Illinois",101,17,073,2014
+"Johnson County, Illinois",83,17,087,2014
+"Lake County, Illinois",8833,17,097,2014
+"Livingston County, Illinois",256,17,105,2014
+"Scott County, Illinois",0,17,171,2014
+"Cass County, Illinois",36,17,017,2014
+"Warren County, Illinois",26,17,187,2014
+"Huntington County, Indiana",65,18,069,2014
+"LaPorte County, Indiana",817,18,091,2014
+"White County, Indiana",21,18,181,2014
+"Jasper County, Indiana",180,18,073,2014
+"Martin County, Indiana",0,18,101,2014
+"Shelby County, Indiana",15,18,145,2014
+"Ripley County, Indiana",91,18,137,2014
+"Sullivan County, Indiana",19,18,153,2014
+"Tipton County, Indiana",3,18,159,2014
+"Vigo County, Indiana",128,18,167,2014
+"Warrick County, Indiana",19,18,173,2014
+"DeKalb County, Indiana",24,18,033,2014
+"Bartholomew County, Indiana",178,18,005,2014
+"Rush County, Indiana",0,18,139,2014
+"Monroe County, Alabama",50,01,099,2014
+"Lawrence County, Alabama",8,01,079,2014
+"Lee County, Alabama",1098,01,081,2014
+"Marion County, Alabama",59,01,093,2014
+"Pickens County, Alabama",58,01,107,2014
+"Sumter County, Alabama",8,01,119,2014
+"Jefferson County, Alabama",1321,01,073,2014
+"Choctaw County, Alabama",20,01,023,2014
+"Franklin County, Alabama",23,01,059,2014
+"Marengo County, Alabama",0,01,091,2014
+"Russell County, Alabama",681,01,113,2014
+"Cherokee County, Alabama",13,01,019,2014
+"Covington County, Alabama",26,01,039,2014
+"Crenshaw County, Alabama",19,01,041,2014
+"Dallas County, Alabama",0,01,047,2014
+"Lauderdale County, Alabama",170,01,077,2014
+"Lowndes County, Alabama",0,01,085,2014
+"Macon County, Alabama",53,01,087,2014
+"Limestone County, Alabama",149,01,083,2014
+"Adams County, Indiana",58,18,001,2014
+"Fulton County, Indiana",0,18,049,2014
+"Lake County, Indiana",12610,18,089,2014
+"Noble County, Indiana",27,18,113,2014
+"Fayette County, Indiana",38,18,041,2014
+"Hendricks County, Indiana",243,18,063,2014
+"Dubois County, Indiana",0,18,037,2014
+"Grant County, Indiana",88,18,053,2014
+"Hancock County, Indiana",73,18,059,2014
+"Howard County, Indiana",205,18,067,2014
+"Washington County, Texas",10,48,477,2014
+"Stephens County, Texas",0,48,429,2014
+"Andrews County, Texas",18,48,003,2014
+"Gonzales County, Texas",4,48,177,2014
+"Lynn County, Texas",22,48,305,2014
+"Zapata County, Texas",0,48,505,2014
+"Hood County, Texas",216,48,221,2014
+"King County, Texas",0,48,269,2014
+"Cherokee County, Texas",102,48,073,2014
+"Delta County, Texas",0,48,119,2014
+"Jones County, Texas",34,48,253,2014
+"Jim Wells County, Texas",33,48,249,2014
+"Dallam County, Texas",0,48,111,2014
+"Fort Bend County, Texas",3757,48,157,2014
+"Irion County, Texas",0,48,235,2014
+"Willacy County, Texas",7,48,489,2014
+"Dawson County, Texas",5,48,115,2014
+"Burleson County, Texas",61,48,051,2014
+"Nueces County, Texas",1725,48,355,2014
+"Rains County, Texas",29,48,379,2014
+"Real County, Texas",0,48,385,2014
+"Sterling County, Texas",0,48,431,2014
+"Carson County, Texas",4,48,065,2014
+"Freestone County, Texas",0,48,161,2014
+"Hardeman County, Texas",17,48,197,2014
+"Briscoe County, Texas",0,48,045,2014
+"Liberty County, Texas",23,48,291,2014
+"Loving County, Texas",0,48,301,2014
+"Robertson County, Texas",7,48,395,2014
+"Rusk County, Texas",50,48,401,2014
+"Trinity County, Texas",44,48,455,2014
+"Bandera County, Texas",15,48,019,2014
+"Childress County, Texas",10,48,075,2014
+"Comal County, Texas",442,48,091,2014
+"Houston County, Texas",18,48,225,2014
+"Navarro County, Texas",206,48,349,2014
+"Scurry County, Texas",31,48,415,2014
+"Stonewall County, Texas",1,48,433,2014
+"Bastrop County, Texas",104,48,021,2014
+"Bee County, Texas",48,48,025,2014
+"Crane County, Texas",0,48,103,2014
+"Rutland County, Vermont",209,50,021,2014
+"Orange County, Vermont",113,50,017,2014
+"Windsor County, Vermont",233,50,027,2014
+"Utah County, Utah",1057,49,049,2014
+"Duchesne County, Utah",1,49,013,2014
+"Uintah County, Utah",149,49,047,2014
+"Davis County, Utah",884,49,011,2014
+"Elmore County, Alabama",320,01,051,2014
+"Shelby County, Alabama",495,01,117,2014
+"Winston County, Alabama",17,01,133,2014
+"Cullman County, Alabama",103,01,043,2014
+"Jackson County, Alabama",51,01,071,2014
+"Talladega County, Alabama",55,01,121,2014
+"Washington County, Alabama",0,01,129,2014
+"Clay County, Alabama",0,01,027,2014
+"Morgan County, Alabama",302,01,103,2014
+"Chilton County, Alabama",47,01,021,2014
+"Colbert County, Alabama",168,01,033,2014
+"Sherburne County, Minnesota",115,27,141,2014
+"Wadena County, Minnesota",2,27,159,2014
+"Benton County, Minnesota",0,27,009,2014
+"Carver County, Minnesota",42,27,019,2014
+"Freeborn County, Minnesota",83,27,047,2014
+"Itasca County, Minnesota",71,27,061,2014
+"McLeod County, Minnesota",7,27,085,2014
+"Pope County, Minnesota",42,27,121,2014
+"Ramsey County, Minnesota",2460,27,123,2014
+"Stevens County, Minnesota",5,27,149,2014
+"Swift County, Minnesota",36,27,151,2014
+"Winona County, Minnesota",39,27,169,2014
+"Cottonwood County, Minnesota",8,27,033,2014
+"Scott County, Minnesota",244,27,139,2014
+"Dodge County, Minnesota",19,27,039,2014
+"Wabasha County, Minnesota",65,27,157,2014
+"Pipestone County, Minnesota",7,27,117,2014
+"Crow Wing County, Minnesota",64,27,035,2014
+"Norman County, Minnesota",6,27,107,2014
+"Wright County, Minnesota",90,27,171,2014
+"Nicollet County, Minnesota",19,27,103,2014
+"Grant County, Minnesota",2,27,051,2014
+"Kittson County, Minnesota",0,27,069,2014
+"Mahnomen County, Minnesota",8,27,087,2014
+"Redwood County, Minnesota",64,27,127,2014
+"Yellow Medicine County, Minnesota",5,27,173,2014
+"Beltrami County, Minnesota",73,27,007,2014
+"Blue Earth County, Minnesota",84,27,013,2014
+"Lac qui Parle County, Minnesota",7,27,073,2014
+"Lake of the Woods County, Minnesota",5,27,077,2014
+"Waseca County, Minnesota",30,27,161,2014
+"Anoka County, Minnesota",479,27,003,2014
+"Stearns County, Minnesota",248,27,145,2014
+"Lincoln County, Minnesota",3,27,081,2014
+"Lyon County, Minnesota",17,27,083,2014
+"Mille Lacs County, Minnesota",58,27,095,2014
+"Renville County, Minnesota",9,27,129,2014
+"Carlton County, Minnesota",26,27,017,2014
+"Cook County, Minnesota",10,27,031,2014
+"Noxubee County, Mississippi",0,28,103,2014
+"Tate County, Mississippi",31,28,137,2014
+"Panola County, Mississippi",0,28,107,2014
+"Yalobusha County, Mississippi",9,28,161,2014
+"Copiah County, Mississippi",8,28,029,2014
+"Hinds County, Mississippi",380,28,049,2014
+"Union County, Mississippi",14,28,145,2014
+"Tippah County, Mississippi",108,28,139,2014
+"Forrest County, Mississippi",290,28,035,2014

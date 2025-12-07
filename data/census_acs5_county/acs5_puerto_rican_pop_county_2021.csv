@@ -1,0 +1,3222 @@
+NAME,B03001_005E,state,county,year
+"Autauga County, Alabama",508,01,001,2021
+"Baldwin County, Alabama",1064,01,003,2021
+"Barbour County, Alabama",77,01,005,2021
+"Bibb County, Alabama",229,01,007,2021
+"Blount County, Alabama",85,01,009,2021
+"Bullock County, Alabama",112,01,011,2021
+"Butler County, Alabama",0,01,013,2021
+"Calhoun County, Alabama",923,01,015,2021
+"Chambers County, Alabama",148,01,017,2021
+"Cherokee County, Alabama",11,01,019,2021
+"Chilton County, Alabama",146,01,021,2021
+"Choctaw County, Alabama",0,01,023,2021
+"Clarke County, Alabama",8,01,025,2021
+"Clay County, Alabama",0,01,027,2021
+"Cleburne County, Alabama",11,01,029,2021
+"Coffee County, Alabama",1315,01,031,2021
+"Colbert County, Alabama",66,01,033,2021
+"Conecuh County, Alabama",0,01,035,2021
+"Coosa County, Alabama",68,01,037,2021
+"Covington County, Alabama",15,01,039,2021
+"Crenshaw County, Alabama",67,01,041,2021
+"Cullman County, Alabama",199,01,043,2021
+"Dale County, Alabama",1073,01,045,2021
+"Dallas County, Alabama",6,01,047,2021
+"DeKalb County, Alabama",40,01,049,2021
+"Elmore County, Alabama",209,01,051,2021
+"Escambia County, Alabama",68,01,053,2021
+"Etowah County, Alabama",437,01,055,2021
+"Fayette County, Alabama",0,01,057,2021
+"Franklin County, Alabama",107,01,059,2021
+"Geneva County, Alabama",114,01,061,2021
+"Greene County, Alabama",148,01,063,2021
+"Hale County, Alabama",0,01,065,2021
+"Henry County, Alabama",137,01,067,2021
+"Houston County, Alabama",515,01,069,2021
+"Jackson County, Alabama",183,01,071,2021
+"Jefferson County, Alabama",2478,01,073,2021
+"Lamar County, Alabama",0,01,075,2021
+"Lauderdale County, Alabama",192,01,077,2021
+"Lawrence County, Alabama",144,01,079,2021
+"Lee County, Alabama",927,01,081,2021
+"Limestone County, Alabama",341,01,083,2021
+"Lowndes County, Alabama",9,01,085,2021
+"Macon County, Alabama",18,01,087,2021
+"Madison County, Alabama",3632,01,089,2021
+"Marengo County, Alabama",0,01,091,2021
+"Marion County, Alabama",10,01,093,2021
+"Marshall County, Alabama",510,01,095,2021
+"Mobile County, Alabama",1954,01,097,2021
+"Monroe County, Alabama",0,01,099,2021
+"Montgomery County, Alabama",794,01,101,2021
+"Morgan County, Alabama",812,01,103,2021
+"Perry County, Alabama",70,01,105,2021
+"Pickens County, Alabama",8,01,107,2021
+"Pike County, Alabama",78,01,109,2021
+"Randolph County, Alabama",114,01,111,2021
+"Russell County, Alabama",931,01,113,2021
+"St. Clair County, Alabama",295,01,115,2021
+"Shelby County, Alabama",1358,01,117,2021
+"Sumter County, Alabama",0,01,119,2021
+"Talladega County, Alabama",199,01,121,2021
+"Tallapoosa County, Alabama",10,01,123,2021
+"Tuscaloosa County, Alabama",750,01,125,2021
+"Walker County, Alabama",118,01,127,2021
+"Washington County, Alabama",1,01,129,2021
+"Wilcox County, Alabama",45,01,131,2021
+"Winston County, Alabama",24,01,133,2021
+"Aleutians East Borough, Alaska",19,02,013,2021
+"Aleutians West Census Area, Alaska",5,02,016,2021
+"Anchorage Municipality, Alaska",4390,02,020,2021
+"Bethel Census Area, Alaska",6,02,050,2021
+"Bristol Bay Borough, Alaska",39,02,060,2021
+"Chugach Census Area, Alaska",1,02,063,2021
+"Copper River Census Area, Alaska",0,02,066,2021
+"Denali Borough, Alaska",0,02,068,2021
+"Dillingham Census Area, Alaska",0,02,070,2021
+"Fairbanks North Star Borough, Alaska",1467,02,090,2021
+"Haines Borough, Alaska",0,02,100,2021
+"Hoonah-Angoon Census Area, Alaska",37,02,105,2021
+"Juneau City and Borough, Alaska",303,02,110,2021
+"Kenai Peninsula Borough, Alaska",137,02,122,2021
+"Ketchikan Gateway Borough, Alaska",63,02,130,2021
+"Kodiak Island Borough, Alaska",2,02,150,2021
+"Kusilvak Census Area, Alaska",0,02,158,2021
+"Lake and Peninsula Borough, Alaska",1,02,164,2021
+"Matanuska-Susitna Borough, Alaska",788,02,170,2021
+"Nome Census Area, Alaska",15,02,180,2021
+"North Slope Borough, Alaska",43,02,185,2021
+"Northwest Arctic Borough, Alaska",11,02,188,2021
+"Petersburg Borough, Alaska",30,02,195,2021
+"Prince of Wales-Hyder Census Area, Alaska",1,02,198,2021
+"Sitka City and Borough, Alaska",63,02,220,2021
+"Skagway Municipality, Alaska",0,02,230,2021
+"Southeast Fairbanks Census Area, Alaska",274,02,240,2021
+"Wrangell City and Borough, Alaska",4,02,275,2021
+"Yakutat City and Borough, Alaska",0,02,282,2021
+"Yukon-Koyukuk Census Area, Alaska",40,02,290,2021
+"Apache County, Arizona",148,04,001,2021
+"Cochise County, Arizona",1876,04,003,2021
+"Coconino County, Arizona",400,04,005,2021
+"Gila County, Arizona",70,04,007,2021
+"Graham County, Arizona",60,04,009,2021
+"Greenlee County, Arizona",14,04,011,2021
+"La Paz County, Arizona",31,04,012,2021
+"Maricopa County, Arizona",32547,04,013,2021
+"Mohave County, Arizona",914,04,015,2021
+"Navajo County, Arizona",227,04,017,2021
+"Pima County, Arizona",9633,04,019,2021
+"Pinal County, Arizona",3204,04,021,2021
+"Santa Cruz County, Arizona",213,04,023,2021
+"Yavapai County, Arizona",1032,04,025,2021
+"Yuma County, Arizona",1282,04,027,2021
+"Arkansas County, Arkansas",104,05,001,2021
+"Ashley County, Arkansas",0,05,003,2021
+"Baxter County, Arkansas",151,05,005,2021
+"Benton County, Arkansas",1456,05,007,2021
+"Boone County, Arkansas",74,05,009,2021
+"Bradley County, Arkansas",0,05,011,2021
+"Calhoun County, Arkansas",2,05,013,2021
+"Carroll County, Arkansas",158,05,015,2021
+"Chicot County, Arkansas",0,05,017,2021
+"Clark County, Arkansas",20,05,019,2021
+"Clay County, Arkansas",0,05,021,2021
+"Cleburne County, Arkansas",44,05,023,2021
+"Cleveland County, Arkansas",0,05,025,2021
+"Columbia County, Arkansas",3,05,027,2021
+"Conway County, Arkansas",0,05,029,2021
+"Craighead County, Arkansas",320,05,031,2021
+"Crawford County, Arkansas",351,05,033,2021
+"Crittenden County, Arkansas",42,05,035,2021
+"Cross County, Arkansas",4,05,037,2021
+"Dallas County, Arkansas",0,05,039,2021
+"Desha County, Arkansas",16,05,041,2021
+"Drew County, Arkansas",46,05,043,2021
+"Faulkner County, Arkansas",145,05,045,2021
+"Franklin County, Arkansas",8,05,047,2021
+"Fulton County, Arkansas",0,05,049,2021
+"Garland County, Arkansas",32,05,051,2021
+"Grant County, Arkansas",12,05,053,2021
+"Greene County, Arkansas",156,05,055,2021
+"Hempstead County, Arkansas",8,05,057,2021
+"Hot Spring County, Arkansas",5,05,059,2021
+"Howard County, Arkansas",0,05,061,2021
+"Independence County, Arkansas",14,05,063,2021
+"Izard County, Arkansas",110,05,065,2021
+"Jackson County, Arkansas",25,05,067,2021
+"Jefferson County, Arkansas",281,05,069,2021
+"Johnson County, Arkansas",146,05,071,2021
+"Lafayette County, Arkansas",0,05,073,2021
+"Lawrence County, Arkansas",63,05,075,2021
+"Lee County, Arkansas",1,05,077,2021
+"Lincoln County, Arkansas",17,05,079,2021
+"Little River County, Arkansas",0,05,081,2021
+"Logan County, Arkansas",34,05,083,2021
+"Lonoke County, Arkansas",169,05,085,2021
+"Madison County, Arkansas",0,05,087,2021
+"Marion County, Arkansas",83,05,089,2021
+"Miller County, Arkansas",19,05,091,2021
+"Mississippi County, Arkansas",38,05,093,2021
+"Monroe County, Arkansas",0,05,095,2021
+"Montgomery County, Arkansas",9,05,097,2021
+"Nevada County, Arkansas",0,05,099,2021
+"Newton County, Arkansas",0,05,101,2021
+"Ouachita County, Arkansas",44,05,103,2021
+"Perry County, Arkansas",0,05,105,2021
+"Phillips County, Arkansas",60,05,107,2021
+"Pike County, Arkansas",8,05,109,2021
+"Poinsett County, Arkansas",95,05,111,2021
+"Polk County, Arkansas",1,05,113,2021
+"Pope County, Arkansas",342,05,115,2021
+"Prairie County, Arkansas",51,05,117,2021
+"Pulaski County, Arkansas",752,05,119,2021
+"Randolph County, Arkansas",0,05,121,2021
+"St. Francis County, Arkansas",113,05,123,2021
+"Saline County, Arkansas",253,05,125,2021
+"Scott County, Arkansas",37,05,127,2021
+"Searcy County, Arkansas",0,05,129,2021
+"Sebastian County, Arkansas",353,05,131,2021
+"Sevier County, Arkansas",0,05,133,2021
+"Sharp County, Arkansas",60,05,135,2021
+"Stone County, Arkansas",1,05,137,2021
+"Union County, Arkansas",5,05,139,2021
+"Van Buren County, Arkansas",0,05,141,2021
+"Washington County, Arkansas",1351,05,143,2021
+"White County, Arkansas",150,05,145,2021
+"Woodruff County, Arkansas",2,05,147,2021
+"Yell County, Arkansas",458,05,149,2021
+"Alameda County, California",12555,06,001,2021
+"Alpine County, California",0,06,003,2021
+"Amador County, California",197,06,005,2021
+"Butte County, California",873,06,007,2021
+"Calaveras County, California",257,06,009,2021
+"Colusa County, California",50,06,011,2021
+"Contra Costa County, California",9225,06,013,2021
+"Del Norte County, California",194,06,015,2021
+"El Dorado County, California",1101,06,017,2021
+"Fresno County, California",4849,06,019,2021
+"Glenn County, California",46,06,021,2021
+"Humboldt County, California",538,06,023,2021
+"Imperial County, California",683,06,025,2021
+"Inyo County, California",29,06,027,2021
+"Kern County, California",5068,06,029,2021
+"Kings County, California",939,06,031,2021
+"Lake County, California",174,06,033,2021
+"Lassen County, California",35,06,035,2021
+"Los Angeles County, California",48283,06,037,2021
+"Madera County, California",661,06,039,2021
+"Marin County, California",935,06,041,2021
+"Mariposa County, California",96,06,043,2021
+"Mendocino County, California",349,06,045,2021
+"Merced County, California",644,06,047,2021
+"Modoc County, California",11,06,049,2021
+"Mono County, California",10,06,051,2021
+"Monterey County, California",2932,06,053,2021
+"Napa County, California",677,06,055,2021
+"Nevada County, California",575,06,057,2021
+"Orange County, California",13448,06,059,2021
+"Placer County, California",2682,06,061,2021
+"Plumas County, California",117,06,063,2021
+"Riverside County, California",17747,06,065,2021
+"Sacramento County, California",12587,06,067,2021
+"San Benito County, California",925,06,069,2021
+"San Bernardino County, California",18215,06,071,2021
+"San Diego County, California",26362,06,073,2021
+"San Francisco County, California",5666,06,075,2021
+"San Joaquin County, California",5804,06,077,2021
+"San Luis Obispo County, California",1380,06,079,2021
+"San Mateo County, California",3713,06,081,2021
+"Santa Barbara County, California",2113,06,083,2021
+"Santa Clara County, California",8981,06,085,2021
+"Santa Cruz County, California",959,06,087,2021
+"Shasta County, California",685,06,089,2021
+"Sierra County, California",0,06,091,2021
+"Siskiyou County, California",179,06,093,2021
+"Solano County, California",4635,06,095,2021
+"Sonoma County, California",2129,06,097,2021
+"Stanislaus County, California",3410,06,099,2021
+"Sutter County, California",470,06,101,2021
+"Tehama County, California",183,06,103,2021
+"Trinity County, California",3,06,105,2021
+"Tulare County, California",1142,06,107,2021
+"Tuolumne County, California",185,06,109,2021
+"Ventura County, California",3732,06,111,2021
+"Yolo County, California",854,06,113,2021
+"Yuba County, California",689,06,115,2021
+"Adams County, Colorado",2774,08,001,2021
+"Alamosa County, Colorado",36,08,003,2021
+"Arapahoe County, Colorado",5639,08,005,2021
+"Archuleta County, Colorado",13,08,007,2021
+"Baca County, Colorado",0,08,009,2021
+"Bent County, Colorado",7,08,011,2021
+"Boulder County, Colorado",1805,08,013,2021
+"Broomfield County, Colorado",341,08,014,2021
+"Chaffee County, Colorado",96,08,015,2021
+"Cheyenne County, Colorado",2,08,017,2021
+"Clear Creek County, Colorado",201,08,019,2021
+"Conejos County, Colorado",17,08,021,2021
+"Costilla County, Colorado",0,08,023,2021
+"Crowley County, Colorado",86,08,025,2021
+"Custer County, Colorado",0,08,027,2021
+"Delta County, Colorado",21,08,029,2021
+"Denver County, Colorado",4857,08,031,2021
+"Dolores County, Colorado",0,08,033,2021
+"Douglas County, Colorado",1656,08,035,2021
+"Eagle County, Colorado",12,08,037,2021
+"Elbert County, Colorado",49,08,039,2021
+"El Paso County, Colorado",10329,08,041,2021
+"Fremont County, Colorado",252,08,043,2021
+"Garfield County, Colorado",356,08,045,2021
+"Gilpin County, Colorado",57,08,047,2021
+"Grand County, Colorado",23,08,049,2021
+"Gunnison County, Colorado",35,08,051,2021
+"Hinsdale County, Colorado",0,08,053,2021
+"Huerfano County, Colorado",10,08,055,2021
+"Jackson County, Colorado",0,08,057,2021
+"Jefferson County, Colorado",2025,08,059,2021
+"Kiowa County, Colorado",0,08,061,2021
+"Kit Carson County, Colorado",0,08,063,2021
+"Lake County, Colorado",0,08,065,2021
+"La Plata County, Colorado",104,08,067,2021
+"Larimer County, Colorado",1580,08,069,2021
+"Las Animas County, Colorado",102,08,071,2021
+"Lincoln County, Colorado",3,08,073,2021
+"Logan County, Colorado",53,08,075,2021
+"Mesa County, Colorado",658,08,077,2021
+"Mineral County, Colorado",2,08,079,2021
+"Moffat County, Colorado",114,08,081,2021
+"Montezuma County, Colorado",37,08,083,2021
+"Montrose County, Colorado",87,08,085,2021
+"Morgan County, Colorado",121,08,087,2021
+"Otero County, Colorado",10,08,089,2021
+"Ouray County, Colorado",0,08,091,2021
+"Park County, Colorado",125,08,093,2021
+"Phillips County, Colorado",0,08,095,2021
+"Pitkin County, Colorado",137,08,097,2021
+"Prowers County, Colorado",0,08,099,2021
+"Pueblo County, Colorado",1694,08,101,2021
+"Rio Blanco County, Colorado",18,08,103,2021
+"Rio Grande County, Colorado",3,08,105,2021
+"Routt County, Colorado",143,08,107,2021
+"Saguache County, Colorado",0,08,109,2021
+"San Juan County, Colorado",0,08,111,2021
+"San Miguel County, Colorado",0,08,113,2021
+"Sedgwick County, Colorado",24,08,115,2021
+"Summit County, Colorado",188,08,117,2021
+"Teller County, Colorado",84,08,119,2021
+"Washington County, Colorado",0,08,121,2021
+"Weld County, Colorado",1645,08,123,2021
+"Yuma County, Colorado",0,08,125,2021
+"Fairfield County, Connecticut",53738,09,001,2021
+"Hartford County, Connecticut",112645,09,003,2021
+"Litchfield County, Connecticut",5525,09,005,2021
+"Middlesex County, Connecticut",5554,09,007,2021
+"New Haven County, Connecticut",91472,09,009,2021
+"New London County, Connecticut",15525,09,011,2021
+"Tolland County, Connecticut",4792,09,013,2021
+"Windham County, Connecticut",9021,09,015,2021
+"Kent County, Delaware",6284,10,001,2021
+"New Castle County, Delaware",18954,10,003,2021
+"Sussex County, Delaware",3158,10,005,2021
+"District of Columbia, District of Columbia",6203,11,001,2021
+"Alachua County, Florida",7800,12,001,2021
+"Baker County, Florida",296,12,003,2021
+"Bay County, Florida",2994,12,005,2021
+"Bradford County, Florida",411,12,007,2021
+"Brevard County, Florida",24599,12,009,2021
+"Broward County, Florida",91596,12,011,2021
+"Calhoun County, Florida",156,12,013,2021
+"Charlotte County, Florida",4143,12,015,2021
+"Citrus County, Florida",3857,12,017,2021
+"Clay County, Florida",8497,12,019,2021
+"Collier County, Florida",7294,12,021,2021
+"Columbia County, Florida",1681,12,023,2021
+"DeSoto County, Florida",200,12,027,2021
+"Dixie County, Florida",206,12,029,2021
+"Duval County, Florida",31866,12,031,2021
+"Escambia County, Florida",3676,12,033,2021
+"Flagler County, Florida",5947,12,035,2021
+"Franklin County, Florida",196,12,037,2021
+"Gadsden County, Florida",403,12,039,2021
+"Gilchrist County, Florida",161,12,041,2021
+"Glades County, Florida",167,12,043,2021
+"Gulf County, Florida",189,12,045,2021
+"Hamilton County, Florida",219,12,047,2021
+"Hardee County, Florida",1300,12,049,2021
+"Hendry County, Florida",1773,12,051,2021
+"Hernando County, Florida",14903,12,053,2021
+"Highlands County, Florida",6524,12,055,2021
+"Hillsborough County, Florida",122448,12,057,2021
+"Holmes County, Florida",147,12,059,2021
+"Indian River County, Florida",3692,12,061,2021
+"Jackson County, Florida",767,12,063,2021
+"Jefferson County, Florida",186,12,065,2021
+"Lafayette County, Florida",26,12,067,2021
+"Lake County, Florida",27961,12,069,2021
+"Lee County, Florida",34830,12,071,2021
+"Leon County, Florida",3522,12,073,2021
+"Levy County, Florida",1249,12,075,2021
+"Liberty County, Florida",48,12,077,2021
+"Madison County, Florida",246,12,079,2021
+"Manatee County, Florida",11931,12,081,2021
+"Marion County, Florida",23693,12,083,2021
+"Martin County, Florida",3437,12,085,2021
+"Miami-Dade County, Florida",89716,12,086,2021
+"Monroe County, Florida",1328,12,087,2021
+"Nassau County, Florida",798,12,089,2021
+"Okaloosa County, Florida",4233,12,091,2021
+"Okeechobee County, Florida",660,12,093,2021
+"Orange County, Florida",205443,12,095,2021
+"Osceola County, Florida",116839,12,097,2021
+"Palm Beach County, Florida",51635,12,099,2021
+"Pasco County, Florida",33893,12,101,2021
+"Pinellas County, Florida",26290,12,103,2021
+"Polk County, Florida",76138,12,105,2021
+"Putnam County, Florida",2009,12,107,2021
+"St. Johns County, Florida",6151,12,109,2021
+"St. Lucie County, Florida",18465,12,111,2021
+"Santa Rosa County, Florida",2220,12,113,2021
+"Sarasota County, Florida",7480,12,115,2021
+"Seminole County, Florida",45791,12,117,2021
+"Sumter County, Florida",1838,12,119,2021
+"Suwannee County, Florida",455,12,121,2021
+"Taylor County, Florida",350,12,123,2021
+"Union County, Florida",288,12,125,2021
+"Volusia County, Florida",38093,12,127,2021
+"Wakulla County, Florida",452,12,129,2021
+"Walton County, Florida",637,12,131,2021
+"Washington County, Florida",242,12,133,2021
+"Appling County, Georgia",80,13,001,2021
+"Atkinson County, Georgia",207,13,003,2021
+"Bacon County, Georgia",200,13,005,2021
+"Baker County, Georgia",0,13,007,2021
+"Baldwin County, Georgia",120,13,009,2021
+"Banks County, Georgia",33,13,011,2021
+"Barrow County, Georgia",1644,13,013,2021
+"Bartow County, Georgia",790,13,015,2021
+"Ben Hill County, Georgia",102,13,017,2021
+"Berrien County, Georgia",96,13,019,2021
+"Bibb County, Georgia",1096,13,021,2021
+"Bleckley County, Georgia",133,13,023,2021
+"Brantley County, Georgia",19,13,025,2021
+"Brooks County, Georgia",392,13,027,2021
+"Bryan County, Georgia",1147,13,029,2021
+"Bulloch County, Georgia",904,13,031,2021
+"Burke County, Georgia",137,13,033,2021
+"Butts County, Georgia",35,13,035,2021
+"Calhoun County, Georgia",6,13,037,2021
+"Camden County, Georgia",906,13,039,2021
+"Candler County, Georgia",102,13,043,2021
+"Carroll County, Georgia",1003,13,045,2021
+"Catoosa County, Georgia",415,13,047,2021
+"Charlton County, Georgia",98,13,049,2021
+"Chatham County, Georgia",4538,13,051,2021
+"Chattahoochee County, Georgia",292,13,053,2021
+"Chattooga County, Georgia",55,13,055,2021
+"Cherokee County, Georgia",3151,13,057,2021
+"Clarke County, Georgia",513,13,059,2021
+"Clay County, Georgia",0,13,061,2021
+"Clayton County, Georgia",4197,13,063,2021
+"Clinch County, Georgia",139,13,065,2021
+"Cobb County, Georgia",11464,13,067,2021
+"Coffee County, Georgia",150,13,069,2021
+"Colquitt County, Georgia",837,13,071,2021
+"Columbia County, Georgia",2826,13,073,2021
+"Cook County, Georgia",36,13,075,2021
+"Coweta County, Georgia",1901,13,077,2021
+"Crawford County, Georgia",0,13,079,2021
+"Crisp County, Georgia",14,13,081,2021
+"Dade County, Georgia",97,13,083,2021
+"Dawson County, Georgia",122,13,085,2021
+"Decatur County, Georgia",82,13,087,2021
+"DeKalb County, Georgia",3957,13,089,2021
+"Dodge County, Georgia",83,13,091,2021
+"Dooly County, Georgia",0,13,093,2021
+"Dougherty County, Georgia",200,13,095,2021
+"Douglas County, Georgia",1333,13,097,2021
+"Early County, Georgia",0,13,099,2021
+"Echols County, Georgia",59,13,101,2021
+"Effingham County, Georgia",641,13,103,2021
+"Elbert County, Georgia",99,13,105,2021
+"Emanuel County, Georgia",129,13,107,2021
+"Evans County, Georgia",111,13,109,2021
+"Fannin County, Georgia",64,13,111,2021
+"Fayette County, Georgia",1444,13,113,2021
+"Floyd County, Georgia",400,13,115,2021
+"Forsyth County, Georgia",2262,13,117,2021
+"Franklin County, Georgia",95,13,119,2021
+"Fulton County, Georgia",8886,13,121,2021
+"Gilmer County, Georgia",172,13,123,2021
+"Glascock County, Georgia",0,13,125,2021
+"Glynn County, Georgia",943,13,127,2021
+"Gordon County, Georgia",860,13,129,2021
+"Grady County, Georgia",270,13,131,2021
+"Greene County, Georgia",70,13,133,2021
+"Gwinnett County, Georgia",14555,13,135,2021
+"Habersham County, Georgia",227,13,137,2021
+"Hall County, Georgia",1574,13,139,2021
+"Hancock County, Georgia",9,13,141,2021
+"Haralson County, Georgia",27,13,143,2021
+"Harris County, Georgia",320,13,145,2021
+"Hart County, Georgia",52,13,147,2021
+"Heard County, Georgia",10,13,149,2021
+"Henry County, Georgia",4185,13,151,2021
+"Houston County, Georgia",1973,13,153,2021
+"Irwin County, Georgia",20,13,155,2021
+"Jackson County, Georgia",1010,13,157,2021
+"Jasper County, Georgia",187,13,159,2021
+"Jeff Davis County, Georgia",160,13,161,2021
+"Jefferson County, Georgia",0,13,163,2021
+"Jenkins County, Georgia",9,13,165,2021
+"Johnson County, Georgia",19,13,167,2021
+"Jones County, Georgia",95,13,169,2021
+"Lamar County, Georgia",22,13,171,2021
+"Lanier County, Georgia",0,13,173,2021
+"Laurens County, Georgia",326,13,175,2021
+"Lee County, Georgia",355,13,177,2021
+"Liberty County, Georgia",3457,13,179,2021
+"Lincoln County, Georgia",0,13,181,2021
+"Long County, Georgia",522,13,183,2021
+"Lowndes County, Georgia",1293,13,185,2021
+"Lumpkin County, Georgia",62,13,187,2021
+"McDuffie County, Georgia",58,13,189,2021
+"McIntosh County, Georgia",147,13,191,2021
+"Macon County, Georgia",23,13,193,2021
+"Madison County, Georgia",207,13,195,2021
+"Marion County, Georgia",76,13,197,2021
+"Meriwether County, Georgia",52,13,199,2021
+"Miller County, Georgia",11,13,201,2021
+"Mitchell County, Georgia",403,13,205,2021
+"Monroe County, Georgia",54,13,207,2021
+"Montgomery County, Georgia",196,13,209,2021
+"Morgan County, Georgia",210,13,211,2021
+"Murray County, Georgia",295,13,213,2021
+"Muscogee County, Georgia",4175,13,215,2021
+"Newton County, Georgia",1057,13,217,2021
+"Oconee County, Georgia",469,13,219,2021
+"Oglethorpe County, Georgia",606,13,221,2021
+"Paulding County, Georgia",2414,13,223,2021
+"Peach County, Georgia",23,13,225,2021
+"Pickens County, Georgia",128,13,227,2021
+"Pierce County, Georgia",29,13,229,2021
+"Pike County, Georgia",14,13,231,2021
+"Polk County, Georgia",239,13,233,2021
+"Pulaski County, Georgia",47,13,235,2021
+"Putnam County, Georgia",34,13,237,2021
+"Quitman County, Georgia",13,13,239,2021
+"Rabun County, Georgia",73,13,241,2021
+"Randolph County, Georgia",0,13,243,2021
+"Richmond County, Georgia",3885,13,245,2021
+"Rockdale County, Georgia",906,13,247,2021
+"Schley County, Georgia",0,13,249,2021
+"Screven County, Georgia",166,13,251,2021
+"Seminole County, Georgia",42,13,253,2021
+"Spalding County, Georgia",878,13,255,2021
+"Stephens County, Georgia",47,13,257,2021
+"Stewart County, Georgia",6,13,259,2021
+"Sumter County, Georgia",50,13,261,2021
+"Talbot County, Georgia",2,13,263,2021
+"Taliaferro County, Georgia",21,13,265,2021
+"Tattnall County, Georgia",125,13,267,2021
+"Taylor County, Georgia",0,13,269,2021
+"Telfair County, Georgia",70,13,271,2021
+"Terrell County, Georgia",47,13,273,2021
+"Thomas County, Georgia",83,13,275,2021
+"Tift County, Georgia",200,13,277,2021
+"Toombs County, Georgia",172,13,279,2021
+"Towns County, Georgia",97,13,281,2021
+"Treutlen County, Georgia",23,13,283,2021
+"Troup County, Georgia",181,13,285,2021
+"Turner County, Georgia",0,13,287,2021
+"Twiggs County, Georgia",0,13,289,2021
+"Union County, Georgia",138,13,291,2021
+"Upson County, Georgia",15,13,293,2021
+"Walker County, Georgia",343,13,295,2021
+"Walton County, Georgia",899,13,297,2021
+"Ware County, Georgia",136,13,299,2021
+"Warren County, Georgia",0,13,301,2021
+"Washington County, Georgia",27,13,303,2021
+"Wayne County, Georgia",747,13,305,2021
+"Webster County, Georgia",0,13,307,2021
+"Wheeler County, Georgia",0,13,309,2021
+"White County, Georgia",215,13,311,2021
+"Whitfield County, Georgia",705,13,313,2021
+"Wilcox County, Georgia",5,13,315,2021
+"Wilkes County, Georgia",85,13,317,2021
+"Wilkinson County, Georgia",5,13,319,2021
+"Worth County, Georgia",13,13,321,2021
+"Hawaii County, Hawaii",9892,15,001,2021
+"Honolulu County, Hawaii",35139,15,003,2021
+"Kalawao County, Hawaii",2,15,005,2021
+"Kauai County, Hawaii",2467,15,007,2021
+"Maui County, Hawaii",5550,15,009,2021
+"Ada County, Idaho",2079,16,001,2021
+"Adams County, Idaho",0,16,003,2021
+"Bannock County, Idaho",517,16,005,2021
+"Bear Lake County, Idaho",5,16,007,2021
+"Benewah County, Idaho",3,16,009,2021
+"Bingham County, Idaho",9,16,011,2021
+"Blaine County, Idaho",68,16,013,2021
+"Boise County, Idaho",0,16,015,2021
+"Bonner County, Idaho",54,16,017,2021
+"Bonneville County, Idaho",209,16,019,2021
+"Boundary County, Idaho",31,16,021,2021
+"Butte County, Idaho",0,16,023,2021
+"Camas County, Idaho",0,16,025,2021
+"Canyon County, Idaho",1140,16,027,2021
+"Caribou County, Idaho",0,16,029,2021
+"Cassia County, Idaho",16,16,031,2021
+"Clark County, Idaho",0,16,033,2021
+"Clearwater County, Idaho",13,16,035,2021
+"Custer County, Idaho",0,16,037,2021
+"Elmore County, Idaho",511,16,039,2021
+"Franklin County, Idaho",0,16,041,2021
+"Fremont County, Idaho",37,16,043,2021
+"Gem County, Idaho",80,16,045,2021
+"Gooding County, Idaho",0,16,047,2021
+"Idaho County, Idaho",30,16,049,2021
+"Jefferson County, Idaho",40,16,051,2021
+"Jerome County, Idaho",190,16,053,2021
+"Kootenai County, Idaho",479,16,055,2021
+"Latah County, Idaho",45,16,057,2021
+"Lemhi County, Idaho",104,16,059,2021
+"Lewis County, Idaho",0,16,061,2021
+"Lincoln County, Idaho",8,16,063,2021
+"Madison County, Idaho",176,16,065,2021
+"Minidoka County, Idaho",46,16,067,2021
+"Nez Perce County, Idaho",131,16,069,2021
+"Oneida County, Idaho",0,16,071,2021
+"Owyhee County, Idaho",129,16,073,2021
+"Payette County, Idaho",0,16,075,2021
+"Power County, Idaho",2,16,077,2021
+"Shoshone County, Idaho",5,16,079,2021
+"Teton County, Idaho",62,16,081,2021
+"Twin Falls County, Idaho",93,16,083,2021
+"Valley County, Idaho",2,16,085,2021
+"Washington County, Idaho",42,16,087,2021
+"Adams County, Illinois",213,17,001,2021
+"Alexander County, Illinois",3,17,003,2021
+"Bond County, Illinois",79,17,005,2021
+"Boone County, Illinois",457,17,007,2021
+"Brown County, Illinois",22,17,009,2021
+"Bureau County, Illinois",125,17,011,2021
+"Calhoun County, Illinois",16,17,013,2021
+"Carroll County, Illinois",33,17,015,2021
+"Cass County, Illinois",326,17,017,2021
+"Champaign County, Illinois",1208,17,019,2021
+"Christian County, Illinois",44,17,021,2021
+"Clark County, Illinois",0,17,023,2021
+"Clay County, Illinois",10,17,025,2021
+"Clinton County, Illinois",31,17,027,2021
+"Coles County, Illinois",158,17,029,2021
+"Cook County, Illinois",138664,17,031,2021
+"Crawford County, Illinois",87,17,033,2021
+"Cumberland County, Illinois",3,17,035,2021
+"DeKalb County, Illinois",1284,17,037,2021
+"De Witt County, Illinois",86,17,039,2021
+"Douglas County, Illinois",15,17,041,2021
+"DuPage County, Illinois",10035,17,043,2021
+"Edgar County, Illinois",0,17,045,2021
+"Edwards County, Illinois",11,17,047,2021
+"Effingham County, Illinois",41,17,049,2021
+"Fayette County, Illinois",33,17,051,2021
+"Ford County, Illinois",18,17,053,2021
+"Franklin County, Illinois",45,17,055,2021
+"Fulton County, Illinois",169,17,057,2021
+"Gallatin County, Illinois",31,17,059,2021
+"Greene County, Illinois",36,17,061,2021
+"Grundy County, Illinois",679,17,063,2021
+"Hamilton County, Illinois",0,17,065,2021
+"Hancock County, Illinois",9,17,067,2021
+"Hardin County, Illinois",0,17,069,2021
+"Henderson County, Illinois",31,17,071,2021
+"Henry County, Illinois",175,17,073,2021
+"Iroquois County, Illinois",81,17,075,2021
+"Jackson County, Illinois",177,17,077,2021
+"Jasper County, Illinois",6,17,079,2021
+"Jefferson County, Illinois",332,17,081,2021
+"Jersey County, Illinois",9,17,083,2021
+"Jo Daviess County, Illinois",20,17,085,2021
+"Johnson County, Illinois",29,17,087,2021
+"Kane County, Illinois",11168,17,089,2021
+"Kankakee County, Illinois",458,17,091,2021
+"Kendall County, Illinois",2486,17,093,2021
+"Knox County, Illinois",354,17,095,2021
+"Lake County, Illinois",11782,17,097,2021
+"LaSalle County, Illinois",747,17,099,2021
+"Lawrence County, Illinois",54,17,101,2021
+"Lee County, Illinois",332,17,103,2021
+"Livingston County, Illinois",219,17,105,2021
+"Logan County, Illinois",129,17,107,2021
+"McDonough County, Illinois",56,17,109,2021
+"McHenry County, Illinois",3660,17,111,2021
+"McLean County, Illinois",572,17,113,2021
+"Macon County, Illinois",224,17,115,2021
+"Macoupin County, Illinois",65,17,117,2021
+"Madison County, Illinois",450,17,119,2021
+"Marion County, Illinois",136,17,121,2021
+"Marshall County, Illinois",0,17,123,2021
+"Mason County, Illinois",3,17,125,2021
+"Massac County, Illinois",63,17,127,2021
+"Menard County, Illinois",31,17,129,2021
+"Mercer County, Illinois",0,17,131,2021
+"Monroe County, Illinois",63,17,133,2021
+"Montgomery County, Illinois",120,17,135,2021
+"Morgan County, Illinois",112,17,137,2021
+"Moultrie County, Illinois",5,17,139,2021
+"Ogle County, Illinois",190,17,141,2021
+"Peoria County, Illinois",847,17,143,2021
+"Perry County, Illinois",28,17,145,2021
+"Piatt County, Illinois",54,17,147,2021
+"Pike County, Illinois",36,17,149,2021
+"Pope County, Illinois",0,17,151,2021
+"Pulaski County, Illinois",4,17,153,2021
+"Putnam County, Illinois",11,17,155,2021
+"Randolph County, Illinois",25,17,157,2021
+"Richland County, Illinois",119,17,159,2021
+"Rock Island County, Illinois",750,17,161,2021
+"St. Clair County, Illinois",1335,17,163,2021
+"Saline County, Illinois",83,17,165,2021
+"Sangamon County, Illinois",825,17,167,2021
+"Schuyler County, Illinois",2,17,169,2021
+"Scott County, Illinois",0,17,171,2021
+"Shelby County, Illinois",18,17,173,2021
+"Stark County, Illinois",4,17,175,2021
+"Stephenson County, Illinois",329,17,177,2021
+"Tazewell County, Illinois",147,17,179,2021
+"Union County, Illinois",5,17,181,2021
+"Vermilion County, Illinois",135,17,183,2021
+"Wabash County, Illinois",16,17,185,2021
+"Warren County, Illinois",28,17,187,2021
+"Washington County, Illinois",28,17,189,2021
+"Wayne County, Illinois",35,17,191,2021
+"White County, Illinois",24,17,193,2021
+"Whiteside County, Illinois",872,17,195,2021
+"Will County, Illinois",8223,17,197,2021
+"Williamson County, Illinois",117,17,199,2021
+"Winnebago County, Illinois",2442,17,201,2021
+"Woodford County, Illinois",15,17,203,2021
+"Adams County, Indiana",18,18,001,2021
+"Allen County, Indiana",1752,18,003,2021
+"Bartholomew County, Indiana",800,18,005,2021
+"Benton County, Indiana",24,18,007,2021
+"Blackford County, Indiana",56,18,009,2021
+"Boone County, Indiana",48,18,011,2021
+"Brown County, Indiana",0,18,013,2021
+"Carroll County, Indiana",53,18,015,2021
+"Cass County, Indiana",245,18,017,2021
+"Clark County, Indiana",354,18,019,2021
+"Clay County, Indiana",45,18,021,2021
+"Clinton County, Indiana",97,18,023,2021
+"Crawford County, Indiana",23,18,025,2021
+"Daviess County, Indiana",104,18,027,2021
+"Dearborn County, Indiana",52,18,029,2021
+"Decatur County, Indiana",32,18,031,2021
+"DeKalb County, Indiana",11,18,033,2021
+"Delaware County, Indiana",200,18,035,2021
+"Dubois County, Indiana",313,18,037,2021
+"Elkhart County, Indiana",3061,18,039,2021
+"Fayette County, Indiana",0,18,041,2021
+"Floyd County, Indiana",366,18,043,2021
+"Fountain County, Indiana",17,18,045,2021
+"Franklin County, Indiana",0,18,047,2021
+"Fulton County, Indiana",8,18,049,2021
+"Gibson County, Indiana",51,18,051,2021
+"Grant County, Indiana",203,18,053,2021
+"Greene County, Indiana",10,18,055,2021
+"Hamilton County, Indiana",1801,18,057,2021
+"Hancock County, Indiana",282,18,059,2021
+"Harrison County, Indiana",107,18,061,2021
+"Hendricks County, Indiana",753,18,063,2021
+"Henry County, Indiana",111,18,065,2021
+"Howard County, Indiana",280,18,067,2021
+"Huntington County, Indiana",98,18,069,2021
+"Jackson County, Indiana",85,18,071,2021
+"Jasper County, Indiana",132,18,073,2021
+"Jay County, Indiana",17,18,075,2021
+"Jefferson County, Indiana",106,18,077,2021
+"Jennings County, Indiana",8,18,079,2021
+"Johnson County, Indiana",1076,18,081,2021
+"Knox County, Indiana",149,18,083,2021
+"Kosciusko County, Indiana",657,18,085,2021
+"LaGrange County, Indiana",75,18,087,2021
+"Lake County, Indiana",16080,18,089,2021
+"LaPorte County, Indiana",766,18,091,2021
+"Lawrence County, Indiana",94,18,093,2021
+"Madison County, Indiana",771,18,095,2021
+"Marion County, Indiana",6564,18,097,2021
+"Marshall County, Indiana",84,18,099,2021
+"Martin County, Indiana",7,18,101,2021
+"Miami County, Indiana",264,18,103,2021
+"Monroe County, Indiana",531,18,105,2021
+"Montgomery County, Indiana",151,18,107,2021
+"Morgan County, Indiana",123,18,109,2021
+"Newton County, Indiana",29,18,111,2021
+"Noble County, Indiana",190,18,113,2021
+"Ohio County, Indiana",57,18,115,2021
+"Orange County, Indiana",81,18,117,2021
+"Owen County, Indiana",45,18,119,2021
+"Parke County, Indiana",2,18,121,2021
+"Perry County, Indiana",0,18,123,2021
+"Pike County, Indiana",1,18,125,2021
+"Porter County, Indiana",3201,18,127,2021
+"Posey County, Indiana",103,18,129,2021
+"Pulaski County, Indiana",41,18,131,2021
+"Putnam County, Indiana",169,18,133,2021
+"Randolph County, Indiana",87,18,135,2021
+"Ripley County, Indiana",38,18,137,2021
+"Rush County, Indiana",0,18,139,2021
+"St. Joseph County, Indiana",1467,18,141,2021
+"Scott County, Indiana",267,18,143,2021
+"Shelby County, Indiana",35,18,145,2021
+"Spencer County, Indiana",0,18,147,2021
+"Starke County, Indiana",138,18,149,2021
+"Steuben County, Indiana",83,18,151,2021
+"Sullivan County, Indiana",24,18,153,2021
+"Switzerland County, Indiana",0,18,155,2021
+"Tippecanoe County, Indiana",667,18,157,2021
+"Tipton County, Indiana",22,18,159,2021
+"Union County, Indiana",54,18,161,2021
+"Vanderburgh County, Indiana",339,18,163,2021
+"Vermillion County, Indiana",12,18,165,2021
+"Vigo County, Indiana",316,18,167,2021
+"Wabash County, Indiana",0,18,169,2021
+"Warren County, Indiana",4,18,171,2021
+"Warrick County, Indiana",58,18,173,2021
+"Washington County, Indiana",0,18,175,2021
+"Wayne County, Indiana",231,18,177,2021
+"Wells County, Indiana",61,18,179,2021
+"White County, Indiana",30,18,181,2021
+"Whitley County, Indiana",57,18,183,2021
+"Adair County, Iowa",1,19,001,2021
+"Adams County, Iowa",0,19,003,2021
+"Allamakee County, Iowa",35,19,005,2021
+"Appanoose County, Iowa",0,19,007,2021
+"Audubon County, Iowa",6,19,009,2021
+"Benton County, Iowa",14,19,011,2021
+"Black Hawk County, Iowa",482,19,013,2021
+"Boone County, Iowa",41,19,015,2021
+"Bremer County, Iowa",96,19,017,2021
+"Buchanan County, Iowa",3,19,019,2021
+"Buena Vista County, Iowa",14,19,021,2021
+"Butler County, Iowa",0,19,023,2021
+"Calhoun County, Iowa",0,19,025,2021
+"Carroll County, Iowa",38,19,027,2021
+"Cass County, Iowa",1,19,029,2021
+"Cedar County, Iowa",0,19,031,2021
+"Cerro Gordo County, Iowa",131,19,033,2021
+"Cherokee County, Iowa",2,19,035,2021
+"Chickasaw County, Iowa",25,19,037,2021
+"Clarke County, Iowa",10,19,039,2021
+"Clay County, Iowa",79,19,041,2021
+"Clayton County, Iowa",3,19,043,2021
+"Clinton County, Iowa",98,19,045,2021
+"Crawford County, Iowa",8,19,047,2021
+"Dallas County, Iowa",247,19,049,2021
+"Davis County, Iowa",0,19,051,2021
+"Decatur County, Iowa",17,19,053,2021
+"Delaware County, Iowa",0,19,055,2021
+"Des Moines County, Iowa",452,19,057,2021
+"Dickinson County, Iowa",22,19,059,2021
+"Dubuque County, Iowa",249,19,061,2021
+"Emmet County, Iowa",21,19,063,2021
+"Fayette County, Iowa",55,19,065,2021
+"Floyd County, Iowa",30,19,067,2021
+"Franklin County, Iowa",0,19,069,2021
+"Fremont County, Iowa",30,19,071,2021
+"Greene County, Iowa",87,19,073,2021
+"Grundy County, Iowa",22,19,075,2021
+"Guthrie County, Iowa",4,19,077,2021
+"Hamilton County, Iowa",1,19,079,2021
+"Hancock County, Iowa",30,19,081,2021
+"Hardin County, Iowa",77,19,083,2021
+"Harrison County, Iowa",5,19,085,2021
+"Henry County, Iowa",78,19,087,2021
+"Howard County, Iowa",8,19,089,2021
+"Humboldt County, Iowa",0,19,091,2021
+"Ida County, Iowa",4,19,093,2021
+"Iowa County, Iowa",23,19,095,2021
+"Jackson County, Iowa",11,19,097,2021
+"Jasper County, Iowa",189,19,099,2021
+"Jefferson County, Iowa",122,19,101,2021
+"Johnson County, Iowa",1038,19,103,2021
+"Jones County, Iowa",3,19,105,2021
+"Keokuk County, Iowa",8,19,107,2021
+"Kossuth County, Iowa",18,19,109,2021
+"Lee County, Iowa",7,19,111,2021
+"Linn County, Iowa",346,19,113,2021
+"Louisa County, Iowa",25,19,115,2021
+"Lucas County, Iowa",0,19,117,2021
+"Lyon County, Iowa",10,19,119,2021
+"Madison County, Iowa",35,19,121,2021
+"Mahaska County, Iowa",31,19,123,2021
+"Marion County, Iowa",38,19,125,2021
+"Marshall County, Iowa",297,19,127,2021
+"Mills County, Iowa",13,19,129,2021
+"Mitchell County, Iowa",53,19,131,2021
+"Monona County, Iowa",3,19,133,2021
+"Monroe County, Iowa",0,19,135,2021
+"Montgomery County, Iowa",0,19,137,2021
+"Muscatine County, Iowa",187,19,139,2021
+"O'Brien County, Iowa",272,19,141,2021
+"Osceola County, Iowa",0,19,143,2021
+"Page County, Iowa",0,19,145,2021
+"Palo Alto County, Iowa",0,19,147,2021
+"Plymouth County, Iowa",6,19,149,2021
+"Pocahontas County, Iowa",0,19,151,2021
+"Polk County, Iowa",1744,19,153,2021
+"Pottawattamie County, Iowa",211,19,155,2021
+"Poweshiek County, Iowa",43,19,157,2021
+"Ringgold County, Iowa",0,19,159,2021
+"Sac County, Iowa",1,19,161,2021
+"Scott County, Iowa",341,19,163,2021
+"Shelby County, Iowa",12,19,165,2021
+"Sioux County, Iowa",42,19,167,2021
+"Story County, Iowa",190,19,169,2021
+"Tama County, Iowa",58,19,171,2021
+"Taylor County, Iowa",0,19,173,2021
+"Union County, Iowa",43,19,175,2021
+"Van Buren County, Iowa",0,19,177,2021
+"Wapello County, Iowa",94,19,179,2021
+"Warren County, Iowa",44,19,181,2021
+"Washington County, Iowa",19,19,183,2021
+"Wayne County, Iowa",33,19,185,2021
+"Webster County, Iowa",183,19,187,2021
+"Winnebago County, Iowa",140,19,189,2021
+"Winneshiek County, Iowa",17,19,191,2021
+"Woodbury County, Iowa",406,19,193,2021
+"Worth County, Iowa",6,19,195,2021
+"Wright County, Iowa",80,19,197,2021
+"Allen County, Kansas",41,20,001,2021
+"Anderson County, Kansas",68,20,003,2021
+"Atchison County, Kansas",4,20,005,2021
+"Barber County, Kansas",0,20,007,2021
+"Barton County, Kansas",8,20,009,2021
+"Bourbon County, Kansas",19,20,011,2021
+"Brown County, Kansas",41,20,013,2021
+"Butler County, Kansas",124,20,015,2021
+"Chase County, Kansas",0,20,017,2021
+"Chautauqua County, Kansas",0,20,019,2021
+"Cherokee County, Kansas",7,20,021,2021
+"Cheyenne County, Kansas",7,20,023,2021
+"Clark County, Kansas",0,20,025,2021
+"Clay County, Kansas",65,20,027,2021
+"Cloud County, Kansas",0,20,029,2021
+"Coffey County, Kansas",17,20,031,2021
+"Comanche County, Kansas",0,20,033,2021
+"Cowley County, Kansas",46,20,035,2021
+"Crawford County, Kansas",156,20,037,2021
+"Decatur County, Kansas",0,20,039,2021
+"Dickinson County, Kansas",66,20,041,2021
+"Doniphan County, Kansas",19,20,043,2021
+"Douglas County, Kansas",913,20,045,2021
+"Edwards County, Kansas",3,20,047,2021
+"Elk County, Kansas",0,20,049,2021
+"Ellis County, Kansas",8,20,051,2021
+"Ellsworth County, Kansas",43,20,053,2021
+"Finney County, Kansas",211,20,055,2021
+"Ford County, Kansas",685,20,057,2021
+"Franklin County, Kansas",42,20,059,2021
+"Geary County, Kansas",1420,20,061,2021
+"Gove County, Kansas",25,20,063,2021
+"Graham County, Kansas",8,20,065,2021
+"Grant County, Kansas",0,20,067,2021
+"Gray County, Kansas",0,20,069,2021
+"Greeley County, Kansas",0,20,071,2021
+"Greenwood County, Kansas",10,20,073,2021
+"Hamilton County, Kansas",6,20,075,2021
+"Harper County, Kansas",0,20,077,2021
+"Harvey County, Kansas",93,20,079,2021
+"Haskell County, Kansas",0,20,081,2021
+"Hodgeman County, Kansas",0,20,083,2021
+"Jackson County, Kansas",0,20,085,2021
+"Jefferson County, Kansas",12,20,087,2021
+"Jewell County, Kansas",1,20,089,2021
+"Johnson County, Kansas",2255,20,091,2021
+"Kearny County, Kansas",0,20,093,2021
+"Kingman County, Kansas",33,20,095,2021
+"Kiowa County, Kansas",3,20,097,2021
+"Labette County, Kansas",22,20,099,2021
+"Lane County, Kansas",10,20,101,2021
+"Leavenworth County, Kansas",979,20,103,2021
+"Lincoln County, Kansas",0,20,105,2021
+"Linn County, Kansas",21,20,107,2021
+"Logan County, Kansas",0,20,109,2021
+"Lyon County, Kansas",148,20,111,2021
+"McPherson County, Kansas",58,20,113,2021
+"Marion County, Kansas",6,20,115,2021
+"Marshall County, Kansas",25,20,117,2021
+"Meade County, Kansas",0,20,119,2021
+"Miami County, Kansas",0,20,121,2021
+"Mitchell County, Kansas",0,20,123,2021
+"Montgomery County, Kansas",192,20,125,2021
+"Morris County, Kansas",14,20,127,2021
+"Morton County, Kansas",0,20,129,2021
+"Nemaha County, Kansas",1,20,131,2021
+"Neosho County, Kansas",17,20,133,2021
+"Ness County, Kansas",0,20,135,2021
+"Norton County, Kansas",32,20,137,2021
+"Osage County, Kansas",5,20,139,2021
+"Osborne County, Kansas",0,20,141,2021
+"Ottawa County, Kansas",11,20,143,2021
+"Pawnee County, Kansas",39,20,145,2021
+"Phillips County, Kansas",12,20,147,2021
+"Pottawatomie County, Kansas",77,20,149,2021
+"Pratt County, Kansas",0,20,151,2021
+"Rawlins County, Kansas",28,20,153,2021
+"Reno County, Kansas",179,20,155,2021
+"Republic County, Kansas",9,20,157,2021
+"Rice County, Kansas",14,20,159,2021
+"Riley County, Kansas",586,20,161,2021
+"Rooks County, Kansas",0,20,163,2021
+"Rush County, Kansas",2,20,165,2021
+"Russell County, Kansas",141,20,167,2021
+"Saline County, Kansas",405,20,169,2021
+"Scott County, Kansas",0,20,171,2021
+"Sedgwick County, Kansas",2341,20,173,2021
+"Seward County, Kansas",95,20,175,2021
+"Shawnee County, Kansas",1388,20,177,2021
+"Sheridan County, Kansas",0,20,179,2021
+"Sherman County, Kansas",0,20,181,2021
+"Smith County, Kansas",1,20,183,2021
+"Stafford County, Kansas",0,20,185,2021
+"Stanton County, Kansas",28,20,187,2021
+"Stevens County, Kansas",0,20,189,2021
+"Sumner County, Kansas",69,20,191,2021
+"Thomas County, Kansas",0,20,193,2021
+"Trego County, Kansas",2,20,195,2021
+"Wabaunsee County, Kansas",37,20,197,2021
+"Wallace County, Kansas",9,20,199,2021
+"Washington County, Kansas",0,20,201,2021
+"Wichita County, Kansas",0,20,203,2021
+"Wilson County, Kansas",7,20,205,2021
+"Woodson County, Kansas",7,20,207,2021
+"Wyandotte County, Kansas",926,20,209,2021
+"Adair County, Kentucky",0,21,001,2021
+"Allen County, Kentucky",11,21,003,2021
+"Anderson County, Kentucky",28,21,005,2021
+"Ballard County, Kentucky",5,21,007,2021
+"Barren County, Kentucky",135,21,009,2021
+"Bath County, Kentucky",0,21,011,2021
+"Bell County, Kentucky",87,21,013,2021
+"Boone County, Kentucky",674,21,015,2021
+"Bourbon County, Kentucky",113,21,017,2021
+"Boyd County, Kentucky",29,21,019,2021
+"Boyle County, Kentucky",136,21,021,2021
+"Bracken County, Kentucky",51,21,023,2021
+"Breathitt County, Kentucky",0,21,025,2021
+"Breckinridge County, Kentucky",27,21,027,2021
+"Bullitt County, Kentucky",348,21,029,2021
+"Butler County, Kentucky",27,21,031,2021
+"Caldwell County, Kentucky",11,21,033,2021
+"Calloway County, Kentucky",206,21,035,2021
+"Campbell County, Kentucky",282,21,037,2021
+"Carlisle County, Kentucky",0,21,039,2021
+"Carroll County, Kentucky",0,21,041,2021
+"Carter County, Kentucky",30,21,043,2021
+"Casey County, Kentucky",18,21,045,2021
+"Christian County, Kentucky",1637,21,047,2021
+"Clark County, Kentucky",126,21,049,2021
+"Clay County, Kentucky",54,21,051,2021
+"Clinton County, Kentucky",20,21,053,2021
+"Crittenden County, Kentucky",0,21,055,2021
+"Cumberland County, Kentucky",0,21,057,2021
+"Daviess County, Kentucky",245,21,059,2021
+"Edmonson County, Kentucky",86,21,061,2021
+"Elliott County, Kentucky",10,21,063,2021
+"Estill County, Kentucky",0,21,065,2021
+"Fayette County, Kentucky",1989,21,067,2021
+"Fleming County, Kentucky",0,21,069,2021
+"Floyd County, Kentucky",41,21,071,2021
+"Franklin County, Kentucky",122,21,073,2021
+"Fulton County, Kentucky",0,21,075,2021
+"Gallatin County, Kentucky",0,21,077,2021
+"Garrard County, Kentucky",0,21,079,2021
+"Grant County, Kentucky",0,21,081,2021
+"Graves County, Kentucky",105,21,083,2021
+"Grayson County, Kentucky",131,21,085,2021
+"Green County, Kentucky",50,21,087,2021
+"Greenup County, Kentucky",0,21,089,2021
+"Hancock County, Kentucky",3,21,091,2021
+"Hardin County, Kentucky",2261,21,093,2021
+"Harlan County, Kentucky",18,21,095,2021
+"Harrison County, Kentucky",7,21,097,2021
+"Hart County, Kentucky",74,21,099,2021
+"Henderson County, Kentucky",108,21,101,2021
+"Henry County, Kentucky",29,21,103,2021
+"Hickman County, Kentucky",3,21,105,2021
+"Hopkins County, Kentucky",40,21,107,2021
+"Jackson County, Kentucky",0,21,109,2021
+"Jefferson County, Kentucky",3288,21,111,2021
+"Jessamine County, Kentucky",96,21,113,2021
+"Johnson County, Kentucky",21,21,115,2021
+"Kenton County, Kentucky",567,21,117,2021
+"Knott County, Kentucky",26,21,119,2021
+"Knox County, Kentucky",0,21,121,2021
+"Larue County, Kentucky",4,21,123,2021
+"Laurel County, Kentucky",386,21,125,2021
+"Lawrence County, Kentucky",11,21,127,2021
+"Lee County, Kentucky",0,21,129,2021
+"Leslie County, Kentucky",0,21,131,2021
+"Letcher County, Kentucky",90,21,133,2021
+"Lewis County, Kentucky",0,21,135,2021
+"Lincoln County, Kentucky",23,21,137,2021
+"Livingston County, Kentucky",47,21,139,2021
+"Logan County, Kentucky",40,21,141,2021
+"Lyon County, Kentucky",21,21,143,2021
+"McCracken County, Kentucky",172,21,145,2021
+"McCreary County, Kentucky",50,21,147,2021
+"McLean County, Kentucky",16,21,149,2021
+"Madison County, Kentucky",272,21,151,2021
+"Magoffin County, Kentucky",0,21,153,2021
+"Marion County, Kentucky",0,21,155,2021
+"Marshall County, Kentucky",128,21,157,2021
+"Martin County, Kentucky",38,21,159,2021
+"Mason County, Kentucky",86,21,161,2021
+"Meade County, Kentucky",209,21,163,2021
+"Menifee County, Kentucky",0,21,165,2021
+"Mercer County, Kentucky",0,21,167,2021
+"Metcalfe County, Kentucky",58,21,169,2021
+"Monroe County, Kentucky",0,21,171,2021
+"Montgomery County, Kentucky",32,21,173,2021
+"Morgan County, Kentucky",6,21,175,2021
+"Muhlenberg County, Kentucky",27,21,177,2021
+"Nelson County, Kentucky",181,21,179,2021
+"Nicholas County, Kentucky",0,21,181,2021
+"Ohio County, Kentucky",42,21,183,2021
+"Oldham County, Kentucky",244,21,185,2021
+"Owen County, Kentucky",30,21,187,2021
+"Owsley County, Kentucky",0,21,189,2021
+"Pendleton County, Kentucky",0,21,191,2021
+"Perry County, Kentucky",68,21,193,2021
+"Pike County, Kentucky",60,21,195,2021
+"Powell County, Kentucky",0,21,197,2021
+"Pulaski County, Kentucky",15,21,199,2021
+"Robertson County, Kentucky",14,21,201,2021
+"Rockcastle County, Kentucky",14,21,203,2021
+"Rowan County, Kentucky",136,21,205,2021
+"Russell County, Kentucky",2,21,207,2021
+"Scott County, Kentucky",308,21,209,2021
+"Shelby County, Kentucky",548,21,211,2021
+"Simpson County, Kentucky",13,21,213,2021
+"Spencer County, Kentucky",255,21,215,2021
+"Taylor County, Kentucky",141,21,217,2021
+"Todd County, Kentucky",27,21,219,2021
+"Trigg County, Kentucky",29,21,221,2021
+"Trimble County, Kentucky",71,21,223,2021
+"Union County, Kentucky",9,21,225,2021
+"Warren County, Kentucky",226,21,227,2021
+"Washington County, Kentucky",0,21,229,2021
+"Wayne County, Kentucky",130,21,231,2021
+"Webster County, Kentucky",0,21,233,2021
+"Whitley County, Kentucky",141,21,235,2021
+"Wolfe County, Kentucky",0,21,237,2021
+"Woodford County, Kentucky",70,21,239,2021
+"Acadia Parish, Louisiana",34,22,001,2021
+"Allen Parish, Louisiana",92,22,003,2021
+"Ascension Parish, Louisiana",212,22,005,2021
+"Assumption Parish, Louisiana",5,22,007,2021
+"Avoyelles Parish, Louisiana",22,22,009,2021
+"Beauregard Parish, Louisiana",339,22,011,2021
+"Bienville Parish, Louisiana",4,22,013,2021
+"Bossier Parish, Louisiana",432,22,015,2021
+"Caddo Parish, Louisiana",418,22,017,2021
+"Calcasieu Parish, Louisiana",276,22,019,2021
+"Caldwell Parish, Louisiana",0,22,021,2021
+"Cameron Parish, Louisiana",0,22,023,2021
+"Catahoula Parish, Louisiana",17,22,025,2021
+"Claiborne Parish, Louisiana",39,22,027,2021
+"Concordia Parish, Louisiana",10,22,029,2021
+"De Soto Parish, Louisiana",11,22,031,2021
+"East Baton Rouge Parish, Louisiana",1356,22,033,2021
+"East Carroll Parish, Louisiana",0,22,035,2021
+"East Feliciana Parish, Louisiana",25,22,037,2021
+"Evangeline Parish, Louisiana",1,22,039,2021
+"Franklin Parish, Louisiana",0,22,041,2021
+"Grant Parish, Louisiana",76,22,043,2021
+"Iberia Parish, Louisiana",178,22,045,2021
+"Iberville Parish, Louisiana",60,22,047,2021
+"Jackson Parish, Louisiana",58,22,049,2021
+"Jefferson Parish, Louisiana",3021,22,051,2021
+"Jefferson Davis Parish, Louisiana",11,22,053,2021
+"Lafayette Parish, Louisiana",464,22,055,2021
+"Lafourche Parish, Louisiana",67,22,057,2021
+"LaSalle Parish, Louisiana",7,22,059,2021
+"Lincoln Parish, Louisiana",48,22,061,2021
+"Livingston Parish, Louisiana",460,22,063,2021
+"Madison Parish, Louisiana",5,22,065,2021
+"Morehouse Parish, Louisiana",29,22,067,2021
+"Natchitoches Parish, Louisiana",78,22,069,2021
+"Orleans Parish, Louisiana",946,22,071,2021
+"Ouachita Parish, Louisiana",211,22,073,2021
+"Plaquemines Parish, Louisiana",467,22,075,2021
+"Pointe Coupee Parish, Louisiana",0,22,077,2021
+"Rapides Parish, Louisiana",576,22,079,2021
+"Red River Parish, Louisiana",0,22,081,2021
+"Richland Parish, Louisiana",34,22,083,2021
+"Sabine Parish, Louisiana",3,22,085,2021
+"St. Bernard Parish, Louisiana",220,22,087,2021
+"St. Charles Parish, Louisiana",102,22,089,2021
+"St. Helena Parish, Louisiana",0,22,091,2021
+"St. James Parish, Louisiana",0,22,093,2021
+"St. John the Baptist Parish, Louisiana",489,22,095,2021
+"St. Landry Parish, Louisiana",46,22,097,2021
+"St. Martin Parish, Louisiana",54,22,099,2021
+"St. Mary Parish, Louisiana",108,22,101,2021
+"St. Tammany Parish, Louisiana",890,22,103,2021
+"Tangipahoa Parish, Louisiana",323,22,105,2021
+"Tensas Parish, Louisiana",0,22,107,2021
+"Terrebonne Parish, Louisiana",636,22,109,2021
+"Union Parish, Louisiana",13,22,111,2021
+"Vermilion Parish, Louisiana",49,22,113,2021
+"Vernon Parish, Louisiana",903,22,115,2021
+"Washington Parish, Louisiana",194,22,117,2021
+"Webster Parish, Louisiana",66,22,119,2021
+"West Baton Rouge Parish, Louisiana",193,22,121,2021
+"West Carroll Parish, Louisiana",37,22,123,2021
+"West Feliciana Parish, Louisiana",54,22,125,2021
+"Winn Parish, Louisiana",0,22,127,2021
+"Androscoggin County, Maine",621,23,001,2021
+"Aroostook County, Maine",192,23,003,2021
+"Cumberland County, Maine",1297,23,005,2021
+"Franklin County, Maine",120,23,007,2021
+"Hancock County, Maine",275,23,009,2021
+"Kennebec County, Maine",525,23,011,2021
+"Knox County, Maine",79,23,013,2021
+"Lincoln County, Maine",64,23,015,2021
+"Oxford County, Maine",331,23,017,2021
+"Penobscot County, Maine",633,23,019,2021
+"Piscataquis County, Maine",64,23,021,2021
+"Sagadahoc County, Maine",121,23,023,2021
+"Somerset County, Maine",118,23,025,2021
+"Waldo County, Maine",278,23,027,2021
+"Washington County, Maine",262,23,029,2021
+"York County, Maine",921,23,031,2021
+"Allegany County, Maryland",214,24,001,2021
+"Anne Arundel County, Maryland",7414,24,003,2021
+"Baltimore County, Maryland",8738,24,005,2021
+"Calvert County, Maryland",1135,24,009,2021
+"Caroline County, Maryland",132,24,011,2021
+"Carroll County, Maryland",993,24,013,2021
+"Cecil County, Maryland",1423,24,015,2021
+"Charles County, Maryland",2166,24,017,2021
+"Dorchester County, Maryland",601,24,019,2021
+"Frederick County, Maryland",3406,24,021,2021
+"Garrett County, Maryland",15,24,023,2021
+"Harford County, Maryland",2662,24,025,2021
+"Howard County, Maryland",3674,24,027,2021
+"Kent County, Maryland",80,24,029,2021
+"Montgomery County, Maryland",11977,24,031,2021
+"Prince George's County, Maryland",7249,24,033,2021
+"Queen Anne's County, Maryland",149,24,035,2021
+"St. Mary's County, Maryland",905,24,037,2021
+"Somerset County, Maryland",115,24,039,2021
+"Talbot County, Maryland",246,24,041,2021
+"Washington County, Maryland",2040,24,043,2021
+"Wicomico County, Maryland",645,24,045,2021
+"Worcester County, Maryland",310,24,047,2021
+"Baltimore city, Maryland",4855,24,510,2021
+"Barnstable County, Massachusetts",1593,25,001,2021
+"Berkshire County, Massachusetts",2533,25,003,2021
+"Bristol County, Massachusetts",26731,25,005,2021
+"Dukes County, Massachusetts",306,25,007,2021
+"Essex County, Massachusetts",39154,25,009,2021
+"Franklin County, Massachusetts",1501,25,011,2021
+"Hampden County, Massachusetts",100875,25,013,2021
+"Hampshire County, Massachusetts",4235,25,015,2021
+"Middlesex County, Massachusetts",37261,25,017,2021
+"Nantucket County, Massachusetts",13,25,019,2021
+"Norfolk County, Massachusetts",7711,25,021,2021
+"Plymouth County, Massachusetts",9372,25,023,2021
+"Suffolk County, Massachusetts",40813,25,025,2021
+"Worcester County, Massachusetts",60584,25,027,2021
+"Alcona County, Michigan",18,26,001,2021
+"Alger County, Michigan",4,26,003,2021
+"Allegan County, Michigan",478,26,005,2021
+"Alpena County, Michigan",127,26,007,2021
+"Antrim County, Michigan",34,26,009,2021
+"Arenac County, Michigan",33,26,011,2021
+"Baraga County, Michigan",28,26,013,2021
+"Barry County, Michigan",247,26,015,2021
+"Bay County, Michigan",50,26,017,2021
+"Benzie County, Michigan",23,26,019,2021
+"Berrien County, Michigan",857,26,021,2021
+"Branch County, Michigan",130,26,023,2021
+"Calhoun County, Michigan",389,26,025,2021
+"Cass County, Michigan",188,26,027,2021
+"Charlevoix County, Michigan",126,26,029,2021
+"Cheboygan County, Michigan",68,26,031,2021
+"Chippewa County, Michigan",69,26,033,2021
+"Clare County, Michigan",55,26,035,2021
+"Clinton County, Michigan",257,26,037,2021
+"Crawford County, Michigan",34,26,039,2021
+"Delta County, Michigan",166,26,041,2021
+"Dickinson County, Michigan",7,26,043,2021
+"Eaton County, Michigan",363,26,045,2021
+"Emmet County, Michigan",193,26,047,2021
+"Genesee County, Michigan",1362,26,049,2021
+"Gladwin County, Michigan",0,26,051,2021
+"Gogebic County, Michigan",54,26,053,2021
+"Grand Traverse County, Michigan",229,26,055,2021
+"Gratiot County, Michigan",84,26,057,2021
+"Hillsdale County, Michigan",85,26,059,2021
+"Houghton County, Michigan",53,26,061,2021
+"Huron County, Michigan",185,26,063,2021
+"Ingham County, Michigan",1410,26,065,2021
+"Ionia County, Michigan",296,26,067,2021
+"Iosco County, Michigan",27,26,069,2021
+"Iron County, Michigan",10,26,071,2021
+"Isabella County, Michigan",118,26,073,2021
+"Jackson County, Michigan",733,26,075,2021
+"Kalamazoo County, Michigan",799,26,077,2021
+"Kalkaska County, Michigan",66,26,079,2021
+"Kent County, Michigan",8087,26,081,2021
+"Keweenaw County, Michigan",0,26,083,2021
+"Lake County, Michigan",28,26,085,2021
+"Lapeer County, Michigan",531,26,087,2021
+"Leelanau County, Michigan",40,26,089,2021
+"Lenawee County, Michigan",886,26,091,2021
+"Livingston County, Michigan",533,26,093,2021
+"Luce County, Michigan",20,26,095,2021
+"Mackinac County, Michigan",21,26,097,2021
+"Macomb County, Michigan",3026,26,099,2021
+"Manistee County, Michigan",98,26,101,2021
+"Marquette County, Michigan",161,26,103,2021
+"Mason County, Michigan",43,26,105,2021
+"Mecosta County, Michigan",118,26,107,2021
+"Menominee County, Michigan",90,26,109,2021
+"Midland County, Michigan",117,26,111,2021
+"Missaukee County, Michigan",14,26,113,2021
+"Monroe County, Michigan",821,26,115,2021
+"Montcalm County, Michigan",314,26,117,2021
+"Montmorency County, Michigan",5,26,119,2021
+"Muskegon County, Michigan",584,26,121,2021
+"Newaygo County, Michigan",115,26,123,2021
+"Oakland County, Michigan",7110,26,125,2021
+"Oceana County, Michigan",34,26,127,2021
+"Ogemaw County, Michigan",66,26,129,2021
+"Ontonagon County, Michigan",10,26,131,2021
+"Osceola County, Michigan",125,26,133,2021
+"Oscoda County, Michigan",9,26,135,2021
+"Otsego County, Michigan",31,26,137,2021
+"Ottawa County, Michigan",1498,26,139,2021
+"Presque Isle County, Michigan",14,26,141,2021
+"Roscommon County, Michigan",75,26,143,2021
+"Saginaw County, Michigan",667,26,145,2021
+"St. Clair County, Michigan",312,26,147,2021
+"St. Joseph County, Michigan",136,26,149,2021
+"Sanilac County, Michigan",78,26,151,2021
+"Schoolcraft County, Michigan",3,26,153,2021
+"Shiawassee County, Michigan",105,26,155,2021
+"Tuscola County, Michigan",19,26,157,2021
+"Van Buren County, Michigan",197,26,159,2021
+"Washtenaw County, Michigan",1698,26,161,2021
+"Wayne County, Michigan",13511,26,163,2021
+"Wexford County, Michigan",126,26,165,2021
+"Aitkin County, Minnesota",44,27,001,2021
+"Anoka County, Minnesota",755,27,003,2021
+"Becker County, Minnesota",73,27,005,2021
+"Beltrami County, Minnesota",110,27,007,2021
+"Benton County, Minnesota",117,27,009,2021
+"Big Stone County, Minnesota",9,27,011,2021
+"Blue Earth County, Minnesota",76,27,013,2021
+"Brown County, Minnesota",171,27,015,2021
+"Carlton County, Minnesota",74,27,017,2021
+"Carver County, Minnesota",280,27,019,2021
+"Cass County, Minnesota",84,27,021,2021
+"Chippewa County, Minnesota",9,27,023,2021
+"Chisago County, Minnesota",86,27,025,2021
+"Clay County, Minnesota",286,27,027,2021
+"Clearwater County, Minnesota",0,27,029,2021
+"Cook County, Minnesota",20,27,031,2021
+"Cottonwood County, Minnesota",2,27,033,2021
+"Crow Wing County, Minnesota",21,27,035,2021
+"Dakota County, Minnesota",2653,27,037,2021
+"Dodge County, Minnesota",10,27,039,2021
+"Douglas County, Minnesota",20,27,041,2021
+"Faribault County, Minnesota",42,27,043,2021
+"Fillmore County, Minnesota",1,27,045,2021
+"Freeborn County, Minnesota",44,27,047,2021
+"Goodhue County, Minnesota",4,27,049,2021
+"Grant County, Minnesota",14,27,051,2021
+"Hennepin County, Minnesota",4774,27,053,2021
+"Houston County, Minnesota",42,27,055,2021
+"Hubbard County, Minnesota",20,27,057,2021
+"Isanti County, Minnesota",22,27,059,2021
+"Itasca County, Minnesota",64,27,061,2021
+"Jackson County, Minnesota",0,27,063,2021
+"Kanabec County, Minnesota",51,27,065,2021
+"Kandiyohi County, Minnesota",74,27,067,2021
+"Kittson County, Minnesota",22,27,069,2021
+"Koochiching County, Minnesota",10,27,071,2021
+"Lac qui Parle County, Minnesota",13,27,073,2021
+"Lake County, Minnesota",0,27,075,2021
+"Lake of the Woods County, Minnesota",0,27,077,2021
+"Le Sueur County, Minnesota",42,27,079,2021
+"Lincoln County, Minnesota",16,27,081,2021
+"Lyon County, Minnesota",114,27,083,2021
+"McLeod County, Minnesota",6,27,085,2021
+"Mahnomen County, Minnesota",20,27,087,2021
+"Marshall County, Minnesota",13,27,089,2021
+"Martin County, Minnesota",7,27,091,2021
+"Meeker County, Minnesota",5,27,093,2021
+"Mille Lacs County, Minnesota",15,27,095,2021
+"Morrison County, Minnesota",83,27,097,2021
+"Mower County, Minnesota",36,27,099,2021
+"Murray County, Minnesota",13,27,101,2021
+"Nicollet County, Minnesota",32,27,103,2021
+"Nobles County, Minnesota",130,27,105,2021
+"Norman County, Minnesota",18,27,107,2021
+"Olmsted County, Minnesota",726,27,109,2021
+"Otter Tail County, Minnesota",63,27,111,2021
+"Pennington County, Minnesota",17,27,113,2021
+"Pine County, Minnesota",21,27,115,2021
+"Pipestone County, Minnesota",83,27,117,2021
+"Polk County, Minnesota",82,27,119,2021
+"Pope County, Minnesota",38,27,121,2021
+"Ramsey County, Minnesota",1961,27,123,2021
+"Red Lake County, Minnesota",3,27,125,2021
+"Redwood County, Minnesota",24,27,127,2021
+"Renville County, Minnesota",0,27,129,2021
+"Rice County, Minnesota",101,27,131,2021
+"Rock County, Minnesota",0,27,133,2021
+"Roseau County, Minnesota",64,27,135,2021
+"St. Louis County, Minnesota",143,27,137,2021
+"Scott County, Minnesota",682,27,139,2021
+"Sherburne County, Minnesota",177,27,141,2021
+"Sibley County, Minnesota",42,27,143,2021
+"Stearns County, Minnesota",418,27,145,2021
+"Steele County, Minnesota",76,27,147,2021
+"Stevens County, Minnesota",42,27,149,2021
+"Swift County, Minnesota",0,27,151,2021
+"Todd County, Minnesota",216,27,153,2021
+"Traverse County, Minnesota",28,27,155,2021
+"Wabasha County, Minnesota",67,27,157,2021
+"Wadena County, Minnesota",27,27,159,2021
+"Waseca County, Minnesota",6,27,161,2021
+"Washington County, Minnesota",762,27,163,2021
+"Watonwan County, Minnesota",37,27,165,2021
+"Wilkin County, Minnesota",0,27,167,2021
+"Winona County, Minnesota",72,27,169,2021
+"Wright County, Minnesota",380,27,171,2021
+"Yellow Medicine County, Minnesota",0,27,173,2021
+"Adams County, Mississippi",831,28,001,2021
+"Alcorn County, Mississippi",9,28,003,2021
+"Amite County, Mississippi",0,28,005,2021
+"Attala County, Mississippi",0,28,007,2021
+"Benton County, Mississippi",21,28,009,2021
+"Bolivar County, Mississippi",38,28,011,2021
+"Calhoun County, Mississippi",28,28,013,2021
+"Carroll County, Mississippi",12,28,015,2021
+"Chickasaw County, Mississippi",31,28,017,2021
+"Choctaw County, Mississippi",0,28,019,2021
+"Claiborne County, Mississippi",11,28,021,2021
+"Clarke County, Mississippi",0,28,023,2021
+"Clay County, Mississippi",0,28,025,2021
+"Coahoma County, Mississippi",0,28,027,2021
+"Copiah County, Mississippi",6,28,029,2021
+"Covington County, Mississippi",45,28,031,2021
+"DeSoto County, Mississippi",438,28,033,2021
+"Forrest County, Mississippi",123,28,035,2021
+"Franklin County, Mississippi",0,28,037,2021
+"George County, Mississippi",55,28,039,2021
+"Greene County, Mississippi",12,28,041,2021
+"Grenada County, Mississippi",0,28,043,2021
+"Hancock County, Mississippi",120,28,045,2021
+"Harrison County, Mississippi",1828,28,047,2021
+"Hinds County, Mississippi",326,28,049,2021
+"Holmes County, Mississippi",0,28,051,2021
+"Humphreys County, Mississippi",0,28,053,2021
+"Issaquena County, Mississippi",22,28,055,2021
+"Itawamba County, Mississippi",2,28,057,2021
+"Jackson County, Mississippi",3415,28,059,2021
+"Jasper County, Mississippi",0,28,061,2021
+"Jefferson County, Mississippi",0,28,063,2021
+"Jefferson Davis County, Mississippi",0,28,065,2021
+"Jones County, Mississippi",81,28,067,2021
+"Kemper County, Mississippi",0,28,069,2021
+"Lafayette County, Mississippi",57,28,071,2021
+"Lamar County, Mississippi",613,28,073,2021
+"Lauderdale County, Mississippi",97,28,075,2021
+"Lawrence County, Mississippi",0,28,077,2021
+"Leake County, Mississippi",0,28,079,2021
+"Lee County, Mississippi",8,28,081,2021
+"Leflore County, Mississippi",0,28,083,2021
+"Lincoln County, Mississippi",0,28,085,2021
+"Lowndes County, Mississippi",64,28,087,2021
+"Madison County, Mississippi",110,28,089,2021
+"Marion County, Mississippi",122,28,091,2021
+"Marshall County, Mississippi",0,28,093,2021
+"Monroe County, Mississippi",26,28,095,2021
+"Montgomery County, Mississippi",0,28,097,2021
+"Neshoba County, Mississippi",25,28,099,2021
+"Newton County, Mississippi",39,28,101,2021
+"Noxubee County, Mississippi",0,28,103,2021
+"Oktibbeha County, Mississippi",53,28,105,2021
+"Panola County, Mississippi",42,28,107,2021
+"Pearl River County, Mississippi",269,28,109,2021
+"Perry County, Mississippi",16,28,111,2021
+"Pike County, Mississippi",71,28,113,2021
+"Pontotoc County, Mississippi",89,28,115,2021
+"Prentiss County, Mississippi",43,28,117,2021
+"Quitman County, Mississippi",18,28,119,2021
+"Rankin County, Mississippi",92,28,121,2021
+"Scott County, Mississippi",180,28,123,2021
+"Sharkey County, Mississippi",0,28,125,2021
+"Simpson County, Mississippi",0,28,127,2021
+"Smith County, Mississippi",0,28,129,2021
+"Stone County, Mississippi",86,28,131,2021
+"Sunflower County, Mississippi",17,28,133,2021
+"Tallahatchie County, Mississippi",68,28,135,2021
+"Tate County, Mississippi",31,28,137,2021
+"Tippah County, Mississippi",15,28,139,2021
+"Tishomingo County, Mississippi",6,28,141,2021
+"Tunica County, Mississippi",0,28,143,2021
+"Union County, Mississippi",0,28,145,2021
+"Walthall County, Mississippi",8,28,147,2021
+"Warren County, Mississippi",100,28,149,2021
+"Washington County, Mississippi",5,28,151,2021
+"Wayne County, Mississippi",0,28,153,2021
+"Webster County, Mississippi",2,28,155,2021
+"Wilkinson County, Mississippi",0,28,157,2021
+"Winston County, Mississippi",6,28,159,2021
+"Yalobusha County, Mississippi",34,28,161,2021
+"Yazoo County, Mississippi",230,28,163,2021
+"Adair County, Missouri",83,29,001,2021
+"Andrew County, Missouri",9,29,003,2021
+"Atchison County, Missouri",10,29,005,2021
+"Audrain County, Missouri",0,29,007,2021
+"Barry County, Missouri",153,29,009,2021
+"Barton County, Missouri",70,29,011,2021
+"Bates County, Missouri",2,29,013,2021
+"Benton County, Missouri",0,29,015,2021
+"Bollinger County, Missouri",17,29,017,2021
+"Boone County, Missouri",367,29,019,2021
+"Buchanan County, Missouri",537,29,021,2021
+"Butler County, Missouri",58,29,023,2021
+"Caldwell County, Missouri",49,29,025,2021
+"Callaway County, Missouri",38,29,027,2021
+"Camden County, Missouri",53,29,029,2021
+"Cape Girardeau County, Missouri",144,29,031,2021
+"Carroll County, Missouri",0,29,033,2021
+"Carter County, Missouri",0,29,035,2021
+"Cass County, Missouri",537,29,037,2021
+"Cedar County, Missouri",38,29,039,2021
+"Chariton County, Missouri",0,29,041,2021
+"Christian County, Missouri",172,29,043,2021
+"Clark County, Missouri",3,29,045,2021
+"Clay County, Missouri",1409,29,047,2021
+"Clinton County, Missouri",16,29,049,2021
+"Cole County, Missouri",196,29,051,2021
+"Cooper County, Missouri",31,29,053,2021
+"Crawford County, Missouri",2,29,055,2021
+"Dade County, Missouri",0,29,057,2021
+"Dallas County, Missouri",136,29,059,2021
+"Daviess County, Missouri",25,29,061,2021
+"DeKalb County, Missouri",39,29,063,2021
+"Dent County, Missouri",41,29,065,2021
+"Douglas County, Missouri",0,29,067,2021
+"Dunklin County, Missouri",5,29,069,2021
+"Franklin County, Missouri",125,29,071,2021
+"Gasconade County, Missouri",0,29,073,2021
+"Gentry County, Missouri",15,29,075,2021
+"Greene County, Missouri",1709,29,077,2021
+"Grundy County, Missouri",2,29,079,2021
+"Harrison County, Missouri",0,29,081,2021
+"Henry County, Missouri",67,29,083,2021
+"Hickory County, Missouri",94,29,085,2021
+"Holt County, Missouri",4,29,087,2021
+"Howard County, Missouri",0,29,089,2021
+"Howell County, Missouri",3,29,091,2021
+"Iron County, Missouri",6,29,093,2021
+"Jackson County, Missouri",2393,29,095,2021
+"Jasper County, Missouri",457,29,097,2021
+"Jefferson County, Missouri",548,29,099,2021
+"Johnson County, Missouri",195,29,101,2021
+"Knox County, Missouri",7,29,103,2021
+"Laclede County, Missouri",35,29,105,2021
+"Lafayette County, Missouri",149,29,107,2021
+"Lawrence County, Missouri",334,29,109,2021
+"Lewis County, Missouri",0,29,111,2021
+"Lincoln County, Missouri",116,29,113,2021
+"Linn County, Missouri",30,29,115,2021
+"Livingston County, Missouri",18,29,117,2021
+"McDonald County, Missouri",0,29,119,2021
+"Macon County, Missouri",0,29,121,2021
+"Madison County, Missouri",133,29,123,2021
+"Maries County, Missouri",4,29,125,2021
+"Marion County, Missouri",0,29,127,2021
+"Mercer County, Missouri",2,29,129,2021
+"Miller County, Missouri",0,29,131,2021
+"Mississippi County, Missouri",19,29,133,2021
+"Moniteau County, Missouri",140,29,135,2021
+"Monroe County, Missouri",6,29,137,2021
+"Montgomery County, Missouri",20,29,139,2021
+"Morgan County, Missouri",48,29,141,2021
+"New Madrid County, Missouri",2,29,143,2021
+"Newton County, Missouri",143,29,145,2021
+"Nodaway County, Missouri",29,29,147,2021
+"Oregon County, Missouri",0,29,149,2021
+"Osage County, Missouri",77,29,151,2021
+"Ozark County, Missouri",68,29,153,2021
+"Pemiscot County, Missouri",4,29,155,2021
+"Perry County, Missouri",0,29,157,2021
+"Pettis County, Missouri",97,29,159,2021
+"Phelps County, Missouri",135,29,161,2021
+"Pike County, Missouri",17,29,163,2021
+"Platte County, Missouri",374,29,165,2021
+"Polk County, Missouri",30,29,167,2021
+"Pulaski County, Missouri",1713,29,169,2021
+"Putnam County, Missouri",0,29,171,2021
+"Ralls County, Missouri",15,29,173,2021
+"Randolph County, Missouri",3,29,175,2021
+"Ray County, Missouri",19,29,177,2021
+"Reynolds County, Missouri",22,29,179,2021
+"Ripley County, Missouri",7,29,181,2021
+"St. Charles County, Missouri",1451,29,183,2021
+"St. Clair County, Missouri",8,29,185,2021
+"Ste. Genevieve County, Missouri",21,29,186,2021
+"St. Francois County, Missouri",62,29,187,2021
+"St. Louis County, Missouri",2469,29,189,2021
+"Saline County, Missouri",15,29,195,2021
+"Schuyler County, Missouri",0,29,197,2021
+"Scotland County, Missouri",0,29,199,2021
+"Scott County, Missouri",40,29,201,2021
+"Shannon County, Missouri",0,29,203,2021
+"Shelby County, Missouri",30,29,205,2021
+"Stoddard County, Missouri",39,29,207,2021
+"Stone County, Missouri",11,29,209,2021
+"Sullivan County, Missouri",141,29,211,2021
+"Taney County, Missouri",438,29,213,2021
+"Texas County, Missouri",78,29,215,2021
+"Vernon County, Missouri",3,29,217,2021
+"Warren County, Missouri",295,29,219,2021
+"Washington County, Missouri",4,29,221,2021
+"Wayne County, Missouri",0,29,223,2021
+"Webster County, Missouri",17,29,225,2021
+"Worth County, Missouri",0,29,227,2021
+"Wright County, Missouri",150,29,229,2021
+"St. Louis city, Missouri",756,29,510,2021
+"Beaverhead County, Montana",0,30,001,2021
+"Big Horn County, Montana",0,30,003,2021
+"Blaine County, Montana",50,30,005,2021
+"Broadwater County, Montana",0,30,007,2021
+"Carbon County, Montana",0,30,009,2021
+"Carter County, Montana",0,30,011,2021
+"Cascade County, Montana",435,30,013,2021
+"Chouteau County, Montana",6,30,015,2021
+"Custer County, Montana",0,30,017,2021
+"Daniels County, Montana",0,30,019,2021
+"Dawson County, Montana",5,30,021,2021
+"Deer Lodge County, Montana",15,30,023,2021
+"Fallon County, Montana",0,30,025,2021
+"Fergus County, Montana",3,30,027,2021
+"Flathead County, Montana",52,30,029,2021
+"Gallatin County, Montana",297,30,031,2021
+"Garfield County, Montana",0,30,033,2021
+"Glacier County, Montana",25,30,035,2021
+"Golden Valley County, Montana",0,30,037,2021
+"Granite County, Montana",0,30,039,2021
+"Hill County, Montana",31,30,041,2021
+"Jefferson County, Montana",0,30,043,2021
+"Judith Basin County, Montana",0,30,045,2021
+"Lake County, Montana",34,30,047,2021
+"Lewis and Clark County, Montana",229,30,049,2021
+"Liberty County, Montana",0,30,051,2021
+"Lincoln County, Montana",54,30,053,2021
+"McCone County, Montana",0,30,055,2021
+"Madison County, Montana",0,30,057,2021
+"Meagher County, Montana",1,30,059,2021
+"Mineral County, Montana",0,30,061,2021
+"Missoula County, Montana",177,30,063,2021
+"Musselshell County, Montana",43,30,065,2021
+"Park County, Montana",0,30,067,2021
+"Petroleum County, Montana",0,30,069,2021
+"Phillips County, Montana",0,30,071,2021
+"Pondera County, Montana",0,30,073,2021
+"Powder River County, Montana",0,30,075,2021
+"Powell County, Montana",0,30,077,2021
+"Prairie County, Montana",0,30,079,2021
+"Ravalli County, Montana",44,30,081,2021
+"Richland County, Montana",0,30,083,2021
+"Roosevelt County, Montana",29,30,085,2021
+"Rosebud County, Montana",14,30,087,2021
+"Sanders County, Montana",14,30,089,2021
+"Sheridan County, Montana",0,30,091,2021
+"Silver Bow County, Montana",50,30,093,2021
+"Stillwater County, Montana",70,30,095,2021
+"Sweet Grass County, Montana",0,30,097,2021
+"Teton County, Montana",32,30,099,2021
+"Toole County, Montana",0,30,101,2021
+"Treasure County, Montana",0,30,103,2021
+"Valley County, Montana",4,30,105,2021
+"Wheatland County, Montana",1,30,107,2021
+"Wibaux County, Montana",0,30,109,2021
+"Yellowstone County, Montana",339,30,111,2021
+"Adams County, Nebraska",47,31,001,2021
+"Antelope County, Nebraska",9,31,003,2021
+"Arthur County, Nebraska",0,31,005,2021
+"Banner County, Nebraska",0,31,007,2021
+"Blaine County, Nebraska",0,31,009,2021
+"Boone County, Nebraska",0,31,011,2021
+"Box Butte County, Nebraska",7,31,013,2021
+"Boyd County, Nebraska",0,31,015,2021
+"Brown County, Nebraska",0,31,017,2021
+"Buffalo County, Nebraska",69,31,019,2021
+"Burt County, Nebraska",4,31,021,2021
+"Butler County, Nebraska",0,31,023,2021
+"Cass County, Nebraska",75,31,025,2021
+"Cedar County, Nebraska",0,31,027,2021
+"Chase County, Nebraska",0,31,029,2021
+"Cherry County, Nebraska",0,31,031,2021
+"Cheyenne County, Nebraska",66,31,033,2021
+"Clay County, Nebraska",0,31,035,2021
+"Colfax County, Nebraska",2,31,037,2021
+"Cuming County, Nebraska",7,31,039,2021
+"Custer County, Nebraska",5,31,041,2021
+"Dakota County, Nebraska",226,31,043,2021
+"Dawes County, Nebraska",28,31,045,2021
+"Dawson County, Nebraska",0,31,047,2021
+"Deuel County, Nebraska",0,31,049,2021
+"Dixon County, Nebraska",0,31,051,2021
+"Dodge County, Nebraska",99,31,053,2021
+"Douglas County, Nebraska",2878,31,055,2021
+"Dundy County, Nebraska",5,31,057,2021
+"Fillmore County, Nebraska",30,31,059,2021
+"Franklin County, Nebraska",19,31,061,2021
+"Frontier County, Nebraska",0,31,063,2021
+"Furnas County, Nebraska",2,31,065,2021
+"Gage County, Nebraska",24,31,067,2021
+"Garden County, Nebraska",0,31,069,2021
+"Garfield County, Nebraska",0,31,071,2021
+"Gosper County, Nebraska",0,31,073,2021
+"Grant County, Nebraska",0,31,075,2021
+"Greeley County, Nebraska",0,31,077,2021
+"Hall County, Nebraska",166,31,079,2021
+"Hamilton County, Nebraska",6,31,081,2021
+"Harlan County, Nebraska",0,31,083,2021
+"Hayes County, Nebraska",0,31,085,2021
+"Hitchcock County, Nebraska",0,31,087,2021
+"Holt County, Nebraska",2,31,089,2021
+"Hooker County, Nebraska",0,31,091,2021
+"Howard County, Nebraska",0,31,093,2021
+"Jefferson County, Nebraska",0,31,095,2021
+"Johnson County, Nebraska",88,31,097,2021
+"Kearney County, Nebraska",0,31,099,2021
+"Keith County, Nebraska",1,31,101,2021
+"Keya Paha County, Nebraska",0,31,103,2021
+"Kimball County, Nebraska",0,31,105,2021
+"Knox County, Nebraska",12,31,107,2021
+"Lancaster County, Nebraska",1074,31,109,2021
+"Lincoln County, Nebraska",104,31,111,2021
+"Logan County, Nebraska",0,31,113,2021
+"Loup County, Nebraska",0,31,115,2021
+"McPherson County, Nebraska",0,31,117,2021
+"Madison County, Nebraska",91,31,119,2021
+"Merrick County, Nebraska",0,31,121,2021
+"Morrill County, Nebraska",0,31,123,2021
+"Nance County, Nebraska",26,31,125,2021
+"Nemaha County, Nebraska",14,31,127,2021
+"Nuckolls County, Nebraska",0,31,129,2021
+"Otoe County, Nebraska",3,31,131,2021
+"Pawnee County, Nebraska",0,31,133,2021
+"Perkins County, Nebraska",0,31,135,2021
+"Phelps County, Nebraska",4,31,137,2021
+"Pierce County, Nebraska",9,31,139,2021
+"Platte County, Nebraska",72,31,141,2021
+"Polk County, Nebraska",22,31,143,2021
+"Red Willow County, Nebraska",9,31,145,2021
+"Richardson County, Nebraska",0,31,147,2021
+"Rock County, Nebraska",0,31,149,2021
+"Saline County, Nebraska",53,31,151,2021
+"Sarpy County, Nebraska",1239,31,153,2021
+"Saunders County, Nebraska",8,31,155,2021
+"Scotts Bluff County, Nebraska",171,31,157,2021
+"Seward County, Nebraska",83,31,159,2021
+"Sheridan County, Nebraska",31,31,161,2021
+"Sherman County, Nebraska",13,31,163,2021
+"Sioux County, Nebraska",0,31,165,2021
+"Stanton County, Nebraska",0,31,167,2021
+"Thayer County, Nebraska",0,31,169,2021
+"Thomas County, Nebraska",0,31,171,2021
+"Thurston County, Nebraska",83,31,173,2021
+"Valley County, Nebraska",0,31,175,2021
+"Washington County, Nebraska",2,31,177,2021
+"Wayne County, Nebraska",15,31,179,2021
+"Webster County, Nebraska",0,31,181,2021
+"Wheeler County, Nebraska",0,31,183,2021
+"York County, Nebraska",6,31,185,2021
+"Churchill County, Nevada",246,32,001,2021
+"Clark County, Nevada",24786,32,003,2021
+"Douglas County, Nevada",262,32,005,2021
+"Elko County, Nevada",84,32,007,2021
+"Esmeralda County, Nevada",89,32,009,2021
+"Eureka County, Nevada",0,32,011,2021
+"Humboldt County, Nevada",34,32,013,2021
+"Lander County, Nevada",0,32,015,2021
+"Lincoln County, Nevada",1,32,017,2021
+"Lyon County, Nevada",197,32,019,2021
+"Mineral County, Nevada",34,32,021,2021
+"Nye County, Nevada",263,32,023,2021
+"Pershing County, Nevada",54,32,027,2021
+"Storey County, Nevada",0,32,029,2021
+"Washoe County, Nevada",3459,32,031,2021
+"White Pine County, Nevada",12,32,033,2021
+"Carson City, Nevada",84,32,510,2021
+"Belknap County, New Hampshire",452,33,001,2021
+"Carroll County, New Hampshire",352,33,003,2021
+"Cheshire County, New Hampshire",345,33,005,2021
+"Coos County, New Hampshire",152,33,007,2021
+"Grafton County, New Hampshire",757,33,009,2021
+"Hillsborough County, New Hampshire",10575,33,011,2021
+"Merrimack County, New Hampshire",1402,33,013,2021
+"Rockingham County, New Hampshire",3169,33,015,2021
+"Strafford County, New Hampshire",1035,33,017,2021
+"Sullivan County, New Hampshire",120,33,019,2021
+"Atlantic County, New Jersey",18373,34,001,2021
+"Bergen County, New Jersey",33750,34,003,2021
+"Burlington County, New Jersey",18704,34,005,2021
+"Camden County, New Jersey",44599,34,007,2021
+"Cape May County, New Jersey",3096,34,009,2021
+"Cumberland County, New Jersey",27219,34,011,2021
+"Essex County, New Jersey",53836,34,013,2021
+"Gloucester County, New Jersey",10203,34,015,2021
+"Hudson County, New Jersey",58626,34,017,2021
+"Hunterdon County, New Jersey",2095,34,019,2021
+"Mercer County, New Jersey",19189,34,021,2021
+"Middlesex County, New Jersey",48507,34,023,2021
+"Monmouth County, New Jersey",21617,34,025,2021
+"Morris County, New Jersey",12965,34,027,2021
+"Ocean County, New Jersey",21332,34,029,2021
+"Passaic County, New Jersey",38283,34,031,2021
+"Salem County, New Jersey",3931,34,033,2021
+"Somerset County, New Jersey",8400,34,035,2021
+"Sussex County, New Jersey",4387,34,037,2021
+"Union County, New Jersey",29930,34,039,2021
+"Warren County, New Jersey",4128,34,041,2021
+"Bernalillo County, New Mexico",4600,35,001,2021
+"Catron County, New Mexico",7,35,003,2021
+"Chaves County, New Mexico",194,35,005,2021
+"Cibola County, New Mexico",43,35,006,2021
+"Colfax County, New Mexico",5,35,007,2021
+"Curry County, New Mexico",382,35,009,2021
+"De Baca County, New Mexico",0,35,011,2021
+"Doña Ana County, New Mexico",932,35,013,2021
+"Eddy County, New Mexico",126,35,015,2021
+"Grant County, New Mexico",15,35,017,2021
+"Guadalupe County, New Mexico",0,35,019,2021
+"Harding County, New Mexico",0,35,021,2021
+"Hidalgo County, New Mexico",7,35,023,2021
+"Lea County, New Mexico",364,35,025,2021
+"Lincoln County, New Mexico",3,35,027,2021
+"Los Alamos County, New Mexico",100,35,028,2021
+"Luna County, New Mexico",59,35,029,2021
+"McKinley County, New Mexico",286,35,031,2021
+"Mora County, New Mexico",17,35,033,2021
+"Otero County, New Mexico",386,35,035,2021
+"Quay County, New Mexico",10,35,037,2021
+"Rio Arriba County, New Mexico",62,35,039,2021
+"Roosevelt County, New Mexico",206,35,041,2021
+"Sandoval County, New Mexico",1138,35,043,2021
+"San Juan County, New Mexico",328,35,045,2021
+"San Miguel County, New Mexico",202,35,047,2021
+"Santa Fe County, New Mexico",671,35,049,2021
+"Sierra County, New Mexico",15,35,051,2021
+"Socorro County, New Mexico",43,35,053,2021
+"Taos County, New Mexico",32,35,055,2021
+"Torrance County, New Mexico",69,35,057,2021
+"Union County, New Mexico",2,35,059,2021
+"Valencia County, New Mexico",362,35,061,2021
+"Albany County, New York",8118,36,001,2021
+"Allegany County, New York",140,36,003,2021
+"Bronx County, New York",265031,36,005,2021
+"Broome County, New York",4266,36,007,2021
+"Cattaraugus County, New York",779,36,009,2021
+"Cayuga County, New York",1129,36,011,2021
+"Chautauqua County, New York",7310,36,013,2021
+"Chemung County, New York",1203,36,015,2021
+"Chenango County, New York",266,36,017,2021
+"Clinton County, New York",878,36,019,2021
+"Columbia County, New York",1081,36,021,2021
+"Cortland County, New York",580,36,023,2021
+"Delaware County, New York",544,36,025,2021
+"Dutchess County, New York",13230,36,027,2021
+"Erie County, New York",35627,36,029,2021
+"Essex County, New York",284,36,031,2021
+"Franklin County, New York",773,36,033,2021
+"Fulton County, New York",1239,36,035,2021
+"Genesee County, New York",770,36,037,2021
+"Greene County, New York",1253,36,039,2021
+"Hamilton County, New York",62,36,041,2021
+"Herkimer County, New York",716,36,043,2021
+"Jefferson County, New York",3241,36,045,2021
+"Kings County, New York",152597,36,047,2021
+"Lewis County, New York",298,36,049,2021
+"Livingston County, New York",1374,36,051,2021
+"Madison County, New York",441,36,053,2021
+"Monroe County, New York",46858,36,055,2021
+"Montgomery County, New York",5257,36,057,2021
+"Nassau County, New York",37582,36,059,2021
+"New York County, New York",101425,36,061,2021
+"Niagara County, New York",3556,36,063,2021
+"Oneida County, New York",8361,36,065,2021
+"Onondaga County, New York",11535,36,067,2021
+"Ontario County, New York",2950,36,069,2021
+"Orange County, New York",36427,36,071,2021
+"Orleans County, New York",911,36,073,2021
+"Oswego County, New York",1163,36,075,2021
+"Otsego County, New York",797,36,077,2021
+"Putnam County, New York",4396,36,079,2021
+"Queens County, New York",108214,36,081,2021
+"Rensselaer County, New York",4734,36,083,2021
+"Richmond County, New York",43826,36,085,2021
+"Rockland County, New York",13696,36,087,2021
+"St. Lawrence County, New York",974,36,089,2021
+"Saratoga County, New York",3457,36,091,2021
+"Schenectady County, New York",5419,36,093,2021
+"Schoharie County, New York",427,36,095,2021
+"Schuyler County, New York",162,36,097,2021
+"Seneca County, New York",669,36,099,2021
+"Steuben County, New York",636,36,101,2021
+"Suffolk County, New York",73578,36,103,2021
+"Sullivan County, New York",5462,36,105,2021
+"Tioga County, New York",470,36,107,2021
+"Tompkins County, New York",1320,36,109,2021
+"Ulster County, New York",7803,36,111,2021
+"Warren County, New York",597,36,113,2021
+"Washington County, New York",680,36,115,2021
+"Wayne County, New York",2030,36,117,2021
+"Westchester County, New York",50741,36,119,2021
+"Wyoming County, New York",548,36,121,2021
+"Yates County, New York",142,36,123,2021
+"Alamance County, North Carolina",1345,37,001,2021
+"Alexander County, North Carolina",55,37,003,2021
+"Alleghany County, North Carolina",21,37,005,2021
+"Anson County, North Carolina",180,37,007,2021
+"Ashe County, North Carolina",180,37,009,2021
+"Avery County, North Carolina",97,37,011,2021
+"Beaufort County, North Carolina",133,37,013,2021
+"Bertie County, North Carolina",76,37,015,2021
+"Bladen County, North Carolina",75,37,017,2021
+"Brunswick County, North Carolina",910,37,019,2021
+"Buncombe County, North Carolina",1187,37,021,2021
+"Burke County, North Carolina",331,37,023,2021
+"Cabarrus County, North Carolina",4268,37,025,2021
+"Caldwell County, North Carolina",448,37,027,2021
+"Camden County, North Carolina",231,37,029,2021
+"Carteret County, North Carolina",536,37,031,2021
+"Caswell County, North Carolina",77,37,033,2021
+"Catawba County, North Carolina",1288,37,035,2021
+"Chatham County, North Carolina",309,37,037,2021
+"Cherokee County, North Carolina",386,37,039,2021
+"Chowan County, North Carolina",22,37,041,2021
+"Clay County, North Carolina",0,37,043,2021
+"Cleveland County, North Carolina",590,37,045,2021
+"Columbus County, North Carolina",40,37,047,2021
+"Craven County, North Carolina",1566,37,049,2021
+"Cumberland County, North Carolina",13946,37,051,2021
+"Currituck County, North Carolina",181,37,053,2021
+"Dare County, North Carolina",266,37,055,2021
+"Davidson County, North Carolina",1522,37,057,2021
+"Davie County, North Carolina",158,37,059,2021
+"Duplin County, North Carolina",378,37,061,2021
+"Durham County, North Carolina",2907,37,063,2021
+"Edgecombe County, North Carolina",98,37,065,2021
+"Forsyth County, North Carolina",5148,37,067,2021
+"Franklin County, North Carolina",715,37,069,2021
+"Gaston County, North Carolina",2594,37,071,2021
+"Gates County, North Carolina",20,37,073,2021
+"Graham County, North Carolina",0,37,075,2021
+"Granville County, North Carolina",562,37,077,2021
+"Greene County, North Carolina",364,37,079,2021
+"Guilford County, North Carolina",6342,37,081,2021
+"Halifax County, North Carolina",126,37,083,2021
+"Harnett County, North Carolina",4271,37,085,2021
+"Haywood County, North Carolina",531,37,087,2021
+"Henderson County, North Carolina",1165,37,089,2021
+"Hertford County, North Carolina",110,37,091,2021
+"Hoke County, North Carolina",1539,37,093,2021
+"Hyde County, North Carolina",9,37,095,2021
+"Iredell County, North Carolina",1493,37,097,2021
+"Jackson County, North Carolina",249,37,099,2021
+"Johnston County, North Carolina",2422,37,101,2021
+"Jones County, North Carolina",108,37,103,2021
+"Lee County, North Carolina",845,37,105,2021
+"Lenoir County, North Carolina",334,37,107,2021
+"Lincoln County, North Carolina",290,37,109,2021
+"McDowell County, North Carolina",181,37,111,2021
+"Macon County, North Carolina",192,37,113,2021
+"Madison County, North Carolina",104,37,115,2021
+"Martin County, North Carolina",57,37,117,2021
+"Mecklenburg County, North Carolina",11810,37,119,2021
+"Mitchell County, North Carolina",0,37,121,2021
+"Montgomery County, North Carolina",462,37,123,2021
+"Moore County, North Carolina",1117,37,125,2021
+"Nash County, North Carolina",880,37,127,2021
+"New Hanover County, North Carolina",2364,37,129,2021
+"Northampton County, North Carolina",12,37,131,2021
+"Onslow County, North Carolina",6835,37,133,2021
+"Orange County, North Carolina",996,37,135,2021
+"Pamlico County, North Carolina",85,37,137,2021
+"Pasquotank County, North Carolina",934,37,139,2021
+"Pender County, North Carolina",488,37,141,2021
+"Perquimans County, North Carolina",130,37,143,2021
+"Person County, North Carolina",383,37,145,2021
+"Pitt County, North Carolina",1215,37,147,2021
+"Polk County, North Carolina",72,37,149,2021
+"Randolph County, North Carolina",723,37,151,2021
+"Richmond County, North Carolina",370,37,153,2021
+"Robeson County, North Carolina",671,37,155,2021
+"Rockingham County, North Carolina",364,37,157,2021
+"Rowan County, North Carolina",1051,37,159,2021
+"Rutherford County, North Carolina",163,37,161,2021
+"Sampson County, North Carolina",301,37,163,2021
+"Scotland County, North Carolina",309,37,165,2021
+"Stanly County, North Carolina",269,37,167,2021
+"Stokes County, North Carolina",297,37,169,2021
+"Surry County, North Carolina",604,37,171,2021
+"Swain County, North Carolina",77,37,173,2021
+"Transylvania County, North Carolina",120,37,175,2021
+"Tyrrell County, North Carolina",5,37,177,2021
+"Union County, North Carolina",3067,37,179,2021
+"Vance County, North Carolina",333,37,181,2021
+"Wake County, North Carolina",15840,37,183,2021
+"Warren County, North Carolina",109,37,185,2021
+"Washington County, North Carolina",95,37,187,2021
+"Watauga County, North Carolina",324,37,189,2021
+"Wayne County, North Carolina",905,37,191,2021
+"Wilkes County, North Carolina",516,37,193,2021
+"Wilson County, North Carolina",228,37,195,2021
+"Yadkin County, North Carolina",2,37,197,2021
+"Yancey County, North Carolina",9,37,199,2021
+"Adams County, North Dakota",0,38,001,2021
+"Barnes County, North Dakota",17,38,003,2021
+"Benson County, North Dakota",0,38,005,2021
+"Billings County, North Dakota",0,38,007,2021
+"Bottineau County, North Dakota",10,38,009,2021
+"Bowman County, North Dakota",0,38,011,2021
+"Burke County, North Dakota",0,38,013,2021
+"Burleigh County, North Dakota",316,38,015,2021
+"Cass County, North Dakota",541,38,017,2021
+"Cavalier County, North Dakota",0,38,019,2021
+"Dickey County, North Dakota",3,38,021,2021
+"Divide County, North Dakota",19,38,023,2021
+"Dunn County, North Dakota",39,38,025,2021
+"Eddy County, North Dakota",0,38,027,2021
+"Emmons County, North Dakota",0,38,029,2021
+"Foster County, North Dakota",0,38,031,2021
+"Golden Valley County, North Dakota",11,38,033,2021
+"Grand Forks County, North Dakota",392,38,035,2021
+"Grant County, North Dakota",0,38,037,2021
+"Griggs County, North Dakota",0,38,039,2021
+"Hettinger County, North Dakota",0,38,041,2021
+"Kidder County, North Dakota",7,38,043,2021
+"LaMoure County, North Dakota",0,38,045,2021
+"Logan County, North Dakota",0,38,047,2021
+"McHenry County, North Dakota",16,38,049,2021
+"McIntosh County, North Dakota",4,38,051,2021
+"McKenzie County, North Dakota",41,38,053,2021
+"McLean County, North Dakota",0,38,055,2021
+"Mercer County, North Dakota",5,38,057,2021
+"Morton County, North Dakota",448,38,059,2021
+"Mountrail County, North Dakota",60,38,061,2021
+"Nelson County, North Dakota",0,38,063,2021
+"Oliver County, North Dakota",0,38,065,2021
+"Pembina County, North Dakota",12,38,067,2021
+"Pierce County, North Dakota",0,38,069,2021
+"Ramsey County, North Dakota",130,38,071,2021
+"Ransom County, North Dakota",0,38,073,2021
+"Renville County, North Dakota",9,38,075,2021
+"Richland County, North Dakota",9,38,077,2021
+"Rolette County, North Dakota",5,38,079,2021
+"Sargent County, North Dakota",8,38,081,2021
+"Sheridan County, North Dakota",0,38,083,2021
+"Sioux County, North Dakota",0,38,085,2021
+"Slope County, North Dakota",0,38,087,2021
+"Stark County, North Dakota",105,38,089,2021
+"Steele County, North Dakota",0,38,091,2021
+"Stutsman County, North Dakota",154,38,093,2021
+"Towner County, North Dakota",9,38,095,2021
+"Traill County, North Dakota",29,38,097,2021
+"Walsh County, North Dakota",38,38,099,2021
+"Ward County, North Dakota",680,38,101,2021
+"Wells County, North Dakota",0,38,103,2021
+"Williams County, North Dakota",567,38,105,2021
+"Adams County, Ohio",22,39,001,2021
+"Allen County, Ohio",481,39,003,2021
+"Ashland County, Ohio",239,39,005,2021
+"Ashtabula County, Ohio",2426,39,007,2021
+"Athens County, Ohio",263,39,009,2021
+"Auglaize County, Ohio",331,39,011,2021
+"Belmont County, Ohio",180,39,013,2021
+"Brown County, Ohio",0,39,015,2021
+"Butler County, Ohio",2160,39,017,2021
+"Carroll County, Ohio",61,39,019,2021
+"Champaign County, Ohio",79,39,021,2021
+"Clark County, Ohio",852,39,023,2021
+"Clermont County, Ohio",762,39,025,2021
+"Clinton County, Ohio",163,39,027,2021
+"Columbiana County, Ohio",165,39,029,2021
+"Coshocton County, Ohio",148,39,031,2021
+"Crawford County, Ohio",80,39,033,2021
+"Cuyahoga County, Ohio",47276,39,035,2021
+"Darke County, Ohio",31,39,037,2021
+"Defiance County, Ohio",340,39,039,2021
+"Delaware County, Ohio",1168,39,041,2021
+"Erie County, Ohio",771,39,043,2021
+"Fairfield County, Ohio",1325,39,045,2021
+"Fayette County, Ohio",64,39,047,2021
+"Franklin County, Ohio",11768,39,049,2021
+"Fulton County, Ohio",439,39,051,2021
+"Gallia County, Ohio",12,39,053,2021
+"Geauga County, Ohio",210,39,055,2021
+"Greene County, Ohio",943,39,057,2021
+"Guernsey County, Ohio",20,39,059,2021
+"Hamilton County, Ohio",3569,39,061,2021
+"Hancock County, Ohio",354,39,063,2021
+"Hardin County, Ohio",40,39,065,2021
+"Harrison County, Ohio",7,39,067,2021
+"Henry County, Ohio",114,39,069,2021
+"Highland County, Ohio",95,39,071,2021
+"Hocking County, Ohio",0,39,073,2021
+"Holmes County, Ohio",47,39,075,2021
+"Huron County, Ohio",668,39,077,2021
+"Jackson County, Ohio",0,39,079,2021
+"Jefferson County, Ohio",82,39,081,2021
+"Knox County, Ohio",150,39,083,2021
+"Lake County, Ohio",2724,39,085,2021
+"Lawrence County, Ohio",88,39,087,2021
+"Licking County, Ohio",767,39,089,2021
+"Logan County, Ohio",172,39,091,2021
+"Lorain County, Ohio",22277,39,093,2021
+"Lucas County, Ohio",3380,39,095,2021
+"Madison County, Ohio",146,39,097,2021
+"Mahoning County, Ohio",10274,39,099,2021
+"Marion County, Ohio",532,39,101,2021
+"Medina County, Ohio",1424,39,103,2021
+"Meigs County, Ohio",92,39,105,2021
+"Mercer County, Ohio",20,39,107,2021
+"Miami County, Ohio",83,39,109,2021
+"Monroe County, Ohio",6,39,111,2021
+"Montgomery County, Ohio",2311,39,113,2021
+"Morgan County, Ohio",10,39,115,2021
+"Morrow County, Ohio",159,39,117,2021
+"Muskingum County, Ohio",189,39,119,2021
+"Noble County, Ohio",19,39,121,2021
+"Ottawa County, Ohio",165,39,123,2021
+"Paulding County, Ohio",82,39,125,2021
+"Perry County, Ohio",8,39,127,2021
+"Pickaway County, Ohio",240,39,129,2021
+"Pike County, Ohio",12,39,131,2021
+"Portage County, Ohio",739,39,133,2021
+"Preble County, Ohio",10,39,135,2021
+"Putnam County, Ohio",110,39,137,2021
+"Richland County, Ohio",687,39,139,2021
+"Ross County, Ohio",529,39,141,2021
+"Sandusky County, Ohio",517,39,143,2021
+"Scioto County, Ohio",278,39,145,2021
+"Seneca County, Ohio",315,39,147,2021
+"Shelby County, Ohio",175,39,149,2021
+"Stark County, Ohio",1717,39,151,2021
+"Summit County, Ohio",3731,39,153,2021
+"Trumbull County, Ohio",1581,39,155,2021
+"Tuscarawas County, Ohio",1324,39,157,2021
+"Union County, Ohio",395,39,159,2021
+"Van Wert County, Ohio",165,39,161,2021
+"Vinton County, Ohio",0,39,163,2021
+"Warren County, Ohio",1065,39,165,2021
+"Washington County, Ohio",104,39,167,2021
+"Wayne County, Ohio",549,39,169,2021
+"Williams County, Ohio",278,39,171,2021
+"Wood County, Ohio",536,39,173,2021
+"Wyandot County, Ohio",76,39,175,2021
+"Adair County, Oklahoma",36,40,001,2021
+"Alfalfa County, Oklahoma",17,40,003,2021
+"Atoka County, Oklahoma",41,40,005,2021
+"Beaver County, Oklahoma",3,40,007,2021
+"Beckham County, Oklahoma",337,40,009,2021
+"Blaine County, Oklahoma",0,40,011,2021
+"Bryan County, Oklahoma",92,40,013,2021
+"Caddo County, Oklahoma",101,40,015,2021
+"Canadian County, Oklahoma",596,40,017,2021
+"Carter County, Oklahoma",145,40,019,2021
+"Cherokee County, Oklahoma",151,40,021,2021
+"Choctaw County, Oklahoma",17,40,023,2021
+"Cimarron County, Oklahoma",0,40,025,2021
+"Cleveland County, Oklahoma",1198,40,027,2021
+"Coal County, Oklahoma",22,40,029,2021
+"Comanche County, Oklahoma",2948,40,031,2021
+"Cotton County, Oklahoma",2,40,033,2021
+"Craig County, Oklahoma",16,40,035,2021
+"Creek County, Oklahoma",81,40,037,2021
+"Custer County, Oklahoma",45,40,039,2021
+"Delaware County, Oklahoma",67,40,041,2021
+"Dewey County, Oklahoma",0,40,043,2021
+"Ellis County, Oklahoma",0,40,045,2021
+"Garfield County, Oklahoma",86,40,047,2021
+"Garvin County, Oklahoma",21,40,049,2021
+"Grady County, Oklahoma",123,40,051,2021
+"Grant County, Oklahoma",5,40,053,2021
+"Greer County, Oklahoma",15,40,055,2021
+"Harmon County, Oklahoma",0,40,057,2021
+"Harper County, Oklahoma",0,40,059,2021
+"Haskell County, Oklahoma",22,40,061,2021
+"Hughes County, Oklahoma",13,40,063,2021
+"Jackson County, Oklahoma",287,40,065,2021
+"Jefferson County, Oklahoma",5,40,067,2021
+"Johnston County, Oklahoma",0,40,069,2021
+"Kay County, Oklahoma",80,40,071,2021
+"Kingfisher County, Oklahoma",4,40,073,2021
+"Kiowa County, Oklahoma",14,40,075,2021
+"Latimer County, Oklahoma",6,40,077,2021
+"Le Flore County, Oklahoma",55,40,079,2021
+"Lincoln County, Oklahoma",43,40,081,2021
+"Logan County, Oklahoma",35,40,083,2021
+"Love County, Oklahoma",81,40,085,2021
+"McClain County, Oklahoma",11,40,087,2021
+"McCurtain County, Oklahoma",64,40,089,2021
+"McIntosh County, Oklahoma",0,40,091,2021
+"Major County, Oklahoma",0,40,093,2021
+"Marshall County, Oklahoma",49,40,095,2021
+"Mayes County, Oklahoma",57,40,097,2021
+"Murray County, Oklahoma",50,40,099,2021
+"Muskogee County, Oklahoma",233,40,101,2021
+"Noble County, Oklahoma",0,40,103,2021
+"Nowata County, Oklahoma",0,40,105,2021
+"Okfuskee County, Oklahoma",46,40,107,2021
+"Oklahoma County, Oklahoma",3281,40,109,2021
+"Okmulgee County, Oklahoma",86,40,111,2021
+"Osage County, Oklahoma",158,40,113,2021
+"Ottawa County, Oklahoma",42,40,115,2021
+"Pawnee County, Oklahoma",35,40,117,2021
+"Payne County, Oklahoma",143,40,119,2021
+"Pittsburg County, Oklahoma",143,40,121,2021
+"Pontotoc County, Oklahoma",12,40,123,2021
+"Pottawatomie County, Oklahoma",174,40,125,2021
+"Pushmataha County, Oklahoma",10,40,127,2021
+"Roger Mills County, Oklahoma",0,40,129,2021
+"Rogers County, Oklahoma",312,40,131,2021
+"Seminole County, Oklahoma",27,40,133,2021
+"Sequoyah County, Oklahoma",65,40,135,2021
+"Stephens County, Oklahoma",161,40,137,2021
+"Texas County, Oklahoma",107,40,139,2021
+"Tillman County, Oklahoma",26,40,141,2021
+"Tulsa County, Oklahoma",3556,40,143,2021
+"Wagoner County, Oklahoma",93,40,145,2021
+"Washington County, Oklahoma",148,40,147,2021
+"Washita County, Oklahoma",14,40,149,2021
+"Woods County, Oklahoma",52,40,151,2021
+"Woodward County, Oklahoma",103,40,153,2021
+"Baker County, Oregon",0,41,001,2021
+"Benton County, Oregon",280,41,003,2021
+"Clackamas County, Oregon",1087,41,005,2021
+"Clatsop County, Oregon",97,41,007,2021
+"Columbia County, Oregon",226,41,009,2021
+"Coos County, Oregon",97,41,011,2021
+"Crook County, Oregon",43,41,013,2021
+"Curry County, Oregon",75,41,015,2021
+"Deschutes County, Oregon",290,41,017,2021
+"Douglas County, Oregon",411,41,019,2021
+"Gilliam County, Oregon",0,41,021,2021
+"Grant County, Oregon",8,41,023,2021
+"Harney County, Oregon",25,41,025,2021
+"Hood River County, Oregon",4,41,027,2021
+"Jackson County, Oregon",792,41,029,2021
+"Jefferson County, Oregon",41,41,031,2021
+"Josephine County, Oregon",382,41,033,2021
+"Klamath County, Oregon",53,41,035,2021
+"Lake County, Oregon",39,41,037,2021
+"Lane County, Oregon",1519,41,039,2021
+"Lincoln County, Oregon",165,41,041,2021
+"Linn County, Oregon",254,41,043,2021
+"Malheur County, Oregon",0,41,045,2021
+"Marion County, Oregon",1370,41,047,2021
+"Morrow County, Oregon",59,41,049,2021
+"Multnomah County, Oregon",3921,41,051,2021
+"Polk County, Oregon",276,41,053,2021
+"Sherman County, Oregon",0,41,055,2021
+"Tillamook County, Oregon",65,41,057,2021
+"Umatilla County, Oregon",141,41,059,2021
+"Union County, Oregon",50,41,061,2021
+"Wallowa County, Oregon",25,41,063,2021
+"Wasco County, Oregon",68,41,065,2021
+"Washington County, Oregon",2727,41,067,2021
+"Wheeler County, Oregon",0,41,069,2021
+"Yamhill County, Oregon",581,41,071,2021
+"Adams County, Pennsylvania",1490,42,001,2021
+"Allegheny County, Pennsylvania",6427,42,003,2021
+"Armstrong County, Pennsylvania",252,42,005,2021
+"Beaver County, Pennsylvania",871,42,007,2021
+"Bedford County, Pennsylvania",174,42,009,2021
+"Berks County, Pennsylvania",47483,42,011,2021
+"Blair County, Pennsylvania",688,42,013,2021
+"Bradford County, Pennsylvania",372,42,015,2021
+"Bucks County, Pennsylvania",14992,42,017,2021
+"Butler County, Pennsylvania",770,42,019,2021
+"Cambria County, Pennsylvania",891,42,021,2021
+"Cameron County, Pennsylvania",25,42,023,2021
+"Carbon County, Pennsylvania",1500,42,025,2021
+"Centre County, Pennsylvania",1513,42,027,2021
+"Chester County, Pennsylvania",10178,42,029,2021
+"Clarion County, Pennsylvania",101,42,031,2021
+"Clearfield County, Pennsylvania",865,42,033,2021
+"Clinton County, Pennsylvania",228,42,035,2021
+"Columbia County, Pennsylvania",374,42,037,2021
+"Crawford County, Pennsylvania",515,42,039,2021
+"Cumberland County, Pennsylvania",4488,42,041,2021
+"Dauphin County, Pennsylvania",15319,42,043,2021
+"Delaware County, Pennsylvania",8297,42,045,2021
+"Elk County, Pennsylvania",95,42,047,2021
+"Erie County, Pennsylvania",7090,42,049,2021
+"Fayette County, Pennsylvania",654,42,051,2021
+"Forest County, Pennsylvania",209,42,053,2021
+"Franklin County, Pennsylvania",2427,42,055,2021
+"Fulton County, Pennsylvania",54,42,057,2021
+"Greene County, Pennsylvania",233,42,059,2021
+"Huntingdon County, Pennsylvania",344,42,061,2021
+"Indiana County, Pennsylvania",289,42,063,2021
+"Jefferson County, Pennsylvania",118,42,065,2021
+"Juniata County, Pennsylvania",344,42,067,2021
+"Lackawanna County, Pennsylvania",9083,42,069,2021
+"Lancaster County, Pennsylvania",37691,42,071,2021
+"Lawrence County, Pennsylvania",549,42,073,2021
+"Lebanon County, Pennsylvania",14172,42,075,2021
+"Lehigh County, Pennsylvania",49816,42,077,2021
+"Luzerne County, Pennsylvania",11276,42,079,2021
+"Lycoming County, Pennsylvania",659,42,081,2021
+"McKean County, Pennsylvania",355,42,083,2021
+"Mercer County, Pennsylvania",703,42,085,2021
+"Mifflin County, Pennsylvania",417,42,087,2021
+"Monroe County, Pennsylvania",14312,42,089,2021
+"Montgomery County, Pennsylvania",13104,42,091,2021
+"Montour County, Pennsylvania",329,42,093,2021
+"Northampton County, Pennsylvania",24351,42,095,2021
+"Northumberland County, Pennsylvania",1787,42,097,2021
+"Perry County, Pennsylvania",412,42,099,2021
+"Philadelphia County, Pennsylvania",139550,42,101,2021
+"Pike County, Pennsylvania",3429,42,103,2021
+"Potter County, Pennsylvania",65,42,105,2021
+"Schuylkill County, Pennsylvania",3064,42,107,2021
+"Snyder County, Pennsylvania",491,42,109,2021
+"Somerset County, Pennsylvania",356,42,111,2021
+"Sullivan County, Pennsylvania",29,42,113,2021
+"Susquehanna County, Pennsylvania",263,42,115,2021
+"Tioga County, Pennsylvania",119,42,117,2021
+"Union County, Pennsylvania",1033,42,119,2021
+"Venango County, Pennsylvania",170,42,121,2021
+"Warren County, Pennsylvania",164,42,123,2021
+"Washington County, Pennsylvania",795,42,125,2021
+"Wayne County, Pennsylvania",1184,42,127,2021
+"Westmoreland County, Pennsylvania",1283,42,129,2021
+"Wyoming County, Pennsylvania",153,42,131,2021
+"York County, Pennsylvania",18990,42,133,2021
+"Bristol County, Rhode Island",406,44,001,2021
+"Kent County, Rhode Island",3501,44,003,2021
+"Newport County, Rhode Island",2210,44,005,2021
+"Providence County, Rhode Island",39884,44,007,2021
+"Washington County, Rhode Island",1086,44,009,2021
+"Abbeville County, South Carolina",91,45,001,2021
+"Aiken County, South Carolina",1846,45,003,2021
+"Allendale County, South Carolina",20,45,005,2021
+"Anderson County, South Carolina",932,45,007,2021
+"Bamberg County, South Carolina",35,45,009,2021
+"Barnwell County, South Carolina",129,45,011,2021
+"Beaufort County, South Carolina",3448,45,013,2021
+"Berkeley County, South Carolina",2719,45,015,2021
+"Calhoun County, South Carolina",3,45,017,2021
+"Charleston County, South Carolina",2150,45,019,2021
+"Cherokee County, South Carolina",389,45,021,2021
+"Chester County, South Carolina",84,45,023,2021
+"Chesterfield County, South Carolina",187,45,025,2021
+"Clarendon County, South Carolina",183,45,027,2021
+"Colleton County, South Carolina",36,45,029,2021
+"Darlington County, South Carolina",279,45,031,2021
+"Dillon County, South Carolina",1,45,033,2021
+"Dorchester County, South Carolina",1677,45,035,2021
+"Edgefield County, South Carolina",149,45,037,2021
+"Fairfield County, South Carolina",151,45,039,2021
+"Florence County, South Carolina",416,45,041,2021
+"Georgetown County, South Carolina",289,45,043,2021
+"Greenville County, South Carolina",5132,45,045,2021
+"Greenwood County, South Carolina",672,45,047,2021
+"Hampton County, South Carolina",77,45,049,2021
+"Horry County, South Carolina",1885,45,051,2021
+"Jasper County, South Carolina",288,45,053,2021
+"Kershaw County, South Carolina",696,45,055,2021
+"Lancaster County, South Carolina",677,45,057,2021
+"Laurens County, South Carolina",611,45,059,2021
+"Lee County, South Carolina",71,45,061,2021
+"Lexington County, South Carolina",2925,45,063,2021
+"McCormick County, South Carolina",29,45,065,2021
+"Marion County, South Carolina",11,45,067,2021
+"Marlboro County, South Carolina",148,45,069,2021
+"Newberry County, South Carolina",77,45,071,2021
+"Oconee County, South Carolina",416,45,073,2021
+"Orangeburg County, South Carolina",397,45,075,2021
+"Pickens County, South Carolina",1106,45,077,2021
+"Richland County, South Carolina",5081,45,079,2021
+"Saluda County, South Carolina",0,45,081,2021
+"Spartanburg County, South Carolina",2459,45,083,2021
+"Sumter County, South Carolina",350,45,085,2021
+"Union County, South Carolina",54,45,087,2021
+"Williamsburg County, South Carolina",65,45,089,2021
+"York County, South Carolina",2334,45,091,2021
+"Aurora County, South Dakota",0,46,003,2021
+"Beadle County, South Dakota",31,46,005,2021
+"Bennett County, South Dakota",71,46,007,2021
+"Bon Homme County, South Dakota",13,46,009,2021
+"Brookings County, South Dakota",226,46,011,2021
+"Brown County, South Dakota",355,46,013,2021
+"Brule County, South Dakota",0,46,015,2021
+"Buffalo County, South Dakota",0,46,017,2021
+"Butte County, South Dakota",106,46,019,2021
+"Campbell County, South Dakota",0,46,021,2021
+"Charles Mix County, South Dakota",62,46,023,2021
+"Clark County, South Dakota",47,46,025,2021
+"Clay County, South Dakota",6,46,027,2021
+"Codington County, South Dakota",13,46,029,2021
+"Corson County, South Dakota",3,46,031,2021
+"Custer County, South Dakota",0,46,033,2021
+"Davison County, South Dakota",4,46,035,2021
+"Day County, South Dakota",67,46,037,2021
+"Deuel County, South Dakota",0,46,039,2021
+"Dewey County, South Dakota",0,46,041,2021
+"Douglas County, South Dakota",0,46,043,2021
+"Edmunds County, South Dakota",0,46,045,2021
+"Fall River County, South Dakota",55,46,047,2021
+"Faulk County, South Dakota",0,46,049,2021
+"Grant County, South Dakota",1,46,051,2021
+"Gregory County, South Dakota",48,46,053,2021
+"Haakon County, South Dakota",0,46,055,2021
+"Hamlin County, South Dakota",8,46,057,2021
+"Hand County, South Dakota",0,46,059,2021
+"Hanson County, South Dakota",0,46,061,2021
+"Harding County, South Dakota",0,46,063,2021
+"Hughes County, South Dakota",4,46,065,2021
+"Hutchinson County, South Dakota",0,46,067,2021
+"Hyde County, South Dakota",0,46,069,2021
+"Jackson County, South Dakota",0,46,071,2021
+"Jerauld County, South Dakota",4,46,073,2021
+"Jones County, South Dakota",0,46,075,2021
+"Kingsbury County, South Dakota",10,46,077,2021
+"Lake County, South Dakota",37,46,079,2021
+"Lawrence County, South Dakota",80,46,081,2021
+"Lincoln County, South Dakota",29,46,083,2021
+"Lyman County, South Dakota",15,46,085,2021
+"McCook County, South Dakota",0,46,087,2021
+"McPherson County, South Dakota",0,46,089,2021
+"Marshall County, South Dakota",0,46,091,2021
+"Meade County, South Dakota",123,46,093,2021
+"Mellette County, South Dakota",0,46,095,2021
+"Miner County, South Dakota",0,46,097,2021
+"Minnehaha County, South Dakota",456,46,099,2021
+"Moody County, South Dakota",32,46,101,2021
+"Oglala Lakota County, South Dakota",45,46,102,2021
+"Pennington County, South Dakota",907,46,103,2021
+"Perkins County, South Dakota",0,46,105,2021
+"Potter County, South Dakota",0,46,107,2021
+"Roberts County, South Dakota",98,46,109,2021
+"Sanborn County, South Dakota",25,46,111,2021
+"Spink County, South Dakota",0,46,115,2021
+"Stanley County, South Dakota",0,46,117,2021
+"Sully County, South Dakota",0,46,119,2021
+"Todd County, South Dakota",0,46,121,2021
+"Tripp County, South Dakota",0,46,123,2021
+"Turner County, South Dakota",12,46,125,2021
+"Union County, South Dakota",7,46,127,2021
+"Walworth County, South Dakota",24,46,129,2021
+"Yankton County, South Dakota",30,46,135,2021
+"Ziebach County, South Dakota",0,46,137,2021
+"Anderson County, Tennessee",84,47,001,2021
+"Bedford County, Tennessee",107,47,003,2021
+"Benton County, Tennessee",0,47,005,2021
+"Bledsoe County, Tennessee",22,47,007,2021
+"Blount County, Tennessee",366,47,009,2021
+"Bradley County, Tennessee",1332,47,011,2021
+"Campbell County, Tennessee",131,47,013,2021
+"Cannon County, Tennessee",23,47,015,2021
+"Carroll County, Tennessee",90,47,017,2021
+"Carter County, Tennessee",125,47,019,2021
+"Cheatham County, Tennessee",183,47,021,2021
+"Chester County, Tennessee",124,47,023,2021
+"Claiborne County, Tennessee",48,47,025,2021
+"Clay County, Tennessee",0,47,027,2021
+"Cocke County, Tennessee",207,47,029,2021
+"Coffee County, Tennessee",462,47,031,2021
+"Crockett County, Tennessee",29,47,033,2021
+"Cumberland County, Tennessee",289,47,035,2021
+"Davidson County, Tennessee",3965,47,037,2021
+"Decatur County, Tennessee",22,47,039,2021
+"DeKalb County, Tennessee",24,47,041,2021
+"Dickson County, Tennessee",250,47,043,2021
+"Dyer County, Tennessee",78,47,045,2021
+"Fayette County, Tennessee",137,47,047,2021
+"Fentress County, Tennessee",110,47,049,2021
+"Franklin County, Tennessee",179,47,051,2021
+"Gibson County, Tennessee",22,47,053,2021
+"Giles County, Tennessee",95,47,055,2021
+"Grainger County, Tennessee",0,47,057,2021
+"Greene County, Tennessee",255,47,059,2021
+"Grundy County, Tennessee",32,47,061,2021
+"Hamblen County, Tennessee",471,47,063,2021
+"Hamilton County, Tennessee",1857,47,065,2021
+"Hancock County, Tennessee",0,47,067,2021
+"Hardeman County, Tennessee",53,47,069,2021
+"Hardin County, Tennessee",136,47,071,2021
+"Hawkins County, Tennessee",94,47,073,2021
+"Haywood County, Tennessee",32,47,075,2021
+"Henderson County, Tennessee",37,47,077,2021
+"Henry County, Tennessee",78,47,079,2021
+"Hickman County, Tennessee",76,47,081,2021
+"Houston County, Tennessee",146,47,083,2021
+"Humphreys County, Tennessee",14,47,085,2021
+"Jackson County, Tennessee",16,47,087,2021
+"Jefferson County, Tennessee",69,47,089,2021
+"Johnson County, Tennessee",45,47,091,2021
+"Knox County, Tennessee",2247,47,093,2021
+"Lake County, Tennessee",10,47,095,2021
+"Lauderdale County, Tennessee",18,47,097,2021
+"Lawrence County, Tennessee",160,47,099,2021
+"Lewis County, Tennessee",27,47,101,2021
+"Lincoln County, Tennessee",79,47,103,2021
+"Loudon County, Tennessee",597,47,105,2021
+"McMinn County, Tennessee",197,47,107,2021
+"McNairy County, Tennessee",26,47,109,2021
+"Macon County, Tennessee",36,47,111,2021
+"Madison County, Tennessee",218,47,113,2021
+"Marion County, Tennessee",163,47,115,2021
+"Marshall County, Tennessee",90,47,117,2021
+"Maury County, Tennessee",625,47,119,2021
+"Meigs County, Tennessee",43,47,121,2021
+"Monroe County, Tennessee",163,47,123,2021
+"Montgomery County, Tennessee",5876,47,125,2021
+"Moore County, Tennessee",0,47,127,2021
+"Morgan County, Tennessee",28,47,129,2021
+"Obion County, Tennessee",53,47,131,2021
+"Overton County, Tennessee",0,47,133,2021
+"Perry County, Tennessee",0,47,135,2021
+"Pickett County, Tennessee",0,47,137,2021
+"Polk County, Tennessee",58,47,139,2021
+"Putnam County, Tennessee",318,47,141,2021
+"Rhea County, Tennessee",159,47,143,2021
+"Roane County, Tennessee",102,47,145,2021
+"Robertson County, Tennessee",374,47,147,2021
+"Rutherford County, Tennessee",3346,47,149,2021
+"Scott County, Tennessee",22,47,151,2021
+"Sequatchie County, Tennessee",70,47,153,2021
+"Sevier County, Tennessee",658,47,155,2021
+"Shelby County, Tennessee",2559,47,157,2021
+"Smith County, Tennessee",0,47,159,2021
+"Stewart County, Tennessee",81,47,161,2021
+"Sullivan County, Tennessee",543,47,163,2021
+"Sumner County, Tennessee",655,47,165,2021
+"Tipton County, Tennessee",176,47,167,2021
+"Trousdale County, Tennessee",0,47,169,2021
+"Unicoi County, Tennessee",57,47,171,2021
+"Union County, Tennessee",121,47,173,2021
+"Van Buren County, Tennessee",13,47,175,2021
+"Warren County, Tennessee",89,47,177,2021
+"Washington County, Tennessee",461,47,179,2021
+"Wayne County, Tennessee",61,47,181,2021
+"Weakley County, Tennessee",214,47,183,2021
+"White County, Tennessee",367,47,185,2021
+"Williamson County, Tennessee",743,47,187,2021
+"Wilson County, Tennessee",603,47,189,2021
+"Anderson County, Texas",144,48,001,2021
+"Andrews County, Texas",55,48,003,2021
+"Angelina County, Texas",244,48,005,2021
+"Aransas County, Texas",0,48,007,2021
+"Archer County, Texas",12,48,009,2021
+"Armstrong County, Texas",0,48,011,2021
+"Atascosa County, Texas",18,48,013,2021
+"Austin County, Texas",240,48,015,2021
+"Bailey County, Texas",4,48,017,2021
+"Bandera County, Texas",181,48,019,2021
+"Bastrop County, Texas",908,48,021,2021
+"Baylor County, Texas",0,48,023,2021
+"Bee County, Texas",282,48,025,2021
+"Bell County, Texas",17694,48,027,2021
+"Bexar County, Texas",30636,48,029,2021
+"Blanco County, Texas",0,48,031,2021
+"Borden County, Texas",0,48,033,2021
+"Bosque County, Texas",22,48,035,2021
+"Bowie County, Texas",112,48,037,2021
+"Brazoria County, Texas",3679,48,039,2021
+"Brazos County, Texas",1091,48,041,2021
+"Brewster County, Texas",147,48,043,2021
+"Briscoe County, Texas",21,48,045,2021
+"Brooks County, Texas",0,48,047,2021
+"Brown County, Texas",80,48,049,2021
+"Burleson County, Texas",4,48,051,2021
+"Burnet County, Texas",107,48,053,2021
+"Caldwell County, Texas",339,48,055,2021
+"Calhoun County, Texas",78,48,057,2021
+"Callahan County, Texas",26,48,059,2021
+"Cameron County, Texas",1362,48,061,2021
+"Camp County, Texas",4,48,063,2021
+"Carson County, Texas",0,48,065,2021
+"Cass County, Texas",36,48,067,2021
+"Castro County, Texas",0,48,069,2021
+"Chambers County, Texas",54,48,071,2021
+"Cherokee County, Texas",57,48,073,2021
+"Childress County, Texas",3,48,075,2021
+"Clay County, Texas",0,48,077,2021
+"Cochran County, Texas",0,48,079,2021
+"Coke County, Texas",0,48,081,2021
+"Coleman County, Texas",5,48,083,2021
+"Collin County, Texas",7039,48,085,2021
+"Collingsworth County, Texas",0,48,087,2021
+"Colorado County, Texas",0,48,089,2021
+"Comal County, Texas",1694,48,091,2021
+"Comanche County, Texas",0,48,093,2021
+"Concho County, Texas",0,48,095,2021
+"Cooke County, Texas",187,48,097,2021
+"Coryell County, Texas",3306,48,099,2021
+"Cottle County, Texas",0,48,101,2021
+"Crane County, Texas",24,48,103,2021
+"Crockett County, Texas",0,48,105,2021
+"Crosby County, Texas",28,48,107,2021
+"Culberson County, Texas",1,48,109,2021
+"Dallam County, Texas",2,48,111,2021
+"Dallas County, Texas",14239,48,113,2021
+"Dawson County, Texas",71,48,115,2021
+"Deaf Smith County, Texas",164,48,117,2021
+"Delta County, Texas",11,48,119,2021
+"Denton County, Texas",10645,48,121,2021
+"DeWitt County, Texas",39,48,123,2021
+"Dickens County, Texas",0,48,125,2021
+"Dimmit County, Texas",0,48,127,2021
+"Donley County, Texas",14,48,129,2021
+"Duval County, Texas",8,48,131,2021
+"Eastland County, Texas",13,48,133,2021
+"Ector County, Texas",309,48,135,2021
+"Edwards County, Texas",1,48,137,2021
+"Ellis County, Texas",551,48,139,2021
+"El Paso County, Texas",8085,48,141,2021
+"Erath County, Texas",212,48,143,2021
+"Falls County, Texas",30,48,145,2021
+"Fannin County, Texas",10,48,147,2021
+"Fayette County, Texas",6,48,149,2021
+"Fisher County, Texas",1,48,151,2021
+"Floyd County, Texas",78,48,153,2021
+"Foard County, Texas",0,48,155,2021
+"Fort Bend County, Texas",4218,48,157,2021
+"Franklin County, Texas",0,48,159,2021
+"Freestone County, Texas",0,48,161,2021
+"Frio County, Texas",85,48,163,2021
+"Gaines County, Texas",49,48,165,2021
+"Galveston County, Texas",3298,48,167,2021
+"Garza County, Texas",13,48,169,2021
+"Gillespie County, Texas",16,48,171,2021
+"Glasscock County, Texas",0,48,173,2021
+"Goliad County, Texas",0,48,175,2021
+"Gonzales County, Texas",55,48,177,2021
+"Gray County, Texas",0,48,179,2021
+"Grayson County, Texas",423,48,181,2021
+"Gregg County, Texas",671,48,183,2021
+"Grimes County, Texas",36,48,185,2021
+"Guadalupe County, Texas",2075,48,187,2021
+"Hale County, Texas",149,48,189,2021
+"Hall County, Texas",0,48,191,2021
+"Hamilton County, Texas",0,48,193,2021
+"Hansford County, Texas",31,48,195,2021
+"Hardeman County, Texas",57,48,197,2021
+"Hardin County, Texas",117,48,199,2021
+"Harris County, Texas",36289,48,201,2021
+"Harrison County, Texas",5,48,203,2021
+"Hartley County, Texas",0,48,205,2021
+"Haskell County, Texas",12,48,207,2021
+"Hays County, Texas",2264,48,209,2021
+"Hemphill County, Texas",0,48,211,2021
+"Henderson County, Texas",211,48,213,2021
+"Hidalgo County, Texas",2712,48,215,2021
+"Hill County, Texas",83,48,217,2021
+"Hockley County, Texas",2,48,219,2021
+"Hood County, Texas",88,48,221,2021
+"Hopkins County, Texas",16,48,223,2021
+"Houston County, Texas",54,48,225,2021
+"Howard County, Texas",188,48,227,2021
+"Hudspeth County, Texas",14,48,229,2021
+"Hunt County, Texas",439,48,231,2021
+"Hutchinson County, Texas",127,48,233,2021
+"Irion County, Texas",0,48,235,2021
+"Jack County, Texas",59,48,237,2021
+"Jackson County, Texas",48,48,239,2021
+"Jasper County, Texas",4,48,241,2021
+"Jeff Davis County, Texas",0,48,243,2021
+"Jefferson County, Texas",1361,48,245,2021
+"Jim Hogg County, Texas",4,48,247,2021
+"Jim Wells County, Texas",14,48,249,2021
+"Johnson County, Texas",1499,48,251,2021
+"Jones County, Texas",91,48,253,2021
+"Karnes County, Texas",29,48,255,2021
+"Kaufman County, Texas",850,48,257,2021
+"Kendall County, Texas",323,48,259,2021
+"Kenedy County, Texas",0,48,261,2021
+"Kent County, Texas",0,48,263,2021
+"Kerr County, Texas",229,48,265,2021
+"Kimble County, Texas",0,48,267,2021
+"King County, Texas",0,48,269,2021
+"Kinney County, Texas",90,48,271,2021
+"Kleberg County, Texas",1,48,273,2021
+"Knox County, Texas",0,48,275,2021
+"Lamar County, Texas",67,48,277,2021
+"Lamb County, Texas",7,48,279,2021
+"Lampasas County, Texas",359,48,281,2021
+"La Salle County, Texas",9,48,283,2021
+"Lavaca County, Texas",19,48,285,2021
+"Lee County, Texas",0,48,287,2021
+"Leon County, Texas",4,48,289,2021
+"Liberty County, Texas",138,48,291,2021
+"Limestone County, Texas",15,48,293,2021
+"Lipscomb County, Texas",29,48,295,2021
+"Live Oak County, Texas",19,48,297,2021
+"Llano County, Texas",15,48,299,2021
+"Loving County, Texas",0,48,301,2021
+"Lubbock County, Texas",1691,48,303,2021
+"Lynn County, Texas",42,48,305,2021
+"McCulloch County, Texas",10,48,307,2021
+"McLennan County, Texas",1828,48,309,2021
+"McMullen County, Texas",0,48,311,2021
+"Madison County, Texas",9,48,313,2021
+"Marion County, Texas",13,48,315,2021
+"Martin County, Texas",0,48,317,2021
+"Mason County, Texas",0,48,319,2021
+"Matagorda County, Texas",509,48,321,2021
+"Maverick County, Texas",626,48,323,2021
+"Medina County, Texas",374,48,325,2021
+"Menard County, Texas",31,48,327,2021
+"Midland County, Texas",751,48,329,2021
+"Milam County, Texas",104,48,331,2021
+"Mills County, Texas",0,48,333,2021
+"Mitchell County, Texas",11,48,335,2021
+"Montague County, Texas",16,48,337,2021
+"Montgomery County, Texas",4053,48,339,2021
+"Moore County, Texas",4,48,341,2021
+"Morris County, Texas",0,48,343,2021
+"Motley County, Texas",4,48,345,2021
+"Nacogdoches County, Texas",107,48,347,2021
+"Navarro County, Texas",121,48,349,2021
+"Newton County, Texas",20,48,351,2021
+"Nolan County, Texas",0,48,353,2021
+"Nueces County, Texas",1860,48,355,2021
+"Ochiltree County, Texas",0,48,357,2021
+"Oldham County, Texas",0,48,359,2021
+"Orange County, Texas",209,48,361,2021
+"Palo Pinto County, Texas",77,48,363,2021
+"Panola County, Texas",0,48,365,2021
+"Parker County, Texas",375,48,367,2021
+"Parmer County, Texas",0,48,369,2021
+"Pecos County, Texas",21,48,371,2021
+"Polk County, Texas",174,48,373,2021
+"Potter County, Texas",426,48,375,2021
+"Presidio County, Texas",0,48,377,2021
+"Rains County, Texas",9,48,379,2021
+"Randall County, Texas",357,48,381,2021
+"Reagan County, Texas",0,48,383,2021
+"Real County, Texas",0,48,385,2021
+"Red River County, Texas",0,48,387,2021
+"Reeves County, Texas",12,48,389,2021
+"Refugio County, Texas",13,48,391,2021
+"Roberts County, Texas",6,48,393,2021
+"Robertson County, Texas",59,48,395,2021
+"Rockwall County, Texas",1174,48,397,2021
+"Runnels County, Texas",0,48,399,2021
+"Rusk County, Texas",298,48,401,2021
+"Sabine County, Texas",0,48,403,2021
+"San Augustine County, Texas",0,48,405,2021
+"San Jacinto County, Texas",112,48,407,2021
+"San Patricio County, Texas",224,48,409,2021
+"San Saba County, Texas",0,48,411,2021
+"Schleicher County, Texas",0,48,413,2021
+"Scurry County, Texas",39,48,415,2021
+"Shackelford County, Texas",23,48,417,2021
+"Shelby County, Texas",69,48,419,2021
+"Sherman County, Texas",24,48,421,2021
+"Smith County, Texas",499,48,423,2021
+"Somervell County, Texas",4,48,425,2021
+"Starr County, Texas",29,48,427,2021
+"Stephens County, Texas",0,48,429,2021
+"Sterling County, Texas",0,48,431,2021
+"Stonewall County, Texas",0,48,433,2021
+"Sutton County, Texas",0,48,435,2021
+"Swisher County, Texas",0,48,437,2021
+"Tarrant County, Texas",23980,48,439,2021
+"Taylor County, Texas",993,48,441,2021
+"Terrell County, Texas",0,48,443,2021
+"Terry County, Texas",4,48,445,2021
+"Throckmorton County, Texas",0,48,447,2021
+"Titus County, Texas",65,48,449,2021
+"Tom Green County, Texas",659,48,451,2021
+"Travis County, Texas",12724,48,453,2021
+"Trinity County, Texas",32,48,455,2021
+"Tyler County, Texas",30,48,457,2021
+"Upshur County, Texas",0,48,459,2021
+"Upton County, Texas",27,48,461,2021
+"Uvalde County, Texas",263,48,463,2021
+"Val Verde County, Texas",370,48,465,2021
+"Van Zandt County, Texas",121,48,467,2021
+"Victoria County, Texas",469,48,469,2021
+"Walker County, Texas",137,48,471,2021
+"Waller County, Texas",59,48,473,2021
+"Ward County, Texas",8,48,475,2021
+"Washington County, Texas",116,48,477,2021
+"Webb County, Texas",1138,48,479,2021
+"Wharton County, Texas",260,48,481,2021
+"Wheeler County, Texas",0,48,483,2021
+"Wichita County, Texas",821,48,485,2021
+"Wilbarger County, Texas",23,48,487,2021
+"Willacy County, Texas",44,48,489,2021
+"Williamson County, Texas",5135,48,491,2021
+"Wilson County, Texas",364,48,493,2021
+"Winkler County, Texas",48,48,495,2021
+"Wise County, Texas",327,48,497,2021
+"Wood County, Texas",156,48,499,2021
+"Yoakum County, Texas",0,48,501,2021
+"Young County, Texas",0,48,503,2021
+"Zapata County, Texas",3,48,505,2021
+"Zavala County, Texas",0,48,507,2021
+"Beaver County, Utah",17,49,001,2021
+"Box Elder County, Utah",130,49,003,2021
+"Cache County, Utah",533,49,005,2021
+"Carbon County, Utah",8,49,007,2021
+"Daggett County, Utah",0,49,009,2021
+"Davis County, Utah",1130,49,011,2021
+"Duchesne County, Utah",61,49,013,2021
+"Emery County, Utah",0,49,015,2021
+"Garfield County, Utah",0,49,017,2021
+"Grand County, Utah",74,49,019,2021
+"Iron County, Utah",75,49,021,2021
+"Juab County, Utah",0,49,023,2021
+"Kane County, Utah",25,49,025,2021
+"Millard County, Utah",14,49,027,2021
+"Morgan County, Utah",11,49,029,2021
+"Piute County, Utah",1,49,031,2021
+"Rich County, Utah",8,49,033,2021
+"Salt Lake County, Utah",6099,49,035,2021
+"San Juan County, Utah",46,49,037,2021
+"Sanpete County, Utah",47,49,039,2021
+"Sevier County, Utah",15,49,041,2021
+"Summit County, Utah",78,49,043,2021
+"Tooele County, Utah",146,49,045,2021
+"Uintah County, Utah",11,49,047,2021
+"Utah County, Utah",1914,49,049,2021
+"Wasatch County, Utah",188,49,051,2021
+"Washington County, Utah",936,49,053,2021
+"Wayne County, Utah",3,49,055,2021
+"Weber County, Utah",1146,49,057,2021
+"Addison County, Vermont",119,50,001,2021
+"Bennington County, Vermont",80,50,003,2021
+"Caledonia County, Vermont",171,50,005,2021
+"Chittenden County, Vermont",538,50,007,2021
+"Essex County, Vermont",25,50,009,2021
+"Franklin County, Vermont",118,50,011,2021
+"Grand Isle County, Vermont",48,50,013,2021
+"Lamoille County, Vermont",80,50,015,2021
+"Orange County, Vermont",47,50,017,2021
+"Orleans County, Vermont",100,50,019,2021
+"Rutland County, Vermont",247,50,021,2021
+"Washington County, Vermont",188,50,023,2021
+"Windham County, Vermont",316,50,025,2021
+"Windsor County, Vermont",173,50,027,2021
+"Accomack County, Virginia",193,51,001,2021
+"Albemarle County, Virginia",798,51,003,2021
+"Alleghany County, Virginia",9,51,005,2021
+"Amelia County, Virginia",146,51,007,2021
+"Amherst County, Virginia",168,51,009,2021
+"Appomattox County, Virginia",6,51,011,2021
+"Arlington County, Virginia",3361,51,013,2021
+"Augusta County, Virginia",267,51,015,2021
+"Bath County, Virginia",4,51,017,2021
+"Bedford County, Virginia",174,51,019,2021
+"Bland County, Virginia",0,51,021,2021
+"Botetourt County, Virginia",206,51,023,2021
+"Brunswick County, Virginia",81,51,025,2021
+"Buchanan County, Virginia",18,51,027,2021
+"Buckingham County, Virginia",24,51,029,2021
+"Campbell County, Virginia",143,51,031,2021
+"Caroline County, Virginia",144,51,033,2021
+"Carroll County, Virginia",124,51,035,2021
+"Charles City County, Virginia",14,51,036,2021
+"Charlotte County, Virginia",213,51,037,2021
+"Chesterfield County, Virginia",4748,51,041,2021
+"Clarke County, Virginia",62,51,043,2021
+"Craig County, Virginia",0,51,045,2021
+"Culpeper County, Virginia",974,51,047,2021
+"Cumberland County, Virginia",50,51,049,2021
+"Dickenson County, Virginia",0,51,051,2021
+"Dinwiddie County, Virginia",300,51,053,2021
+"Essex County, Virginia",320,51,057,2021
+"Fairfax County, Virginia",12565,51,059,2021
+"Fauquier County, Virginia",695,51,061,2021
+"Floyd County, Virginia",65,51,063,2021
+"Fluvanna County, Virginia",213,51,065,2021
+"Franklin County, Virginia",311,51,067,2021
+"Frederick County, Virginia",866,51,069,2021
+"Giles County, Virginia",15,51,071,2021
+"Gloucester County, Virginia",589,51,073,2021
+"Goochland County, Virginia",193,51,075,2021
+"Grayson County, Virginia",119,51,077,2021
+"Greene County, Virginia",136,51,079,2021
+"Greensville County, Virginia",131,51,081,2021
+"Halifax County, Virginia",297,51,083,2021
+"Hanover County, Virginia",283,51,085,2021
+"Henrico County, Virginia",2650,51,087,2021
+"Henry County, Virginia",299,51,089,2021
+"Highland County, Virginia",0,51,091,2021
+"Isle of Wight County, Virginia",338,51,093,2021
+"James City County, Virginia",1856,51,095,2021
+"King and Queen County, Virginia",29,51,097,2021
+"King George County, Virginia",355,51,099,2021
+"King William County, Virginia",120,51,101,2021
+"Lancaster County, Virginia",9,51,103,2021
+"Lee County, Virginia",78,51,105,2021
+"Loudoun County, Virginia",6090,51,107,2021
+"Louisa County, Virginia",90,51,109,2021
+"Lunenburg County, Virginia",20,51,111,2021
+"Madison County, Virginia",141,51,113,2021
+"Mathews County, Virginia",23,51,115,2021
+"Mecklenburg County, Virginia",154,51,117,2021
+"Middlesex County, Virginia",72,51,119,2021
+"Montgomery County, Virginia",359,51,121,2021
+"Nelson County, Virginia",18,51,125,2021
+"New Kent County, Virginia",6,51,127,2021
+"Northampton County, Virginia",89,51,131,2021
+"Northumberland County, Virginia",158,51,133,2021
+"Nottoway County, Virginia",167,51,135,2021
+"Orange County, Virginia",333,51,137,2021
+"Page County, Virginia",127,51,139,2021
+"Patrick County, Virginia",153,51,141,2021
+"Pittsylvania County, Virginia",225,51,143,2021
+"Powhatan County, Virginia",181,51,145,2021
+"Prince Edward County, Virginia",102,51,147,2021
+"Prince George County, Virginia",1411,51,149,2021
+"Prince William County, Virginia",9406,51,153,2021
+"Pulaski County, Virginia",65,51,155,2021
+"Rappahannock County, Virginia",30,51,157,2021
+"Richmond County, Virginia",130,51,159,2021
+"Roanoke County, Virginia",636,51,161,2021
+"Rockbridge County, Virginia",66,51,163,2021
+"Rockingham County, Virginia",777,51,165,2021
+"Russell County, Virginia",0,51,167,2021
+"Scott County, Virginia",136,51,169,2021
+"Shenandoah County, Virginia",733,51,171,2021
+"Smyth County, Virginia",67,51,173,2021
+"Southampton County, Virginia",178,51,175,2021
+"Spotsylvania County, Virginia",3111,51,177,2021
+"Stafford County, Virginia",3114,51,179,2021
+"Surry County, Virginia",30,51,181,2021
+"Sussex County, Virginia",89,51,183,2021
+"Tazewell County, Virginia",109,51,185,2021
+"Warren County, Virginia",119,51,187,2021
+"Washington County, Virginia",56,51,191,2021
+"Westmoreland County, Virginia",77,51,193,2021
+"Wise County, Virginia",38,51,195,2021
+"Wythe County, Virginia",24,51,197,2021
+"York County, Virginia",1703,51,199,2021
+"Alexandria city, Virginia",2834,51,510,2021
+"Bristol city, Virginia",69,51,520,2021
+"Buena Vista city, Virginia",0,51,530,2021
+"Charlottesville city, Virginia",235,51,540,2021
+"Chesapeake city, Virginia",3818,51,550,2021
+"Colonial Heights city, Virginia",167,51,570,2021
+"Covington city, Virginia",0,51,580,2021
+"Danville city, Virginia",164,51,590,2021
+"Emporia city, Virginia",99,51,595,2021
+"Fairfax city, Virginia",240,51,600,2021
+"Falls Church city, Virginia",425,51,610,2021
+"Franklin city, Virginia",0,51,620,2021
+"Fredericksburg city, Virginia",358,51,630,2021
+"Galax city, Virginia",0,51,640,2021
+"Hampton city, Virginia",3096,51,650,2021
+"Harrisonburg city, Virginia",2191,51,660,2021
+"Hopewell city, Virginia",593,51,670,2021
+"Lexington city, Virginia",61,51,678,2021
+"Lynchburg city, Virginia",945,51,680,2021
+"Manassas city, Virginia",686,51,683,2021
+"Manassas Park city, Virginia",286,51,685,2021
+"Martinsville city, Virginia",318,51,690,2021
+"Newport News city, Virginia",4918,51,700,2021
+"Norfolk city, Virginia",4246,51,710,2021
+"Norton city, Virginia",0,51,720,2021
+"Petersburg city, Virginia",440,51,730,2021
+"Poquoson city, Virginia",136,51,735,2021
+"Portsmouth city, Virginia",1745,51,740,2021
+"Radford city, Virginia",85,51,750,2021
+"Richmond city, Virginia",1759,51,760,2021
+"Roanoke city, Virginia",1153,51,770,2021
+"Salem city, Virginia",138,51,775,2021
+"Staunton city, Virginia",282,51,790,2021
+"Suffolk city, Virginia",1378,51,800,2021
+"Virginia Beach city, Virginia",9854,51,810,2021
+"Waynesboro city, Virginia",39,51,820,2021
+"Williamsburg city, Virginia",134,51,830,2021
+"Winchester city, Virginia",63,51,840,2021
+"Adams County, Washington",53,53,001,2021
+"Asotin County, Washington",0,53,003,2021
+"Benton County, Washington",288,53,005,2021
+"Chelan County, Washington",349,53,007,2021
+"Clallam County, Washington",183,53,009,2021
+"Clark County, Washington",1709,53,011,2021
+"Columbia County, Washington",0,53,013,2021
+"Cowlitz County, Washington",345,53,015,2021
+"Douglas County, Washington",53,53,017,2021
+"Ferry County, Washington",0,53,019,2021
+"Franklin County, Washington",209,53,021,2021
+"Garfield County, Washington",0,53,023,2021
+"Grant County, Washington",409,53,025,2021
+"Grays Harbor County, Washington",234,53,027,2021
+"Island County, Washington",471,53,029,2021
+"Jefferson County, Washington",36,53,031,2021
+"King County, Washington",8846,53,033,2021
+"Kitsap County, Washington",2131,53,035,2021
+"Kittitas County, Washington",62,53,037,2021
+"Klickitat County, Washington",28,53,039,2021
+"Lewis County, Washington",443,53,041,2021
+"Lincoln County, Washington",0,53,043,2021
+"Mason County, Washington",200,53,045,2021
+"Okanogan County, Washington",247,53,047,2021
+"Pacific County, Washington",18,53,049,2021
+"Pend Oreille County, Washington",0,53,051,2021
+"Pierce County, Washington",10733,53,053,2021
+"San Juan County, Washington",13,53,055,2021
+"Skagit County, Washington",739,53,057,2021
+"Skamania County, Washington",39,53,059,2021
+"Snohomish County, Washington",4054,53,061,2021
+"Spokane County, Washington",2388,53,063,2021
+"Stevens County, Washington",18,53,065,2021
+"Thurston County, Washington",2813,53,067,2021
+"Wahkiakum County, Washington",0,53,069,2021
+"Walla Walla County, Washington",369,53,071,2021
+"Whatcom County, Washington",1141,53,073,2021
+"Whitman County, Washington",138,53,075,2021
+"Yakima County, Washington",532,53,077,2021
+"Barbour County, West Virginia",36,54,001,2021
+"Berkeley County, West Virginia",1456,54,003,2021
+"Boone County, West Virginia",0,54,005,2021
+"Braxton County, West Virginia",0,54,007,2021
+"Brooke County, West Virginia",25,54,009,2021
+"Cabell County, West Virginia",252,54,011,2021
+"Calhoun County, West Virginia",3,54,013,2021
+"Clay County, West Virginia",6,54,015,2021
+"Doddridge County, West Virginia",39,54,017,2021
+"Fayette County, West Virginia",2,54,019,2021
+"Gilmer County, West Virginia",55,54,021,2021
+"Grant County, West Virginia",13,54,023,2021
+"Greenbrier County, West Virginia",88,54,025,2021
+"Hampshire County, West Virginia",49,54,027,2021
+"Hancock County, West Virginia",96,54,029,2021
+"Hardy County, West Virginia",603,54,031,2021
+"Harrison County, West Virginia",195,54,033,2021
+"Jackson County, West Virginia",0,54,035,2021
+"Jefferson County, West Virginia",689,54,037,2021
+"Kanawha County, West Virginia",392,54,039,2021
+"Lewis County, West Virginia",26,54,041,2021
+"Lincoln County, West Virginia",12,54,043,2021
+"Logan County, West Virginia",2,54,045,2021
+"McDowell County, West Virginia",24,54,047,2021
+"Marion County, West Virginia",97,54,049,2021
+"Marshall County, West Virginia",95,54,051,2021
+"Mason County, West Virginia",20,54,053,2021
+"Mercer County, West Virginia",268,54,055,2021
+"Mineral County, West Virginia",185,54,057,2021
+"Mingo County, West Virginia",0,54,059,2021
+"Monongalia County, West Virginia",340,54,061,2021
+"Monroe County, West Virginia",0,54,063,2021
+"Morgan County, West Virginia",34,54,065,2021
+"Nicholas County, West Virginia",0,54,067,2021
+"Ohio County, West Virginia",70,54,069,2021
+"Pendleton County, West Virginia",0,54,071,2021
+"Pleasants County, West Virginia",0,54,073,2021
+"Pocahontas County, West Virginia",6,54,075,2021
+"Preston County, West Virginia",82,54,077,2021
+"Putnam County, West Virginia",59,54,079,2021
+"Raleigh County, West Virginia",389,54,081,2021
+"Randolph County, West Virginia",34,54,083,2021
+"Ritchie County, West Virginia",7,54,085,2021
+"Roane County, West Virginia",25,54,087,2021
+"Summers County, West Virginia",92,54,089,2021
+"Taylor County, West Virginia",17,54,091,2021
+"Tucker County, West Virginia",3,54,093,2021
+"Tyler County, West Virginia",0,54,095,2021
+"Upshur County, West Virginia",64,54,097,2021
+"Wayne County, West Virginia",1,54,099,2021
+"Webster County, West Virginia",29,54,101,2021
+"Wetzel County, West Virginia",22,54,103,2021
+"Wirt County, West Virginia",0,54,105,2021
+"Wood County, West Virginia",197,54,107,2021
+"Wyoming County, West Virginia",51,54,109,2021
+"Adams County, Wisconsin",122,55,001,2021
+"Ashland County, Wisconsin",188,55,003,2021
+"Barron County, Wisconsin",89,55,005,2021
+"Bayfield County, Wisconsin",53,55,007,2021
+"Brown County, Wisconsin",2825,55,009,2021
+"Buffalo County, Wisconsin",37,55,011,2021
+"Burnett County, Wisconsin",6,55,013,2021
+"Calumet County, Wisconsin",62,55,015,2021
+"Chippewa County, Wisconsin",117,55,017,2021
+"Clark County, Wisconsin",268,55,019,2021
+"Columbia County, Wisconsin",109,55,021,2021
+"Crawford County, Wisconsin",73,55,023,2021
+"Dane County, Wisconsin",3410,55,025,2021
+"Dodge County, Wisconsin",363,55,027,2021
+"Door County, Wisconsin",67,55,029,2021
+"Douglas County, Wisconsin",103,55,031,2021
+"Dunn County, Wisconsin",45,55,033,2021
+"Eau Claire County, Wisconsin",326,55,035,2021
+"Florence County, Wisconsin",0,55,037,2021
+"Fond du Lac County, Wisconsin",205,55,039,2021
+"Forest County, Wisconsin",53,55,041,2021
+"Grant County, Wisconsin",59,55,043,2021
+"Green County, Wisconsin",53,55,045,2021
+"Green Lake County, Wisconsin",90,55,047,2021
+"Iowa County, Wisconsin",59,55,049,2021
+"Iron County, Wisconsin",20,55,051,2021
+"Jackson County, Wisconsin",53,55,053,2021
+"Jefferson County, Wisconsin",612,55,055,2021
+"Juneau County, Wisconsin",89,55,057,2021
+"Kenosha County, Wisconsin",3075,55,059,2021
+"Kewaunee County, Wisconsin",91,55,061,2021
+"La Crosse County, Wisconsin",279,55,063,2021
+"Lafayette County, Wisconsin",14,55,065,2021
+"Langlade County, Wisconsin",130,55,067,2021
+"Lincoln County, Wisconsin",46,55,069,2021
+"Manitowoc County, Wisconsin",178,55,071,2021
+"Marathon County, Wisconsin",425,55,073,2021
+"Marinette County, Wisconsin",218,55,075,2021
+"Marquette County, Wisconsin",31,55,077,2021
+"Menominee County, Wisconsin",36,55,078,2021
+"Milwaukee County, Wisconsin",36058,55,079,2021
+"Monroe County, Wisconsin",312,55,081,2021
+"Oconto County, Wisconsin",50,55,083,2021
+"Oneida County, Wisconsin",68,55,085,2021
+"Outagamie County, Wisconsin",698,55,087,2021
+"Ozaukee County, Wisconsin",442,55,089,2021
+"Pepin County, Wisconsin",30,55,091,2021
+"Pierce County, Wisconsin",193,55,093,2021
+"Polk County, Wisconsin",98,55,095,2021
+"Portage County, Wisconsin",174,55,097,2021
+"Price County, Wisconsin",69,55,099,2021
+"Racine County, Wisconsin",3046,55,101,2021
+"Richland County, Wisconsin",6,55,103,2021
+"Rock County, Wisconsin",665,55,105,2021
+"Rusk County, Wisconsin",12,55,107,2021
+"St. Croix County, Wisconsin",87,55,109,2021
+"Sauk County, Wisconsin",385,55,111,2021
+"Sawyer County, Wisconsin",33,55,113,2021
+"Shawano County, Wisconsin",214,55,115,2021
+"Sheboygan County, Wisconsin",886,55,117,2021
+"Taylor County, Wisconsin",20,55,119,2021
+"Trempealeau County, Wisconsin",77,55,121,2021
+"Vernon County, Wisconsin",74,55,123,2021
+"Vilas County, Wisconsin",7,55,125,2021
+"Walworth County, Wisconsin",600,55,127,2021
+"Washburn County, Wisconsin",53,55,129,2021
+"Washington County, Wisconsin",944,55,131,2021
+"Waukesha County, Wisconsin",2900,55,133,2021
+"Waupaca County, Wisconsin",139,55,135,2021
+"Waushara County, Wisconsin",118,55,137,2021
+"Winnebago County, Wisconsin",1125,55,139,2021
+"Wood County, Wisconsin",151,55,141,2021
+"Albany County, Wyoming",194,56,001,2021
+"Big Horn County, Wyoming",0,56,003,2021
+"Campbell County, Wyoming",35,56,005,2021
+"Carbon County, Wyoming",28,56,007,2021
+"Converse County, Wyoming",0,56,009,2021
+"Crook County, Wyoming",17,56,011,2021
+"Fremont County, Wyoming",52,56,013,2021
+"Goshen County, Wyoming",49,56,015,2021
+"Hot Springs County, Wyoming",5,56,017,2021
+"Johnson County, Wyoming",139,56,019,2021
+"Laramie County, Wyoming",299,56,021,2021
+"Lincoln County, Wyoming",14,56,023,2021
+"Natrona County, Wyoming",93,56,025,2021
+"Niobrara County, Wyoming",2,56,027,2021
+"Park County, Wyoming",10,56,029,2021
+"Platte County, Wyoming",2,56,031,2021
+"Sheridan County, Wyoming",67,56,033,2021
+"Sublette County, Wyoming",51,56,035,2021
+"Sweetwater County, Wyoming",74,56,037,2021
+"Teton County, Wyoming",57,56,039,2021
+"Uinta County, Wyoming",4,56,041,2021
+"Washakie County, Wyoming",26,56,043,2021
+"Weston County, Wyoming",14,56,045,2021
+"Adjuntas Municipio, Puerto Rico",17936,72,001,2021
+"Aguada Municipio, Puerto Rico",34070,72,003,2021
+"Aguadilla Municipio, Puerto Rico",53358,72,005,2021
+"Aguas Buenas Municipio, Puerto Rico",24316,72,007,2021
+"Aibonito Municipio, Puerto Rico",24153,72,009,2021
+"Añasco Municipio, Puerto Rico",24090,72,011,2021
+"Arecibo Municipio, Puerto Rico",86519,72,013,2021
+"Arroyo Municipio, Puerto Rico",16038,72,015,2021
+"Barceloneta Municipio, Puerto Rico",22561,72,017,2021
+"Barranquitas Municipio, Puerto Rico",28648,72,019,2021
+"Bayamón Municipio, Puerto Rico",175414,72,021,2021
+"Cabo Rojo Municipio, Puerto Rico",46208,72,023,2021
+"Caguas Municipio, Puerto Rico",122290,72,025,2021
+"Camuy Municipio, Puerto Rico",32290,72,027,2021
+"Canóvanas Municipio, Puerto Rico",40916,72,029,2021
+"Carolina Municipio, Puerto Rico",143651,72,031,2021
+"Cataño Municipio, Puerto Rico",22303,72,033,2021
+"Cayey Municipio, Puerto Rico",41655,72,035,2021
+"Ceiba Municipio, Puerto Rico",11102,72,037,2021
+"Ciales Municipio, Puerto Rico",16827,72,039,2021
+"Cidra Municipio, Puerto Rico",39765,72,041,2021
+"Coamo Municipio, Puerto Rico",34758,72,043,2021
+"Comerío Municipio, Puerto Rico",18926,72,045,2021
+"Corozal Municipio, Puerto Rico",34137,72,047,2021
+"Culebra Municipio, Puerto Rico",1176,72,049,2021
+"Dorado Municipio, Puerto Rico",33836,72,051,2021
+"Fajardo Municipio, Puerto Rico",31199,72,053,2021
+"Florida Municipio, Puerto Rico",11551,72,054,2021
+"Guánica Municipio, Puerto Rico",14092,72,055,2021
+"Guayama Municipio, Puerto Rico",36613,72,057,2021
+"Guayanilla Municipio, Puerto Rico",17846,72,059,2021
+"Guaynabo Municipio, Puerto Rico",82802,72,061,2021
+"Gurabo Municipio, Puerto Rico",39372,72,063,2021
+"Hatillo Municipio, Puerto Rico",38485,72,065,2021
+"Hormigueros Municipio, Puerto Rico",15286,72,067,2021
+"Humacao Municipio, Puerto Rico",49955,72,069,2021
+"Isabela Municipio, Puerto Rico",41344,72,071,2021
+"Jayuya Municipio, Puerto Rico",14580,72,073,2021
+"Juana Díaz Municipio, Puerto Rico",46192,72,075,2021
+"Juncos Municipio, Puerto Rico",36784,72,077,2021
+"Lajas Municipio, Puerto Rico",22660,72,079,2021
+"Lares Municipio, Puerto Rico",27638,72,081,2021
+"Las Marías Municipio, Puerto Rico",8711,72,083,2021
+"Las Piedras Municipio, Puerto Rico",34905,72,085,2021
+"Loíza Municipio, Puerto Rico",23747,72,087,2021
+"Luquillo Municipio, Puerto Rico",17335,72,089,2021
+"Manatí Municipio, Puerto Rico",38258,72,091,2021
+"Maricao Municipio, Puerto Rico",5153,72,093,2021
+"Maunabo Municipio, Puerto Rico",10580,72,095,2021
+"Mayagüez Municipio, Puerto Rico",71413,72,097,2021
+"Moca Municipio, Puerto Rico",37076,72,099,2021
+"Morovis Municipio, Puerto Rico",28760,72,101,2021
+"Naguabo Municipio, Puerto Rico",23342,72,103,2021
+"Naranjito Municipio, Puerto Rico",29050,72,105,2021
+"Orocovis Municipio, Puerto Rico",21214,72,107,2021
+"Patillas Municipio, Puerto Rico",16128,72,109,2021
+"Peñuelas Municipio, Puerto Rico",20318,72,111,2021
+"Ponce Municipio, Puerto Rico",136544,72,113,2021
+"Quebradillas Municipio, Puerto Rico",23049,72,115,2021
+"Rincón Municipio, Puerto Rico",12983,72,117,2021
+"Río Grande Municipio, Puerto Rico",46260,72,119,2021
+"Sabana Grande Municipio, Puerto Rico",22599,72,121,2021
+"Salinas Municipio, Puerto Rico",25918,72,123,2021
+"San Germán Municipio, Puerto Rico",31405,72,125,2021
+"San Juan Municipio, Puerto Rico",295576,72,127,2021
+"San Lorenzo Municipio, Puerto Rico",37500,72,129,2021
+"San Sebastián Municipio, Puerto Rico",37397,72,131,2021
+"Santa Isabel Municipio, Puerto Rico",20476,72,133,2021
+"Toa Alta Municipio, Puerto Rico",66033,72,135,2021
+"Toa Baja Municipio, Puerto Rico",73326,72,137,2021
+"Trujillo Alto Municipio, Puerto Rico",65425,72,139,2021
+"Utuado Municipio, Puerto Rico",28049,72,141,2021
+"Vega Alta Municipio, Puerto Rico",34904,72,143,2021
+"Vega Baja Municipio, Puerto Rico",52518,72,145,2021
+"Vieques Municipio, Puerto Rico",7604,72,147,2021
+"Villalba Municipio, Puerto Rico",22191,72,149,2021
+"Yabucoa Municipio, Puerto Rico",30775,72,151,2021
+"Yauco Municipio, Puerto Rico",34030,72,153,2021
