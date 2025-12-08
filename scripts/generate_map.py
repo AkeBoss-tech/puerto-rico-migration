@@ -3,6 +3,14 @@ import plotly.express as px
 import os
 import glob
 
+# American/Puerto Rican color theme
+PR_COLORS = {
+    'red': '#DC143C',
+    'blue': '#0051BA',
+    'blue_dark': '#003087',
+    'gray': '#F5F5F5'
+}
+
 def generate_map():
     # 1. Load all CSV files
     input_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'census_acs5')
@@ -61,7 +69,7 @@ def generate_map():
         hover_name='State',
         animation_frame='Year',
         scope="usa",
-        color_continuous_scale="Reds",
+        color_continuous_scale=[[0, '#F5F5F5'], [0.3, '#0066FF'], [0.6, '#0051BA'], [1, '#DC143C']],  # Light gray to blue to red
         range_color=(0, map_df['Population'].max()), # Fix the color scale to the max across all years
         title='Puerto Rican Population by State (2010-2023)',
         labels={'Population': 'Population Count'}
@@ -69,6 +77,8 @@ def generate_map():
     
     fig.update_layout(
         template='plotly_white',
+        plot_bgcolor=PR_COLORS['gray'],
+        paper_bgcolor='white',
         geo=dict(
             lakecolor='rgb(255, 255, 255)',
         ),

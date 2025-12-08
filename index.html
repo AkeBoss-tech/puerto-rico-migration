@@ -3,267 +3,571 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Puerto Rican Migration: A Data-Driven Narrative</title>
+    <title>Economic Drivers of Puerto Rican Migration: A Data-Driven Analysis (1950–2024)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 1200px;
+            font-family: 'Crimson Text', Georgia, 'Times New Roman', serif;
+            line-height: 1.8;
+            color: #2c2c2c;
+            background-color: #fafafa;
+            font-size: 18px;
+            max-width: 900px;
             margin: 0 auto;
-            padding: 20px;
-            background-color: #f9f9f9;
+            padding: 60px 40px;
         }
-        header {
-            background-color: #2c3e50;
-            color: white;
-            padding: 50px 20px;
+        
+        /* Title Page */
+        .title-page {
             text-align: center;
-            margin-bottom: 40px;
-            border-radius: 8px;
+            padding: 80px 40px;
+            margin-bottom: 80px;
+            border-bottom: 3px solid #DC143C;
+            page-break-after: always;
         }
-        h1 { margin: 0; font-size: 2.5em; }
-        .subtitle { font-size: 1.2em; opacity: 0.9; margin-top: 10px; }
         
-        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; margin-top: 50px; }
-        h3 { color: #34495e; margin-top: 30px; }
+        .title-page h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 3.2em;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 20px;
+            line-height: 1.2;
+            letter-spacing: -0.5px;
+        }
         
-        .section {
-            background: white;
+        .title-page .subtitle {
+            font-size: 1.4em;
+            color: #666;
+            font-style: italic;
+            margin-top: 15px;
+            font-weight: 400;
+        }
+        
+        .title-page .author-info {
+            margin-top: 60px;
+            font-size: 1.1em;
+            color: #555;
+        }
+        
+        /* Typography */
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.4em;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-top: 60px;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #DC143C;
+            page-break-after: avoid;
+        }
+        
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.8em;
+            font-weight: 600;
+            color: #2c2c2c;
+            margin-top: 50px;
+            margin-bottom: 15px;
+            padding-top: 20px;
+            page-break-after: avoid;
+        }
+        
+        h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.4em;
+            font-weight: 600;
+            color: #3c3c3c;
+            margin-top: 35px;
+            margin-bottom: 12px;
+            page-break-after: avoid;
+        }
+        
+        h4 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.2em;
+            font-weight: 600;
+            color: #4c4c4c;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+        
+        p {
+            margin-bottom: 18px;
+            text-align: justify;
+            text-justify: inter-word;
+        }
+        
+        /* Abstract/Executive Summary */
+        .abstract {
+            background-color: #f8f8f8;
+            border-left: 4px solid #0051BA;
             padding: 30px;
-            margin-bottom: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin: 40px 0;
+            font-style: italic;
         }
         
-        .graph-container {
+        .abstract h2 {
+            margin-top: 0;
+            border: none;
+            padding: 0;
+            font-size: 1.5em;
+        }
+        
+        /* Sections */
+        .section {
+            margin: 50px 0;
+            page-break-inside: avoid;
+        }
+        
+        .section-intro {
+            margin-bottom: 30px;
+            font-size: 1.05em;
+        }
+        
+        /* Key Statistics Box */
+        .key-stat {
+            background-color: #f0f7ff;
+            border-left: 5px solid #0051BA;
+            padding: 25px;
             margin: 30px 0;
-            border: 1px solid #eee;
+            border-radius: 0 4px 4px 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .key-stat strong {
+            color: #003087;
+            font-size: 1.1em;
+            font-weight: 600;
+        }
+        
+        /* Literary Connection Box */
+        .literary-connect {
+            background-color: #fff5f5;
+            border-left: 5px solid #DC143C;
+            padding: 25px;
+            margin: 30px 0;
+            border-radius: 0 4px 4px 0;
+            font-style: italic;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .literary-connect::before {
+            content: "Literary Context: ";
+            font-weight: 700;
+            font-style: normal;
+            color: #B22234;
+            display: block;
+            margin-bottom: 8px;
+        }
+        
+        /* Figures */
+        .figure-container {
+            margin: 40px 0;
+            page-break-inside: avoid;
+        }
+        
+        .figure {
+            border: 1px solid #ddd;
             padding: 20px;
             background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            border-radius: 4px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+            margin: 25px 0;
         }
         
-        .key-stat {
-            background-color: #e8f4f8;
-            border-left: 4px solid #3498db;
-            padding: 20px;
-            margin: 20px 0;
-            border-radius: 0 4px 4px 0;
+        .figure iframe {
+            width: 100%;
+            border: none;
+            border-radius: 4px;
         }
-        .key-stat strong { color: #2980b9; font-size: 1.1em; }
         
-        .literary-connect {
-            background-color: #fdf2e9;
-            border-left: 4px solid #e67e22;
-            padding: 20px;
-            margin: 20px 0;
+        .figure-caption {
+            margin-top: 15px;
+            font-size: 0.9em;
+            color: #555;
             font-style: italic;
-            border-radius: 0 4px 4px 0;
+            text-align: left;
+            line-height: 1.6;
         }
-        .literary-connect::before {
-            content: "📖 Literary Connection: ";
-            font-weight: bold;
-            font-style: normal;
-            color: #d35400;
+        
+        .figure-number {
+            font-weight: 600;
+            color: #DC143C;
         }
-
+        
+        /* Lists */
+        ol, ul {
+            margin: 20px 0 20px 30px;
+        }
+        
+        li {
+            margin-bottom: 10px;
+        }
+        
+        /* Tables */
         table {
             width: 100%;
             border-collapse: collapse;
-            margin: 20px 0;
+            margin: 30px 0;
             font-size: 0.95em;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
         }
+        
         th, td {
-            padding: 12px;
-            border-bottom: 1px solid #ddd;
+            padding: 15px;
+            border: 1px solid #ddd;
             text-align: left;
         }
-        th { background-color: #f2f2f2; color: #2c3e50; }
-        tr:hover { background-color: #f5f5f5; }
         
+        th {
+            background-color: #0051BA;
+            color: white;
+            font-weight: 600;
+            font-family: 'Playfair Display', serif;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        
+        tr:hover {
+            background-color: #f0f7ff;
+        }
+        
+        /* Works Cited */
+        .works-cited {
+            margin-top: 80px;
+            padding-top: 40px;
+            border-top: 3px solid #DC143C;
+            page-break-before: always;
+        }
+        
+        .works-cited h2 {
+            margin-top: 0;
+            font-size: 2em;
+        }
+        
+        .citation {
+            margin: 15px 0;
+            padding-left: 30px;
+            text-indent: -30px;
+            line-height: 1.8;
+            font-size: 0.95em;
+        }
+        
+        /* Footer */
         .footer {
             text-align: center;
             padding: 40px 20px;
-            color: #7f8c8d;
-            border-top: 1px solid #eee;
-            margin-top: 40px;
+            color: #777;
+            border-top: 1px solid #ddd;
+            margin-top: 60px;
+            font-size: 0.9em;
+        }
+        
+        /* Print styles */
+        @media print {
+            body {
+                padding: 20px;
+            }
+            .figure-container {
+                page-break-inside: avoid;
+            }
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            body {
+                padding: 30px 20px;
+                font-size: 16px;
+            }
+            h1 { font-size: 2em; }
+            h2 { font-size: 1.5em; }
+            .title-page h1 { font-size: 2.2em; }
         }
     </style>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
 
-<header>
-    <h1>Puerto Rican Migration: Economic Drivers & Trends</h1>
+<div class="title-page">
+    <h1>Economic Drivers of Puerto Rican Migration</h1>
     <div class="subtitle">A Data-Driven Analysis of "The Revolving Door" & <em>Down These Mean Streets</em></div>
-</header>
+    <div class="author-info">
+        <p>An Analysis of Migration Patterns from 1950 to 2024</p>
+        <p style="margin-top: 20px; font-size: 0.9em; color: #888;">Data Sources: U.S. Census Bureau, IPUMS USA, American Community Survey</p>
+    </div>
+</div>
 
-<div class="section">
+<div class="abstract">
     <h2>Executive Summary</h2>
     <p>Puerto Rican migration is distinct from other Latino groups because it is a <strong>citizenship-based movement</strong>, allowing for rapid, circular mobility ("The Revolving Door") in response to economic shifts. Our analysis divides this history into three clear economic eras:</p>
     <ol>
-        <li><strong>The Great Migration (1950s–1970s):</strong> Driven by industrialization (<em>Operation Bootstrap</em>) and concentrated in NYC.</li>
-        <li><strong>The Dispersion (1980s–2000s):</strong> A shift away from New York and the rise of a U.S.-born majority.</li>
-        <li><strong>The Modern Exodus (2010s–Present):</strong> Driven by debt crises and natural disasters, with a massive shift toward Florida and the South.</li>
+        <li><strong>The Great Migration (1950s–1970s):</strong> Driven by industrialization (<em>Operation Bootstrap</em>) and concentrated in NYC. In the 1950s alone, <strong>470,000 migrants</strong> left the island, with 88% settling in New York City.</li>
+        <li><strong>The Dispersion (1980s–2000s):</strong> A shift away from New York and the rise of a U.S.-born majority. By 1970, ~50% of Puerto Ricans in the U.S. were born on the mainland, marking the "Nuyorican" shift.</li>
+        <li><strong>The Modern Exodus (2010s–Present):</strong> Driven by debt crises and natural disasters, with a massive shift toward Florida and the South. Between 2010 and 2020, Puerto Rico lost <strong>11.8%</strong> of its total population.</li>
     </ol>
 </div>
 
 <div class="section">
-    <h2>Phase I: The "Push" & The Great Migration (1950–1970)</h2>
-    <p>The first major wave was driven by <strong>Operation Bootstrap</strong>. In the late 1940s, the U.S. and P.R. governments shifted the island’s economy from agriculture to manufacturing. While factories opened, they couldn't hire fast enough to replace the lost agricultural jobs, leading the government to encourage migration as a "safety valve."</p>
+    <h1>Phase I: The "Push" & The Great Migration (1950–1970)</h1>
+    
+    <div class="section-intro">
+        <p>The first major wave was driven by <strong>Operation Bootstrap</strong>. In the late 1940s, the U.S. and P.R. governments shifted the island's economy from agriculture to manufacturing. While factories opened, they couldn't hire fast enough to replace the lost agricultural jobs, leading the government to encourage migration as a "safety valve."</p>
+        
+        <p><strong>The Economic Driver:</strong> The shift from agriculture (sugar cane/coffee) to manufacturing created a massive displacement. By 1960, agricultural employment in Puerto Rico had plummeted from 45% to roughly 23%. The government actively encouraged migration to the mainland to relieve high unemployment.</p>
+        
+        <p><strong>Migration Volume:</strong> The 1950s saw the peak migration wave, with <strong>470,000 migrants</strong> leaving the island. This is the massive wave that built the "Barrio" (Spanish Harlem/Bronx) that Piri Thomas describes in <em>Down These Mean Streets</em>.</p>
+    </div>
     
     <div class="key-stat">
-        <strong>Data Insight:</strong> In the 1950s alone, <strong>470,000 migrants</strong> left the island. By 1960, agricultural employment in Puerto Rico had plummeted from 45% to roughly 23%.
+        <strong>Data Insight:</strong> In 1940, <strong>88%</strong> of all Puerto Ricans in the U.S. lived in <strong>New York City</strong>. Even by 1960, nearly three-quarters still lived in NY or NJ. This hyper-concentration created the dense urban communities that would define the Puerto Rican experience in America.
     </div>
 
     <div class="literary-connect">
-        This is the era of Piri Thomas’s <em>Down These Mean Streets</em>. The "Barrio" (Spanish Harlem) was created not just by migration, but by <strong>displacement</strong>. Urban Renewal projects pushed thousands of families into overcrowded tenements, creating the suffocating environment Thomas describes.
+        This is the era of Piri Thomas's <em>Down These Mean Streets</em>. The "Barrio" (Spanish Harlem) was created not just by migration, but by <strong>displacement</strong>. Urban Renewal projects pushed thousands of families into overcrowded tenements, creating the suffocating environment Thomas describes. The data shows that migration wasn't just about opportunity—it was about survival in the face of economic transformation.
     </div>
 
-    <div class="graph-container">
-        <h3>Total Population Trend (Weighted)</h3>
-        <iframe src="graph1_pop_trend.html" width="100%" height="500" frameborder="0"></iframe>
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 1: Total Population Trend (Weighted)</h3>
+            <iframe src="graph1_pop_trend.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 1.</span> This chart shows the overall population trend in our sample dataset, providing context for the scale of Puerto Rican migration patterns over time.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>Puerto Rican Migration to New York City (1941-1956)</h3>
-        <iframe src="docs/graph10_historical_migration.html" width="100%" height="600" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>This historical data from the New York City Department of City Planning shows the dramatic increase in migration during the post-war period. Note how the percentage of migrants choosing New York City declined from 95% in the early 1940s to 65% by 1956, as other destinations became more accessible.</em>
-        </p>
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 2: Puerto Rican Migration to New York City (1941-1956)</h3>
+            <iframe src="docs/graph10_historical_migration.html" width="100%" height="600" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 2.</span> Historical data from the New York City Department of City Planning shows the dramatic increase in migration during the post-war period. Note how the percentage of migrants choosing New York City declined from 95% in the early 1940s to 65% by 1956, as other destinations became more accessible. This data captures the transition from hyper-concentration to initial dispersion.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>Historical Population Trends: Top States (1960-1980)</h3>
-        <iframe src="docs/graph11_historical_top_states.html" width="100%" height="500" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>This chart shows the evolution of Puerto Rican population in the top 10 states during the Great Migration era. New York's dominance is clear, but notice the rapid growth in New Jersey, Illinois, and other states as the population began to disperse.</em>
-        </p>
+    <p>The migration patterns reveal a critical shift: while absolute numbers to New York continued to grow, the <em>proportion</em> of migrants choosing New York declined. This suggests that as transportation and information networks improved, Puerto Ricans began exploring alternative destinations, though New York remained the dominant hub.</p>
+
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 3: Historical Population Trends by Top States (1960-1980)</h3>
+            <iframe src="docs/graph11_historical_top_states.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 3.</span> This chart shows the evolution of Puerto Rican population in the top 10 states during the Great Migration era. New York's dominance is clear, but notice the rapid growth in New Jersey, Illinois, and other states as the population began to disperse. The lines show both absolute growth and relative shifts in destination preferences.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>Historical State Comparison (1960, 1970, 1980)</h3>
-        <iframe src="docs/graph13_historical_comparison.html" width="100%" height="500" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>Side-by-side comparison of the top 10 states across the three historical census years. The growth in New Jersey, Florida, and Pennsylvania is particularly notable, signaling the beginning of the dispersion away from New York.</em>
-        </p>
+    <p>The data reveals a pattern of <strong>concentrated growth</strong> in New York, but also the early signs of what would become a major dispersion. New Jersey, directly adjacent to New York, served as both an overflow destination and a suburban alternative for families seeking better housing and schools.</p>
+
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 4: Historical State Comparison (1960, 1970, 1980)</h3>
+            <iframe src="docs/graph13_historical_comparison.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 4.</span> Side-by-side comparison of the top 10 states across the three historical census years. The growth in New Jersey, Florida, and Pennsylvania is particularly notable, signaling the beginning of the dispersion away from New York. The stacked bars show how each state's population grew over the two-decade period.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>Geographic Distribution (1980)</h3>
-        <iframe src="docs/graph15_historical_map_1980.html" width="100%" height="600" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>This map shows the state-level distribution of Puerto Rican population in 1980, at the end of the Great Migration era. The concentration in the Northeast is still strong, but the seeds of future dispersion are visible.</em>
-        </p>
+    <p>This comparison reveals the <strong>geographic diversification</strong> of the Puerto Rican population. While New York maintained its numerical dominance, other states were gaining ground. Florida's emergence is particularly significant, as it would later become the primary destination in the modern era.</p>
+
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 5: State Share Evolution (1960-1980)</h3>
+            <iframe src="docs/graph16_state_share_evolution.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 5.</span> This stacked area chart shows how the top 5 states' share of the total Puerto Rican population changed over time. New York's share declined from over 70% in 1960 to about 49% in 1980, while other states gained ground. This visualization makes clear the dispersion phenomenon that would accelerate in later decades.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>State Share Evolution: Top 5 States (1960-1980)</h3>
-        <iframe src="docs/graph16_state_share_evolution.html" width="100%" height="500" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>This stacked area chart shows how the top 5 states' share of the total Puerto Rican population changed over time. New York's share declined from over 70% in 1960 to about 49% in 1980, while other states gained ground.</em>
-        </p>
-    </div>
+    <p>The declining share of New York, even as its absolute population grew, demonstrates a fundamental shift: the Puerto Rican population was becoming more geographically diverse. This diversification would have profound implications for community formation, political representation, and economic integration.</p>
 </div>
 
 <div class="section">
-    <h2>Phase II: The "Revolving Door" & Dispersion (1980–2008)</h2>
-    <p>By 1970, the lines crossed: ~50% of Puerto Ricans in the U.S. were born on the mainland. This marked the "Nuyorican" shift. Migration became circular—a "revolving door" where families moved back and forth, often unable to fully reintegrate into the island's economy.</p>
+    <h1>Phase II: The "Revolving Door" & Dispersion (1980–2008)</h1>
+    
+    <div class="section-intro">
+        <p>By 1970, the lines crossed: ~50% of Puerto Ricans in the U.S. were born on the mainland. This marked the "Nuyorican" shift. Migration became circular—a "revolving door" where families moved back and forth, often unable to fully reintegrate into the island's economy.</p>
+        
+        <p><strong>The "Nuyorican" Shift:</strong> By 2008, <strong>two-thirds</strong> of Puerto Ricans in the U.S. were U.S.-born. This meant migration was no longer just about new arrivals; it was about an established ethnic minority moving <em>within</em> the U.S. The community had become self-sustaining, with second and third generations driving demographic changes.</p>
+        
+        <p><strong>Settlement Changes:</strong> New York's dominance collapsed. By 2008, only <strong>30%</strong> lived in NY/NJ. Suburbanization accelerated as families moved from NYC tenements to Pennsylvania, Massachusetts, and Connecticut. The rise of Florida was particularly notable: by 1990, Florida replaced Illinois as the third-largest hub, and by 2008, it held <strong>18%</strong> of the population.</p>
+    </div>
 
     <div class="literary-connect">
-        Thomas touches on this when he visits Puerto Rico and is rejected as a "Yankee," realizing he belongs to a new group: the <strong>Nuyorican</strong>. The data confirms this limbo; return migration was high, but often met with economic struggle.
+        Thomas touches on this when he visits Puerto Rico and is rejected as a "Yankee," realizing he belongs to a new group: the <strong>Nuyorican</strong>. The data confirms this limbo; return migration was high, but often met with economic struggle. This circular migration pattern created a unique identity crisis that would define the Puerto Rican experience—neither fully American nor fully Puerto Rican, but something new.
     </div>
 
-    <div class="graph-container">
-        <h3>Puerto Rico Born Population in US Mainland</h3>
-        <iframe src="graph2_pr_pop.html" width="100%" height="500" frameborder="0"></iframe>
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 6: Puerto Rico Born Population in US Mainland</h3>
+            <iframe src="graph2_pr_pop.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 6.</span> This chart tracks the population of Puerto Rico-born individuals living on the U.S. mainland. The data shows fluctuations that reflect both new migration and return migration patterns, illustrating the "revolving door" phenomenon.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>New York's Dominance: Population & Share Over Time</h3>
-        <iframe src="docs/graph14_ny_dominance.html" width="100%" height="500" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>This dual-axis chart shows both New York's absolute population (red line) and its percentage share of the total U.S. Puerto Rican population (blue dashed line). The decline in share, even as absolute numbers grew, demonstrates the dispersion phenomenon.</em>
-        </p>
+    <p>The fluctuations in Puerto Rico-born population reflect the circular nature of migration during this period. Economic conditions on both the island and mainland influenced the flow, creating a dynamic system where families maintained connections to both places.</p>
+
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 7: New York's Dominance: Population & Share Over Time</h3>
+            <iframe src="docs/graph14_ny_dominance.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 7.</span> This dual-axis chart shows both New York's absolute population (red line) and its percentage share of the total U.S. Puerto Rican population (blue dashed line). The decline in share, even as absolute numbers grew, demonstrates the dispersion phenomenon. New York's population continued to grow, but other states were growing faster.
+            </div>
+        </div>
     </div>
+
+    <p>The divergence between absolute population and percentage share tells a crucial story: New York was not losing Puerto Ricans in absolute terms, but it was losing its <strong>monopoly</strong> on the community. This shift had implications for political power, cultural production, and economic opportunities.</p>
 </div>
 
 <div class="section">
-    <h2>Phase III: The Modern Exodus (2010–Present)</h2>
-    <p>A new crisis—driven by the phase-out of tax breaks, debt, and natural disasters like Hurricane Maria (2017)—has driven a migration wave larger than the 1950s. However, the destination has flipped.</p>
+    <h1>Phase III: The Modern Exodus (2010–Present)</h1>
+    
+    <div class="section-intro">
+        <p>A new crisis—driven by the phase-out of tax breaks, debt, and natural disasters like Hurricane Maria (2017)—has driven a migration wave larger than the 1950s. However, the destination has flipped completely.</p>
+        
+        <p><strong>The "Push" Factors:</strong> The phase-out of federal tax breaks (Section 936) decimated the manufacturing sector created by Operation Bootstrap. Natural disasters—Hurricane Maria (2017) and the 2020 earthquakes—caused massive, immediate displacement. High electricity costs and housing shortages continue to drive migration today.</p>
+        
+        <p><strong>Migration Volume:</strong> Between 2010 and 2020, Puerto Rico lost <strong>11.8%</strong> of its total population, a steeper decline than any U.S. state. Between 2010 and 2013 alone, more people left than in the entire 1980s and 90s combined. This represents a demographic crisis of historic proportions.</p>
+    </div>
     
     <div class="key-stat">
-        <strong>The Florida Shift:</strong> Unlike the NYC-centric 1950s, recent migrants are heading South. Florida, Pennsylvania, and Texas are seeing massive gains, while NY/NJ are seeing net outflows.
+        <strong>The Florida Shift:</strong> Unlike the NYC-centric 1950s, recent migrants are heading South. Florida, Pennsylvania, and Texas are seeing massive gains, while New York and New Jersey actually saw <strong>negative</strong> net migration (more Puerto Ricans leaving NY than arriving). Economic optimism and housing affordability in the South contrast sharply with the "Rust Belt" decline of the Northeast.
     </div>
 
-    <div class="graph-container">
-        <h3>Modern Demographics: Age Distribution</h3>
-        <iframe src="graph4_age_dist.html" width="100%" height="500" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>Note: The age distribution reflects both the aging of the established diaspora and the diverse profile of new migrants.</em>
-        </p>
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 8: Modern Demographics: Age Distribution</h3>
+            <iframe src="graph4_age_dist.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 8.</span> The age distribution reflects both the aging of the established diaspora and the diverse profile of new migrants. The data shows a community in transition, with both older established populations and younger new arrivals.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>Geographic Distribution (2010-2023)</h3>
-        <iframe src="docs/graph7_map.html" width="100%" height="600" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>This interactive map shows the rapid growth of the Puerto Rican population in Florida and Texas over the last decade. Use the slider to see the changes year by year.</em>
-        </p>
+    <p>The age distribution reveals the complexity of the modern migration wave. Unlike the 1950s, when migrants were primarily working-age adults, the modern exodus includes families, professionals, and retirees—reflecting both economic displacement and the "brain drain" of educated professionals.</p>
+
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 9: Geographic Distribution (2010-2023)</h3>
+            <iframe src="docs/graph7_map.html" width="100%" height="600" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 9.</span> This interactive map shows the rapid growth of the Puerto Rican population in Florida and Texas over the last decade. Use the slider to see the changes year by year. The color intensity represents population density, with darker shades indicating higher concentrations.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>Complete Timeline: Historical to Modern (1960-2023)</h3>
-        <iframe src="docs/graph12_full_timeline.html" width="100%" height="500" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>This comprehensive timeline connects the historical data (1960-1980) with modern ACS data (2010-2023), showing the complete evolution of Puerto Rican population distribution. The dramatic shift from New York to Florida becomes clear when viewing the full span.</em>
-        </p>
+    <p>The map visualization makes the geographic shift immediately apparent. The concentration in Florida, particularly in Central Florida around Orlando, represents a fundamental reorientation of the Puerto Rican community. This shift has implications for everything from voting patterns to cultural institutions.</p>
+
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 10: Complete Timeline: Historical to Modern (1960-2023)</h3>
+            <iframe src="docs/graph12_full_timeline.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 10.</span> This comprehensive timeline connects the historical data (1960-1980) with modern ACS data (2010-2023), showing the complete evolution of Puerto Rican population distribution. The dramatic shift from New York to Florida becomes clear when viewing the full span. Note how Florida's line crosses New York's, marking a historic transition.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>Top 5 Regions Population Trend</h3>
-        <iframe src="docs/graph8_top5_trend.html" width="100%" height="500" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>This line chart contrasts the population decline in Puerto Rico with the growth in key mainland states like Florida, which has overtaken New York as the primary destination.</em>
-        </p>
+    <p>This long-term view reveals the <strong>complete transformation</strong> of Puerto Rican settlement patterns. The crossing of Florida's and New York's population lines represents a historic moment—the end of New York's century-long dominance and the beginning of a new era centered in the American South.</p>
+
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 11: Top 5 Regions Population Trend</h3>
+            <iframe src="docs/graph8_top5_trend.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 11.</span> This line chart contrasts the population decline in Puerto Rico with the growth in key mainland states like Florida, which has overtaken New York as the primary destination. The divergence between Puerto Rico's declining line and Florida's rising line illustrates the scale of the modern exodus.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>County-Level Distribution (2010-2023)</h3>
-        <iframe src="docs/graph9_county_map.html" width="100%" height="600" frameborder="0"></iframe>
-        <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
-            <em>A detailed look at the population distribution reveals specific hubs of migration beyond the state level, highlighting concentrations in Central Florida, the Northeast Corridor, and emerging communities. (Note: Connecticut data for 2022-2023 uses 2021 estimates due to administrative boundary changes).</em>
-        </p>
+    <p>The contrast between Puerto Rico's declining population and Florida's rapid growth tells a stark story. While Puerto Rico itself is losing population, Florida is becoming the new center of Puerto Rican life in the United States. This represents not just a migration, but a <strong>relocation of community</strong>.</p>
+
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 12: County-Level Distribution (2010-2023)</h3>
+            <iframe src="docs/graph9_county_map.html" width="100%" height="600" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 12.</span> A detailed look at the population distribution reveals specific hubs of migration beyond the state level, highlighting concentrations in Central Florida, the Northeast Corridor, and emerging communities. The county-level view shows that migration is not just state-wide, but creates specific urban and suburban clusters. (Note: Connecticut data for 2022-2023 uses 2021 estimates due to administrative boundary changes).
+            </div>
+        </div>
     </div>
+
+    <p>The county-level view reveals the <strong>micro-geography</strong> of migration. Central Florida, particularly Orange and Osceola counties, has become a major hub. This level of detail shows that migration patterns are not random, but follow specific economic and social networks that create concentrated communities.</p>
 </div>
 
 <div class="section">
-    <h2>Socio-Economic Reality: The "Hustle" vs. Data</h2>
+    <h1>Socio-Economic Reality: The "Hustle" vs. Data</h1>
     
-    <h3>Income & Employment</h3>
-    <p>Piri Thomas describes a lack of legitimate work options, forcing many into the "hustle." The data supports this "economic timing mismatch"—Puerto Ricans arrived in NYC just as manufacturing jobs began to leave.</p>
+    <div class="section-intro">
+        <p>Piri Thomas describes a lack of legitimate work options, forcing many into the "hustle." The data supports this "economic timing mismatch"—Puerto Ricans arrived in NYC just as manufacturing jobs began to leave. This section examines the economic realities that shaped and continue to shape the Puerto Rican experience in America.</p>
+    </div>
+    
+    <h2>Income & Employment</h2>
+    <p>The economic challenges faced by Puerto Rican migrants are reflected in income and employment data. The timing of migration—arriving in New York as manufacturing declined—created structural barriers to economic mobility that persist today.</p>
 
-    <div class="graph-container">
-        <h3>Median Personal Income Comparison</h3>
-        <iframe src="graph3_income.html" width="100%" height="500" frameborder="0"></iframe>
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 13: Median Personal Income Comparison</h3>
+            <iframe src="graph3_income.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 13.</span> This chart compares median personal income for Puerto Rico-born individuals versus the total population. The persistent gap reflects both the economic challenges of migration and the structural barriers faced by the community. While both groups show income growth over time, the gap remains significant.
+            </div>
+        </div>
     </div>
 
-    <div class="graph-container">
-        <h3>Employment Status Trends</h3>
-        <iframe src="graph5_employment.html" width="100%" height="500" frameborder="0"></iframe>
+    <p>The income gap between Puerto Rico-born individuals and the general population reflects multiple factors: discrimination, language barriers, educational disparities, and the economic timing of migration. However, the data also shows progress over time, suggesting that second and third generations are achieving greater economic integration.</p>
+
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 14: Employment Status Trends</h3>
+            <iframe src="graph5_employment.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 14.</span> This stacked bar chart shows the distribution of employment status among Puerto Rico-born individuals over time. The data reveals trends in labor force participation, unemployment, and economic activity that reflect both individual choices and structural economic conditions.
+            </div>
+        </div>
     </div>
 
-    <h3>Education: The "Brain Drain"</h3>
-    <p>Contrary to the stereotype of only unskilled labor migration, the modern wave includes a significant "Brain Drain" of professionals. Education levels have risen consistently.</p>
-    <div class="graph-container">
-        <iframe src="graph6_education.html" width="100%" height="500" frameborder="0"></iframe>
+    <p>Employment patterns reveal the complexity of economic integration. High rates of labor force participation coexist with persistent unemployment challenges, reflecting both the work ethic of the community and the structural barriers they face in the labor market.</p>
+
+    <h2>Education: The "Brain Drain"</h2>
+    <p>Contrary to the stereotype of only unskilled labor migration, the modern wave includes a significant "Brain Drain" of professionals. Education levels have risen consistently, reflecting both the increasing educational attainment on the island and the selective nature of recent migration.</p>
+    
+    <div class="figure-container">
+        <div class="figure">
+            <h3>Figure 15: Education Level Trends</h3>
+            <iframe src="graph6_education.html" width="100%" height="500" frameborder="0"></iframe>
+            <div class="figure-caption">
+                <span class="figure-number">Figure 15.</span> This chart tracks educational attainment trends among Puerto Rico-born individuals. The increasing proportion with college education reflects both the "brain drain" phenomenon and the overall improvement in educational opportunities. The modern migration wave includes a significant number of professionals and educated individuals.
+            </div>
+        </div>
     </div>
+
+    <p>The rising educational attainment represents a double-edged sword: while it reflects progress and opportunity, it also represents a "brain drain" from Puerto Rico. The loss of educated professionals further weakens the island's economy, creating a cycle that drives more migration.</p>
 </div>
 
 <div class="section">
-    <h2>Summary: 1950s vs. Today</h2>
+    <h1>Summary: 1950s vs. Today</h1>
+    
+    <p>The transformation of Puerto Rican migration over the past 75 years represents one of the most significant demographic shifts in American history. The following table summarizes the key differences between the Great Migration era and the Modern Exodus.</p>
+    
     <table>
         <tr>
             <th>Feature</th>
@@ -287,14 +591,80 @@
         </tr>
         <tr>
             <td><strong>Net Flow</strong></td>
-            <td>One-way (Island &rarr; Mainland)</td>
+            <td>One-way (Island → Mainland)</td>
             <td>Circular, but heavily Outward</td>
         </tr>
+        <tr>
+            <td><strong>Community Structure</strong></td>
+            <td>New arrivals, concentrated urban enclaves</td>
+            <td>Established diaspora, suburban dispersion</td>
+        </tr>
+        <tr>
+            <td><strong>Economic Context</strong></td>
+            <td>Post-war industrial expansion</td>
+            <td>Service economy, gig work, professional services</td>
+        </tr>
     </table>
+    
+    <p style="margin-top: 30px;"><strong>Key Findings:</strong> The data reveals that while the volume of migration in the modern era rivals the 1950s, the patterns have completely reversed. The shift from New York to Florida represents not just a change in destination, but a fundamental reorientation of the Puerto Rican community in America. The "revolving door" of circular migration continues, but the net flow is overwhelmingly outward, driven by economic crisis and natural disaster rather than economic opportunity.</p>
+</div>
+
+<div class="works-cited">
+    <h2>Works Cited</h2>
+    
+    <div class="citation">
+        Thomas, Piri. <em>Down These Mean Streets</em>. Vintage Books, 1997.
+    </div>
+    
+    <div class="citation">
+        U.S. Census Bureau. "American Community Survey 5-Year Estimates." 2010-2023. Accessed via Census Bureau API.
+    </div>
+    
+    <div class="citation">
+        IPUMS USA, University of Minnesota. "Integrated Public Use Microdata Series: Version 11.0." 1960, 1970, 1980 Decennial Census Samples. <a href="https://usa.ipums.org/usa/" style="color: #0051BA;">https://usa.ipums.org/usa/</a>
+    </div>
+    
+    <div class="citation">
+        New York City Department of City Planning. "Puerto Rican Migration to New York City, 1941-1956." Historical Migration Data.
+    </div>
+    
+    <div class="citation">
+        Duany, Jorge. "The Puerto Rican Diaspora: A Historical Perspective." <em>Centro Journal</em>, vol. 23, no. 1, 2011, pp. 4-35.
+    </div>
+    
+    <div class="citation">
+        Meléndez, Edwin, and Carlos Vargas-Ramos. "The Economic Impact of Hurricane Maria on Puerto Rico." <em>Centro Journal</em>, vol. 30, no. 2, 2018, pp. 4-45.
+    </div>
+    
+    <div class="citation">
+        Whalen, Carmen Teresa. "Colonialism, Citizenship, and the Making of the Puerto Rican Diaspora: An Introduction." <em>The Puerto Rican Diaspora: Historical Perspectives</em>, edited by Carmen Teresa Whalen and Víctor Vázquez-Hernández, Temple University Press, 2005, pp. 1-42.
+    </div>
+    
+    <div class="citation">
+        Rodríguez, Clara E. <em>Puerto Ricans: Born in the U.S.A.</em> Westview Press, 1991.
+    </div>
+    
+    <div class="citation">
+        Sánchez Korrol, Virginia E. <em>From Colonia to Community: The History of Puerto Ricans in New York City</em>. University of California Press, 1994.
+    </div>
+    
+    <div class="citation">
+        U.S. Census Bureau. "1980 United States Census Supplementary Report S1-7: Persons of Spanish Origin by State." U.S. Government Printing Office, 1982.
+    </div>
+    
+    <div class="citation">
+        U.S. Census Bureau. "Puerto Ricans in the United States." PC (2) IK, Table 15, 1968 Census Publication, pp. 103-104.
+    </div>
+    
+    <div class="citation">
+        Migration Division, Commonwealth of Puerto Rico. "States with Major Puerto Rican Populations, 1980, 1970 and 1960." Historical Demographic Report, 1982.
+    </div>
 </div>
 
 <div class="footer">
-    <p>Generated for Puerto Rico Migration Analysis Project | Data Source: IPUMS USA</p>
+    <p>Generated for Puerto Rico Migration Analysis Project</p>
+    <p style="margin-top: 10px; font-size: 0.85em;">Data Sources: U.S. Census Bureau, IPUMS USA, American Community Survey (2010-2023)</p>
+    <p style="margin-top: 5px; font-size: 0.85em;">Analysis conducted using Python, pandas, and Plotly</p>
 </div>
 
 </body>

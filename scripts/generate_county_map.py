@@ -5,6 +5,14 @@ import glob
 import json
 from urllib.request import urlopen
 
+# American/Puerto Rican color theme
+PR_COLORS = {
+    'red': '#DC143C',
+    'blue': '#0051BA',
+    'blue_dark': '#003087',
+    'gray': '#F5F5F5'
+}
+
 def generate_county_map():
     # 1. Load All Data
     input_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'census_acs5_county')
@@ -69,7 +77,7 @@ def generate_county_map():
         geojson=counties,
         locations='FIPS',
         color='Population',
-        color_continuous_scale="Reds",
+        color_continuous_scale=[[0, '#F5F5F5'], [0.3, '#0066FF'], [0.6, '#0051BA'], [1, '#DC143C']],  # Light gray to blue to red
         scope="usa",
         range_color=(0, 10000), # Cap at 10k to see spread in smaller counties. Major cities will just be dark red.
         hover_name='NAME',
@@ -80,6 +88,8 @@ def generate_county_map():
     
     fig.update_layout(
         template='plotly_white',
+        plot_bgcolor=PR_COLORS['gray'],
+        paper_bgcolor='white',
         margin={"r":0,"t":50,"l":0,"b":0}
     )
     

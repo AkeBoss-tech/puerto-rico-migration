@@ -3,6 +3,15 @@ import plotly.express as px
 import os
 import glob
 
+# American/Puerto Rican color theme
+PR_COLORS = {
+    'red': '#DC143C',
+    'blue': '#0051BA',
+    'blue_dark': '#003087',
+    'gray': '#F5F5F5'
+}
+PR_COLOR_SEQUENCE = ['#DC143C', '#0051BA', '#B22234', '#0066FF', '#E4002B', '#003087']
+
 def generate_top5_trend():
     # 1. Load all CSV files
     input_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'census_acs5')
@@ -39,10 +48,11 @@ def generate_top5_trend():
         color='State',
         markers=True,
         title='Population Trend: Top 5 Regions (Including Puerto Rico)',
-        labels={'Population': 'Population Count', 'State': 'Region'}
+        labels={'Population': 'Population Count', 'State': 'Region'},
+        color_discrete_sequence=PR_COLOR_SEQUENCE
     )
     
-    fig.update_layout(template='plotly_white')
+    fig.update_layout(template='plotly_white', plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
     
     # 6. Save to HTML
     output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'docs')

@@ -7,6 +7,21 @@ import os
 output_dir = 'docs'
 os.makedirs(output_dir, exist_ok=True)
 
+# American/Puerto Rican color theme (Red, White, Blue)
+PR_COLORS = {
+    'red': '#DC143C',      # Crimson red
+    'red_dark': '#B22234', # Dark red
+    'red_light': '#E4002B', # Light red
+    'blue': '#0051BA',     # American blue
+    'blue_dark': '#003087', # Navy blue
+    'blue_light': '#0066FF', # Light blue
+    'white': '#FFFFFF',
+    'gray': '#F5F5F5'
+}
+
+# Color sequences for multi-category charts
+PR_COLOR_SEQUENCE = ['#DC143C', '#0051BA', '#B22234', '#0066FF', '#E4002B', '#003087', '#FF6B6B', '#4A90E2']
+
 # Load data
 file_path = 'data/usa_00001.csv'
 df = pd.read_csv(file_path)
@@ -31,8 +46,11 @@ df['EDUC_GROUP'] = df['EDUC'].apply(group_education)
 yearly_pop = df.groupby('YEAR')['PERWT'].sum().reset_index()
 fig1 = px.line(yearly_pop, x='YEAR', y='PERWT', markers=True, 
               title='Total Sample Population Trend (Weighted)',
-              labels={'PERWT': 'Population', 'YEAR': 'Year'})
-fig1.update_layout(template='plotly_white')
+              labels={'PERWT': 'Population', 'YEAR': 'Year'},
+              color_discrete_sequence=[PR_COLORS['blue']])
+fig1.update_traces(line=dict(color=PR_COLORS['blue'], width=3),
+                   marker=dict(color=PR_COLORS['blue'], size=8))
+fig1.update_layout(template='plotly_white', plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
 fig1.write_html(f"{output_dir}/graph1_pop_trend.html", include_plotlyjs='cdn', full_html=False)
 
 # --- Graph 2: Puerto Rico Born Population ---
@@ -42,8 +60,8 @@ if not pr_data.empty:
     fig2 = px.bar(pr_yearly, x='YEAR', y='PERWT', 
                   title='Puerto Rico Born Population Living in US Mainland',
                   labels={'PERWT': 'Population', 'YEAR': 'Year'},
-                  text_auto=True, color_discrete_sequence=['#3498db'])
-    fig2.update_layout(template='plotly_white')
+                  text_auto=True, color_discrete_sequence=[PR_COLORS['red']])
+    fig2.update_layout(template='plotly_white', plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
     fig2.write_html(f"{output_dir}/graph2_pr_pop.html", include_plotlyjs='cdn', full_html=False)
 
 # --- Graph 3: Median Income Comparison ---
@@ -51,15 +69,16 @@ income_comp = df[df['INCTOT_CLEAN'].notna()].groupby(['YEAR', 'IS_PR_BORN'])['IN
 income_comp['Group'] = income_comp['IS_PR_BORN'].map({True: 'PR Born', False: 'Total Population'})
 fig3 = px.line(income_comp, x='YEAR', y='INCTOT_CLEAN', color='Group', markers=True,
                title='Median Personal Income: PR Born vs. Total Population',
-               labels={'INCTOT_CLEAN': 'Median Income (USD)', 'YEAR': 'Year'})
-fig3.update_layout(template='plotly_white')
+               labels={'INCTOT_CLEAN': 'Median Income (USD)', 'YEAR': 'Year'},
+               color_discrete_sequence=[PR_COLORS['red'], PR_COLORS['blue']])
+fig3.update_layout(template='plotly_white', plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
 fig3.write_html(f"{output_dir}/graph3_income.html", include_plotlyjs='cdn', full_html=False)
 
 # --- Graph 4: Age Distribution (Box Plot as interactive alternative to Violin) ---
 fig4 = px.box(df, x='YEAR', y='AGE', color='IS_PR_BORN', 
               title='Age Distribution: Total vs PR Born',
               labels={'IS_PR_BORN': 'PR Born', 'AGE': 'Age'},
-              color_discrete_map={True: '#e74c3c', False: '#95a5a6'})
+              color_discrete_map={True: PR_COLORS['red'], False: PR_COLORS['blue_light']})
 # Rename legend
 new_names = {'True': 'PR Born', 'False': 'Total Population'}
 fig4.for_each_trace(lambda t: t.update(name = new_names[t.name],
@@ -81,8 +100,8 @@ if not pr_data.empty:
                   title='Employment Status Distribution (PR Born)',
                   labels={'PERCENT': 'Percentage (%)', 'EMPSTAT_LABEL': 'Status'},
                   text_auto='.1f',
-                  color_discrete_sequence=px.colors.qualitative.Set2)
-    fig5.update_layout(template='plotly_white')
+                  color_discrete_sequence=[PR_COLORS['blue'], PR_COLORS['red'], PR_COLORS['blue_dark']])
+    fig5.update_layout(template='plotly_white', plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
     fig5.write_html(f"{output_dir}/graph5_employment.html", include_plotlyjs='cdn', full_html=False)
 
 # --- Graph 6: Education Trends ---
@@ -93,8 +112,9 @@ if not pr_data.empty:
     
     fig6 = px.line(educ_counts, x='YEAR', y='PERCENT', color='EDUC_GROUP', markers=True,
                    title='Education Level Trends (PR Born)',
-                   labels={'PERCENT': 'Percentage (%)', 'EDUC_GROUP': 'Education Level'})
-    fig6.update_layout(template='plotly_white')
+                   labels={'PERCENT': 'Percentage (%)', 'EDUC_GROUP': 'Education Level'},
+                   color_discrete_sequence=PR_COLOR_SEQUENCE)
+    fig6.update_layout(template='plotly_white', plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
     fig6.write_html(f"{output_dir}/graph6_education.html", include_plotlyjs='cdn', full_html=False)
 
 print("All interactive graphs generated in 'docs/' folder.")

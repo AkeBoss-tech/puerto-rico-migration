@@ -12,6 +12,22 @@ import glob
 output_dir = 'docs'
 os.makedirs(output_dir, exist_ok=True)
 
+# American/Puerto Rican color theme (Red, White, Blue)
+PR_COLORS = {
+    'red': '#DC143C',      # Crimson red
+    'red_dark': '#B22234', # Dark red
+    'red_light': '#E4002B', # Light red
+    'blue': '#0051BA',     # American blue
+    'blue_dark': '#003087', # Navy blue
+    'blue_light': '#0066FF', # Light blue
+    'white': '#FFFFFF',
+    'gray': '#F5F5F5'
+}
+
+# Color sequences for multi-category charts
+PR_COLOR_SEQUENCE = ['#DC143C', '#0051BA', '#B22234', '#0066FF', '#E4002B', '#003087', '#FF6B6B', '#4A90E2']
+PR_COLOR_SEQUENCE_ALT = ['#0051BA', '#DC143C', '#0066FF', '#B22234', '#4A90E2', '#E4002B', '#003087', '#FF6B6B']
+
 # Load historical IPUMS data
 historical_files = glob.glob('data/ipums_historical/ipums_puerto_rican_pop_*.csv')
 historical_data = []
@@ -55,8 +71,10 @@ historical_top = historical_df[historical_df['NAME'].isin(top_states_historical)
 fig1 = px.line(historical_top, x='year', y='B03001_005E', color='NAME', 
                markers=True, line_shape='linear',
                title='Historical Puerto Rican Population by Top States (1960-1980)',
-               labels={'B03001_005E': 'Population', 'year': 'Year', 'NAME': 'State'})
-fig1.update_layout(template='plotly_white', hovermode='x unified')
+               labels={'B03001_005E': 'Population', 'year': 'Year', 'NAME': 'State'},
+               color_discrete_sequence=PR_COLOR_SEQUENCE)
+fig1.update_layout(template='plotly_white', hovermode='x unified',
+                   plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
 fig1.write_html(f"{output_dir}/graph11_historical_top_states.html", include_plotlyjs='cdn', full_html=False)
 
 # --- Graph 2: Full Timeline (1960-2023) for Top States ---
@@ -67,8 +85,10 @@ if acs_data:
     fig2 = px.line(all_top, x='year', y='B03001_005E', color='NAME',
                    markers=True, line_shape='linear',
                    title='Puerto Rican Population Trend: Historical to Modern (1960-2023)',
-                   labels={'B03001_005E': 'Population', 'year': 'Year', 'NAME': 'State'})
-    fig2.update_layout(template='plotly_white', hovermode='x unified')
+                   labels={'B03001_005E': 'Population', 'year': 'Year', 'NAME': 'State'},
+                   color_discrete_sequence=PR_COLOR_SEQUENCE)
+    fig2.update_layout(template='plotly_white', hovermode='x unified',
+                       plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
     fig2.write_html(f"{output_dir}/graph12_full_timeline.html", include_plotlyjs='cdn', full_html=False)
 
 # --- Graph 3: Historical State Rankings (Stacked Bar Chart) ---
@@ -101,8 +121,9 @@ fig3 = px.bar(comparison_df, x='State', y='Population', color='Year',
               barmode='stack',  # Changed to 'stack' for stacked bars
               title='Top 10 States: Historical Comparison (1960, 1970, 1980)',
               labels={'Population': 'Puerto Rican Population', 'State': 'State'},
-              color_discrete_sequence=['#1f77b4', '#ff7f0e', '#2ca02c'])  # Blue, Orange, Green
-fig3.update_layout(template='plotly_white', xaxis_tickangle=-45)
+              color_discrete_sequence=[PR_COLORS['blue'], PR_COLORS['red'], PR_COLORS['blue_dark']])  # Blue, Red, Dark Blue
+fig3.update_layout(template='plotly_white', xaxis_tickangle=-45,
+                   plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
 fig3.write_html(f"{output_dir}/graph13_historical_comparison.html", include_plotlyjs='cdn', full_html=False)
 
 # --- Graph 4: New York's Dominance Over Time ---
@@ -115,10 +136,12 @@ ny_data['Percentage'] = (ny_data['B03001_005E'] / ny_data['Total']) * 100
 fig4 = go.Figure()
 fig4.add_trace(go.Scatter(x=ny_data['year'], y=ny_data['B03001_005E'], 
                          mode='lines+markers', name='New York Population',
-                         line=dict(color='#e74c3c', width=3)))
+                         line=dict(color=PR_COLORS['red'], width=3),
+                         marker=dict(color=PR_COLORS['red'], size=8)))
 fig4.add_trace(go.Scatter(x=ny_data['year'], y=ny_data['Percentage'], 
                          mode='lines+markers', name='% of Total US PR Population',
-                         yaxis='y2', line=dict(color='#3498db', width=3, dash='dash')))
+                         yaxis='y2', line=dict(color=PR_COLORS['blue'], width=3, dash='dash'),
+                         marker=dict(color=PR_COLORS['blue'], size=8)))
 
 fig4.update_layout(
     title='New York State: Population & Share of Total (1960-2023)',
@@ -126,7 +149,8 @@ fig4.update_layout(
     yaxis_title='Population',
     yaxis2=dict(title='Percentage (%)', overlaying='y', side='right'),
     template='plotly_white',
-    hovermode='x unified'
+    hovermode='x unified',
+    plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white'
 )
 fig4.write_html(f"{output_dir}/graph14_ny_dominance.html", include_plotlyjs='cdn', full_html=False)
 
@@ -173,8 +197,9 @@ share_df = pd.DataFrame(share_data)
 fig6 = px.area(share_df, x='Year', y='Share', color='State',
                title='Top 5 States: Share of Total Puerto Rican Population (1960-1980)',
                labels={'Share': 'Percentage (%)', 'Year': 'Year'},
-               color_discrete_sequence=px.colors.qualitative.Set3)
-fig6.update_layout(template='plotly_white', hovermode='x unified')
+               color_discrete_sequence=PR_COLOR_SEQUENCE[:5])
+fig6.update_layout(template='plotly_white', hovermode='x unified',
+                   plot_bgcolor=PR_COLORS['gray'], paper_bgcolor='white')
 fig6.write_html(f"{output_dir}/graph16_state_share_evolution.html", include_plotlyjs='cdn', full_html=False)
 
 print("Historical plots generated:")
