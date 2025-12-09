@@ -28,10 +28,11 @@
         /* Title Page */
         .title-page {
             text-align: center;
-            padding: 80px 40px;
+            padding: 60px 40px 40px 40px;
             margin-bottom: 80px;
             border-bottom: 3px solid #DC143C;
             page-break-after: always;
+            animation: fadeInDown 1s ease-out;
         }
         
         .title-page h1 {
@@ -39,7 +40,7 @@
             font-size: 3.2em;
             font-weight: 700;
             color: #1a1a1a;
-            margin-bottom: 20px;
+            margin-bottom: 8px;
             line-height: 1.2;
             letter-spacing: -0.5px;
         }
@@ -48,14 +49,19 @@
             font-size: 1.4em;
             color: #666;
             font-style: italic;
-            margin-top: 15px;
+            margin-top: 8px;
+            margin-bottom: 8px;
             font-weight: 400;
         }
         
         .title-page .author-info {
-            margin-top: 60px;
+            margin-top: 20px;
             font-size: 1.1em;
             color: #555;
+        }
+        
+        .title-page .author-info p {
+            margin-bottom: 8px;
         }
         
         /* Typography */
@@ -69,6 +75,23 @@
             padding-bottom: 15px;
             border-bottom: 2px solid #DC143C;
             page-break-after: avoid;
+            position: relative;
+            transition: color 0.3s ease;
+        }
+        
+        h1::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background-color: #0051BA;
+            transition: width 0.5s ease;
+        }
+        
+        .section.visible h1::after {
+            width: 100%;
         }
         
         h2 {
@@ -105,6 +128,11 @@
             margin-bottom: 18px;
             text-align: justify;
             text-justify: inter-word;
+            transition: opacity 0.5s ease;
+        }
+        
+        .section.visible p {
+            animation: fadeIn 0.8s ease-out forwards;
         }
         
         /* Abstract/Executive Summary */
@@ -114,6 +142,10 @@
             padding: 30px;
             margin: 40px 0;
             font-style: italic;
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+            animation: fadeInUp 1s ease-out 0.3s forwards;
         }
         
         .abstract h2 {
@@ -123,15 +155,138 @@
             font-size: 1.5em;
         }
         
+        /* Animations */
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(40px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        
+        @keyframes slideInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        /* Phase Breaks */
+        .phase-break {
+            height: 200px;
+            margin: 100px 0;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            background: linear-gradient(135deg, #fafafa 0%, #e8e8e8 100%);
+            border-top: 2px solid #DC143C;
+            border-bottom: 2px solid #DC143C;
+        }
+        
+        .phase-break::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(220, 20, 60, 0.1), transparent);
+            animation: shimmer 3s infinite;
+        }
+        
+        @keyframes shimmer {
+            0% {
+                left: -100%;
+            }
+            100% {
+                left: 100%;
+            }
+        }
+        
+        .phase-break-content {
+            position: relative;
+            z-index: 1;
+            text-align: center;
+            padding: 40px;
+        }
+        
+        .phase-break-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.5em;
+            font-weight: 700;
+            color: #DC143C;
+            margin-bottom: 15px;
+            opacity: 0;
+            animation: fadeInUp 1.5s ease-out 0.5s forwards;
+        }
+        
+        .phase-break-subtitle {
+            font-size: 1.2em;
+            color: #666;
+            font-style: italic;
+            opacity: 0;
+            animation: fadeInUp 1.5s ease-out 0.8s forwards;
+        }
+        
         /* Sections */
         .section {
             margin: 50px 0;
             page-break-inside: avoid;
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+        }
+        
+        .section.visible {
+            opacity: 1;
+            transform: translateY(0);
         }
         
         .section-intro {
             margin-bottom: 30px;
             font-size: 1.05em;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.8s ease-out 0.2s, transform 0.8s ease-out 0.2s;
+        }
+        
+        .section.visible .section-intro {
+            opacity: 1;
+            transform: translateY(0);
         }
         
         /* Key Statistics Box */
@@ -142,6 +297,12 @@
             margin: 30px 0;
             border-radius: 0 4px 4px 0;
             box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .key-stat:hover {
+            transform: translateX(5px);
+            box-shadow: 0 4px 12px rgba(0,81,186,0.2);
         }
         
         .key-stat strong {
@@ -159,6 +320,12 @@
             border-radius: 0 4px 4px 0;
             font-style: italic;
             box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .literary-connect:hover {
+            transform: translateX(5px);
+            box-shadow: 0 4px 12px rgba(220,20,60,0.2);
         }
         
         .literary-connect::before {
@@ -174,6 +341,14 @@
         .figure-container {
             margin: 40px 0;
             page-break-inside: avoid;
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+        }
+        
+        .figure-container.visible {
+            opacity: 1;
+            transform: translateY(0);
         }
         
         .figure {
@@ -183,6 +358,12 @@
             border-radius: 4px;
             box-shadow: 0 3px 12px rgba(0,0,0,0.1);
             margin: 25px 0;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .figure:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
         }
         
         .figure iframe {
@@ -240,8 +421,13 @@
             background-color: #f9f9f9;
         }
         
+        tr {
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+        
         tr:hover {
             background-color: #f0f7ff;
+            transform: scale(1.01);
         }
         
         /* Works Cited */
@@ -297,6 +483,28 @@
         }
     </style>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script>
+        // Intersection Observer for scroll animations
+        document.addEventListener('DOMContentLoaded', function() {
+            const observerOptions = {
+                threshold: 0.1,
+                rootMargin: '0px 0px -50px 0px'
+            };
+            
+            const observer = new IntersectionObserver(function(entries) {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('visible');
+                    }
+                });
+            }, observerOptions);
+            
+            // Observe all sections and figure containers
+            document.querySelectorAll('.section, .figure-container').forEach(el => {
+                observer.observe(el);
+            });
+        });
+    </script>
 </head>
 <body>
 
@@ -397,6 +605,13 @@
     <p>The declining share of New York, even as its absolute population grew, demonstrates a fundamental shift: the Puerto Rican population was becoming more geographically diverse. This diversification would have profound implications for community formation, political representation, and economic integration.</p>
 </div>
 
+<div class="phase-break">
+    <div class="phase-break-content">
+        <div class="phase-break-title">The Revolving Door Opens</div>
+        <div class="phase-break-subtitle">From Concentration to Dispersion (1980–2008)</div>
+    </div>
+</div>
+
 <div class="section">
     <h1>Phase II: The "Revolving Door" & Dispersion (1980–2008)</h1>
     
@@ -435,6 +650,13 @@
     </div>
 
     <p>The divergence between absolute population and percentage share tells a crucial story: New York was not losing Puerto Ricans in absolute terms, but it was losing its <strong>monopoly</strong> on the community. This shift had implications for political power, cultural production, and economic opportunities.</p>
+</div>
+
+<div class="phase-break">
+    <div class="phase-break-content">
+        <div class="phase-break-title">The Modern Exodus</div>
+        <div class="phase-break-subtitle">Crisis, Disaster, and a New Migration Era (2010–Present)</div>
+    </div>
 </div>
 
 <div class="section">
@@ -561,6 +783,13 @@
     </div>
 
     <p>The rising educational attainment represents a double-edged sword: while it reflects progress and opportunity, it also represents a "brain drain" from Puerto Rico. The loss of educated professionals further weakens the island's economy, creating a cycle that drives more migration.</p>
+</div>
+
+<div class="phase-break">
+    <div class="phase-break-content">
+        <div class="phase-break-title">Looking Forward</div>
+        <div class="phase-break-subtitle">Comparing the Great Migration to Today</div>
+    </div>
 </div>
 
 <div class="section">
