@@ -352,10 +352,13 @@ def generate_economic_scatter_plot():
     merged = merged.sort_values('year')
     
     # Calculate net migration (change in population)
+    # Note: diff() returns NaN for the first row (no previous year to compare)
+    # We exclude the first year since we can't calculate net migration without baseline
     merged['population_change'] = merged['mainland_population'].diff()
-    merged['net_migration'] = merged['population_change'].fillna(0)
+    merged['net_migration'] = merged['population_change']  # Don't fillna(0) - keep NaN for first year
     
     # Filter to years with both unemployment and migration data
+    # dropna() will exclude 2010 since it has no previous year for comparison
     if 'unemployment_rate' in merged.columns:
         scatter_df = merged[['unemployment_rate', 'net_migration', 'year']].dropna()
         

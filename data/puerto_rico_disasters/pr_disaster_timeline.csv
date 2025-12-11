@@ -1,0 +1,9 @@
+event_name,date,year,month,category,severity,estimated_deaths,economic_damage_billions_usd,homes_destroyed,homes_damaged,power_outage_duration_days,notes,migration_impact,mainland_destinations
+Hurricane Maria,2017-09-20,2017,9,Hurricane,Category 5,2977.0,90.0,70000.0,300000.0,328.0,Most destructive hurricane in modern Puerto Rico history. Massive migration spike to mainland.,Very High,"Florida, New York, Pennsylvania, Connecticut, Massachusetts"
+Hurricane Irma,2017-09-06,2017,9,Hurricane,Category 5,3.0,1.0,,,11.0,Hit just before Maria. Primarily affected northern coast.,Medium,
+Hurricane Fiona,2022-09-18,2022,9,Hurricane,Category 1,25.0,8.0,,,18.0,Caused island-wide power outage. Significant flooding.,Medium,
+Hurricane Georges,1998-09-21,1998,9,Hurricane,Category 3,,3.5,28000.0,72000.0,,Major damage across the island. Significant migration impact.,High,
+Hurricane Hugo,1989-09-18,1989,9,Hurricane,Category 3,,2.0,,,,Severe damage to infrastructure and agriculture.,Medium,
+Puerto Rico Economic Crisis,2006-01-01,2006,1,Economic,Crisis,,,,,,Beginning of economic recession. Peak unemployment in 2010-2012. Debt crisis 2014-2016.,Very High,
+Puerto Rico Debt Crisis,2014-01-01,2014,1,Economic,Crisis,,,,,,"Debt default, austerity measures, government services cut. Accelerated migration.",Very High,
+2020 Earthquakes,2020-01-07,2020,1,Earthquake,Magnitude 6.4,,,,,,"Series of earthquakes in January 2020, largest M6.4. Power outages.",Low,

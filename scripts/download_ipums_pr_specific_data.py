@@ -68,7 +68,8 @@ def download_ipums_pr_specific_data():
     # Years to download (ACS 1-year samples for recent years)
     # Note: For more recent data and better sample sizes, use ACS 5-year samples
     # This example uses 1-year samples for faster processing
-    years_to_download = [2021, 2022]  # Start with recent years
+    # Start with just 2021 for faster initial run - you can add more years later
+    years_to_download = [2021]  # Start with one year for faster processing
     
     # Note: For 2010-2020, you may want to use 5-year samples for better coverage
     # Adjust samples accordingly
@@ -83,7 +84,6 @@ def download_ipums_pr_specific_data():
         variables_person = [
             'BPLD',           # Birthplace Detailed (filter for Puerto Rico = 11000)
             'BPL',            # Birthplace (general)
-            'MIGPLACE1',      # Migration place (where moved from)
             'MIGRATE1',       # Migration status
             'YRIMMIG',        # Year of immigration
             'STATEFIP',       # State FIPS code
@@ -123,7 +123,6 @@ def download_ipums_pr_specific_data():
             'HHINCOME',       # Household income
             'OWNERSHP',       # Home ownership
             'ROOMS',          # Number of rooms
-            'CROWDED',        # Persons per room
         ]
         
         # Combine variables (household variables will be on household record)
@@ -148,17 +147,24 @@ def download_ipums_pr_specific_data():
             
             # Wait for extract to be ready
             print("Waiting for extract to be processed...")
-            max_wait = 600  # 10 minutes max wait (larger extracts take longer)
+            print("Note: IPUMS extracts can take 10-30+ minutes to process. This is normal.")
+            print(f"You can check status at: https://account.ipums.org/extracts with Extract ID: {extract.extract_id}")
+            max_wait = 1800  # 30 minutes max wait (larger extracts take longer)
             wait_time = 0
+            check_count = 0
             while wait_time < max_wait:
                 status = ipums.extract_status(extract)
-                print(f"Status: {status}")
+                check_count += 1
+                if check_count % 4 == 0:  # Print status every 4 checks (every minute)
+                    print(f"Status check #{check_count}: {status} (waited {wait_time}s / {max_wait}s)")
+                else:
+                    print(f"Status: {status}")
                 
                 if status == 'completed':
-                    print("Extract ready!")
+                    print("✓ Extract ready!")
                     break
                 elif status == 'failed':
-                    print("Extract failed!")
+                    print("✗ Extract failed!")
                     return
                 
                 time.sleep(15)
