@@ -1,3 +1,22 @@
 .env
 
 scripts/.env
+
+# ignore the compressed data files
+data/census_acs5_commuting/acs5_commuting_2010.csv.gz
+data/census_acs5_commuting/acs5_commuting_2011.csv.gz
+data/census_acs5_commuting/acs5_commuting_2012.csv.gz
+data/census_acs5_commuting/acs5_commuting_2013.csv.gz
+data/census_acs5_commuting/acs5_commuting_2014.csv.gz
+data/census_acs5_commuting/acs5_commuting_2015.csv.gz
+data/census_acs5_commuting/acs5_commuting_2016.csv.gz
+data/census_acs5_commuting/acs5_commuting_2017.csv.gz
+data/census_acs5_commuting/acs5_commuting_2018.csv.gz
+data/census_acs5_commuting/acs5_commuting_2019.csv.gz
+data/census_acs5_commuting/acs5_commuting_2020.csv.gz
+data/census_acs5_commuting/acs5_commuting_2021.csv.gz
+data/census_acs5_commuting/acs5_commuting_2022.csv.gz
+data/census_acs5_commuting/acs5_commuting_2023.csv.gz
+
+# ignore all .dat.gz files
+*.dat.gz
