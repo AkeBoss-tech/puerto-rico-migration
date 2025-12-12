@@ -33,6 +33,10 @@
             border-bottom: 3px solid #DC143C;
             page-break-after: always;
             animation: fadeInDown 1s ease-out;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
         }
         
         .title-page h1 {
@@ -43,6 +47,8 @@
             margin-bottom: 8px;
             line-height: 1.2;
             letter-spacing: -0.5px;
+            text-align: center;
+            width: 100%;
         }
         
         .title-page .subtitle {
@@ -52,16 +58,21 @@
             margin-top: 8px;
             margin-bottom: 8px;
             font-weight: 400;
+            text-align: center;
+            width: 100%;
         }
         
         .title-page .author-info {
             margin-top: 20px;
             font-size: 1.1em;
             color: #555;
+            text-align: center;
+            width: 100%;
         }
         
         .title-page .author-info p {
             margin-bottom: 8px;
+            text-align: center;
         }
         
         /* Typography */
@@ -135,7 +146,7 @@
             animation: fadeIn 0.8s ease-out forwards;
         }
         
-        /* Abstract/Executive Summary */
+        /* Abstract */
         .abstract {
             background-color: #f8f8f8;
             border-left: 4px solid #0051BA;
@@ -524,8 +535,8 @@
 </div>
 
 <div class="abstract">
-    <h2>Executive Summary</h2>
-    <p>Puerto Rican migration is distinct from other Latino groups because it is a <strong>citizenship-based movement</strong>, allowing for rapid, circular mobility ("The Revolving Door") in response to economic shifts. Our analysis divides this history into three clear economic eras:</p>
+    <h2>Abstract</h2>
+    <p>Puerto Rican migration is distinct from other Latino groups because it is a <strong>citizenship-based movement</strong>, allowing for rapid, circular mobility ("The Revolving Door") in response to economic shifts. My analysis divides this history into three clear economic eras:</p>
     <ol>
         <li><strong>The Great Migration (1950s–1970s):</strong> Driven by industrialization (<em>Operation Bootstrap</em>) and concentrated in NYC. In the 1950s alone, <strong>470,000 migrants</strong> left the island, with 88% settling in New York City.</li>
         <li><strong>The Dispersion (1980s–2000s):</strong> A shift away from New York and the rise of a U.S.-born majority. By 1970, ~50% of Puerto Ricans in the U.S. were born on the mainland, marking the "Nuyorican" shift.</li>
@@ -1257,7 +1268,7 @@
     <p>The county-level view reveals the <strong>micro-geography</strong> of migration. Central Florida, particularly Orange and Osceola counties, has become a major hub. This level of detail shows that migration patterns are not random, but follow specific economic and social networks that create concentrated communities.</p>
 </div>
 
-<div class="section">
+<div class="section visible">
     <h1>Socio-Economic Reality: The "Hustle" vs. Data</h1>
     
     <div class="section-intro">
@@ -1267,7 +1278,7 @@
     <h2>Income & Employment</h2>
     <p>The economic challenges faced by Puerto Rican migrants are reflected in income and employment data. The timing of migration—arriving in New York as manufacturing declined—created structural barriers to economic mobility that persist today.</p>
 
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 20: Median Personal Income Comparison</h3>
             <iframe src="graph3_income.html" width="100%" height="500" frameborder="0"></iframe>
@@ -1279,7 +1290,7 @@
 
         <p>The income gap between Puerto Rico-born individuals and the general population reflects multiple factors: discrimination, language barriers, educational disparities, and the economic timing of migration. Research by Rodríguez documents that "structural barriers persist across generations, though second and third generation Puerto Ricans show progress toward economic integration" (Rodríguez 145). However, the data also shows progress over time, suggesting that second and third generations are achieving greater economic integration.</p>
 
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 21: Employment Status Trends</h3>
             <iframe src="graph5_employment.html" width="100%" height="500" frameborder="0"></iframe>
@@ -1294,7 +1305,7 @@
     <h2>Education: The "Brain Drain"</h2>
     <p>Contrary to the stereotype of only unskilled labor migration, the modern wave includes a significant "Brain Drain" of professionals. Education levels have risen consistently, reflecting both the increasing educational attainment on the island and the selective nature of recent migration.</p>
     
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 22: Education Level Trends</h3>
             <iframe src="graph6_education.html" width="100%" height="500" frameborder="0"></iframe>
@@ -1431,7 +1442,7 @@
     </div>
 </div>
 
-<div class="section">
+<div class="section visible">
     <h1>Puerto Rican Socioeconomic Conditions: A State-by-State Analysis</h1>
     
     <div class="section-intro">
@@ -1441,7 +1452,7 @@
     <h2>Poverty Rates: State Comparisons</h2>
     <p>Puerto Rican poverty rates vary significantly by state, reflecting both regional economic conditions and the specific challenges faced by the community in different locations. Understanding these disparities is crucial for understanding migration patterns and economic outcomes.</p>
     
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 31: Puerto Rican Poverty Rates by State (2021)</h3>
             <iframe src="docs/graph_pr_poverty_by_state.html" width="100%" height="600" frameborder="0"></iframe>
@@ -1454,7 +1465,7 @@
     <h2>Income Disparities</h2>
     <p>Median income levels for Puerto Rican populations show significant variation across states. These income differences reflect not just regional economic conditions, but also the types of jobs available, cost of living, and economic integration patterns.</p>
     
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 32: Puerto Rican Median Income by State (2021)</h3>
             <iframe src="docs/graph_pr_income_by_state.html" width="100%" height="600" frameborder="0"></iframe>
@@ -1467,7 +1478,7 @@
     <h2>Housing Affordability: Rent vs. Income</h2>
     <p>The relationship between housing costs and income reveals critical information about economic sustainability. States where housing costs are high relative to income create economic stress, while states with affordable housing relative to income levels offer better opportunities for economic stability and upward mobility.</p>
     
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 33: Income vs. Housing Costs Correlation (2021)</h3>
             <iframe src="docs/graph_pr_income_rent_correlation.html" width="100%" height="600" frameborder="0"></iframe>
@@ -1480,7 +1491,7 @@
     <h2>Puerto Rican vs. Overall Hispanic/Latino Comparison</h2>
     <p>Comparing Puerto Rican-specific data with overall Hispanic/Latino data reveals whether Puerto Rican communities face unique challenges or share similar experiences with other Hispanic/Latino populations. This comparison helps contextualize the economic conditions of Puerto Rican communities.</p>
     
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 34: Poverty Rate Comparison: Puerto Rican vs. All Hispanic/Latino (2021)</h3>
             <iframe src="docs/graph_pr_vs_hispanic_poverty.html" width="100%" height="600" frameborder="0"></iframe>
@@ -1493,7 +1504,7 @@
     <h2>Comprehensive State Dashboard</h2>
     <p>A comprehensive view of multiple socioeconomic indicators by state provides a holistic picture of the economic conditions facing Puerto Rican communities across the United States.</p>
     
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 35: Puerto Rican Socioeconomic Dashboard by State (2021)</h3>
             <iframe src="docs/graph_pr_state_dashboard.html" width="100%" height="800" frameborder="0"></iframe>
@@ -1506,7 +1517,7 @@
     <h2>Migration Patterns and Economic Opportunity</h2>
     <p>The relationship between Puerto Rican population size and economic indicators helps explain migration patterns. States with larger Puerto Rican populations may have attracted migrants due to better economic conditions, existing community networks, or historical migration patterns.</p>
     
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 36: Population vs. Income: Migration Patterns (2021)</h3>
             <iframe src="docs/graph_pr_population_income_correlation.html" width="100%" height="600" frameborder="0"></iframe>
@@ -1523,7 +1534,7 @@
     <h2>Correlation Matrix: Understanding Interrelationships</h2>
     <p>Understanding how different socioeconomic indicators relate to each other helps reveal the complex economic landscape facing Puerto Rican communities.</p>
     
-    <div class="figure-container">
+    <div class="figure-container visible">
         <div class="figure">
             <h3>Figure 37: Correlation Matrix of Puerto Rican Socioeconomic Indicators (2021)</h3>
             <iframe src="docs/graph_pr_correlation_matrix.html" width="100%" height="600" frameborder="0"></iframe>
@@ -1675,3 +1686,4 @@
 
 </body>
 </html>
+
