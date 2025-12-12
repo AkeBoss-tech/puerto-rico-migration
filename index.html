@@ -348,6 +348,31 @@
             margin-bottom: 8px;
         }
         
+        /* Reflection Box */
+        .reflection {
+            background-color: #f0f7ff;
+            border-left: 5px solid #0051BA;
+            padding: 25px;
+            margin: 30px 0;
+            border-radius: 0 4px 4px 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .reflection:hover {
+            transform: translateX(5px);
+            box-shadow: 0 4px 12px rgba(0,81,186,0.2);
+        }
+        
+        .reflection::before {
+            content: "Reflection: ";
+            font-weight: 700;
+            font-style: normal;
+            color: #003087;
+            display: block;
+            margin-bottom: 8px;
+        }
+        
         /* Figures */
         .figure-container {
             margin: 40px 0;
@@ -585,6 +610,11 @@
     <p style="margin-top: 20px;"><strong>Data Visualization:</strong> Interactive charts and maps created using Python (pandas, plotly) and embedded in this website format to present findings. All visualizations include source citations and methodological notes.</p>
     
     <p style="margin-top: 20px;"><strong>Limitations:</strong> Census data reflects official categorizations that may not align with self-identification (e.g., racial classification in 1950 census). Historical records are limited by data collection methods and availability. This analysis focuses primarily on Puerto Rico-born individuals and their U.S.-born children, though it acknowledges the broader Puerto Rican diaspora.</p>
+
+    
+    <div class="reflection">
+        For this project, I wanted to gather as much data as possible to clearly show the growing Puerto Rican presence in America. I wasn't able to find too many data sources with the information I wanted, but I tried my best to graph the information I did have in a useful way. My favorite figure is Figure 19 because it shows exactly how Puerto Ricans are distributed across America, it took the most work and looks the most cool. I hope you enjoy!
+    </div>
 </div>
 
 <div class="section visible">
@@ -1181,8 +1211,6 @@
     <div class="literary-connect">
         Thomas touches on this when he visits Puerto Rico and is rejected as a "Yankee," realizing he belongs to a new group: the <strong>Nuyorican</strong>. As Thomas reflects, "I was a stranger in a strange land, even in the land of my ancestors" (Thomas 245). The data confirms this limbo; return migration was high, but often met with economic struggle. Research by Duany shows that many returnees found themselves unable to reintegrate into the island's economy, facing higher unemployment rates than those who remained in the United States (Duany 28). This circular migration pattern created a unique identity crisis that would define the Puerto Rican experience—neither fully American nor fully Puerto Rican, but something new.
     </div>
-
-
 </div>
 
 <div class="phase-break">
