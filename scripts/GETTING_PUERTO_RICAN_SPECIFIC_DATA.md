@@ -191,3 +191,4 @@ Beyond poverty and housing, here are other valuable data sources to consider:
 5. **Extract additional IPUMS variables** based on your research questions
 
 See the script `download_ipums_pr_specific_data.py` for implementation.
+

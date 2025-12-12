@@ -457,3 +457,4 @@ if __name__ == "__main__":
     generate_population_pyramid()
     generate_economic_scatter_plot()
     print("All improved visualizations generated!")
+

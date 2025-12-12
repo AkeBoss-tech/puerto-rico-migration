@@ -90,3 +90,4 @@ def download_occupation_industry_data():
 
 if __name__ == "__main__":
     download_occupation_industry_data()
+

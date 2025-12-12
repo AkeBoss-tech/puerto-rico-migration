@@ -112,3 +112,4 @@ def download_commuting_data():
 
 if __name__ == "__main__":
     download_commuting_data()
+

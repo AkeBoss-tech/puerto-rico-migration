@@ -96,3 +96,4 @@ def download_year_of_arrival_data():
 
 if __name__ == "__main__":
     download_year_of_arrival_data()
+
